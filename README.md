@@ -3,6 +3,7 @@
 [Description](#description) | [Schedule](#schedule) | [Resources](#resources) | [Grading](#grading) | [Policies](#policies) | [Accomodations](#accommodations-for-students-with-disabilities) | [References](#references)
 
 ![Image](digifab_image_2021.png)
+*Projects: Ken Rinaldo - Mediated Encounters, MIT Mediate Matter Group - Silk Pavillion, Morehshin Allahyari - Material Spectulation, Quayola - Carvings, David Bowen - Space Junk*
 
 # Description
 
