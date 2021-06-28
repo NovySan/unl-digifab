@@ -157,5 +157,9 @@ Instructors in the classroom:
      
 *Courses that have been granted an exception to the Face Covering Policy for pedagogical reasons are excluded. Exceptions to the Face Covering Policy are only granted after an approved health safety plan is developed.
 
+# Land Acknowledgment
+
+We would like acknowledge that the University of Nebraska is a land-grant institution with campuses and programs on the past, present, and future homelands of the Pawnee, Ponca, Oto-Missouria, Omaha, Dakota, Lakota, Arapaho, Cheyenne, and Kaw Peoples, as well as the relocated Ho-Chunk, Iowa, and Sac and Fox Peoples. Please take a moment to consider the legacies of more than 150 years of displacement, violence, settlement, and survival that bring us together here today. At the University of Nebraska, we respect and seek out inclusion of differences, realizing we can learn from each other, and we look forward to building long-lasting relationships with the Indigenous People of Nebraska.
+
 # References
 - Past courses: [UCSD ECE188 ML for the Arts 2019](https://roberttwomey.github.io/ucsd-ml-art/)
