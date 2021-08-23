@@ -39,7 +39,7 @@ A student who successfully completes this course will:
 
 | Week | Topic |
 |------|-------|
-| 1 | [Week 1](classes/week1) - Course Introduction, overview of digital fabrication and physical computing -	Assign introductory exercise |
+| 1 | [Week 1](classes/week1.md) - Course Introduction, overview of digital fabrication and physical computing -	Assign introductory exercise |
 | 2 | CAD, 3D Modeling; Designing 2D and 3D Form -	Assign Virtual Replica exercise - Assign Project 1: Digital Sculpture |
 | 3 | Laser Cutter; CNC -	Assign “Flat Pack Future” exercise |
 | 4 | Photogrammetry and 3d Scanning -	Assign Real World to Digital and Back exercise |
