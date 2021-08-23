@@ -93,7 +93,10 @@ class will result in the reduction of the final grade by a full letter grade (i.
 - 4.7.5 The policy on students who are late to class will be left up to the individual instructors.
 
 ## Late work policy
-An assignment may receive an F if a student does not participate in every phase of the development of the project and meet all deadlines for preliminary materials (proposals, drafts, etc.). Failure to submit any of the graded course assignments is grounds for failure in the course. If a final draft or project, plus required addenda, is not submitted in class on the date due, it will be considered late and will lose one letter grade for each day or part of a day past due (A to B, etc.). Assignments are due in hard copy and or via email/link (online assignment). You must submit your assignments directly to the instructor. Any late submissions must be approved by your faculty instructor well in advance of the due date.
+Students can submit one assignment (exercise or peer review) late without penalty. Any following late assignments will be docked 5% for each day they are late (if an assignment is two days late, the grade will be docked 10%).
+
+Due to COVID-19 and current community health concerns, I will make exceptions for illness with documentation. 
+
 
 ## Grading Scale
 A+ = 97-100 A = 93-96 A- = 90-92
