@@ -1,3 +1,4 @@
+[Homepage](/)
 # Week 1 - Introduction, Overview, Hands-On
 ## Agenda
 
