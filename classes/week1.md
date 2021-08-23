@@ -1,8 +1,9 @@
-#Summary
+# Summary
 
-#Lecture
+# Lecture
 
-#Hands-On
+# Hands-On
 
-#Activities
+# Activities
 
+# Homework
