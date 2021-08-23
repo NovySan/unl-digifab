@@ -137,28 +137,8 @@ Students with disabilities are encouraged to contact their instructor for a conf
 UNL offers a variety of options to students to aid them in dealing with stress and adversity. Counseling and Psychological & Services (CAPS) is a multidisciplinary team of psychologists and counselors that works collaboratively with Nebraska students to help them explore their feelings and thoughts and learn helpful ways to improve their mental, psychological and emotional well- being when issues arise. CAPS can be reached by calling 402-472-7450. Big Red Resilience & Well- Being provides one-on-one well-being coaching to any student who wants to enhance their well- being. Trained well-being coaches help students create and be grateful for positive experiences, practice resilience and self-compassion, and find support as they need it. BRRWB can be reached by calling 402-472-8770.
 
 ## COVID-19 face covering policy
-Required Use of Face Coverings for On-Campus Shared Learning Environments*
 
-As of July 17, 2020 and until further notice, all University of Nebraska–Lincoln (UNL) faculty, staff, students, and visitors (including contractors, service providers, and others) are required to use a facial covering at all times when indoors except under specific conditions outlined in the COVID-19 face covering policy found at: https://covid19.unl.edu/face-covering-policy
-
-This statement is meant to clarify classroom policies for face coverings:
-
-To protect the health and well-being of the University and wider community, UNL has implemented a policy requiring all people, including students, faculty, and staff, to wear a face covering that covers the mouth and nose while on campus. The classroom is a community, and as a community, we seek to maintain the health and safety of all members by wearing face coverings when in the classroom. Failure to comply with this policy is interpreted as a disruption of the classroom and may be a violation of UNL’s Student Code of Conduct.
-
-Individuals who have health or medical reasons for not wearing face coverings should work with the Office of Services for Students with Disabilities (for students) or the Office of Faculty/Staff Disability Services (for faculty and staff) to establish accommodations to address the health concern. Students who prefer not to wear a face covering should work with their advisor to arrange a fully online course schedule that does not require their presence on campus.
-
-As of January 12, 2021 (https://covid19.unl.edu/spring-testing) and until further notice, students, faculty, and staff are required to get a COVID-19 test during the week of January 19 – 24 and at least one additional, follow-up test around 10 days later. Proof of a negative test result (via the Safer Communities smart phone app or an official, printed pass from the Safer Communities web client) is required to gain entry to the Carson Center building. Students are also required to adhere to an updated Cornhusker Commitment (https://covid19.unl.edu/we-are-cornhusker-committed) for the Spring 2021 semester.
-
-Students in the classroom:
-1. If a student is not properly wearing a face covering, the instructor will remind the student of the policy and ask them to comply with it.
-2. If the student will not comply with the face covering policy, the instructor will ask the student to leave the classroom, and the student may only return when they are properly wearing a face covering.
-3. If the student refuses to properly wear a face covering or leave the classroom, the instructor will dismiss the class and will report the student to Student Conduct & Community Standards for misconduct, where the student will be subject to disciplinary action.
-
-Instructors in the classroom:
-1. If an instructor is not properly wearing a face covering, students will remind the instructor of the policy and ask them to comply with it.
-2. If an instructor will not properly wear a face covering, students may leave the classroom and should report the misconduct to the department chair or via the TIPS system for disciplinary action through faculty governance processes.
-     
-*Courses that have been granted an exception to the Face Covering Policy for pedagogical reasons are excluded. Exceptions to the Face Covering Policy are only granted after an approved health safety plan is developed.
+An individual in this course has a documented need for face coverings to be required in this course. Without divulging personal or identifying information, such a documented need might be that a member of their household is unable to be vaccinated or has a health condition that makes vaccines less effective for them. As a result, the Hixson-Lied College of Fine and Performing Arts has determined that face coverings will be required in this course. If you are unwilling to comply with this requirement, please visit with your advisor about different sections or possible alternative courses that you might take in lieu of this one.
 
 # Land Acknowledgment
 
