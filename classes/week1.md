@@ -1,9 +1,10 @@
-# Summary
+# Week 1 - Introduction, Overview, Hands-On
+## Agenda
 
-# Lecture
+## Lecture
 
-# Hands-On
+## Hands-On
 
-# Activities
+## Activities
 
-# Homework
+## Homework
