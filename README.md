@@ -37,27 +37,27 @@ A student who successfully completes this course will:
 # Schedule
 (Subject to Change-Always check back for most up to date information)
 
-| Week | Topic |
+| Date | Topic |
 |------|-------|
-| 1 | [Week 1](sessions/week1.md) - Course Introduction, overview of digital fabrication and physical computing -	Assign introductory exercise |
-| 2 | CAD, 3D Modeling; Designing 2D and 3D Form -	Assign Virtual Replica exercise - Assign Project 1: Digital Sculpture |
-| 3 | Laser Cutter; CNC -	Assign “Flat Pack Future” exercise |
-| 4 | Photogrammetry and 3d Scanning -	Assign Real World to Digital and Back exercise |
-| 5 | Re-Editing and Making Real: Mesh Editing, Slicing, 3DP -	Assign Hybrid Object exercise |
-| 6 | Microcontrollers and Digital I/O -	Project 1 Due -	Assign Meaningful Signal exercise |
-| 7 | Analog Input and Output; Analog Sensors - Assign “Even Thermostats Can Be Said to Have Feelings” exercise -	Assign Project 2: Autonomous Artwork |
-| 8 | Making Things Move: Servos and Actuators -	Assign Biomimicry exercise |
-| 9 | DC Motors, Solenoids; Linkages and Mounts -	Assign ____________ exercise |
-| 10 | Steppers, CNC, Mechatronics -	Assign Simple Coordinated Motion exercise |
-| 11 | Smart Textiles; Digital Craft -	Project 2 Due -	Assign High/Low Tech exercise |
-| 12 | Wearables: Embodied Interface; Augmentation, Prosthesis -	Assign Somatic Interface exercise -	Assign Project 3: Data Body |
-| 13 | Internet of Things: Networked Objects, Spimes -	Assign Objects with Memories exercise |
-| 14 | Embodied Technologies: Somatic Interface; Hardware Performance -	Assign “The Pleasure of Being the Cause” exercise |
-| 15 | Workshopping Final Presentations -	Project 3 Due -	Final Presentation Work Time |
-| 16 | Exhibition/Showcase Open Studios (Final Project, Talk, Documentation due) NO FINAL EXAM |
+| 8/26 | [Week 1](sessions/week1.md) - Course Introduction, overview of digital fabrication and physical computing -	Assign introductory exercise |
+| 9/2 | Week 2 - CAD, 3D Modeling; Designing 2D and 3D Form -	Assign Virtual Replica exercise - Assign Project 1: Digital Sculpture |
+| 9/9 | Week 3 - Laser Cutter; CNC -	Assign “Flat Pack Future” exercise |
+| 9/16 | Week 4 - Photogrammetry and 3d Scanning -	Assign Real World to Digital and Back exercise |
+| 9/23 | Week 5 - Re-Editing and Making Real: Mesh Editing, Slicing, 3DP -	Assign Hybrid Object exercise |
+| 9/30 | Week 6 - Microcontrollers and Digital I/O -	Project 1 Due -	Assign Meaningful Signal exercise |
+| 10/7 | Week 7 - Analog Input and Output; Analog Sensors - Assign “Even Thermostats Can Be Said to Have Feelings” exercise -	Assign Project 2: Autonomous Artwork |
+| 10/14 | Week 8 - Making Things Move: Servos and Actuators -	Assign Biomimicry exercise |
+| 10/21 | Week 9 - DC Motors, Solenoids; Linkages and Mounts -	Assign ____________ exercise |
+| 10/28 | Week 10 - Steppers, CNC, Mechatronics -	Assign Simple Coordinated Motion exercise |
+| 11/4 | Week 11 - Smart Textiles; Digital Craft -	Project 2 Due -	Assign High/Low Tech exercise |
+| 11/11 | Week 12 - Wearables: Embodied Interface; Augmentation, Prosthesis -	Assign Somatic Interface exercise -	Assign Project 3: Data Body |
+| 11/18 | Week 13 - Internet of Things: Networked Objects, Spimes -	Assign Objects with Memories exercise |
+| 11/25 | Week 14 - THANKSGIVING HOLIDAY - Embodied Technologies: Somatic Interface; Hardware Performance -	Assign “The Pleasure of Being the Cause” exercise |
+| 12/2 | Week 15 - Workshopping Final Presentations -	Project 3 Due -	Exhibition/Showcase Open Studios |
+| 12/9 | Week 16 -  (Final Project, Talk, Documentation due) NO FINAL EXAM |
 
 # Resources
-- **Discussion:** we will use discord for discussion on the Carson Center server [link to come]().
+- **Discussion:** we will use discord for discussion on the Carson Center server [link to come](https://discord.gg/QBkMgHW8)
 - **Canvas:** this is where I will handle grading: [https://canvas.unl.edu/courses/114938](https://canvas.unl.edu/courses/114938)
 
 # Grading
