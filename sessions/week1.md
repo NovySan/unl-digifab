@@ -1,7 +1,7 @@
 # Week 1 - Introduction, Overview, Hands-On
 ## Welcome!
 - Introductions
-- [Syllabus Overview](/unl-digifab/#description)
+- [Syllabus Overview](/unl-digifab/)
 
 ## Context
 - Lecture
@@ -10,5 +10,5 @@
 - Install Rhino
 ## Activities
 
-## Assignment
-- [Assignment 1](/unl-digifab/hw/hw1)
+## Homework
+- [Homework 1](/unl-digifab/hw/hw1)
