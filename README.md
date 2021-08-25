@@ -62,6 +62,30 @@ A student who successfully completes this course will:
 
 # Deliverables
 
+| Date | Topic |
+|------|-------|
+| 8/26 | Assign [Ex 1: Introductory exercise](exercises/ex1.md) |
+| 9/2 | Assign [Ex2: Virtual Replica](exercises/ex2.md) |
+| | Assign [Project 1: Digital Sculpture](projects/project1.md) |
+| 9/9 | Assign [Ex 3: Flatpack future](exercises/ex3.md) |
+| 9/16 | Assign Real World to Digital and Back exercise |
+| 9/23 | Assign Hybrid Object exercise |
+| 9/30 | Assign Meaningful Signal exercise |
+| 10/7 | Assign “Even Thermostats Can Be Said to Have Feelings” exercise
+| | Assign Project 2: Autonomous Artwork |
+| 10/14 | Assign Biomimicry exercise |
+| 10/21 | Assign ____________ exercise |
+| 10/28 | Assign Simple Coordinated Motion exercise |
+| 11/4 | Assign High/Low Tech exercise |
+| 11/11 | Assign Somatic Interface exercise |
+| |	Assign Project 3: Data Body |
+| 11/18 | Assign Objects with Memories exercise |
+| 11/25 | Assign “The Pleasure of Being the Cause” exercise |
+| 12/2 | Project 3 Due -	Exhibition/Showcase Open Studios |
+| 12/9 | Week 16 -  (Final Project, Talk, Documentation due) NO FINAL EXAM |
+
+
+
 ## Exercises
 
 ## Projects
