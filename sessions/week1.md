@@ -1,7 +1,7 @@
 # Week 1 - Introduction, Overview, Hands-On
 ## Welcome!
 - Introductions
-- [Syllabus Overview](/#description)
+- [Syllabus Overview](/unl-digifab/#description)
 
 ## Context
 - Lecture
@@ -11,4 +11,4 @@
 ## Activities
 
 ## Assignment
-- [Assignment 1](/assignments/assignment1)
+- [Assignment 1](/unl-digifab/hw/hw1)
