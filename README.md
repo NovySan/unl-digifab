@@ -40,18 +40,26 @@ A student who successfully completes this course will:
 | Date | Topic |
 |------|-------|
 | 8/26 | [Week 1](sessions/week1.md) - Course Introduction, overview of digital fabrication and physical computing |
-|  |  Assign [Ex 1: Introductory exercise](exercises/ex1.md) |
+|  |  [Ex 1: Introductory exercise](exercises/ex1.md) |
 | 9/2 | Week 2 - CAD, 3D Modeling; Designing 2D and 3D Form |
-| | Assign [Ex2: Virtual Replica](exercises/ex2.md) |
-| | Assign [Project 1: Digital Sculpture](projects/project1.md) |
+| | [Ex2: Virtual Replica](exercises/ex2.md) |
+| | [Project 1: Digital Sculpture](projects/project1.md) |
 | 9/9 | Week 3 - Laser Cutter; CNC |
-| | Assign [Ex 3: Flatpack future](exercises/ex3.md) |
-| 9/16 | Week 4 - Photogrammetry and 3d Scanning -	Assign Real World to Digital and Back exercise |
-| 9/23 | Week 5 - Re-Editing and Making Real: Mesh Editing, Slicing, 3DP -	Assign Hybrid Object exercise |
-| 9/30 | Week 6 - Microcontrollers and Digital I/O -	Project 1 Due -	Assign Meaningful Signal exercise |
-| 10/7 | Week 7 - Analog Input and Output; Analog Sensors - Assign “Even Thermostats Can Be Said to Have Feelings” exercise -	Assign Project 2: Autonomous Artwork |
-| 10/14 | Week 8 - Making Things Move: Servos and Actuators -	Assign Biomimicry exercise |
-| 10/21 | Week 9 - DC Motors, Solenoids; Linkages and Mounts -	Assign ____________ exercise |
+| | [Ex 3: Flatpack future](exercises/ex3.md) |
+| 9/16 | Week 4 - Photogrammetry and 3d Scanning |
+| | Ex4: Real World to Digital and Back |
+| 9/23 | Week 5 - Re-Editing and Making Real: Mesh Editing, Slicing, 3DP |
+| | Ex5: Assign Hybrid Object exercise |
+| 9/30 | Week 6 - Microcontrollers and Digital I/O |
+| | Project 1 Due |
+| | Ex6	Meaningful Signal |
+| 10/7 | Week 7 - Analog Input and Output; Analog Sensors |
+| | Ex8 “Even Thermostats Can Be Said to Have Feelings” exercise|
+| | Project 2: Autonomous Artwork |
+| 10/14 | Week 8 - Making Things Move: Servos and Actuators |
+| | Assign Biomimicry exercise |
+| 10/21 | Week 9 - DC Motors, Solenoids; Linkages and Mounts |
+| | Assign ____________ exercise |
 | 10/28 | Week 10 - Steppers, CNC, Mechatronics -	Assign Simple Coordinated Motion exercise |
 | 11/4 | Week 11 - Smart Textiles; Digital Craft -	Project 2 Due -	Assign High/Low Tech exercise |
 | 11/11 | Week 12 - Wearables: Embodied Interface; Augmentation, Prosthesis -	Assign Somatic Interface exercise -	Assign Project 3: Data Body |
