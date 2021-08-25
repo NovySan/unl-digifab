@@ -1,7 +1,7 @@
 # Week 1 - Introduction, Overview, Hands-On
 ## Welcome!
 - Introductions
-- [Syllabus Overview](/readme.md)
+- [Syllabus Overview](/README.md)
 
 ## Context
 - Lecture
@@ -11,4 +11,4 @@
 ## Activities
 
 ## Homework
-- [Homework 1](/hw/hw1)
+- [Homework 1](/hw/hw1.md)
