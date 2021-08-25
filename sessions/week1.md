@@ -1,11 +1,14 @@
-[Homepage](/)
 # Week 1 - Introduction, Overview, Hands-On
-## Agenda
+## Welcome!
+- Introductions
+- [Syllabus Overview](/#description)
 
-## Lecture
+## Context
+- Lecture
 
 ## Hands-On
-
+- Install Rhino
 ## Activities
 
-## Homework
+## Assignment
+- [Assignment 1](/assignments/assignment1)
