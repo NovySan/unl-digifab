@@ -39,7 +39,8 @@ A student who successfully completes this course will:
 
 | Date | Topic |
 |------|-------|
-| 8/26 | [Week 1](sessions/week1.md) - Course Introduction, overview of digital fabrication and physical computing -	Assign introductory exercise |
+| 8/26 | [Week 1](sessions/week1.md) - Course Introduction, overview of digital fabrication and physical computing |
+|  |  [Assign Introductory Exercise](exercises/ex1.md) |
 | 9/2 | Week 2 - CAD, 3D Modeling; Designing 2D and 3D Form -	Assign Virtual Replica exercise - Assign Project 1: Digital Sculpture |
 | 9/9 | Week 3 - Laser Cutter; CNC -	Assign “Flat Pack Future” exercise |
 | 9/16 | Week 4 - Photogrammetry and 3d Scanning -	Assign Real World to Digital and Back exercise |
@@ -55,6 +56,12 @@ A student who successfully completes this course will:
 | 11/25 | Week 14 - THANKSGIVING HOLIDAY - Embodied Technologies: Somatic Interface; Hardware Performance -	Assign “The Pleasure of Being the Cause” exercise |
 | 12/2 | Week 15 - Workshopping Final Presentations -	Project 3 Due -	Exhibition/Showcase Open Studios |
 | 12/9 | Week 16 -  (Final Project, Talk, Documentation due) NO FINAL EXAM |
+
+# Deliverables
+
+## Exercises
+
+## Projects
 
 # Resources
 - **Discussion:** we will use discord for discussion on the Carson Center server [link to come](https://discord.gg/QBkMgHW8)
