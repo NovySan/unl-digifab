@@ -4,6 +4,8 @@
 - Review Syllabus
 - [Lecture 1: Context and Overview](https://docs.google.com/presentation/d/1DCGSlhTRlIW8Zk072gA7pbsKkxcdenTfkjYP-M6Sd0U/edit?usp=sharing)
 
+** BREAK **
+
 ## Hands-On
 - Touch and Feel
   - 3DP / Digital Fabrication Specimens
