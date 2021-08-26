@@ -3,7 +3,7 @@
 [Description](#description) | [Schedule](#schedule) | [Resources](#resources) | [Grading](#grading) | [Policies](#policies) | [Accomodations](#accommodations-for-students-with-disabilities) | [References](#references)
 
 ![Image](digifab_image_2021.png)
-*Clockwise from top left: Ken Rinaldo - Mediated Encounters; MIT Mediated Matter Group - Silk Pavillion; Morehshin Allahyari - Material Spectulation; Quayola - Carvings; David Bowen - Space Junk; James Loh - Amae Apparatus*
+*Clockwise from top left: [Ken Rinaldo - Mediated Encounters](https://www.kenrinaldo.com/portfolio/mediated-encounters/); [MIT Mediated Matter Group - Silk Pavillion](https://www.media.mit.edu/projects/silk-pavilion/overview/); [Morehshin Allahyari - Material Spectulation](http://www.morehshin.com/material-speculation-isis/); [Quayola - Carvings](https://www.cnn.com/style/article/davide-quayola-laocoon-robot-sculpture-smart-creativity/index.html); [David Bowen - Space Junk](https://www.dwbowen.com/spacejunk); [James Loh - Amae Apparatus](https://process.jonas-loh.com/post/7800652708/intimateethnography-title-amae-apparatus)*
 
 # Description
 
