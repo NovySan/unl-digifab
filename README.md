@@ -78,9 +78,9 @@ A student who successfully completes this course will:
 # Grading
 
 ## Graded activities
-- 35% Weekly Exercises – approximately 14 exercises
-- 50% Projects – 3 total at approximately 16.7% each*
-- 15% Participation
+- 30% Weekly Exercises – approximately 14 exercises
+- 60% Projects – 3 total at approximately 20% each*
+- 10% Participation
 
 * Work will be evaluated on the quality of concept, the degree of experimentation (both aesthetic and technical), and final realization (again, aesthetic and technical). Prompts and rubrics will be provided with more specific details regarding each assignment and breakdowns
 
