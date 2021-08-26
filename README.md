@@ -13,8 +13,8 @@ This course introduces physical computing and digital fabrication for emerging m
 
 - **Instructor:** Dr. Robert Twomey
 - **Class:** Thursday 12:30-3:15pm
-- **Location:** Upstairs lab / fabrication
-- **Office Hours:** TBD, zoom and in person
+- **Location:** Fabrication Lab / Student Lounge
+- **Office Hours:** TBD, Wednesday pm, Discord, and in person.
 
 ## Course objectives
 -	Experiential learning.
@@ -114,11 +114,12 @@ Due to COVID-19 and current community health concerns, I will make exceptions fo
 
 
 ## Grading Scale
-A+ = 97-100 A = 93-96 A- = 90-92
-B+ = 87-89 B = 83-86 B- = 80-82
-C+ = 77-79 C = 73-76 C- = 70-72
-D+ = 67-69 D = 63-66 D- = 60-62
-F =below 60%
+| ===== | ===== |
+| A+ = 97-100 | A = 93-96 | A- = 90-92 |
+| B+ = 87-89 | B = 83-86 | B- = 80-82 |
+| C+ = 77-79 | C = 73-76 | C- = 70-72 |
+| D+ = 67-69 | D = 63-66 | D- = 60-62 |
+| F =below 60% | | |
 
 Here is a description of the kind of participation in the course that would earn you an A, B, C, etc. Your instructor may use pluses and minuses to reflect your participation more fairly, but this is a general description for each letter grade.
 
