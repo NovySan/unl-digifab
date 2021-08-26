@@ -73,7 +73,7 @@ A student who successfully completes this course will:
 
 # Resources
 - **Discussion:** we will use discord for discussion on the Carson Center server [https://discord.gg/QBkMgHW8](https://discord.gg/QBkMgHW8)
-- **Canvas:** this is where I will handle grading: [https://canvas.unl.edu/courses/114938](https://canvas.unl.edu/courses/114938)
+- **Canvas:** this is where I will handle formal announcements, grading, class business: [https://canvas.unl.edu/courses/114938](https://canvas.unl.edu/courses/114938)
 
 # Grading
 
