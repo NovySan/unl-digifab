@@ -65,7 +65,7 @@ A student who successfully completes this course will:
 | | - Somatic Interface (ex12), assign Project 3: Data Body |
 | 11/18 | Week 13 - Internet of Things: Networked Objects, Spimes |
 | | - Objects with Memories (ex13) |
-| 11/25 | Week 14 - THANKSGIVING HOLIDAY - Embodied Technologies: Somatic Interface; Hardware Performance (MEET ONLINE?)|
+| 11/25 | Week 14 - THANKSGIVING HOLIDAY (MEET ONLINE?) - Embodied Technologies: Somatic Interface; Hardware Performance|
 | | - “The Pleasure of Being the Cause” (ex14) |
 | 12/2 | Week 15 - Workshopping Final Presentations |
 | | - Project 3 Due, Exhibition/Showcase Open Studios |
