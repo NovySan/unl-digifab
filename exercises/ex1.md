@@ -1,6 +1,6 @@
 # Description
 
-Hands-on with Rhino. 
+Hands-on with Rhino.
 
 # Activities
 
