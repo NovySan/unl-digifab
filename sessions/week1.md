@@ -1,7 +1,7 @@
 # Week 1 - Introduction, Overview, Hands-On
 ## Agenda
 - Introductions
-- Review [Syllabus](../README.md)
+- Review [Syllabus](../README)
 - [Lecture 1: Context and Overview](https://docs.google.com/presentation/d/1DCGSlhTRlIW8Zk072gA7pbsKkxcdenTfkjYP-M6Sd0U/edit?usp=sharing)
 
 ## Hands-On
