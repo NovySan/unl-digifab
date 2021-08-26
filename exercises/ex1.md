@@ -2,7 +2,7 @@
 
 Using Design a stencil that fits on a 3x5" business card. 
 Use the 2D drawing commands in Rhinoceros (lines, curves, etc.).
-Include your name and a personal logo.
+Include your name and a personal logo. When the laser cutter is set up, we will cut these designs out, and you can use them as actual stencils to label __your stuff__.
 
 # Sumbmission
 
