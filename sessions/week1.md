@@ -10,12 +10,13 @@
   - Physical Computing Specimens
 - Install [Rhinoceros](https://www.rhino3d.com/). We have a license for Rhino 6.
   - Self Service (mac) and Endpoint management -> service center (PC).
-- Rhino Basic Orientation
+- Rhino Basics
   - UI: controls, commands, display modes, view, model units
   - 2d operations: line, rectangle, trim, circle, dimension
   - transforms: scale, rotate, move
   - operations: split, join, trim, extend
   - organization: layers, groups
+- [Rhino Learn](https://www.rhino3d.com/learn/?keyword=kind:%20rhino_win) (tutorials)
 
 # Question
 - Tour Nebraska Innovation Studio 8/30 (Tuesday 1pm)
