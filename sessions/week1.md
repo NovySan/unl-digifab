@@ -11,6 +11,11 @@
 - Install [Rhinoceros](https://www.rhino3d.com/). We have a license for Rhino 6.
   - Self Service (mac) and Endpoint management -> service center (PC).
 - Rhino Basic Orientation
+  - UI: controls, commands, display modes, view, model units
+  - 2d operations: line, rectangle, trim, circle, dimension
+  - transforms: scale, rotate, move
+  - operations: split, join, trim, extend
+  - organization: layers, groups
 
 # Question
 - Tour Nebraska Innovation Studio 8/30 (Tuesday 1pm)
