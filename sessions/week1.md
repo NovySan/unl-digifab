@@ -19,7 +19,7 @@
 - [Rhino Learn](https://www.rhino3d.com/learn/?keyword=kind:%20rhino_win) (tutorials)
 
 # Question
-- Tour Nebraska Innovation Studio 8/30 (Tuesday 1pm)
+- Tour Nebraska Innovation Studio 8/30? (Tuesday 1pm)
 
 # Homework
 - [Exercise 1](../exercises/ex1.md)
