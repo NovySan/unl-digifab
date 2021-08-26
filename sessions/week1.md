@@ -1,15 +1,18 @@
 # Week 1 - Introduction, Overview, Hands-On
 ## Welcome!
 - Introductions
-- [Syllabus Overview](/README.md)
+- [Syllabus](/README.md)
 
-## Context
-- Lecture
+# Activities
+- Lecture: Context and Overview
 
 ## Hands-On
-- Install Rhino
-## Activities
+- Install [Rhinoceros](https://www.rhino3d.com/). We have a license for Rhino 6.
+- Self Service (mac) and Endpoint management -> service center (PC).
+- Intro to Rhino and 3d Drafting
 
-## For Next Time
+# Question
 - Tour Nebraska Innovation Studio 8/30? (Tuesday 1pm)
+
+# Homework
 - [Homework 1](/hw/hw1.md)
