@@ -48,37 +48,37 @@ A student who successfully completes this course will:
 | 9/16 | Week 4 - Photogrammetry and 3d Scanning |
 | | Real World to Digital and Back (ex4) |
 | 9/23 | Week 5 - Re-Editing and Making Real: Mesh Editing, Slicing, 3DP |
-| | ex5 Hybrid Object |
+| | Hybrid Object (ex5) |
 | 9/30 | Week 6 - Microcontrollers and Digital I/O |
-| | Project 1 Due, ex6 Meaningful Signal |
+| | Project 1 Due, Meaningful Signal (ex6) |
 | 10/7 | Week 7 - Analog Input and Output; Analog Sensors |
-| | ex8 “Even Thermostats Can Be Said to Have Feelings”, assign Project 2: Autonomous Artwork |
+| | “Even Thermostats Can Be Said to Have Feelings” (ex7), assign Project 2: Autonomous Artwork |
 | 10/14 | Week 8 - Making Things Move: Servos and Actuators |
-| | ex9 Biomimicry |
+| | Biomimicry (ex8) |
 | 10/21 | Week 9 - DC Motors, Solenoids; Linkages and Mounts |
-| | ex10 ____________ exercise |
+| | ____________ exercise (ex9)|
 | 10/28 | Week 10 - Steppers, CNC, Mechatronics |
-| | ex11 Simple Coordinated Motion |
+| | Simple Coordinated Motion (ex10) |
 | 11/4 | Week 11 - Smart Textiles; Digital Craft |
-| | Project 2 Due, ex12 High/Low Tech |
+| | Project 2 Due, High/Low Tech (ex11) |
 | 11/11 | Week 12 - Wearables: Embodied Interface; Augmentation, Prosthesis |
-| | ex13 Somatic Interface, assign Project 3: Data Body |
+| | Somatic Interface (ex12), assign Project 3: Data Body |
 | 11/18 | Week 13 - Internet of Things: Networked Objects, Spimes |
-| | ex14 Objects with Memories |
-| 11/25 | Week 14 - THANKSGIVING HOLIDAY - Embodied Technologies: Somatic Interface; Hardware Performance |
-| | ex15 “The Pleasure of Being the Cause” |
+| | Objects with Memories (ex13) |
+| 11/25 | Week 14 - THANKSGIVING HOLIDAY - Embodied Technologies: Somatic Interface; Hardware Performance (MEET ONLINE?)|
+| | “The Pleasure of Being the Cause” (ex14) |
 | 12/2 | Week 15 - Workshopping Final Presentations |
 | | Project 3 Due, Exhibition/Showcase Open Studios |
 | 12/9 | Week 16 - (Final Project Documentation due, Talk) NO FINAL EXAM |
 
 # Resources
-- **Discussion:** we will use discord for discussion on the Carson Center server [link to come](https://discord.gg/QBkMgHW8)
+- **Discussion:** we will use discord for discussion on the Carson Center server [https://discord.gg/QBkMgHW8](https://discord.gg/QBkMgHW8)
 - **Canvas:** this is where I will handle grading: [https://canvas.unl.edu/courses/114938](https://canvas.unl.edu/courses/114938)
 
 # Grading
 
 ## Graded activities
-- 35% Weekly Exercises – approximately 12 exercises
+- 35% Weekly Exercises – approximately 14 exercises
 - 50% Projects – 3 total at approximately 16.7% each*
 - 15% Participation
 
