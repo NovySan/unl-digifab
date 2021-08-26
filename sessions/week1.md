@@ -16,7 +16,7 @@
   - transforms: scale, rotate, move
   - operations: split, join, trim, extend
   - organization: layers, groups
-- [Rhino Learn](https://www.rhino3d.com/learn/?keyword=kind:%20rhino_win) (tutorials)
+- For your reference: [Rhino Learn](https://www.rhino3d.com/learn/?keyword=kind:%20rhino_win) (tutorials)
 
 # Question
 - Tour Nebraska Innovation Studio 8/30? (Tuesday 1pm)
