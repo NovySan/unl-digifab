@@ -1,7 +1,7 @@
 # Week 1 - Introduction, Overview, Hands-On
 ## Welcome!
 - Introductions
-- [Syllabus](/README.md)
+- [Syllabus](../README.md)
 
 # Activities
 - [Lecture 1: Context and Overview](https://docs.google.com/presentation/d/1DCGSlhTRlIW8Zk072gA7pbsKkxcdenTfkjYP-M6Sd0U/edit?usp=sharing)
@@ -15,4 +15,4 @@
 - Tour Nebraska Innovation Studio 8/30 (Tuesday 1pm)
 
 # Homework
-- [Homework 1](/hw/hw1.md)
+- [Exercise 1](../exercises/ex1.md)
