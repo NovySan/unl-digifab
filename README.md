@@ -1,6 +1,3 @@
----
-permalink: syllabus.html
----
 # EMAR 391-007: Digital Fabrication and Physical Computing - Fall 2021
 
 [Description](#description) | [Schedule](#schedule) | [Resources](#resources) | [Grading](#grading) | [Policies](#policies) | [Accomodations](#accommodations-for-students-with-disabilities) | [References](#references)
