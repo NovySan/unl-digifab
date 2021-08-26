@@ -115,7 +115,7 @@ Due to COVID-19 and current community health concerns, I will make exceptions fo
 
 ## Grading Scale
 |      |     |     |
-| ===== | ===== | ===== |
+| ---- | ---- | ---- |
 | A+ = 97-100 | A = 93-96 | A- = 90-92 |
 | B+ = 87-89 | B = 83-86 | B- = 80-82 |
 | C+ = 77-79 | C = 73-76 | C- = 70-72 |
