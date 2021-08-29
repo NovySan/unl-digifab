@@ -161,22 +161,22 @@ covers the mouth and nose while on campus. The classroom is a community, and as 
 we seek to maintain the health and safety of all members by wearing face coverings when in the 
 classroom. Failure to comply with this policy is interpreted as a disruption of the classroom 
 and may be a violation of UNL’s Student Code of Conduct.
-<br>
+<br><br>
 Individuals who have health or medical reasons for not wearing face coverings should work with 
 the Office of Services for Students with Disabilities (for students) or the Office of Faculty/Staff 
 Disability Services (for faculty and staff) to establish accommodations to address the health 
 concern. Students who prefer not to wear a face covering should work with their advisor to arrange 
 a fully online course schedule that does not require their presence on campus.
-<br>
+<br><br>
 Students in the classroom:
 1. If a student is not properly wearing a face covering, the instructor will remind the student of the policy and ask them to comply with it.
 2. If the student will not comply with the face covering policy, the instructor will ask the student to leave the classroom, and the student may only return when they are properly wearing a face covering.
 3. If the student refuses to properly wear a face covering or leave the classroom, the instructor will dismiss the class and will report the student to Student Conduct & Community Standards for misconduct, where the student will be subject to disciplinary action.
-<br>
+<br><br>
 Instructors in the classroom:
 1. If an instructor is not properly wearing a face covering, students will remind the instructor of the policy and ask them to comply with it.
 2. If an instructor will not properly wear a face covering, students may leave the classroom and should report the misconduct to the department chair or via the TIPS system for disciplinary action through faculty governance processes.
-
+<br>
 *Courses that have been granted an exception to the Face Covering Policy for pedagogical 
 reasons are excluded. Exceptions to the Face Covering Policy are only granted after an 
 approved health safety plan is developed
