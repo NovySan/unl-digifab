@@ -169,13 +169,13 @@ concern. Students who prefer not to wear a face covering should work with their 
 a fully online course schedule that does not require their presence on campus.
 <br>
 Students in the classroom:
-#. If a student is not properly wearing a face covering, the instructor will remind the student of the policy and ask them to comply with it.
-#. If the student will not comply with the face covering policy, the instructor will ask the student to leave the classroom, and the student may only return when they are properly wearing a face covering.
-#. If the student refuses to properly wear a face covering or leave the classroom, the instructor will dismiss the class and will report the student to Student Conduct & Community Standards for misconduct, where the student will be subject to disciplinary action.
+1. If a student is not properly wearing a face covering, the instructor will remind the student of the policy and ask them to comply with it.
+2. If the student will not comply with the face covering policy, the instructor will ask the student to leave the classroom, and the student may only return when they are properly wearing a face covering.
+3. If the student refuses to properly wear a face covering or leave the classroom, the instructor will dismiss the class and will report the student to Student Conduct & Community Standards for misconduct, where the student will be subject to disciplinary action.
 <br>
 Instructors in the classroom:
-#. If an instructor is not properly wearing a face covering, students will remind the instructor of the policy and ask them to comply with it.
-#. If an instructor will not properly wear a face covering, students may leave the classroom and should report the misconduct to the department chair or via the TIPS system for disciplinary action through faculty governance processes.
+1. If an instructor is not properly wearing a face covering, students will remind the instructor of the policy and ask them to comply with it.
+2. If an instructor will not properly wear a face covering, students may leave the classroom and should report the misconduct to the department chair or via the TIPS system for disciplinary action through faculty governance processes.
 
 *Courses that have been granted an exception to the Face Covering Policy for pedagogical 
 reasons are excluded. Exceptions to the Face Covering Policy are only granted after an 
