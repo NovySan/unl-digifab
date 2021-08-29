@@ -155,7 +155,33 @@ UNL offers a variety of options to students to aid them in dealing with stress a
 
 ## COVID-19 face covering policy
 
-An individual in this course has a documented need for face coverings to be required in this course. Without divulging personal or identifying information, such a documented need might be that a member of their household is unable to be vaccinated or has a health condition that makes vaccines less effective for them. As a result, the Hixson-Lied College of Fine and Performing Arts has determined that face coverings will be required in this course. If you are unwilling to comply with this requirement, please visit with your advisor about different sections or possible alternative courses that you might take in lieu of this one.
+To protect the health and well-being of the University and wider community, UNL has implemented 
+a policy requiring all people, including students, faculty, and staff, to wear a face covering that 
+covers the mouth and nose while on campus. The classroom is a community, and as a community, 
+we seek to maintain the health and safety of all members by wearing face coverings when in the 
+classroom. Failure to comply with this policy is interpreted as a disruption of the classroom 
+and may be a violation of UNL’s Student Code of Conduct.
+<br>
+Individuals who have health or medical reasons for not wearing face coverings should work with 
+the Office of Services for Students with Disabilities (for students) or the Office of Faculty/Staff 
+Disability Services (for faculty and staff) to establish accommodations to address the health 
+concern. Students who prefer not to wear a face covering should work with their advisor to arrange 
+a fully online course schedule that does not require their presence on campus.
+<br>
+Students in the classroom:
+#. If a student is not properly wearing a face covering, the instructor will remind the student of the policy and ask them to comply with it.
+#. If the student will not comply with the face covering policy, the instructor will ask the student to leave the classroom, and the student may only return when they are properly wearing a face covering.
+#. If the student refuses to properly wear a face covering or leave the classroom, the instructor will dismiss the class and will report the student to Student Conduct & Community Standards for misconduct, where the student will be subject to disciplinary action.
+<br>
+Instructors in the classroom:
+#. If an instructor is not properly wearing a face covering, students will remind the instructor of the policy and ask them to comply with it.
+#. If an instructor will not properly wear a face covering, students may leave the classroom and should report the misconduct to the department chair or via the TIPS system for disciplinary action through faculty governance processes.
+
+*Courses that have been granted an exception to the Face Covering Policy for pedagogical 
+reasons are excluded. Exceptions to the Face Covering Policy are only granted after an 
+approved health safety plan is developed
+
+<!--An individual in this course has a documented need for face coverings to be required in this course. Without divulging personal or identifying information, such a documented need might be that a member of their household is unable to be vaccinated or has a health condition that makes vaccines less effective for them. As a result, the Hixson-Lied College of Fine and Performing Arts has determined that face coverings will be required in this course. If you are unwilling to comply with this requirement, please visit with your advisor about different sections or possible alternative courses that you might take in lieu of this one.-->
 
 # Land Acknowledgment
 
