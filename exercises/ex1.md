@@ -8,7 +8,7 @@
 - Export your image as an SVG. 
 - Submit your Rhino file and SVG file to Canvas
   - use the naming convention _ex1_Lastname.svg_ and _ex1_Lastname.3dm_ for the files.
-- DUE by noon on 9/2 (Thursday) to Canvas https://canvas.unl.edu/courses/114938/assignments/1079274
+- **DUE by noon on 9/2 (Thursday)** to Canvas https://canvas.unl.edu/courses/114938/assignments/1079274
 
 # References
 - Rhino has some great video tutorials to help you getting started. 
