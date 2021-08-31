@@ -79,10 +79,10 @@ A student who successfully completes this course will:
 
 ## Graded activities
 - 30% Weekly Exercises – approximately 14 exercises
-- 60% Projects – 3 total at approximately 20% each*
+- 60% Projects – 3 total at approximately 20% each
 - 10% Participation
 
-* Work will be evaluated on the quality of concept, the degree of experimentation (both aesthetic and technical), and final realization (again, aesthetic and technical). Prompts and rubrics will be provided with more specific details regarding each assignment and breakdowns
+Work will be evaluated on the quality of concept, the degree of experimentation (both aesthetic and technical), and final realization (again, aesthetic and technical). Prompts and rubrics will be provided with more specific details regarding each assignment and breakdowns
 
 ## Description of Assignments and Exams
 
