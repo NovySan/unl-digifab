@@ -3,11 +3,12 @@
 - Include your name and develop a personal logo or graphics.
 - When the laser cutter is set up, we will cut these designs out, and you can use them as actual stencils to label your _stuff_.
 
-# Sumbmission
+# Submission
 
 - Export your image as an SVG. 
-- Submit your Rhino file and SVG file. 
-  - use the naming convention _ex1_Lastname_Firstname_ for the files.
+- Submit your Rhino file and SVG file to Canvas
+  - use the naming convention _ex1_Lastname.svg_ and _ex1_Lastname.3dm_ for the files.
+- DUE by noon on 9/2 (Thursday) to Canvas https://canvas.unl.edu/courses/114938/assignments/1079274
 
 # References
 - Rhino has some great video tutorials to help you getting started. 
