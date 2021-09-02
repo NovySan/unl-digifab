@@ -1,6 +1,8 @@
 # Digital Double / Virtual Replica
 
-For this exercise, you will create a digital double of an object. You will do this in a two step process: first we will make a series of measurements and reference drawings to record all of the essential dimensions of the object. Secondly we will use those drawings as a reference while we make a 3D model in Rhino. Give some consideration to what object you would like to replicate. We will use this in Week 4/5 with the 3d printer, so choose something smallish (the size of an orange), or something that would be interesting to print at that scale.
+For this exercise, you will create a digital double of an object. You will do this in a two step process: first we will make a series of measurements and reference drawings to record all of the essential dimensions of the object. Secondly we will use those drawings as a reference while we make a 3D model in Rhino. Give some consideration to what object you would like to replicate. We will use this in Week 4/5 with the 3d printer, so choose something smallish (the size of an orange), or something that would be interesting to print at that scale. 
+<br>
+There are many other ways to get an object into Rhino / into the computer (for instance 3D scanning, photogrammetry), we are using drawing and 3D modeling as a means to get experience with Rihno for 3D fabrication.
 
 # Process
 1. Choose an object to replicate. 
