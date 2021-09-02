@@ -2,8 +2,9 @@
 ## Agenda
 - Configure Rhinocers Zoo (license)
   - (Rhino is available in the computer lab as well)
-- Review Rhino Basics
+- Review Rhino 2D Basics
 - Measuring Objects
+- Rhino 3D Basics
 - Homework
 
 # Rhino 2D Basics
@@ -46,7 +47,7 @@
   - Digital Calipers
   - Tape measure
   - 3D Scanner
-- Transferrig dimensions to a Rhino model
+- Transferring dimensions to a Rhino model
   - 
 
 # Homework
