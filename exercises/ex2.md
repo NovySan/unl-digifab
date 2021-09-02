@@ -5,8 +5,9 @@ For this exercise, you will create a digital double of an object. You will do th
 There are many other ways to get an object into Rhino / into the computer (for instance 3D scanning, photogrammetry), we are using drawing and 3D modeling as a means to get experience with Rihno for 3D fabrication.
 
 # Process
-1. Choose an object to replicate. 
+1. Choose an object to replicate. Choose something from your immediate surroundings that you have access too.
    - Some considerations: 
+     - Choose something smallish (the size of an orange), or something that would be interesting to print at that scale.
      - Choose something with a regular geometric structure, or something that you can build from a combination of geometric elements. Our drawing tools are best at drawing geometry (Boxes, Spheres, etc.)
      - Thank about something you would like to have as a tiny digital replica. (thoughts?) 
      - Imagine staging a photograph of your digital replica (3d printed) next to the real object. What would make for a most interesting pairing?
