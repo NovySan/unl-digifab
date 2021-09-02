@@ -43,9 +43,11 @@
 
 # Measuring Objects
 - Recording dimensions (pen and paper)
+  - [dimensioned drawings on paper](http://www.pages.drexel.edu/~rcc34/Files/Teaching/MEM201%20L5-Fa0809-SpDimensions_RC.pdf)
 - Taking dimensions
-  - Digital Calipers
+  - Ruler
   - Tape measure
+  - Digital Calipers. See [Sparkfun: How To Use Calipers](https://www.youtube.com/watch?v=73YJA5giZfs) (youtube link)
   - 3D Scanner
 - Transferring dimensions to a Rhino model
 
