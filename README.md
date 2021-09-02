@@ -41,7 +41,7 @@ A student who successfully completes this course will:
 |------|-------|
 | 8/26 | [Week 1](sessions/week1.md) - Course Introduction, overview of digital fabrication and physical computing |
 |  | - [Introductory exercise (ex1)](exercises/ex1.md) |
-| 9/2 | Week 2 - CAD, 3D Modeling; Designing 2D and 3D Form |
+| 9/2 | [Week 2 - CAD, 3D Modeling; Designing 2D and 3D Form](sessions/week2.md) |
 | | - [Digital Double / Virtual Replica (ex2)](exercises/ex2.md), Introduce Sketchbook |
 | 9/9 | Week 3 - Laser Cutter; 2D Digifab |
 | | - Flatpack Future (ex3), assign Project 1: Digital Sculpture|
