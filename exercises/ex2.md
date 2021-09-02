@@ -1,14 +1,28 @@
-# Description
-- Use the 2D drawing commands in Rhinoceros (lines, curves, etc.), design a stencil that fits on a 3x5" business card. 
-- Include your name and develop a personal logo or graphics.
-- When the laser cutter is set up, we will cut these designs out, and you can use them as actual stencils to label your _stuff_.
+# Digital Double / Virtual Replica
+
+For this exercise, you will create a digital double of an object. You will do this in a two step process: first we will make a series of measurements and reference drawings to record all of the essential dimensions of the object. Secondly we will use those drawings as a reference while we make a 3D model in Rhino. Give some consideration to what object you would like to replicate. We will use this in Week 4/5 with the 3d printer, so choose something smallish (the size of an orange), or something that would be interesting to print at that scale.
+
+# Process
+1. Choose an object to replicate. 
+   - Some considerations: 
+     - Choose something with a regular geometric structure, or something that you can build from a combination of geometric elements. Our drawing tools are best at drawing geometry (Boxes, Spheres, etc.)
+     - Thank about something you would like to have as a tiny digital replica. (thoughts?) 
+     - Imagine staging a photograph of your digital replica (3d printed) next to the real object. What would make for a most interesting pairing?
+3. (pen and paper): Make a number of hand-drawn technical drawings to record the dimensions of the object
+  - Use the calipers to get precise measurements. 
+  - Draw a number of views of the object (Side, Top, Front, Perspective) and label dimensions on those drawings. 
+    - For instance, if modeling a water bottle, you might label the total height of the bottle, and the thickness of the cap in a Side view.
+  - Use __Detail__ views where necessary to notate dimensions of small... _details_.
+4. Model your object in Rhino
+  - Use the commands we practiced in class together.
+5. Export your model as an STL file.
 
 # Submission
-
-- Export your image as an SVG. 
-- Submit your Rhino file and SVG file to Canvas
+- Take photographs of your sketches
+- Export your solid as an STL file.
+- Upload your photographs and STL to Canvas.
   - use the naming convention _ex1_Lastname.svg_ and _ex1_Lastname.3dm_ for the files.
-- DUE by noon, 9/2 (Thursday) to Canvas https://canvas.unl.edu/courses/114938/assignments/1079274
+- DUE by 9pm, 9/9 (Thursday) to Canvas https://canvas.unl.edu/courses/114938/assignments/1079274
 
 # References
 - Rhino has some great video tutorials to help you getting started. 
