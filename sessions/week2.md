@@ -8,11 +8,10 @@
 
 # Rhino 2D Basics
 1. Create new file from template. Small objects inches.
-2. User interface: 
-  - Switch between single and quad (four-up) display. 
-  - Pan, tilt, zoom in display. 
-  - Turning __Grid Snap__ on and off. (To create points that stick to origin, 0.25in, etc.)
-    - Try as a text command: Type _Snap_ once to turn it on. Once to turn it off.
+2. User interface:
+  a. Switch between single and quad (four-up) display. 
+  b. Pan, tilt, zoom in display. 
+  c. Turning __Grid Snap__ on and off. (To create points that stick to origin, 0.25in, etc.) Try as a text command: Type _Snap_ once to turn it on. Once to turn it off.
 3. 2D Primitives
   - [_Line_](https://docs.mcneel.com/rhino/6/help/en-us/index.htm#commands/line.htm). 
     - Choose start of line, end of line. 
