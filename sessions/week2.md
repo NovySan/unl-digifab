@@ -1,11 +1,17 @@
 # Week 2 - Rhino in Depth, 3D
 ## Agenda
-- Configure Rhinocers Zoo (license)
+- Configure Rhinoceros Zoo (license)
   - (Rhino is available in the computer lab as well)
+- Discuss office hours.
+- Introduce Sketchbook.
 - Review [Rhino 2D Basics](#rhino-2d-basics)
 - [Measuring Objects](#measuring-objects)
 - [Rhino 3D Basics](#rhino-3d-basics)
 - [Homework](#homework)
+
+# Digital Sketchbook
+
+We will keep a digital sketchbook this semester. This is where I will expect you to include documentation of each exercise, including sketches, snapshots of 3d models, documentation of process. Make a copy of this google doc, and send me a link. [Sketchbook Template](https://docs.google.com/presentation/d/14gCgXjVflWg9KGGCd5hRiVPQyNssw4_FrmWhuZzIRJQ/edit?usp=sharing) 
 
 # Rhino 2D Basics
 1. Create new file from template. Small objects inches.
