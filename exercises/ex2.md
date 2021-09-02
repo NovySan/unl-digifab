@@ -22,11 +22,16 @@ There are many other ways to get an object into Rhino / into the computer (for i
 5. Export your model as an STL file.
 
 # Submission
-- Take photographs of your sketches
-- Export your solid as an STL file.
-- Upload your photographs and STL to Canvas.
-  - use the naming convention _ex1_Lastname.svg_ and _ex1_Lastname.3dm_ for the files.
-- DUE by 9pm, 9/9 (Thursday) to Canvas https://canvas.unl.edu/courses/114938/assignments/1079274
+1. Prepare your materials:
+   - Take photographs of your object
+   - Take photographs of your sketches
+   - Export your solid as an STL file.
+2. Update your sketchbook with photos, sketches, and snapshot of your STL file.
+3. Upload your files to Canvas: (use the naming convention _ex1_Lastname_1.jpg_ and _ex1_Lastname.stl_ for the files.)
+  1. photograph of object
+  2. STL of model
+
+DUE 9/9, 9pm (Thursday) to Canvas https://canvas.unl.edu/courses/114938/assignments/1079274
 
 # References
 - Rhino has some great video tutorials to help you getting started. 
