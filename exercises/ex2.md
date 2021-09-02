@@ -13,12 +13,12 @@ There are many other ways to get an object into Rhino / into the computer (for i
      - Thank about something you would like to have as a tiny digital replica. (thoughts?) 
      - Imagine staging a photograph of your digital replica (3d printed) next to the real object. What would make for a most interesting pairing?
 3. (pen and paper): Make a number of hand-drawn technical drawings to record the dimensions of the object
-  - Use the calipers to get precise measurements. 
-  - Draw a number of views of the object (Side, Top, Front, Perspective) and label dimensions on those drawings. 
-    - For instance, if modeling a water bottle, you might label the total height of the bottle, and the thickness of the cap in a Side view.
-  - Use __Detail__ views where necessary to notate dimensions of small... _details_.
+   - Use the calipers to get precise measurements. 
+   - Draw a number of views of the object (Side, Top, Front, Perspective) and label dimensions on those drawings. 
+     - For instance, if modeling a water bottle, you might label the total height of the bottle, and the thickness of the cap in a Side view.
+   - Use __Detail__ views where necessary to notate dimensions of small... _details_.
 4. Model your object in Rhino
-  - Use the commands we practiced in class together.
+   - Use the commands we practiced in class together.
 5. Export your model as an STL file.
 
 # Submission
@@ -28,8 +28,8 @@ There are many other ways to get an object into Rhino / into the computer (for i
    - Export your solid as an STL file.
 2. Update your sketchbook with photos, sketches, and snapshot of your STL file.
 3. Upload your files to Canvas: (use the naming convention _ex1_Lastname_1.jpg_ and _ex1_Lastname.stl_ for the files.)
-  1. photograph of object
-  2. STL of model
+   - photograph of object
+   - STL of model
 
 DUE 9/9, 9pm (Thursday) to Canvas https://canvas.unl.edu/courses/114938/assignments/1079274
 
