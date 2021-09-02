@@ -2,10 +2,10 @@
 ## Agenda
 - Configure Rhinocers Zoo (license)
   - (Rhino is available in the computer lab as well)
-- Review Rhino 2D Basics
-- Measuring Objects
-- Rhino 3D Basics
-- Homework
+- Review [Rhino 2D Basics](#rhino-2d-basics)
+- [Measuring Objects](#measuring-objects)
+- [Rhino 3D Basics](#rhino-3d-basics)
+- [Homework](#homework)
 
 # Rhino 2D Basics
 1. Create new file from template. Small objects inches.
@@ -49,7 +49,7 @@
   - 3D Scanner
 - Transferring dimensions to a Rhino model
 
-# Rhino 3D
+# Rhino 3D Basics
 In rhino we can either natively author 3d shapes (create boxes, spheres, pyramids, etc.), or we can extrude/loft/revolve 2D drawings into 3d shapes. These two methods are typical for CAD softwares. There is one additional distinction between meshes, polysurfaces, solids, but we do not need to deal with that now.
 
 1. 3D Viewports
