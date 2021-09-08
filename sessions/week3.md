@@ -14,9 +14,13 @@
 
 Hands-on with our [FSL Muse 3D (Full Spectrum Laser)](https://fslaser.com/fsl-muse-3d-autofocus-desktop-co2-laser-cutter-bundle/)
 - Laser basics
-- Safety (air filtration; fire safety)
+  - Safety (air filtration; fire safety)
+  - 
 - Cut demos
 - Material choice (good and bad materials for lasers)
+  - Laser Settings for Cutting ([webpage](http://blog.fslaser.com/experts/muse-workflow-laser-settings-for-cutting))
+  - Material Test ([webpage](http://laser101.fslaser.com/materialtest))
+  - Suggested settings ![image](https://user-images.githubusercontent.com/1598545/132598192-898d58a6-ba56-40fc-8e95-18374daada8a.png)
 - Design concerns
 
 # Design for Laser Cutter
