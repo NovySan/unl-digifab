@@ -92,6 +92,7 @@ __Tab and Slot Construction__
 
 
 __Advanced__
+<img src="https://group-openbricks.s3.dualstack.eu-west-1.amazonaws.com/original/1X/709f2b46ad81ef939e84a14328d89e01f59175da.jpg">
 - Living hinge construction
   - Kerf Bending Experiments: https://www.martin-breuer.com/kerf-bending-patterns
   - Lattice Hinge Design Workshop: https://futurearchi.org/t/lattice-hinge-design-workshop-starting-from-an-open-source-grasshopper-design/576
