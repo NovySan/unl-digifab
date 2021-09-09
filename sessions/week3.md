@@ -14,14 +14,16 @@
 # Intro to Laser Cutter
 
 Hands-on with our [FSL Muse 3D (Full Spectrum Laser)](https://fslaser.com/fsl-muse-3d-autofocus-desktop-co2-laser-cutter-bundle/)
-- Laser basics
+1. Laser basics
   - Safety (air filtration; fire safety)
-  - 1) Cooler. 2) Exhaust. 3) Air Assist.
-- Material choice (good and bad materials for lasers)
+  - Cooler; Exhaust; Air Assist.
+2. Material choice (good and bad materials for lasers)
   - Laser Settings for Cutting ([webpage](http://blog.fslaser.com/experts/muse-workflow-laser-settings-for-cutting))
   - Material Test ([webpage](http://laser101.fslaser.com/materialtest))
-- Cut demos
-- Design concerns
+  - Log your cuts. (date, time, material, thickness, power settings)
+    - (We are building a library of materials and settings)
+4. Cut demos
+  - We will use your HW1. 
 
 # Cutting
 Full Spectrum Laser has their own engraving software called [RetinaEngrave](https://fslaser.com/re3/).  We will use it from the workstation on the laser table.
@@ -36,8 +38,8 @@ Full Spectrum Laser has their own engraving software called [RetinaEngrave](http
 # Design for Laser Cutter
 1. Create new file from template. Small objects inches.
 2. Drawing in 2d; using layers
-3. Exporting to SVG.
-4. Let's fix our HW1 and then cut some.
+4. Exporting to SVG.
+5. Let's fix our HW1 and then cut some.
 
 # Homework
 - [Exercise 3]
