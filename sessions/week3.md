@@ -88,16 +88,14 @@ __Simple Laser Cutter Design__
    - (f.ex. for 1/8" birch plywood you would extrude it to something like 0.125" thick. you can use your calipers to check these measurements)
 5. Exporting to SVG.
 
-__3D Structures with 2D Materials__
+__Tab and Slot Construction__
 1. How can we build 3d structure with 2d materials? 
 2. Tab and slot construction? (also called finger joints)
+3. Tutorials
+   - Finger joint laser cut box: https://www.youtube.com/watch?v=FBSQGHBpBWg
+   - Finger joint tutorial in Rhino with boolean operations: https://www.youtube.com/watch?v=AYxUUSWIRW4
 
-
-References: 
-- Finger joint laser cut box: https://www.youtube.com/watch?v=FBSQGHBpBWg
-- Finger joint tutorial in Rhino with boolean operations: https://www.youtube.com/watch?v=AYxUUSWIRW4
-
-__Advanced__
+__Advanced 3D Forms__
 - Living hinge construction
   - Kerf Bending Experiments: https://www.martin-breuer.com/kerf-bending-patterns
   - Lattice Hinge Design Workshop: https://futurearchi.org/t/lattice-hinge-design-workshop-starting-from-an-open-source-grasshopper-design/576
