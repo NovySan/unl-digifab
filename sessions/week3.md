@@ -55,7 +55,7 @@ Full Spectrum Laser has their own engraving software called [RetinaEngrave](http
 - [Exercise 3]
 
 # Office Hours
-- Tuesday (9/14) - 12:30-3:15
+- Tuesday (9/14) - 12:30-3:15 - Shop hours
 - Wednesday (9/15) - 1-2pm
 
 # References
