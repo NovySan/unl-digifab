@@ -17,7 +17,7 @@ Hands-on with our [FSL Muse 3D (Full Spectrum Laser)](https://fslaser.com/fsl-mu
 
 1. Laser basics
    - Safety (air filtration; fire safety)
-   - ALWAYS: Water Cooler, Exhaust, Air Assist.
+   - __ALWAYS before you cut__: turn on the __Water Cooler__, __Exhaust__, __Air Assist__.
 2. Material choice (good and bad materials for lasers)
    - Good materials to start with:
      - thick papers (card stock, manilla folder, index cards, office paper, watercolor paper, bristol board, vellum)
