@@ -17,7 +17,7 @@ Hands-on with our [FSL Muse 3D (Full Spectrum Laser)](https://fslaser.com/fsl-mu
 
 1. Laser basics
    - Safety (air filtration; fire safety)
-   - Cooler; Exhaust; Air Assist.
+   - ALWAYS: Water Cooler, Exhaust, Air Assist.
 2. Material choice (good and bad materials for lasers)
    - [Laser Settings for Cutting](http://blog.fslaser.com/experts/muse-workflow-laser-settings-for-cutting)
    - [Material Test](http://laser101.fslaser.com/materialtest)
