@@ -1,7 +1,8 @@
 # Week 3 - Laser Cutter; 2D Digifab
 ## Agenda
-- Updates: 
-  - Lecture recordings.
+- Announcements:
+  - Lecture recordings (try and try again)
+  - Digital Sketchbooks
   - Configure Rhinoceros Zoo (license)
     - (Rhino is available in the computer lab as well)
 - Review HW1 and HW2
@@ -60,7 +61,8 @@ __4. Cut Types__
 <img src="https://user-images.githubusercontent.com/1598545/132678369-cbc08f46-2793-48e7-9f08-f020cf8dcfc6.png" width="400px">
 
 __5. Cut demos__
-We will use your HW1. 
+- We will use your HW1. 
+- Let's double check/fix our HW 1 and then cut some. 
 
 # Cutting
 Full Spectrum Laser has their own engraving software called [RetinaEngrave](https://fslaser.com/re3/).  We will use it from the workstation on the laser table.
@@ -80,8 +82,9 @@ Full Spectrum Laser has their own engraving software called [RetinaEngrave](http
 # Design for Laser Cutter
 1. Create new file from template. Small objects inches.
 2. Drawing in 2d; using layers
-4. Exporting to SVG.
-5. Let's fix our HW1 and then cut some.
+3. Optional: Extrude your layers to the thickness of your material, to see what this would look like __as cut__. 
+   - (f.ex. for 1/8" birch plywood you would extrude it to something like 0.125" thick. you can use your calipers to check these measurements)
+5. Exporting to SVG.
 
 # Homework
 - [Exercise 3]
