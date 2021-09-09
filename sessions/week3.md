@@ -93,7 +93,8 @@ __Tab and Slot Construction__
 
 __Advanced__
 - Living hinge construction
-  - https://futurearchi.org/t/lattice-hinge-design-workshop-starting-from-an-open-source-grasshopper-design/576
+  - Kerf Bending Experiments: https://www.martin-breuer.com/kerf-bending-patterns
+  - Lattice Hinge Design Workshop: https://futurearchi.org/t/lattice-hinge-design-workshop-starting-from-an-open-source-grasshopper-design/576
 
 # Homework
 - [Exercise 3]
