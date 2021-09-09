@@ -40,7 +40,6 @@ Hands-on with our [FSL Muse 3D (Full Spectrum Laser)](https://fslaser.com/fsl-mu
    - Over time, we (as a Center) will come up with our own materials settings that work well with our laser cutter. 
    - So, __log your cuts__: (date, time, material, thickness, power settings)
      - (we need this to build our library of materials and settings)
-![image](https://user-images.githubusercontent.com/1598545/132598192-898d58a6-ba56-40fc-8e95-18374daada8a.png)
 4. Cut Types
    - Engraving vs Cutting: 
      - __Engraving__: marking patterns into the surface of a material (faster, lower power, can engrave materials like glass, stone that can't be cut through)
@@ -82,12 +81,13 @@ Full Spectrum Laser has their own engraving software called [RetinaEngrave](http
 - Tuesday (9/14) - 12:30-3:15 - Shop hours
 - Wednesday (9/15) - 1-2pm
 
-# References
-- RetinaEngrave:
+# Reference
+- RetinaEngrave Software:
    -[Video Tutorials](https://www.youtube.com/playlist?list=PL_1I1UNQ4oGa0w55C772Y1mC6F4f3ZcG6)
    -[quick reference guide](https://info.fslaser.com/hubfs/Public_Documents/RetinaEngrave%20v3.0%20RefGuide.pdf)  
    -[RE3.0 Manual](https://info.fslaser.com/hubfs/Public_Documents/RetinaEngrave%20v3.0%20Manual.pdf)
-- FSL Muse:
+- FSL Muse References:
   -[Muse 3D Manual](https://f.hubspotusercontent00.net/hubfs/2882208/MUSE_MANUAL.pdf)
   - FSL Muse specifications, safety documentation.
-  - suggested started power settings for FSL Muse:
+  - Suggested starting power settings for FSL Muse (do tests and adjust these for your project):
+![image](https://user-images.githubusercontent.com/1598545/132598192-898d58a6-ba56-40fc-8e95-18374daada8a.png)
