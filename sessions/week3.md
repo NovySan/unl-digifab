@@ -18,8 +18,9 @@ Hands-on with our [FSL Muse 3D (Full Spectrum Laser)](https://fslaser.com/fsl-mu
 1. Laser basics
    - Safety (air filtration; fire safety)
    - __ALWAYS__ before you cut: turn on the Water Cooler, Exhaust, Air Assist.
-2. Material choice (good and bad materials for lasers)
-   - _Good_ materials to start with:
+   - Infrared laser (actually cuts). Red laser (for knowing where you are going to cut)
+2. Material choice
+   - _Good_ materials for laser cutter:
      - thick papers (card stock, manilla folder, index cards, office paper, watercolor paper, bristol board, vellum)
      - thin cardboard (poster board, matte board, corrugated cardboard - i.e. cardboard boxes)
      - plastic sheets (acrylic, ABS)
