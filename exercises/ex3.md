@@ -3,9 +3,9 @@
 # Flat Pack Future
 
 This exercise is about building 3d form using 2D materials. I want you to design a kit of parts that can be assembled to create a 3D form. On the laser cutter we can cut flat stock (corrugated cardboard, matte board, architectural pywood). The trick is desinging flat parts that can be assembled to make a 3D structure. This technique is probably most familiar to you from wooden models (see the dinosaur above). In terms of form, this exercise is very open ended -- you do not need to make a dinosaur.
-
 <br>
-
+For this assignment you can predominantly do 2D free-form drawing in Rhino, so long as you are sure to include some tabs and slots so that those drawings can be assembled after they are cut. 
+<br>
 Learning Goals: 
 - Gain experience with laser cutting flat materials. 
 - Experience using calipers to measure the thickness of materials. 
