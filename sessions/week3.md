@@ -103,7 +103,7 @@ __Advanced 3D Forms__
 - Parametric design for kerfs and 3d structures (grasshopper)
 
 # Homework
-- [Exercise 3]
+- [Exercise 3](../exercises/ex3.md) DUE Thursday September 16, 9pm
 
 # Office Hours
 - Tuesday (9/14) - 12:30-3:15 - Shop hours
