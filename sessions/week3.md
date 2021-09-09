@@ -19,10 +19,22 @@ Hands-on with our [FSL Muse 3D (Full Spectrum Laser)](https://fslaser.com/fsl-mu
    - Safety (air filtration; fire safety)
    - ALWAYS: Water Cooler, Exhaust, Air Assist.
 2. Material choice (good and bad materials for lasers)
-   - [Laser Settings for Cutting](http://blog.fslaser.com/experts/muse-workflow-laser-settings-for-cutting)
-   - [Material Test](http://laser101.fslaser.com/materialtest)
+   - Good materials to start with:
+     - thick papers (card stock, manilla folder, index cards, office paper, watercolor paper, bristol board, vellum)
+     - thin cardboard (poster board, matte board, corrugated cardboard - i.e. cardboard boxes)
+     - plastic sheets (acrylic, ABS)
+     - wood (architectural plywood, balsa wood, thin birch plywood, veneers) 
+     - engraving on leather
+   - Bad materials:
+     - anything vinyl (PVC plastic tube and sheet, vinyl decals)
+     - polystyrene (i.e. styrofoam, packing peanuts)
+4. Laser Settings
+   - Blog post on [Laser Settings for Cutting](http://blog.fslaser.com/experts/muse-workflow-laser-settings-for-cutting)
+   - Procedure for [Materials Test](http://laser101.fslaser.com/materialtest)
+     - (we can also do this a little more informally) 
    - Log your cuts. (date, time, material, thickness, power settings)
-     - (We are building a library of materials and settings)
+     - (we are building a library of materials and settings)
+
 4. Cut demos
    - We will use your HW1. 
 
