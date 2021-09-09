@@ -17,7 +17,7 @@ Learning Goals:
 1. Ideation
    - What kind of a form do you want to make? (Discuss)
 2. Design
-   - Refer to our week3 tutorials [../sessions/week3.md] and the video recording.
+   - Refer to our [week3 tutorials](../sessions/week3.md) and the video recording.
    - You will create a complete 2D layout for your part in Rhino. 
    - You do not necessarily need to assemble it in 3D, in Rhino. 
      - (If it helps you to think through how the piece will go together, then extrude your outlines as 2D parts, and rotate/translate/assemble them in 3D)
