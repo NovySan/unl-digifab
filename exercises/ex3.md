@@ -37,16 +37,12 @@ Learning Goals:
    - SVG export of your final design, formatted to run on our laser cutter. (remember to hide extraneous layers)
    - Photographs of your final product.
 2. Sketchbook Updates:
-   - Sketches
-   - Screenshots of 2D designs
-   - Process images/videos
-   - Photos of final product
-   - Any notes, narrative about process.
+   - sketches; screenshots of 2D designs; process images/videos; photos of final product; any notes, narrative about process.
 3. Submission: 
-   - Photographs of final product
-   - SVG file of output
+   - Photographs of the final product
+   - SVG file of your cutting templates
    - Rhino file (3DM)
-   - Upload your files to Canvas 
+   - Upload all of these files to Canvas
      - (use the naming convention _ex3_Lastname_1.jpg_ and _ex3_Lastname.svg_ _ex3_Lastname.3dm_ for the files.)
 
 DUE 9/16, 9pm (Thursday) to [Canvas](https://canvas.unl.edu/courses/114938/assignments/1086825)
