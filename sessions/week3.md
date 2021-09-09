@@ -32,7 +32,7 @@ Hands-on with our [FSL Muse 3D (Full Spectrum Laser)](https://fslaser.com/fsl-mu
      - polystyrene (i.e. styrofoam, packing peanuts)
    - What other materials do you have questions about?
 3. Laser Settings
-   - For any given material, we need to find the right cutting settings. 
+   - For any given material, we need to find the right power settings. 
    - There are three parameters we set: __Speed__, __Power__, __Current__.
      - (see the chart at the bottom fo the page for some starting points for different materials)
    - We can do formal tests to find the best parameters. See this [Materials Test](http://laser101.fslaser.com/materialtest) procedure.
@@ -44,10 +44,14 @@ Hands-on with our [FSL Muse 3D (Full Spectrum Laser)](https://fslaser.com/fsl-mu
 4. Cut Types
    - Engraving vs Cutting: 
      - __Engraving__: marking patterns into the surface of a material (faster, lower power, can engrave materials like glass, stone that can't be cut through)
-     - __Cutting__: cutting through the material. (slow, higher power, smokes/catches fire) 
-   - __Vector Cutting__: cutting shapes out of materials. **this is the bulk of what we will do** SVG files. 
-   - __Vector Engraving__: using vector art to mark the surface. designs, patterns, cross-hatching. SVGs.
-   - __Raster Engraving__: rendering a bitmap on the surface of something, row by row like an old school printer. BMPs.
+     - __Cutting__: cutting through the material. (slow, higher power, smokes/catches fire)
+     - the difference is whether you are cutting through the material, or marking the surface/
+     - the power of our laser tube (45 Watts) determines what thickness we can cut through. higher power lasers (65-75W, 100W) can cut through thicker materials. but there are still limits. The fiber laser (Innovation Studio) is a whole different laser type that can cut through 0.25" plate steel, for instance.
+   - The three main modes we will do: 
+     - __Vector Cutting__: cutting shapes out of materials. **this is the bulk of what we will do** SVG files. 
+     - __Vector Engraving__: using vector art to mark the surface. designs, patterns, cross-hatching. SVGs.
+     - __Raster Engraving__: rendering a bitmap on the surface of something, row by row like an old school printer. BMPs.
+   - in the Muse software (RetinaEngrave), "Cutting" and "Engraving" are both called Engraving. We just choose different power settings. See the chart at bottom of the page.
 <img src="https://user-images.githubusercontent.com/1598545/132678369-cbc08f46-2793-48e7-9f08-f020cf8dcfc6.png" width="400px">
 5. Cut demos
    - We will use your HW1. 
