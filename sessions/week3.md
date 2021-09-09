@@ -17,35 +17,40 @@ Hands-on with our [FSL Muse 3D (Full Spectrum Laser)](https://fslaser.com/fsl-mu
 
 1. Laser basics
    - Safety (air filtration; fire safety)
-   - __ALWAYS before you cut__: turn on the __Water Cooler__, __Exhaust__, __Air Assist__.
+   - __ALWAYS__ before you cut: turn on the Water Cooler, Exhaust, Air Assist.
 2. Material choice (good and bad materials for lasers)
-   - Good materials to start with:
+   - _Good_ materials to start with:
      - thick papers (card stock, manilla folder, index cards, office paper, watercolor paper, bristol board, vellum)
      - thin cardboard (poster board, matte board, corrugated cardboard - i.e. cardboard boxes)
      - plastic sheets (acrylic, ABS)
      - wood (architectural plywood, balsa wood, thin birch plywood, veneers) 
      - engraving on leather
      - textiles
-   - Bad materials:
+   - _Bad_ materials:
      - anything vinyl (PVC plastic tube and sheet, vinyl decals)
      - polystyrene (i.e. styrofoam, packing peanuts)
    - What other materials do you have questions about?
 3. Laser Settings
    - For any given material, we need to find the right cutting settings. 
    - There are three parameters we set: __Speed__, __Power__, __Current__.
-     - (see the chart below for some starting points of suggested started power settings for FSL Muse:) 
-  ![image](https://user-images.githubusercontent.com/1598545/132598192-898d58a6-ba56-40fc-8e95-18374daada8a.png)
+     - (see the chart at the bottom fo the page for some starting points for different materials)
    - We can do formal tests to find the best parameters. See this [Materials Test](http://laser101.fslaser.com/materialtest) procedure.
      - (we can also do this a little more informally) 
-   - Blog post on [Laser Settings for Cutting](http://blog.fslaser.com/experts/muse-workflow-laser-settings-for-cutting)
+     - Blog post on [Laser Settings for Cutting](http://blog.fslaser.com/experts/muse-workflow-laser-settings-for-cutting)
    - Over time, we (as a Center) will come up with our own materials settings that work well with our laser cutter. 
-   - __Log your cuts__: (date, time, material, thickness, power settings)
+   - So, __log your cuts__: (date, time, material, thickness, power settings)
      - (we need this to build our library of materials and settings)
-
-4. Cut demos
+4. Cut Types
+   - Engraving: marking patterns into the surface of a material (faster, lower power, can engrave materials like glass, stone that can't be cut through)
+   - Cutting: cutting through the material. (slow, higher power, smokes/catches fire) 
+   - Vector Cutting: cutting shapes out. SVG files. 
+   - Vector Engraving: using vector art to mark the surface. designs, patterns, cross-hatching. SVGs.
+   - Raster engraving: rendering a bitmap on the surface of something, row by row like an old school printer. BMPs.
+   - We will spend most of our time doing vector engraving/cutting
+<img src="https://user-images.githubusercontent.com/1598545/132678369-cbc08f46-2793-48e7-9f08-f020cf8dcfc6.png" width="400px">
+5. Cut demos
    - We will use your HW1. 
 
-  
 # Cutting
 Full Spectrum Laser has their own engraving software called [RetinaEngrave](https://fslaser.com/re3/).  We will use it from the workstation on the laser table.
 
@@ -61,8 +66,6 @@ Full Spectrum Laser has their own engraving software called [RetinaEngrave](http
 10. Turn on Water Cooler; Exhaust; Air Assist.
 11. Run job.
 
-
-<img src="https://user-images.githubusercontent.com/1598545/132678369-cbc08f46-2793-48e7-9f08-f020cf8dcfc6.png" width="400px">
 
 
 # Design for Laser Cutter
@@ -86,4 +89,5 @@ Full Spectrum Laser has their own engraving software called [RetinaEngrave](http
 - FSL Muse:
   -[Muse 3D Manual](https://f.hubspotusercontent00.net/hubfs/2882208/MUSE_MANUAL.pdf)
   - FSL Muse specifications, safety documentation.
-
+  - suggested started power settings for FSL Muse:
+  ![image](https://user-images.githubusercontent.com/1598545/132598192-898d58a6-ba56-40fc-8e95-18374daada8a.png)
