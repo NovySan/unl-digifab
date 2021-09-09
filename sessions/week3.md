@@ -5,7 +5,7 @@
   - Configure Rhinoceros Zoo (license)
     - (Rhino is available in the computer lab as well)
 - Review HW1 and HW2
-- [Intro to Laser Cuttesr](#intro-to-laser-cutter) (hardware hands-on)
+- [Intro to Laser Cutter](#intro-to-laser-cutter) (hardware hands-on)
 - [Cutting](#cutting)
 - [Design for Laser Cutter](#design-for-laser-cutter)
 - [Homework](#homework)
