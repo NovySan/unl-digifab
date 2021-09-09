@@ -2,7 +2,7 @@
 
 # Flat Pack Future
 
-This exercise is about building 3d form using 2D materials. I want you to design a kit of parts that can be assembled to create a 3D form. On the laser cutter we can cut flat stock (corrugated cardboard, matte board, architectural pywood) and use it to assemble a 3D structure. This technique is probably most familiar from laser cut/die cut models (see the dinosaur above). You do not need to make a dinosaur.
+This exercise is about building 3d form using 2D materials. I want you to design a kit of parts that can be assembled to create a 3D form. On the laser cutter we can cut flat stock (corrugated cardboard, matte board, architectural pywood) and use it to assemble a 3D structure. This technique is probably most familiar from laser cut/die cut models (see the dinosaur above). In terms of form, this exercise is very open ended -- you do not need to make a dinosaur.
 
 <br>
 
