@@ -18,7 +18,8 @@ Hands-on with our [FSL Muse 3D (Full Spectrum Laser)](https://fslaser.com/fsl-mu
 1. Laser basics
    - Safety (air filtration; fire safety)
    - __ALWAYS__ before you cut: turn on the Water Cooler, Exhaust, Air Assist.
-   - Infrared laser (actually cuts). Red laser (for knowing where you are going to cut)
+   - The Muse has two lasers, actually: an infrared CO2 laser (actually cuts our materials), and a visible light Red laser (for knowing where you are going to cut)
+   - We also have a 3d camera. This is useful to capture an image of workspace (2D) to lay out a cut on our material. In 3D mode we can do some etching/engraving on irregular and three dimensional materials. That is an advanced topic.
 2. Material choice
    - _Good_ materials for laser cutter:
      - thick papers (card stock, manilla folder, index cards, office paper, watercolor paper, bristol board, vellum)
@@ -53,8 +54,7 @@ Hands-on with our [FSL Muse 3D (Full Spectrum Laser)](https://fslaser.com/fsl-mu
      - __Raster Engraving__: rendering a bitmap on the surface of something, row by row like an old school printer. BMPs.
    - In the Muse software (RetinaEngrave), "Cutting" and "Engraving" are both called Engraving. We just choose different power settings. See the chart at bottom of the page.
 <img src="https://user-images.githubusercontent.com/1598545/132678369-cbc08f46-2793-48e7-9f08-f020cf8dcfc6.png" width="400px">
-5. Cut demos
-   - We will use your HW1. 
+5. Cut demos. We will use your HW1. 
 
 # Cutting
 Full Spectrum Laser has their own engraving software called [RetinaEngrave](https://fslaser.com/re3/).  We will use it from the workstation on the laser table.
@@ -70,8 +70,6 @@ Full Spectrum Laser has their own engraving software called [RetinaEngrave](http
 9. Set the engraving properties - __Vector Engraving__ (note, it is all called "engraving" in Muse)
 10. Turn on Water Cooler; Exhaust; Air Assist.
 11. Run job.
-
-
 
 # Design for Laser Cutter
 1. Create new file from template. Small objects inches.
