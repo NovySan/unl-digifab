@@ -1,6 +1,9 @@
+![image](https://user-images.githubusercontent.com/1598545/132705379-1230e72c-d161-4bb1-a49e-3f18e4588329.png)
+
 # Flat Pack Future
 
-[TK]
+This exercise is about building 3d form with 2d materials. On the laser cutter we can cut flat stock (corrugated cardboard, matte board, architectural pywood) and use it to assemble 3d forms. 
+
 <br>
 
 [Some more details]
