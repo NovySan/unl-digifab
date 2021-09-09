@@ -48,7 +48,7 @@ Hands-on with our [FSL Muse 3D (Full Spectrum Laser)](https://fslaser.com/fsl-mu
      - The difference is whether you are cutting through the material, or marking the surface.
      - The power of our laser tube (45 Watts) determines what thickness we can cut through. Higher power lasers (65-75W, 100W) can cut through thicker materials. But there are still limits. The fiber laser (Innovation Studio) is a whole different laser type that can cut through 0.25" plate steel, for instance.
    - The three main modes we will do: 
-     - __Vector Cutting__: cutting shapes out of materials. **this is the bulk of what we will do** SVG files. 
+     - __Vector Cutting__: cutting shapes out of materials. **this is the bulk of what we will do**. SVG files. 
      - __Vector Engraving__: using vector art to mark the surface. designs, patterns, cross-hatching. SVGs.
      - __Raster Engraving__: rendering a bitmap on the surface of something, row by row like an old school printer. BMPs.
    - In the Muse software (RetinaEngrave), "Cutting" and "Engraving" are both called Engraving. We just choose different power settings. See the chart at bottom of the page.
