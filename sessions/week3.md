@@ -96,9 +96,6 @@ __Advanced__
   - Kerf Bending Experiments: https://www.martin-breuer.com/kerf-bending-patterns
   - Lattice Hinge Design Workshop: https://futurearchi.org/t/lattice-hinge-design-workshop-starting-from-an-open-source-grasshopper-design/576
 
-![image](https://user-images.githubusercontent.com/1598545/132702764-8225398f-a764-49a5-95e2-77019343fe65.png)
-From https://futurearchi.org/t/lattice-hinge-design-workshop-starting-from-an-open-source-grasshopper-design/576
-
 # Homework
 - [Exercise 3]
 
