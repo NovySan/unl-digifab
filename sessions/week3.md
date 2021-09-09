@@ -42,7 +42,7 @@ Full Spectrum Laser has their own engraving software called [RetinaEngrave](http
 11. Run job.
 
 
-![image](https://user-images.githubusercontent.com/1598545/132678369-cbc08f46-2793-48e7-9f08-f020cf8dcfc6.png)
+<img src="https://user-images.githubusercontent.com/1598545/132678369-cbc08f46-2793-48e7-9f08-f020cf8dcfc6.png" width="400px">
 
 
 # Design for Laser Cutter
