@@ -6,14 +6,24 @@ This exercise is about building 3d form using 2D materials. I want you to design
 
 <br>
 
-
+Learning Goals: 
+- Gain experience with laser cutting flat materials. 
+- Experience using calipers to measure the thickness of materials. 
+- Experience iterating on designs with Rhino and the Laser Cutter, until the parts fit.
+- Thinking in two and three dimensions. 
+- Thinking through fabrication processes in relation to CAD software (RHINO) and designing 3d forms. 
 
 # Process
 1. Ideation
    - What kind of a form do you want to make? (Discuss)
 2. Design
    - Refer to our week3 tutorials [../sessions/week3.md] and the video recording.
+   - You will create a complete 2D layout for your part in Rhino. 
+   - You do not necessarily need to assemble it in 3D, in Rhino. 
+     - (If it helps you to think through how the piece will go together, then extrude your outlines as 2D parts, and rotate/translate/assemble them in 3D)
 3. Fabrication
+   - You need to actually fabricate this assignment from some flat material. 
+     -  I suggest that you use salvaged corrogated cardboard.
    - What time will we have open fabrication hours? check [here](https://github.com/roberttwomey/unl-digifab/blob/master/sessions/week3.md#office-hours)
 
 # Submission
@@ -23,17 +33,18 @@ This exercise is about building 3d form using 2D materials. I want you to design
    - Photographs of your final product, assembled. Follow good documentation procedure.
    - SVG export of your final design, formatted to run on our laser cutter. (remember to hide extraneous layers)
    - Photographs of your final product.
-2. Sketchbook: update your sketchbook for this exercise
+2. Sketchbook Updates:
    - Sketches
    - Screenshots of 2D designs
    - Process images/videos
    - Photos of final product
    - Any notes, narrative about process.
 3. Submission: 
-   - upload your files to Canvas (use the naming convention _ex1_Lastname_1.jpg_ and _ex1_Lastname.stl_ for the files.)
    - Photographs of final product
    - SVG file of output
    - Rhino file (3DM)
+   - Upload your files to Canvas 
+     - (use the naming convention _ex3_Lastname_1.jpg_ and _ex3_Lastname.svg_ _ex3_Lastname.3dm_ for the files.)
 
 DUE 9/16, 9pm (Thursday) to Canvas [link to come]
 
