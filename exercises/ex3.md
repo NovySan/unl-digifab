@@ -49,4 +49,4 @@ Learning Goals:
 DUE 9/16, 9pm (Thursday) to Canvas [link to come]
 
 # References
-- refs go here
+- No references at the moment.
