@@ -25,19 +25,27 @@ Hands-on with our [FSL Muse 3D (Full Spectrum Laser)](https://fslaser.com/fsl-mu
      - plastic sheets (acrylic, ABS)
      - wood (architectural plywood, balsa wood, thin birch plywood, veneers) 
      - engraving on leather
+     - textiles
    - Bad materials:
      - anything vinyl (PVC plastic tube and sheet, vinyl decals)
      - polystyrene (i.e. styrofoam, packing peanuts)
-4. Laser Settings
-   - Blog post on [Laser Settings for Cutting](http://blog.fslaser.com/experts/muse-workflow-laser-settings-for-cutting)
-   - Procedure for [Materials Test](http://laser101.fslaser.com/materialtest)
+   - What other materials do you have questions about?
+3. Laser Settings
+   - For any given material, we need to find the right cutting settings. 
+   - There are three parameters we set: __Speed__, __Power__, __Current__.
+     - (see the chart below for some starting points of suggested started power settings for FSL Muse:) 
+  ![image](https://user-images.githubusercontent.com/1598545/132598192-898d58a6-ba56-40fc-8e95-18374daada8a.png)
+   - We can do formal tests to find the best parameters. See this [Materials Test](http://laser101.fslaser.com/materialtest) procedure.
      - (we can also do this a little more informally) 
-   - Log your cuts. (date, time, material, thickness, power settings)
-     - (we are building a library of materials and settings)
+   - Blog post on [Laser Settings for Cutting](http://blog.fslaser.com/experts/muse-workflow-laser-settings-for-cutting)
+   - Over time, we (as a Center) will come up with our own materials settings that work well with our laser cutter. 
+   - __Log your cuts__: (date, time, material, thickness, power settings)
+     - (we need this to build our library of materials and settings)
 
 4. Cut demos
    - We will use your HW1. 
 
+  
 # Cutting
 Full Spectrum Laser has their own engraving software called [RetinaEngrave](https://fslaser.com/re3/).  We will use it from the workstation on the laser table.
 
@@ -78,5 +86,4 @@ Full Spectrum Laser has their own engraving software called [RetinaEngrave](http
 - FSL Muse:
   -[Muse 3D Manual](https://f.hubspotusercontent00.net/hubfs/2882208/MUSE_MANUAL.pdf)
   - FSL Muse specifications, safety documentation.
-- Suggested started power settings for FSL Muse:
-  ![image](https://user-images.githubusercontent.com/1598545/132598192-898d58a6-ba56-40fc-8e95-18374daada8a.png)
+
