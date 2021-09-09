@@ -15,7 +15,7 @@
 
 Hands-on with our [FSL Muse 3D (Full Spectrum Laser)](https://fslaser.com/fsl-muse-3d-autofocus-desktop-co2-laser-cutter-bundle/):
 
-1. Laser basics
+__1. Laser basics__
    - Safety (air filtration; fire safety)
    - __ALWAYS__ before you cut: turn on the Water Cooler, Exhaust, Air Assist.
    - The Muse has two lasers, actually: an infrared CO2 laser (actually cuts our materials), and a visible light Red laser (for knowing where you are going to cut)
