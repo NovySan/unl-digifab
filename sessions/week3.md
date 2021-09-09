@@ -19,8 +19,8 @@ Hands-on with our [FSL Muse 3D (Full Spectrum Laser)](https://fslaser.com/fsl-mu
    - Safety (air filtration; fire safety)
    - Cooler; Exhaust; Air Assist.
 2. Material choice (good and bad materials for lasers)
-   - Laser Settings for Cutting ([webpage](http://blog.fslaser.com/experts/muse-workflow-laser-settings-for-cutting))
-   - Material Test ([webpage](http://laser101.fslaser.com/materialtest))
+   - [Laser Settings for Cutting](http://blog.fslaser.com/experts/muse-workflow-laser-settings-for-cutting)
+   - [Material Test](http://laser101.fslaser.com/materialtest)
    - Log your cuts. (date, time, material, thickness, power settings)
      - (We are building a library of materials and settings)
 4. Cut demos
