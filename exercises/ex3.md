@@ -45,7 +45,7 @@ Learning Goals:
    - Upload your files to Canvas 
      - (use the naming convention _ex3_Lastname_1.jpg_ and _ex3_Lastname.svg_ _ex3_Lastname.3dm_ for the files.)
 
-DUE 9/16, 9pm (Thursday) to Canvas [link to come]
+DUE 9/16, 9pm (Thursday) to [Canvas](https://canvas.unl.edu/courses/114938/assignments/1086825)
 
 # References
 - No references at the moment.
