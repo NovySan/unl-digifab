@@ -14,7 +14,7 @@ This exercise is about building 3d form using 2D materials. I want you to design
 2. Design
    - Refer to our week3 tutorials [../sessions/week3.md] and the video recording.
 3. Fabrication
-   - What time will we have open fabrication hours? (Tuesday, Wednesday)
+   - What time will we have open fabrication hours? check [here](https://github.com/roberttwomey/unl-digifab/blob/master/sessions/week3.md#office-hours)
 
 # Submission
 1. Documentation:
