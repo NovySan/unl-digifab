@@ -88,13 +88,21 @@ __Simple Laser Cutter Design__
    - (f.ex. for 1/8" birch plywood you would extrude it to something like 0.125" thick. you can use your calipers to check these measurements)
 5. Exporting to SVG.
 
-__Tab and Slot Construction__
+__3D Structures with 2D Materials__
+1. How can we build 3d structure with 2d materials? 
+2. Tab and slot construction? (also called finger joints)
 
+
+References: 
+- Finger joint laser cut box: https://www.youtube.com/watch?v=FBSQGHBpBWg
+- Finger joint tutorial in Rhino with boolean operations: https://www.youtube.com/watch?v=AYxUUSWIRW4
 
 __Advanced__
 - Living hinge construction
   - Kerf Bending Experiments: https://www.martin-breuer.com/kerf-bending-patterns
   - Lattice Hinge Design Workshop: https://futurearchi.org/t/lattice-hinge-design-workshop-starting-from-an-open-source-grasshopper-design/576
+- Slicing / panelling tools (breaking 3d structure down into 2d components that can be assembled)
+- Parametric design for kerfs and 3d structures (grasshopper)
 
 # Homework
 - [Exercise 3]
