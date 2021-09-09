@@ -80,11 +80,20 @@ Full Spectrum Laser has their own engraving software called [RetinaEngrave](http
 11. Run job.
 
 # Design for Laser Cutter
+
+__Simple Laser Cutter Design__
 1. Create new file from template. Small objects inches.
 2. Drawing in 2d; using layers
 3. Optional: Extrude your layers to the thickness of your material, to see what this would look like __as cut__. 
    - (f.ex. for 1/8" birch plywood you would extrude it to something like 0.125" thick. you can use your calipers to check these measurements)
 5. Exporting to SVG.
+
+__Tab and Slot Construction__
+
+
+__Advanced__
+- Living hinge construction
+  - https://futurearchi.org/t/lattice-hinge-design-workshop-starting-from-an-open-source-grasshopper-design/576
 
 # Homework
 - [Exercise 3]
