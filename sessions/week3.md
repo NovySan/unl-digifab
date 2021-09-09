@@ -44,10 +44,9 @@ Hands-on with our [FSL Muse 3D (Full Spectrum Laser)](https://fslaser.com/fsl-mu
    - Engraving vs Cutting: 
      - __Engraving__: marking patterns into the surface of a material (faster, lower power, can engrave materials like glass, stone that can't be cut through)
      - __Cutting__: cutting through the material. (slow, higher power, smokes/catches fire) 
-   - Vector Cutting: cutting shapes out. SVG files. 
-   - Vector Engraving: using vector art to mark the surface. designs, patterns, cross-hatching. SVGs.
-   - Raster engraving: rendering a bitmap on the surface of something, row by row like an old school printer. BMPs.
-   - We will spend most of our time doing vector engraving/cutting
+   - __Vector Cutting__: cutting shapes out of materials. **this is the bulk of what we will do** SVG files. 
+   - __Vector Engraving__: using vector art to mark the surface. designs, patterns, cross-hatching. SVGs.
+   - __Raster Engraving__: rendering a bitmap on the surface of something, row by row like an old school printer. BMPs.
 <img src="https://user-images.githubusercontent.com/1598545/132678369-cbc08f46-2793-48e7-9f08-f020cf8dcfc6.png" width="400px">
 5. Cut demos
    - We will use your HW1. 
@@ -63,7 +62,7 @@ Full Spectrum Laser has their own engraving software called [RetinaEngrave](http
 6. Capture workspace (camera)
 7. Change your line colors/layer colors, if you need to.
 8. Change your scale/placement, if necessary. 
-9. Set the engraving properties - __Vector Engraving__
+9. Set the engraving properties - __Vector Engraving__ (note, it is all called "engraving" in Muse)
 10. Turn on Water Cooler; Exhaust; Air Assist.
 11. Run job.
 
