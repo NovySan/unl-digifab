@@ -41,8 +41,9 @@ Hands-on with our [FSL Muse 3D (Full Spectrum Laser)](https://fslaser.com/fsl-mu
    - So, __log your cuts__: (date, time, material, thickness, power settings)
      - (we need this to build our library of materials and settings)
 4. Cut Types
-   - Engraving: marking patterns into the surface of a material (faster, lower power, can engrave materials like glass, stone that can't be cut through)
-   - Cutting: cutting through the material. (slow, higher power, smokes/catches fire) 
+   - Engraving vs Cutting: 
+     - __Engraving__: marking patterns into the surface of a material (faster, lower power, can engrave materials like glass, stone that can't be cut through)
+     - __Cutting__: cutting through the material. (slow, higher power, smokes/catches fire) 
    - Vector Cutting: cutting shapes out. SVG files. 
    - Vector Engraving: using vector art to mark the surface. designs, patterns, cross-hatching. SVGs.
    - Raster engraving: rendering a bitmap on the surface of something, row by row like an old school printer. BMPs.
