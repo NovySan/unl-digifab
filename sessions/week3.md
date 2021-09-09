@@ -91,7 +91,9 @@ __Simple Laser Cutter Design__
 __Tab and Slot Construction__
 1. How can we build 3d structure with 2d materials? 
 2. Tab and slot construction? (also called finger joints)
-3. Tutorials
+3. You need to design 2d parts that have holes (slots), and other parts that have tabs, so that when cut from flat materials you can assemble them into 3d forms.
+4. Optional: Extrude your designs to the thickness of the material, to make solides. Assemble these solides in Rhino to mock up your 3d form.
+5. Reference (Video Tutorials):
    - Finger joint laser cut box: https://www.youtube.com/watch?v=FBSQGHBpBWg
    - Finger joint tutorial in Rhino with boolean operations: https://www.youtube.com/watch?v=AYxUUSWIRW4
 
