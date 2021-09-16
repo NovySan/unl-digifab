@@ -26,7 +26,6 @@
 
 # Contours and Stacked Construction
 - [contour](http://docs.mcneel.com/rhino/5/help/en-us/commands/contour.htm) command
-- 
 
 # BONUS: Pepakura and Unfolding
 
