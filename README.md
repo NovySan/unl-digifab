@@ -45,18 +45,18 @@ A student who successfully completes this course will:
 | | - [Digital Double / Virtual Replica (ex2)](exercises/ex2.md), Introduce Sketchbook |
 | 9/9 | [Week 3 - Laser Cutter; 2D Digifab](sessions/week3.md) |
 | | - [Flatpack Future (ex3)](exercises/ex3.md)|
-| 9/16 | Week 4 - Photogrammetry and 3d Scanning |
-| | - Real World to Digital and Back (ex4), assign Project 1: Digital Sculpture |
-| 9/23 | Week 5 - Re-Editing and Making Real: Mesh Editing, Slicing, 3DP |
-| | - Hybrid Object (ex5) |
+| 9/16 | Week 4 - Stacked Contours; Slices; 3D Forms; Mesh Editing |
+| | - Exercise? |
+| 9/23 | Week 5 - Re-Editing and Making Real: Slicing, 3DP; Photogrammetry and 3d Scanning; |
+| | - Real World to Digital and Back (ex4) or Hybrid Object (ex5), assign Project 1: Digital Sculpture  |
 | 9/30 | Week 6 - Microcontrollers and Digital I/O |
 | | - Project 1 Due, Meaningful Signal (ex6) |
 | 10/7 | Week 7 - Analog Input and Output; Analog Sensors |
-| | - “Even Thermostats Can Be Said to Have Feelings” (ex7), assign Project 2: Autonomous Artwork |
+| | - “Even Thermostats Can Be Said to Have Feelings” (ex7) |
 | 10/14 | Week 8 - Making Things Move: Servos and Actuators |
 | | - Biomimicry (ex8) |
 | 10/21 | Week 9 - DC Motors, Solenoids; Linkages and Mounts |
-| | - ____________ exercise (ex9)|
+| | - ____________ exercise (ex9), assign Project 2: Autonomous Artwork |
 | 10/28 | Week 10 - Steppers, CNC, Mechatronics |
 | | - Simple Coordinated Motion (ex10) |
 | 11/4 | Week 11 - Smart Textiles; Digital Craft |
