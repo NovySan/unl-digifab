@@ -22,8 +22,8 @@
 - Meshes
   - create meshes directly
   - importing
-   - [buffalo.3dm](../assets/day4/buffalo.3dm)
-   - [sliced_pikachu.3dm)(../assets/day4/sliced_pikachu.3dm) 
+   - (buffalo.3dm)[../assets/day4/buffalo.3dm]
+   - (sliced_pikachu.3dm)[../assets/day4/sliced_pikachu.3dm]
   - simplification (reduce), edit
 - [solids_meshes.3dm](../assets/day4/solids_meshes.3dm)
 
