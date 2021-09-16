@@ -6,7 +6,7 @@
     - (Update: is working on wired connection, still not working on eduroam for me)
 - Q&A on Exercise 3 / Cutting time.
 - Topics
-  - Recap from last week: Fabricating 3D Form from 2D Materials with Laser Cutter ([slides](https://docs.google.com/presentation/d/1ARPiH8T5reSiY5ewIX1UlxRUFG-ZnqqxFOQk_W-92V0/edit?usp=sharing))
+  - Recap from [last week](sessions/week3): Fabricating 3D Form from 2D Materials with Laser Cutter ([slides](https://docs.google.com/presentation/d/1ARPiH8T5reSiY5ewIX1UlxRUFG-ZnqqxFOQk_W-92V0/edit?usp=sharing))
   - [Mesh Basics in Rhino](#mesh-basics-in-rhino)
   - [Contours and Stacked Construction](#contours-and-stacked-construction)
   - [Bonus: Pepakura and Unfolding](#bonus-pepakura-and-unfolding)
