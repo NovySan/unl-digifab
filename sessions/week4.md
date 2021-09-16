@@ -27,7 +27,7 @@
 - [contour](http://docs.mcneel.com/rhino/5/help/en-us/commands/contour.htm) command
 - 
 
-# BONUS: Pepakura / Unfolding
+# BONUS: Pepakura and Unfolding
 
 # Homework
 - Exercise 4 DUE Thursday September 16, 9pm
