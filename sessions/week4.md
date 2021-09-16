@@ -4,19 +4,19 @@
 - Announcements:
   - Configure Rhinoceros Zoo (carson center license for Rhino 6.0)
     - (Update: is working on wired connection, still not working on eduroam for me)
-- Work time / Q&A on Exercise 3.
+- Q&A on Exercise 3 / Cutting time.
 - Topics
   - 
 - [Homework](#homework)
 - [Office Hours this Week](#office-hours)
 
-# Meshes and 3D Forms
+# Mesh Basics in Rhino
+- Basic editing
+
 
 # Contours / Stacked Construction
 
-# Pepakura / Unfolding
-
-# Mesh Editing in Rhino
+# BONUS: Pepakura / Unfolding
 
 # Homework
 - Exercise 4 DUE Thursday September 16, 9pm
