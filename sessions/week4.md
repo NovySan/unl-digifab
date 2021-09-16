@@ -23,7 +23,6 @@
   - create meshes directly
   - importing
     - [buffalo.3dm](../assets/day4/buffalo.3dm)
-    - [sliced_pikachu.3dm](../assets/day4/sliced_pikachu.3dm)
   - simplification (reduce), edit
 - [solids_meshes.3dm](../assets/day4/solids_meshes.3dm)
 
@@ -42,7 +41,8 @@
   - Importing a mesh into rhino
   - Slicing a mesh with the contour command
   - slicing/design for digital fabrication (material thickness considerations)
-  - [buffalo_contours.3dm](../assets/day4/buffalo_contours.3dm)
+    - [buffalo_contours.3dm](../assets/day4/buffalo_contours.3dm)
+    - [sliced_pikachu.3dm](../assets/day4/sliced_pikachu.3dm)
   - sliced pikachu
 
 # BONUS: Pepakura and Unfolding
