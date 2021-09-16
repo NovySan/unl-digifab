@@ -1,11 +1,10 @@
-# Week 4 - Meshes and 3D Forms; Contours, Stacks, Unfolding
+# Week 4 - Mesh Creation and Stacked Contours
 
 ## Agenda
 - Announcements:
-  - Digital Sketchbooks
-  - Configure Rhinoceros Zoo (license)
-    - (Rhino is available in the computer lab as well)
-- Review HW1 and HW2
+  - Configure Rhinoceros Zoo (carson center license for Rhino 6.0)
+    - (Update: is working on wired connection, still not working on eduroam for me)
+- Work time / Q&A on Exercise 3.
 - Topics
   - 
 - [Homework](#homework)
