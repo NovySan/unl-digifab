@@ -23,7 +23,7 @@
   - create meshes directly
   - importing
   - simplification (reduce), edit
-- [solids_meshes.3dm](../assets/day4/solids_meshes.3dm]
+- [solids_meshes.3dm](../assets/day4/solids_meshes.3dm)
 
 # Contours and Stacked Construction
 - Building a 3d form directly with stacks of contours
@@ -33,7 +33,7 @@
   - [stacked_contours_offset.3dm](../assets/day4/stacked_contours_offset.3dm)
 - Slicing a 3d mesh or surface object into 2d stacks
   - the [contour](http://docs.mcneel.com/rhino/5/help/en-us/commands/contour.htm) command
-  - [contour_command.3dm](../assets/day4/contour_command.3dm]
+  - [contour_command.3dm](../assets/day4/contour_command.3dm)
   - [contour_flatten_shear.3dm](../assets/day4/contour_flatten_shear.3dm)
 - Importing and slicing a complex mesh
   - Finding a mesh (thingiverse.com)
