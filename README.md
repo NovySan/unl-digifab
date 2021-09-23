@@ -47,7 +47,7 @@ A student who successfully completes this course will:
 | | - [Flatpack Future (ex3)](exercises/ex3.md)|
 | 9/16 | [Week 4 - Stacked Contours; Slices; 3D Forms; Mesh Editing](sessions/week4.md) |
 | | - ~Stacked Construction~ |
-| 9/23 | Week 5 -  Photogrammetry and 3d Scanning; |
+| 9/23 | Week 5 -  Capture Digital Form: Photogrammetry and 3d Scanning |
 | | - Real World to Digital and Back (ex4), assign Project 1: Digital Sculpture  |
 | 9/30 | Week 6 - Re-Editing and Making Real: Slicing, 3DP; |
 | | - Hybrid Object (ex5), DUE Project 1 Proposal |
