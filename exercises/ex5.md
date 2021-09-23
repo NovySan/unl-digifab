@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/1598545/134498035-b185efc3-02ab-4530-87c3-0a28f6f60ee5.png)
 
-[The Stanford Bunny](http://graphics.stanford.edu/data/3Dscanrep/) (1994) Read the longer, [illustrated history of the Stanford Bunny](https://www.cc.gatech.edu/~turk/bunny/bunny.html).
+[The Stanford Bunny](http://graphics.stanford.edu/data/3Dscanrep/) (1994). An unassuming, historic piece of digital statuary. Read the longer, [illustrated history of the Stanford Bunny](https://www.cc.gatech.edu/~turk/bunny/bunny.html).
 
 # Real World and Back Again
 
