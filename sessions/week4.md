@@ -22,10 +22,11 @@
   - when we export STL we are creating a mesh
 - Meshes
   - create meshes directly
-  - importing - `Import`
+  - importing - __Import__
     - [buffalo.3dm](../assets/day4/buffalo.3dm)
-  - simplification (`MeshReduce`)
-  - edit - `PointsOn`, and directly manipulating points on the mesh.
+  - simplification (__MeshReduce__)
+    - [buffalo_reduction.3dm](../assets/day4/buffalo_reduction.3dm)
+  - edit - __PointsOn__, and directly manipulating points on the mesh.
   - Closed vs Open Meshes
     - Mesh -> Repair Tools -> Fill All Holes
 
