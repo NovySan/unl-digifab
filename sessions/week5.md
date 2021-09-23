@@ -45,7 +45,7 @@ __Prepping for 3DP__
 - Exporting for 3DP (.STL)
 
 ## Homework
-- Exercise 5 DUE Thursday September 30, 9pm
+- [Exercise 5](../exercises/ex5.md) DUE Thursday September 30, 9pm
 - Concept for Project 1. 2 paragraphs on Canvas.
 
 ## Office Hours 
