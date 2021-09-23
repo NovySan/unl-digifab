@@ -14,7 +14,7 @@
 - [Homework](#homework)
 - [Office Hours this Week](#office-hours)
 
-# Mesh Basics in Rhino
+## Mesh Basics in Rhino
 
 __Solids vs. Meshes__ 
 [solids_meshes.3dm](../assets/day4/solids_meshes.3dm)
@@ -36,7 +36,7 @@ __Importing Meshes__
   - We need closed meshes for 3DP
   - Attempt to patch an open mesh: Mesh -> Repair Tools -> Fill All Holes
 
-# Contours and Stacked Construction
+## Contours and Stacked Construction
 - Building a 3d form directly with stacks of contours
   - tutorial file [stacked_contours_offset.3dm](../assets/day4/stacked_contours_offset.3dm)
   - freeform drawing
@@ -56,16 +56,16 @@ __Importing Meshes__
     - [sliced_pikachu.3dm](../assets/day4/sliced_pikachu.3dm)
   - sliced pikachu
 
-# BONUS: Pepakura and Unfolding
+## BONUS: Pepakura and Unfolding
 - [Pepakura Designer](https://tamasoft.co.jp/pepakura-en/)
 - In Rhino, we can unfold. more on this later.
 
-# Homework
+## Homework
 - Exercise 4 DUE Thursday September 23, 9pm
 - Concept for project 1. 2 paragraphs on Canvas.
 
-# Office Hours
+## Office Hours
 - Tuesday afternoon 9/21 
 - Wednesday afternoon 9/22 (after 1pm)
 
-# Reference
+## Reference
