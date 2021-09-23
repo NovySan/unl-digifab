@@ -18,9 +18,10 @@ Using 3D Scanner App (or polycam), you are going to digitize a real object. The 
 2. Import your OBJ into Rhino.
    - Your 3d scanned file will likely be **very large** (40MB+). Use `ReduceMesh` in Rhino to simplify the file before working with it.
 3. Edit the model, add base, add text, prepare for 3D printing.
+4. Export as an STL file.
 
 # Submission
-1. Canvas Submission:
+1. Canvas:
    - Three screenshots of your 3d scans either in the scanning app (`More` -> `Capture Thumbnail`) or in Rhino (turn on "Rendered" mode to show photo textures).
    - Rhino file (.3DM)
    - Images of your exported 3DP design (STL) file.
@@ -29,7 +30,7 @@ Using 3D Scanner App (or polycam), you are going to digitize a real object. The 
 2. Sketchbook Updates:
    - upload images of the scans, Rhino file, and STL. 
 
-DUE 9/23, 9pm (Thursday) to [Canvas](https://canvas.unl.edu/courses/114938/assignments/1086825)
+DUE 9/23, 9pm (Thursday) to [Canvas](https://canvas.unl.edu/courses/114938/assignments/1092948)
 
 # References
 - [Image Objects: An Archeology of Computer Graphics](https://mitpress.mit.edu/books/image-objects) by Jacob Gaboury (2021)
