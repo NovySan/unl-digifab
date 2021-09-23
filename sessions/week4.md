@@ -21,15 +21,16 @@
   - explode, cap
   - when we export STL we are creating a mesh
 - Meshes
-  - create meshes directly
-  - importing - __Import__
-    - [buffalo.3dm](../assets/day4/buffalo.3dm)
-  - simplification (__MeshReduce__)
+  - Create meshes directly
+  - Importing - Import
+    - [buffalo.stl](../assets/day4/buffalo.stl)
+    - Rotate and Scale as necessary to find and position the object.
+  - Simplification (MeshReduce)
     - [buffalo_reduction.3dm](../assets/day4/buffalo_reduction.3dm)
-  - edit - __PointsOn__, and directly manipulating points on the mesh.
+  - Edit - PointsOn, and directly manipulating points on the mesh.
   - Closed vs Open Meshes
-    - Mesh -> Repair Tools -> Fill All Holes
-
+    - We need closed meshes for 3DP
+    - Attempt to patch an open mesh: Mesh -> Repair Tools -> Fill All Holes
 # Contours and Stacked Construction
 - Building a 3d form directly with stacks of contours
   - tutorial file [stacked_contours_offset.3dm](../assets/day4/stacked_contours_offset.3dm)
