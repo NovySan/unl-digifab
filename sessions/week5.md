@@ -17,14 +17,25 @@
 ## Digitizing Objects
 - Two main technologies: photogrammetry and LIDAR
 
-## 3D Scans in Rhino
+## 3D Scans into Rhino
 
-## Rhino for 3DP
+__Importing a 3D Scan__
+- Create a new file in Rhino and import a 3d scan 
+  - [bunny.ply](../assets/day5/bunny.ply) (3MB)
+- Find the bunny and scale to an appropriate size. 
+  - Locate (Zoom eXtents), Rotate, Scale
+  - Simplify Mesh (MeshReduce) if necessary
 
-### Prusa Slicer
+__Prepping for 3DP__
+- Add a base
+- Add a label (text objects as solids)
+- Save as STL.
 
+## Slicing for 3DP
 - [Download Prusa Slicer](https://www.prusa3d.com/drivers/) (DRIVERS & APPS)
-- 
+- Load your STL file from above. 
+- Check scale, positioning. 
+- Select print parameters.
 
 ## Meshmixer
 - [Download Meshmixer](https://www.meshmixer.com/download.html)
