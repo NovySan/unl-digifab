@@ -33,7 +33,7 @@ __Prepping for 3DP__
 
 ## Slicing for 3DP
 - [Download Prusa Slicer](https://www.prusa3d.com/drivers/) (DRIVERS & APPS)
-- Load your STL file from above. 
+- Load your STL file from the previous steps. 
 - Check scale, positioning. 
 - Select print parameters.
   - Material. Slicing. Support. 
