@@ -8,11 +8,14 @@
 - Topics
   - Digitizing Objects
     - [Stanford Bunny](http://graphics.stanford.edu/data/3Dscanrep/)
+  - Working with 3D Scans
   - Photogrammetry
 - [Homework](#homework)
 - [Office Hours this Week](#office-hours)
 
-# Mesh Basics in Rhino
+# Digitizing Objects
+
+# Working with 3D Scans
 
 # Homework
 - Exercise 5 DUE Thursday September 30, 9pm
