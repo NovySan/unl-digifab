@@ -7,7 +7,6 @@
     - (Update: is working on wired connection, still not working on eduroam for me)
 - Topics
   - Digitizing Objects
-    - [Stanford Bunny](http://graphics.stanford.edu/data/3Dscanrep/)
   - 3D Scans in Rhino
   - Rhino for 3DP
   - Bonus: Meshmixer
@@ -16,6 +15,8 @@
 
 ## Digitizing Objects
 - Two main technologies: photogrammetry and LIDAR
+- Photogrammetry
+- LIDAR / 3d scanning (with laser)
 
 ## 3D Scans into Rhino
 
