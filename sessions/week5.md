@@ -39,7 +39,8 @@ __Prepping for 3DP__
 
 ## Meshmixer
 - [Download Meshmixer](https://www.meshmixer.com/download.html)
--
+- Hacking things together with meshmixer.
+- Exporting for 3DP (.STL)
 
 ## Homework
 - Exercise 5 DUE Thursday September 30, 9pm
