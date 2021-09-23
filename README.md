@@ -46,29 +46,29 @@ A student who successfully completes this course will:
 | 9/9 | [Week 3 - Laser Cutter; 2D Digifab](sessions/week3.md) |
 | | - [Flatpack Future (ex3)](exercises/ex3.md)|
 | 9/16 | [Week 4 - Stacked Contours; Slices; 3D Forms; Mesh Editing](sessions/week4.md) |
-| | - ~Stacked Construction (ex4)~ |
-| 9/23 | Week 5 - Re-Editing and Making Real: Slicing, 3DP; Photogrammetry and 3d Scanning; |
-| | - Real World to Digital and Back (ex4) or Hybrid Object (ex5), assign Project 1: Digital Sculpture  |
-| 9/30 | Week 6 - Microcontrollers and Digital I/O |
-| | - Project 1 Due, Meaningful Signal (ex6) |
-| 10/7 | Week 7 - Analog Input and Output; Analog Sensors |
+| | - ~Stacked Construction ~ |
+| 9/23 | Week 5 -  Photogrammetry and 3d Scanning; |
+| | - Real World to Digital and Back (ex4), assign Project 1: Digital Sculpture  |
+| 9/30 | Week 6 - Re-Editing and Making Real: Slicing, 3DP; |
+| | - Hybrid Object (ex5), DUE Project 1 Proposal |
+| 10/7 | Week 7 - Microcontrollers and Digital I/O |
+| | Meaningful Signal (ex6) |
+| 10/14 | Week 8 - Analog Input and Output; Analog Sensors |
 | | - “Even Thermostats Can Be Said to Have Feelings” (ex7) |
-| 10/14 | Week 8 - Making Things Move: Servos and Actuators |
-| | - Biomimicry (ex8) |
-| 10/21 | Week 9 - DC Motors, Solenoids; Linkages and Mounts |
-| | - ____________ exercise (ex9), assign Project 2: Autonomous Artwork |
-| 10/28 | Week 10 - Steppers, CNC, Mechatronics |
+| 10/21 | Week 9 - Making Things Move: Servos and Actuators |
+| | - Biomimicry (ex8), Project 1 DUE |
+| 10/28 | Week 10 - DC Motors, Solenoids; Linkages and Mounts |
+| | - ____________ exercise (ex9), Project 1 Due |
+| 11/4 | Week 11 - Steppers, CNC, Mechatronics |
 | | - Simple Coordinated Motion (ex10) |
-| 11/4 | Week 11 - Smart Textiles; Digital Craft |
-| | - Project 2 Due, High/Low Tech (ex11) |
-| 11/11 | Week 12 - Wearables: Embodied Interface; Augmentation, Prosthesis |
+| 11/11 | Week 12 - Smart Textiles; Digital Craft |
+| | - High/Low Tech (ex11) |
+| 11/18 | Week 13 - Wearables: Embodied Interface; Augmentation, Prosthesis |
 | | - Somatic Interface (ex12), assign Project 3: Data Body |
-| 11/18 | Week 13 - Internet of Things: Networked Objects, Spimes |
-| | - Objects with Memories (ex13) |
 | 11/25 | Week 14 - THANKSGIVING HOLIDAY (MEET ONLINE?) - Embodied Technologies: Somatic Interface; Hardware Performance|
-| | - “The Pleasure of Being the Cause” (ex14) |
-| 12/2 | Week 15 - Workshopping Final Presentations |
-| | - Project 3 Due, Exhibition/Showcase Open Studios |
+| | - “The Pleasure of Being the Cause” (ex13) |
+| 12/2 | Week 15 - Workshopping Final Presentations, Internet of Things: Networked Objects, Spimes |
+| | - Project 3 Due, Exhibition/Showcase Open Studios; Objects with Memories (ex14)  |
 | 12/9 | Week 16 - (Final Project Documentation due, Talk) NO FINAL EXAM |
 
 # Resources
