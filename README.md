@@ -46,7 +46,7 @@ A student who successfully completes this course will:
 | 9/9 | [Week 3 - Laser Cutter; 2D Digifab](sessions/week3.md) |
 | | - [Flatpack Future (ex3)](exercises/ex3.md)|
 | 9/16 | [Week 4 - Stacked Contours; Slices; 3D Forms; Mesh Editing](sessions/week4.md) |
-| | - ~Stacked Construction ~ |
+| | - ~Stacked Construction~ |
 | 9/23 | Week 5 -  Photogrammetry and 3d Scanning; |
 | | - Real World to Digital and Back (ex4), assign Project 1: Digital Sculpture  |
 | 9/30 | Week 6 - Re-Editing and Making Real: Slicing, 3DP; |
