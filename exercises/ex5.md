@@ -24,11 +24,11 @@ Using 3D Scanner App (or polycam), you are going to digitize a real object. The 
 1. Canvas:
    - Three screenshots of your 3d scans either in the scanning app (`More` -> `Capture Thumbnail`) or in Rhino (turn on "Rendered" mode to show photo textures).
    - Rhino file (.3DM)
-   - Images of your exported 3DP design (STL) file.
-   - (use the naming convention _ex3_Lastname_1.jpg_ and _ex3_Lastname.svg_ _ex3_Lastname.3dm_ for the files.)
+   - Your exported 3DP design (STL) file.
+   - (use the naming convention _ex3_Lastname_1.jpg_ and _ex3_Lastname.stl_ _ex3_Lastname.3dm_ for the files.)
 
 2. Sketchbook Updates:
-   - upload images of the scans, Rhino file, and STL. 
+   - add images of the scans, Rhino file, and STL file to your sketchbook.
 
 DUE 9/30, 9pm (Thursday) to [Canvas](https://canvas.unl.edu/courses/114938/assignments/1092948)
 
