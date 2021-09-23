@@ -1,21 +1,10 @@
-![image](https://user-images.githubusercontent.com/1598545/132705379-1230e72c-d161-4bb1-a49e-3f18e4588329.png)
+![image](https://user-images.githubusercontent.com/1598545/134498035-b185efc3-02ab-4530-87c3-0a28f6f60ee5.png)
 
-# Flat Pack Future
+[The Stanford Bunny](http://graphics.stanford.edu/data/3Dscanrep/) (1994)
 
-This exercise is about building 3d form using 2D materials. I want you to design a kit of parts that can be assembled to create a 3D form. On the laser cutter we can cut flat stock (corrugated cardboard, matte board, architectural pywood). The trick is desinging flat parts that can be assembled to make a 3D structure. This technique is probably most familiar to you from wooden models (see the dinosaur above). In terms of form, this exercise is very open ended -- you do not need to make a dinosaur.
+# Real World and Back Again
 
-<br>
-
-For this assignment you can predominantly do 2D free-form drawing in Rhino, so long as you are sure to include some tabs and slots so that those drawings can be assembled after they are cut. 
-
-<br>
-
-Learning Goals: 
-- Gain experience with laser cutting flat materials. 
-- Experience using calipers to measure the thickness of materials. 
-- Experience iterating on designs with Rhino and the Laser Cutter, until the parts fit.
-- Thinking in two and three dimensions. 
-- Thinking through fabrication processes in relation to CAD software (RHINO) and designing 3d forms. 
+Using polycam, you are going to digitize a real object. 
 
 # Process
 1. Ideation
@@ -40,7 +29,7 @@ Learning Goals:
    - sketches; screenshots of 2D designs; process images/videos; photos of final product; any notes, narrative about process.
 3. Submission: 
    - Photographs of the final product
-   - SVG file of your cutting templates
+   - 
    - Rhino file (3DM)
    - Upload all of these files to Canvas
      - (use the naming convention _ex3_Lastname_1.jpg_ and _ex3_Lastname.svg_ _ex3_Lastname.3dm_ for the files.)
@@ -48,4 +37,4 @@ Learning Goals:
 DUE 9/16, 9pm (Thursday) to [Canvas](https://canvas.unl.edu/courses/114938/assignments/1086825)
 
 # References
-- No references at the moment.
+- [Image Objects: An Archeology of Computer Graphics](https://mitpress.mit.edu/books/image-objects) by Jacob Gaboury (2021)
