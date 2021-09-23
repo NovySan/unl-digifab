@@ -15,23 +15,28 @@
 - [Office Hours this Week](#office-hours)
 
 # Mesh Basics in Rhino
+- tutorial file: [solids_meshes.3dm](../assets/day4/solids_meshes.3dm)
 - Solids
   - what are they? (collections of surfaces)
   - explode, cap
   - when we export STL we are creating a mesh
 - Meshes
   - create meshes directly
-  - importing
+  - importing - __Import__
     - [buffalo.3dm](../assets/day4/buffalo.3dm)
-  - simplification (reduce), edit
-- [solids_meshes.3dm](../assets/day4/solids_meshes.3dm)
+  - simplification (__MeshReduce__)
+    - [buffalo_reduction.3dm](../assets/day4/buffalo_reduction.3dm)
+  - edit - __PointsOn__, and directly manipulating points on the mesh.
+  - Closed vs Open Meshes
+    - Mesh -> Repair Tools -> Fill All Holes
 
 # Contours and Stacked Construction
 - Building a 3d form directly with stacks of contours
+  - tutorial file [stacked_contours_offset.3dm](../assets/day4/stacked_contours_offset.3dm)
   - freeform drawing
   - offset
   - extrude to priview (optional)
-  - [stacked_contours_offset.3dm](../assets/day4/stacked_contours_offset.3dm)
+
 - Slicing a 3d mesh or surface object into 2d stacks
   - the [contour](http://docs.mcneel.com/rhino/5/help/en-us/commands/contour.htm) command
   - [contour_command.3dm](../assets/day4/contour_command.3dm)
