@@ -3,6 +3,7 @@
 ## Agenda
 - Artist of the Day
 - Announcements:
+  - Thoughts on NIS membership at this point?
   - Configure Rhinoceros Zoo (carson center license for Rhino 6.0)
     - (Update: is working on wired connection, still not working on eduroam for me)
 - Topics
@@ -14,9 +15,10 @@
 - [Office Hours this Week](#office-hours)
 
 ## Digitizing Objects
-- Two main technologies: photogrammetry and LIDAR
-- Photogrammetry
-- LIDAR / 3d scanning (with laser)
+- Two main techniques: photogrammetry and LIDAR
+  - Photogrammetry
+  - LIDAR / 3d scanning (with laser)
+    - ArTec scanner at NIS.
 
 ## 3D Scans into Rhino
 
@@ -30,6 +32,8 @@ __Importing a 3D Scan__
 __Prepping for 3DP__
 - Add a base
 - Add a label (text objects as solids)
+- Is it a closed object? 
+  - Mesh -> Repair Tools
 - Save as STL.
 
 ## Slicing for 3DP
