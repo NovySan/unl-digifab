@@ -8,14 +8,28 @@
 - Topics
   - Digitizing Objects
     - [Stanford Bunny](http://graphics.stanford.edu/data/3Dscanrep/)
-  - Working with 3D Scans
-  - Photogrammetry
+  - 3D Scans in Rhino
+  - Rhino for 3DP
+  - Bonus: Meshmixer
 - [Homework](#homework)
 - [Office Hours this Week](#office-hours)
 
 # Digitizing Objects
+- Two main technologies: photogrammetry and LIDAR
 
-# Working with 3D Scans
+# 3D Scans in Rhino
+
+# Rhino for 3DP
+
+
+## Prusa Slicer
+
+- [Download Prusa Slicer](https://www.prusa3d.com/drivers/) (DRIVERS & APPS)
+- 
+
+# Meshmixer
+- [Download Meshmixer](https://www.meshmixer.com/download.html)
+-
 
 # Homework
 - Exercise 5 DUE Thursday September 30, 9pm
