@@ -14,28 +14,27 @@
 - [Homework](#homework)
 - [Office Hours this Week](#office-hours)
 
-# Digitizing Objects
+## Digitizing Objects
 - Two main technologies: photogrammetry and LIDAR
 
-# 3D Scans in Rhino
+## 3D Scans in Rhino
 
-# Rhino for 3DP
+## Rhino for 3DP
 
-
-## Prusa Slicer
+### Prusa Slicer
 
 - [Download Prusa Slicer](https://www.prusa3d.com/drivers/) (DRIVERS & APPS)
 - 
 
-# Meshmixer
+## Meshmixer
 - [Download Meshmixer](https://www.meshmixer.com/download.html)
 -
 
-# Homework
+## Homework
 - Exercise 5 DUE Thursday September 30, 9pm
 - Concept for Project 1. 2 paragraphs on Canvas.
 
-# Office Hours 
+## Office Hours 
 - Wednesday afternoon 9/29 (after 1pm)
 
-# Reference
+## Reference
