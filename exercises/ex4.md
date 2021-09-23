@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/1598545/134498035-b185efc3-02ab-4530-87c3-0a28f6f60ee5.png)
 
-The Stanford Bunny from [http://graphics.stanford.edu/data/3Dscanrep/](http://graphics.stanford.edu/data/3Dscanrep/) (1994)
+[The Stanford Bunny](http://graphics.stanford.edu/data/3Dscanrep/) (1994)
 
 # Real World and Back Again
 
