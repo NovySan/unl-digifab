@@ -37,4 +37,4 @@ Using polycam, you are going to digitize a real object.
 DUE 9/16, 9pm (Thursday) to [Canvas](https://canvas.unl.edu/courses/114938/assignments/1086825)
 
 # References
-- No references at the moment.
+- [Image Objects: An Archeology of Computer Graphics](https://mitpress.mit.edu/books/image-objects) by Jacob Gaboury (2021)
