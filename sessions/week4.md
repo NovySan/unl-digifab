@@ -60,8 +60,7 @@ __Importing Meshes__
 - In Rhino, we can unfold. more on this later.
 
 ## Homework
-- Exercise 4 DUE Thursday September 23, 9pm
-- Concept for project 1. 2 paragraphs on Canvas.
+- ~Exercise 4 DUE Thursday September 23, 9pm~ NO EXERCISE THIS WEEK
 
 ## Office Hours
 - Tuesday afternoon 9/21 
