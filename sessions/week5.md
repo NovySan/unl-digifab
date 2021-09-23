@@ -1,4 +1,4 @@
-# Week 5 - Mesh Creation and Stacked Contours
+# Week 5 - 3D Scanning, Rendering, Mesh for 3DP
 
 ## Agenda
 - Artist of the Day
@@ -6,8 +6,8 @@
   - Configure Rhinoceros Zoo (carson center license for Rhino 6.0)
     - (Update: is working on wired connection, still not working on eduroam for me)
 - Topics
-  - Scanning Objects
-  - 3D Scanning
+  - Digitizing Objects
+    - [Stanford Bunny](http://graphics.stanford.edu/data/3Dscanrep/)
   - Photogrammetry
 - [Homework](#homework)
 - [Office Hours this Week](#office-hours)
