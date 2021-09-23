@@ -15,22 +15,27 @@
 - [Office Hours this Week](#office-hours)
 
 # Mesh Basics in Rhino
-- tutorial file: [solids_meshes.3dm](../assets/day4/solids_meshes.3dm)
+
+__Solids vs. Meshes__ 
+[solids_meshes.3dm](../assets/day4/solids_meshes.3dm)
 - Solids
   - what are they? (collections of surfaces)
   - explode, cap
   - when we export STL we are creating a mesh
 - Meshes
   - Create meshes directly
-  - Importing - Import
-    - [buffalo.stl](../assets/day4/buffalo.stl)
-    - Rotate and Scale as necessary to find and position the object.
-  - Simplification (MeshReduce)
-    - [buffalo_reduction.3dm](../assets/day4/buffalo_reduction.3dm)
-  - Edit - PointsOn, and directly manipulating points on the mesh.
-  - Closed vs Open Meshes
-    - We need closed meshes for 3DP
-    - Attempt to patch an open mesh: Mesh -> Repair Tools -> Fill All Holes
+
+__Importing Meshes__
+- Importing - Import
+  - [buffalo.stl](../assets/day4/buffalo.stl)
+  - Rotate and Scale as necessary to find and position the object.
+- Simplification (MeshReduce)
+  - [buffalo_reduction.3dm](../assets/day4/buffalo_reduction.3dm)
+- Edit - PointsOn, and directly manipulating points on the mesh.
+- Closed vs Open Meshes
+  - We need closed meshes for 3DP
+  - Attempt to patch an open mesh: Mesh -> Repair Tools -> Fill All Holes
+
 # Contours and Stacked Construction
 - Building a 3d form directly with stacks of contours
   - tutorial file [stacked_contours_offset.3dm](../assets/day4/stacked_contours_offset.3dm)
