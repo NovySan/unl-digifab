@@ -52,7 +52,8 @@
   - sliced pikachu
 
 # BONUS: Pepakura and Unfolding
-- Unfold. more on this later.
+- [Pepakura Designer](https://tamasoft.co.jp/pepakura-en/)
+- In Rhino, we can unfold. more on this later.
 
 # Homework
 - Exercise 4 DUE Thursday September 23, 9pm
