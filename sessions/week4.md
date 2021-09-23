@@ -54,7 +54,6 @@ __Importing Meshes__
   - slicing/design for digital fabrication (material thickness considerations)
     - [buffalo_contours.3dm](../assets/day4/buffalo_contours.3dm)
     - [sliced_pikachu.3dm](../assets/day4/sliced_pikachu.3dm)
-  - sliced pikachu
 
 ## BONUS: Pepakura and Unfolding
 - [Pepakura Designer](https://tamasoft.co.jp/pepakura-en/)
