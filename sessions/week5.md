@@ -36,6 +36,8 @@ __Prepping for 3DP__
 - Load your STL file from above. 
 - Check scale, positioning. 
 - Select print parameters.
+  - Material. Slicing. Support. 
+- Add multiple objects to a build.
 
 ## Meshmixer
 - [Download Meshmixer](https://www.meshmixer.com/download.html)
