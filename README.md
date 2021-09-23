@@ -47,12 +47,12 @@ A student who successfully completes this course will:
 | | - [Flatpack Future (ex3)](exercises/ex3.md)|
 | 9/16 | [Week 4 - Stacked Contours; Slices; 3D Forms; Mesh Editing](sessions/week4.md) |
 | | - ~Stacked Construction~ |
-| 9/23 | Week 5 -  Capture Digital Form: Photogrammetry and 3d Scanning |
-| | - Real World to Digital and Back (ex4), assign Project 1: Digital Sculpture  |
+| 9/23 | [Week 5 -  Capture Digital Form: Photogrammetry and 3d Scanning](sessions/week5.md) |
+| | - [Real World to Digital and Back (ex4)](exercises/ex5.md) |
 | 9/30 | Week 6 - Re-Editing and Making Real: Slicing, 3DP; |
-| | - Hybrid Object (ex5), DUE Project 1 Proposal |
+| | - Hybrid Object (ex5),  Assign Project 1|
 | 10/7 | Week 7 - Microcontrollers and Digital I/O |
-| | Meaningful Signal (ex6) |
+| | Meaningful Signal (ex6), DUE Project 1 Proposal |
 | 10/14 | Week 8 - Analog Input and Output; Analog Sensors |
 | | - “Even Thermostats Can Be Said to Have Feelings” (ex7) |
 | 10/21 | Week 9 - Making Things Move: Servos and Actuators |
