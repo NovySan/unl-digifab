@@ -30,7 +30,7 @@ Using 3D Scanner App (or polycam), you are going to digitize a real object. The 
 2. Sketchbook Updates:
    - upload images of the scans, Rhino file, and STL. 
 
-DUE 9/23, 9pm (Thursday) to [Canvas](https://canvas.unl.edu/courses/114938/assignments/1092948)
+DUE 9/30, 9pm (Thursday) to [Canvas](https://canvas.unl.edu/courses/114938/assignments/1092948)
 
 # References
 - The Stanford Bunny is one of a number of significant objects from the history of computer science. Read about more of these significant objects from computer graphics in the book [Image Objects: An Archeology of Computer Graphics](https://mitpress.mit.edu/books/image-objects) by Jacob Gaboury (2021)
