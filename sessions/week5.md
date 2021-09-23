@@ -2,10 +2,11 @@
 
 ## Agenda
 - Artist of the Day
-- Announcements:
+- Discussion:
   - Thoughts on NIS membership at this point?
   - Configure Rhinoceros Zoo (carson center license for Rhino 6.0)
     - (Update: is working on wired connection, still not working on eduroam for me)
+- Discuss Tab and Slot
 - Topics
   - Digitizing Objects
   - 3D Scans in Rhino
