@@ -17,7 +17,7 @@
 ## Mesh Basics in Rhino
 
 __Solids vs. Meshes__ 
-[solids_meshes.3dm](../assets/day4/solids_meshes.3dm)
+- [solids_meshes.3dm](../assets/day4/solids_meshes.3dm)
 - Solids
   - what are they? (collections of surfaces)
   - explode, cap
