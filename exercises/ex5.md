@@ -7,7 +7,7 @@
 Using 3D Scanner App (or polycam), you are going to digitize a real object. The LIDAR scanning on the ipad is a little low-res, so try to digitize something relatively large. We are then going to import this into Rhino, add base, etc., to prepare it for 3D printing, and then export as an STL file.
 
 # Process
-1. Capture a 3d scan of a real object.
+1. Capture a 3d scan (LIDAR with ipad or photogrammetry) of a real object.
    - Process the scan. (HD or Fast)
    - Edit the scan. 
    - Simplify if necessary: `More` -> `Simplify Scan`
