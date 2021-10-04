@@ -50,25 +50,25 @@ A student who successfully completes this course will:
 | 9/23 | [Week 5 -  Capture Digital Form: Photogrammetry and 3d Scanning](sessions/week5.md) |
 | | - [Real World to Digital and Back (ex5)](exercises/ex5.md) |
 | 9/30 | Week 6 - Re-Editing and Making Real: Slicing, 3DP; |
-| | - Hybrid Object (ex5),  Assign Project 1|
-| 10/7 | Week 7 - Microcontrollers and Digital I/O |
-| | Meaningful Signal (ex6), DUE Project 1 Proposal |
-| 10/14 | Week 8 - Analog Input and Output; Analog Sensors |
-| | - “Even Thermostats Can Be Said to Have Feelings” (ex7) |
-| 10/21 | Week 9 - Making Things Move: Servos and Actuators |
-| | - Biomimicry (ex8), Project 1 DUE |
-| 10/28 | Week 10 - DC Motors, Solenoids; Linkages and Mounts |
-| | - ____________ exercise (ex9), Project 1 Due |
-| 11/4 | Week 11 - Steppers, CNC, Mechatronics |
-| | - Simple Coordinated Motion (ex10) |
+| | - ~(ex5)~,  Assign Project 1|
+| 10/7 | Week 7 - 3D Printing Time; Project 1 Discussion |
+| | - DUE Project 1 Proposal |
+| 10/14 | Week 8 - Microcontrollers and Digital I/O |
+| | Meaningful Signal (ex8), DUE Project 1 Proposal |
+| 10/21 | Week 9 - Analog Input and Output; Analog Sensors |
+| | - “Even Thermostats Can Be Said to Have Feelings” (ex9) |
+| 10/28 | Week 10 - Making Things Move: Servos and Actuators |
+| | - Biomimicry (ex10), Project 1 DUE |
+| 11/4 | Week 11 - DC Motors, Solenoids; Linkages and Mounts |
+| | - ____________ exercise (ex11), Assign Project 2 |
 | 11/11 | Week 12 - Smart Textiles; Digital Craft |
-| | - High/Low Tech (ex11) |
+| | - High/Low Tech (ex12) |
 | 11/18 | Week 13 - Wearables: Embodied Interface; Augmentation, Prosthesis |
-| | - Somatic Interface (ex12), assign Project 3: Data Body |
+| | - Somatic Interface (ex13)|
 | 11/25 | Week 14 - THANKSGIVING HOLIDAY (MEET ONLINE?) - Embodied Technologies: Somatic Interface; Hardware Performance|
-| | - “The Pleasure of Being the Cause” (ex13) |
+| | - “The Pleasure of Being the Cause” (ex14), DUE Project 2 |
 | 12/2 | Week 15 - Workshopping Final Presentations, Internet of Things: Networked Objects, Spimes |
-| | - Project 3 Due, Exhibition/Showcase Open Studios; Objects with Memories (ex14)  |
+| | - Exhibition/Showcase Open Studios; Objects with Memories (ex15)  |
 | 12/9 | Week 16 - (Final Project Documentation due, Talk) NO FINAL EXAM |
 
 # Resources
