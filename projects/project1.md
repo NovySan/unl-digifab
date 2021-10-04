@@ -38,15 +38,17 @@ This will be [submitted online to Canvas](https://canvas.unl.edu/courses/114938/
 Each of these is one approach to a "hybrid" object. 
 
 - Online / Offline objects
-  - Artie Vierkant - Image Objects Post Internet
-    - https://digitalartdmu.wordpress.com/2016/03/31/the-image-object-post-internet/
-    - http://artievierkant.com/imageobjects2011.php
-  - (others)
-- Combination or two objects
-  - moreshin allahyari: dark matter http://www.morehshin.com/dark-matter-first-series/
-  - urs fischer: https://www.christies.com/en/lot/lot-5437849
-  - student works
+  - Artie Vierkant's [Image Objects](http://artievierkant.com/imageobjects2011.php) (2011)
+    - Essay: [The Image Object Post Internet](https://jstchillin.org/artie/pdf/The_Image_Object_Post-Internet_us.pdf) (2010)
+      - [an essay](https://digitalartdmu.wordpress.com/2016/03/31/the-image-object-post-internet/) about Viertkant's work and ideas by Grace Williams (2016).
+  - (others?)
+- Combinations of Objects:
+  - Moreshin Allahyari, [Dark Matter First Series](http://www.morehshin.com/dark-matter-first-series/) (2014)
+    - (these are also online/offline: notice how she posted the 3d model file for the dog/dildo/satellite dish in a virtual gallery. this are also, in essence, "the sculptures")
+    - Essay: [The Additivist Manifesto](https://additivism.org/manifesto) (2015)
+  - Urs Fischer, [Untitled (Lamp/Bear)](https://www.christies.com/en/lot/lot-5437849) (2011)
+  - Student Works
 - Set up a story between virtual and real version
-  - (Think of Ally and Maricels performance and web store)
+  - (Think of Ally and Maricel's performance and web store)
 - Hyperreal object or simulacra. Replace an everyday object with its digital double
 - An object and a prosthetic for the object
