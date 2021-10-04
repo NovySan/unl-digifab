@@ -15,10 +15,14 @@ We will critique these projects in three weeks, Week 10.
 
 You will submit a two paragraph proposal for your idea addressing the following questions below. The first paragraph should describe how you are choosing to approach the hybrid object prompt and get us excited for the concept. The second paragraph will address the logistics of your project and how you will produce and document the result.
 
-- What is your object a hybrid between?
-- (use 3d scanning and 3d modeling)
+- Paragraph 1 - Concept
+  - Describe your approach to the prompt. What is your object a hybrid between? 
+  - Are you using real objects? Fictional objects? 
+  - Is narrative an important element of your piece?
+  - How will you present your object / document it?
+
 - Paragraph 2 - Logistics
-  - Do you use a re
+  - How will you produce your 3d models? Capturing real objects (3d scanning), 3d modeling, other approaches?
   - Which fabrication techniques will you use, and how? 
   - What materials will you fabricate your object from?
   - What surface treatments will you use? 
@@ -28,14 +32,17 @@ This will be [submitted online to Canvas](https://canvas.unl.edu/courses/114938/
 
 ## Deliverables
 
-1. Written Proposal to Canvas (10/7)
-2. Materials to Canvas
+1. Proposal: 
+   - written proposal to Canvas (10/7)
+3. Submission:  
    - 3D Models (.3dm) 
-   - Documentation
-3. Documentation and Object for Critique
+   - Documentation (photographs)
+   - Written Description (update your proposal once you are done with the project)
+4. Critique: 
+   - Documentation and Object for Critique, in slide deck.
 
 ## References
-Each of these is one approach to a "hybrid" object. 
+Each of these ideas below is one approach to a "hybrid" object. 
 
 - Online / Offline objects
   - Artie Vierkant's [Image Objects](http://artievierkant.com/imageobjects2011.php) (2011)
