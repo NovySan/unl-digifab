@@ -9,20 +9,22 @@ For this project you will use the 3d design and fabrication techniques that we h
 - laser cutting
 - 3d printing
 
-
+We will critique these projects in three weeks, Week 10.
 
 ## Proposal
-Give us a two paragraph pitch for your idea. The first paragraph should describe how you are choosing to approach the hybrid object prompt, and get us excited for the concept. The second paragraph will address the logistics of your process and how you will make and document the result.
+
+You will submit a two paragraph proposal for your idea addressing the following questions below. The first paragraph should describe how you are choosing to approach the hybrid object prompt and get us excited for the concept. The second paragraph will address the logistics of your project and how you will produce and document the result.
 
 - What is your object a hybrid between?
 - (use 3d scanning and 3d modeling)
-
 - Paragraph 2 - Logistics
   - Do you use a re
   - Which fabrication techniques will you use, and how? 
   - What materials will you fabricate your object from?
   - What surface treatments will you use? 
   - Where will you document your object?
+
+This will be submitted online to Canvas by Thursday October 7.
 
 ## Deliverables
 
