@@ -24,15 +24,17 @@ You will submit a two paragraph proposal for your idea addressing the following 
   - What surface treatments will you use? 
   - Where will you document your object?
 
-This will be submitted online to Canvas by Thursday October 7.
+This will be [submitted online to Canvas](https://canvas.unl.edu/courses/114938/discussion_topics/805312) by Thursday October 7.
 
 ## Deliverables
 
-1. Proposal
-2. 3D Model
-3. 
-## References
+1. Written Proposal to Canvas (10/7)
+2. Materials to Canvas
+   - 3D Models (.3dm) 
+   - Documentation
+3. Documentation and Object for Critique
 
+## References
 Each of these is one approach to a "hybrid" object. 
 
 - Online / Offline objects
@@ -40,12 +42,10 @@ Each of these is one approach to a "hybrid" object.
     - https://digitalartdmu.wordpress.com/2016/03/31/the-image-object-post-internet/
     - http://artievierkant.com/imageobjects2011.php
   - (others)
-		
 - Combination or two objects
   - moreshin allahyari: dark matter http://www.morehshin.com/dark-matter-first-series/
   - urs fischer: https://www.christies.com/en/lot/lot-5437849
   - student works
-
 - Set up a story between virtual and real version
   - (Think of Ally and Maricels performance and web store)
 - Hyperreal object or simulacra. Replace an everyday object with its digital double
