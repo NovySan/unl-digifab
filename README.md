@@ -58,7 +58,7 @@ A student who successfully completes this course will:
 | 10/21 | Week 9 - Analog Input and Output; Analog Sensors |
 | | - “Even Thermostats Can Be Said to Have Feelings” (ex9) |
 | 10/28 | Week 10 - Making Things Move: Servos and Actuators |
-| | - Biomimicry (ex10), Project 1 DUE |
+| | - Biomimicry (ex10), DUE Project 1 |
 | 11/4 | Week 11 - DC Motors, Solenoids; Linkages and Mounts |
 | | - ____________ exercise (ex11), Assign Project 2 |
 | 11/11 | Week 12 - Smart Textiles; Digital Craft |
