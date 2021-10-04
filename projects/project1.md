@@ -35,13 +35,14 @@ This written description will be [submitted online to Canvas](https://canvas.unl
 
 1. Proposal: 
    - written proposal to Canvas (10/7)
-3. Submission:  
+2. Submission:  
+   - upload the following to Canvas (10/28)
+   - Written Project Description (update your written proposal once you are done with the project, this is your project description)
    - Rhino Models (.3dm)
    - Printable file (.stl) 
    - Documentation (photographs)
-   - Written Description (update your proposal once you are done with the project, this is your description)
-4. Critique: 
-   - Present both your Object and your documentation for Critique. Use Documentation and Object for Critique, in slide deck.
+3. Critique: 
+   - Present both your Object and your documentation for Critique. (10/28)
 
 ## References
 Each of these ideas below is one approach to a "hybrid" object. 
