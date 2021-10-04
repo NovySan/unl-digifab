@@ -17,31 +17,31 @@ We will critique these projects in three weeks, Week 10.
 
 You will submit a two paragraph proposal for your idea addressing the following questions below. The first paragraph should describe how you are choosing to approach the hybrid object prompt and get us excited for the concept. The second paragraph will address the logistics of your project and how you will produce and document the result.
 
-- Paragraph 1 - Concept
+- Concept (1 paragraph)
   - Describe your approach to the prompt. What is your object a hybrid between? 
   - Are you using real objects? Fictional objects? 
   - Is narrative an important element of your piece?
   - How will you present your object / document it?
 
-- Paragraph 2 - Logistics
-  - How will you produce your 3d models? Capturing real objects (3d scanning), 3d modeling, other approaches?
-  - Which fabrication techniques will you use, and how? 
-  - What materials will you fabricate your object from?
-  - What surface treatments will you use? 
-  - Where will you document your object?
+- Process (1 paragraph)
+  - How will you produce your 3d models—capturing real objects (3d scanning), 3d modeling, other approaches? Describe how these approaches serve your concept.
+  - Which fabrication techniques from class will you use?
+  - What materials will you fabricate your object from? What (if any) surface treatments will you use? What non-digital material/craft processes will you use?
+  - How will you document your project? Consider where you will photograph the resulting object? What supporting images wil Where will you document your object?
 
-This will be [submitted online to Canvas](https://canvas.unl.edu/courses/114938/discussion_topics/805312) by Thursday October 7.
+This written description will be [submitted online to Canvas](https://canvas.unl.edu/courses/114938/discussion_topics/805312) by Thursday October 7.
 
 ## Deliverables
 
 1. Proposal: 
    - written proposal to Canvas (10/7)
 3. Submission:  
-   - 3D Models (.3dm) 
+   - Rhino Models (.3dm)
+   - Printable file (.stl) 
    - Documentation (photographs)
-   - Written Description (update your proposal once you are done with the project)
+   - Written Description (update your proposal once you are done with the project, this is your description)
 4. Critique: 
-   - Documentation and Object for Critique, in slide deck.
+   - Present both your Object and your documentation for Critique. Use Documentation and Object for Critique, in slide deck.
 
 ## References
 Each of these ideas below is one approach to a "hybrid" object. 
@@ -58,7 +58,8 @@ Each of these ideas below is one approach to a "hybrid" object.
     - Essay: [The Additivist Manifesto](https://additivism.org/manifesto) (2015)
   - Urs Fischer, [Untitled (Lamp/Bear)](https://www.christies.com/en/lot/lot-5437849) (2011)
   - Student Works
-- Set up a story between virtual and real version
-  - (Think of Ally and Maricel's performance and web store)
-- Hyperreal object or simulacra. Replace an everyday object with its digital double
-- An object and a prosthetic for the object
+- Other approaches: 
+  - Set up a story between virtual and real version
+    - (Think of Ally and Maricel's performance and web store)
+  - A [hyperreal](https://en.wikipedia.org/wiki/Hyperreality) object or [simulacrum](https://en.wikipedia.org/wiki/Simulacrum). Replace an everyday object with its digital double
+  - A real object, and a fabricated prosthetic for the object
