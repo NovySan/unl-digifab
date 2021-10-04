@@ -1,7 +1,7 @@
 # Project 1: Hybrid Object
 ## Description
 
-For this project you will make an object that is a combination of two (or more) things at once. It could be an online / offline object (existing both in digital form and physical form), a mix of actual objects (see Moreshin Allahyari's Dark Matter), or some individual direction you identify that hybridizes between two things. 
+For this project you will make an object that is a combination of two (or more) things at once. This could be a literal hybrid of multiple objects (see Moreshin Allahyari's Dark Metter), an online / offline object (existing both in digital form and physical form), or some individual direction you identify that hybridizes between two forms. See the [references](#references) below for some examples. The concept is open-ended, but you will need to submit a written proposal for your project. (see [proposal](#proposal) below)
 
 For this project you will use the 3d design and fabrication techniques that we have covered in class so far, as appropriate to your concept:
 - 3d modeling (Rhino, as well any other software you have experience with)
@@ -9,10 +9,26 @@ For this project you will use the 3d design and fabrication techniques that we h
 - laser cutting
 - 3d printing
 
-You will present both the actual object and documentation.
 
-## Timeline
+
+## Proposal
+Give us a two paragraph pitch for your idea. The first paragraph should describe how you are choosing to approach the hybrid object prompt, and get us excited for the concept. The second paragraph will address the logistics of your process and how you will make and document the result.
+
+- What is your object a hybrid between?
+- (use 3d scanning and 3d modeling)
+
+- Paragraph 2 - Logistics
+  - Do you use a re
+  - Which fabrication techniques will you use, and how? 
+  - What materials will you fabricate your object from?
+  - What surface treatments will you use? 
+  - Where will you document your object?
+
 ## Deliverables
+
+1. Proposal
+2. 3D Model
+3. 
 ## References
 
 Each of these is one approach to a "hybrid" object. 
