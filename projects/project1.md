@@ -1,3 +1,5 @@
+
+
 # Project 1: Hybrid Object
 ## Description
 
@@ -48,6 +50,7 @@ Each of these ideas below is one approach to a "hybrid" object.
   - Artie Vierkant's [Image Objects](http://artievierkant.com/imageobjects2011.php) (2011)
     - Essay: [The Image Object Post Internet](https://jstchillin.org/artie/pdf/The_Image_Object_Post-Internet_us.pdf) (2010)
       - [an essay](https://digitalartdmu.wordpress.com/2016/03/31/the-image-object-post-internet/) about Viertkant's work and ideas by Grace Williams (2016).
+    - (in addition to online/offline, these exist between real object and documentation)
   - (others?)
 - Combinations of Objects:
   - Moreshin Allahyari, [Dark Matter First Series](http://www.morehshin.com/dark-matter-first-series/) (2014)
