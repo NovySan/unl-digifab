@@ -1,18 +1,13 @@
-# Week 5 - 3D Scanning, Rendering, Mesh for 3DP
+# Week 7 - 3D Printing in Lab; Prusa; Project 1 Discussion
 
 ## Agenda
 - Artist of the Day
 - Discussion:
-  - Thoughts on NIS membership at this point?
   - Configure Rhinoceros Zoo (carson center license for Rhino 6.0)
     - (Update: is working on wired connection, still not working on eduroam for me)
-- Discuss Tab and Slot
-- Topics
-  - Digitizing Objects
-  - 3D Scans in Rhino
-  - Rhino for 3DP
-  - Bonus: Meshmixer
-- [Homework](#homework)
+- Prusa Orientation and Start 3D Prints
+- Project 1
+- Physical Computing Kits
 - [Office Hours this Week](#office-hours)
 
 ## Digitizing Objects
