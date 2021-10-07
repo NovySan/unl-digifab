@@ -13,7 +13,6 @@ https://goo.gl/maps/WcZc6X2Ggt4DGGyN9
   - Moreshin Allahyari [Dark Matter: Series 1](http://www.morehshin.com/dark-matter-first-series/)
 - Introduce [Project 1](../projects/project1.md)
 - Hands on Session with Ultimaker and Max from NIS
-- 
 
 ## Homework
 - [Project 1 Proposal](https://canvas.unl.edu/courses/114938/assignments/1097230) DUE Thursday October 7, 9pm
