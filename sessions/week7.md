@@ -23,12 +23,9 @@
 
 ## Physical Computing Kits
 
-__NEEDED FOR WEEK 8__
-Our electronics are for sale at the ECE Shop.
+For Week 8 (NEXT WEEK) each of you needs to purchase an electronics kit from the ECE shop. This costs $18.65. Please let me know if the costs presents a challenge for you.
 
-You can buy at the store with the N-CARD. Or you can pay for them online [EMAR 391 Class Kit](https://marketplace.unl.edu/ees/engineering-class-kits/emar391.html)
-
-The ECE shop is very hard to find
+You can buy at the store with the N-CARD. Or you can pay for them online [EMAR 391 Class Kit](https://marketplace.unl.edu/ees/engineering-class-kits/emar391.html).
 
 __Directions to the ECE Shop__
 > 122 Scott Engineering Center <br>
@@ -37,6 +34,8 @@ __Directions to the ECE Shop__
 > Hours: Monday - Friday 7:00am - 4:00pm
 
 https://maps.unl.edu/SEC
+
+There is a lot of construction over there. Once you enter the building through the main entrance on 16th street (technically [Othmer Hall](https://maps.unl.edu/OTHM), I think), turn left and walk down the hallway into Scott Engineering Center. The shop is on the ground floor and very challenging to find.
 
 ## Homework
 - Work on Project 1.
