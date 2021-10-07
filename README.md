@@ -51,7 +51,7 @@ A student who successfully completes this course will:
 | | - [Real World to Digital and Back (ex5)](exercises/ex5.md) |
 | 9/30 | [Week 6 - 3DP session at Innovation Studio](sessions/week6.md) |
 | | - ~(ex5)~,  Assign [Project 1](projects/project1.md)|
-| 10/7 | [Week 7 - 3D Printing Time; Project 1 Discussion](sessions/week7.md) |
+| 10/7 | [Week 7 - Prusa; 3D Printing Time; Project 1 Discussion](sessions/week7.md) |
 | | - DUE Project 1 Proposal |
 | 10/14 | Week 8 - Microcontrollers and Digital I/O |
 | | Meaningful Signal (ex8), DUE Project 1 Proposal |
