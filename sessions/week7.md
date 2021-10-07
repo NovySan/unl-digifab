@@ -4,56 +4,41 @@
 - Artist of the Day:
   - Marguerite Humeau - [The Rebirth of Prehistoric Creatures](https://we-make-money-not-art.com/back_here_below_formidable/)
   - Liberator ([youtube](https://www.youtube.com/watch?v=DconsfGsXyA))
-- Discussion:
-  - Configure Rhinoceros Zoo (carson center license for Rhino 6.0)
-    - (Update: is working on wired connection, still not working on eduroam for me)
 - Prusa Orientation and Start 3D Prints
 - Project 1
-- Physical Computing Kits
-  - ECEN Store [EMAR 391 Class Kit](https://marketplace.unl.edu/ees/engineering-class-kits/emar391.html)
-  - buy online or in person with N-CARD before next week
+- [Physical Computing Kits](#physical-computing-kits)
 - [Office Hours this Week](#office-hours)
 
-## Digitizing Objects
-- Two main techniques: photogrammetry and LIDAR
-  - Photogrammetry
-  - LIDAR / 3d scanning (with laser)
-    - ArTec scanner at NIS.
+## Prusa Orientation
 
-## 3D Scans into Rhino
+- Which part do you want to print (virtual replica, 3d scan)
+- Consider how long it will print (can you get it down to 1:30 to test?)
+- Stay with the print for the first 10-15 minutes, or until the first layer is complete.
 
-__Importing a 3D Scan__
-- Create a new file in Rhino and import a 3d scan 
-  - [bunny.ply](../assets/day5/bunny.ply) (3MB)
-- Find the bunny and scale to an appropriate size. 
-  - Locate (Zoom eXtents), Rotate, Scale
-  - Simplify Mesh (MeshReduce) if necessary
+## Project 1 Ideas
+- Discussion
+- 
+## Physical Computing Kits
 
-__Prepping for 3DP__
-- Add a base
-- Add a label (text objects as solids)
-- Is it a closed object? 
-  - Mesh -> Repair Tools
-- Save as STL.
+__NEEDED FOR WEEK 8__
+Our electronics are for sale at the ECE Shop: 
+```122 Scott Engineering Center
+Lincoln, NE 68588-0511
+Telephone: (402) 472-1969
 
-## Slicing for 3DP
-- [Download Prusa Slicer](https://www.prusa3d.com/drivers/) (DRIVERS & APPS)
-- Load your STL file from the previous steps. 
-- Check scale, positioning. 
-- Select print parameters.
-  - Material. Slicing. Support. 
-- Add multiple objects to a build.
-
-## Meshmixer
-- [Download Meshmixer](https://www.meshmixer.com/download.html)
-- Hacking things together with meshmixer.
-- Exporting for 3DP (.STL)
+Hours: Monday - Friday 7:00am - 4:00pm
+```
+- You can pay for them online [EMAR 391 Class Kit](https://marketplace.unl.edu/ees/engineering-class-kits/emar391.html)
+- Or buy at the store with the N-CARD, before next week.
+- The shop is very hard to find!
 
 ## Homework
-- [Exercise 5](../exercises/ex5.md) DUE Thursday September 30, 9pm
-- Concept for Project 1. 2 paragraphs on Canvas.
+- Work on Project 1.
+- Purchase your electronics kit.
+- Install Arduino software for our laptop: https://www.arduino.cc/en/software
 
 ## Office Hours 
-- Wednesday afternoon 9/29 (after 1pm)
-
+- Immediately after class. 
+- or, contact me online
+  
 ## Reference
