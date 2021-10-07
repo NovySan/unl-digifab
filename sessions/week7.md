@@ -24,16 +24,19 @@
 ## Physical Computing Kits
 
 __NEEDED FOR WEEK 8__
-Our electronics are for sale at the ECE Shop: 
+Our electronics are for sale at the ECE Shop.
 
+You can buy at the store with the N-CARD. Or you can pay for them online [EMAR 391 Class Kit](https://marketplace.unl.edu/ees/engineering-class-kits/emar391.html)
+
+The ECE shop is very hard to find
+
+__Directions to the ECE Shop__
 > 122 Scott Engineering Center <br>
 > Lincoln, NE 68588-0511 <br>
 > Telephone: (402) 472-1969 <br><br>
 > Hours: Monday - Friday 7:00am - 4:00pm
 
-- You can pay for them online [EMAR 391 Class Kit](https://marketplace.unl.edu/ees/engineering-class-kits/emar391.html)
-- Or buy at the store with the N-CARD, before next week.
-- The shop is very hard to find!
+https://maps.unl.edu/SEC
 
 ## Homework
 - Work on Project 1.
