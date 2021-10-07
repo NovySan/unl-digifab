@@ -1,9 +1,9 @@
 # Week 6 - 3D Printer Introduction at Nebraska Innovation Studio
 
 __NOTE: Today we are meeting at Nebrask Innovation Studio__ 
-Nebraska Innovation Studio
+'''Nebraska Innovation Studio
 2021 Transformation Drive, Suite 1500, Entrance B
-Lincoln, NE 68508
+Lincoln, NE 68508'''
 
 https://goo.gl/maps/WcZc6X2Ggt4DGGyN9
 
