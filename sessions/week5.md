@@ -2,6 +2,7 @@
 
 ## Agenda
 - Artist of the Day
+  - Tivon Rice [Environment Built for Absence](http://tivonrice.com/absence.html)
 - Discussion:
   - Thoughts on NIS membership at this point?
   - Configure Rhinoceros Zoo (carson center license for Rhino 6.0)
