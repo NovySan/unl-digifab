@@ -15,6 +15,7 @@
   - Consider how long it will print (can you get it down to 1:30 to test?)
   - Export as GCODE. 
   - Save to SD card.
+  - BUY YOUR OWN SD CARD. These will disappear.
 - Stay with the print for the first 10-15 minutes, or until the first layer is complete.
 
 ## Project 1 Ideas
@@ -24,12 +25,13 @@
 
 __NEEDED FOR WEEK 8__
 Our electronics are for sale at the ECE Shop: 
-```122 Scott Engineering Center
+
+>122 Scott Engineering Center
 Lincoln, NE 68588-0511
 Telephone: (402) 472-1969
 
-Hours: Monday - Friday 7:00am - 4:00pm
-```
+>Hours: Monday - Friday 7:00am - 4:00pm
+
 - You can pay for them online [EMAR 391 Class Kit](https://marketplace.unl.edu/ees/engineering-class-kits/emar391.html)
 - Or buy at the store with the N-CARD, before next week.
 - The shop is very hard to find!
