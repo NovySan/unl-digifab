@@ -1,13 +1,17 @@
 # Week 7 - 3D Printing in Lab; Prusa; Project 1 Discussion
 
 ## Agenda
-- Artist of the Day
+- Artist of the Day:
+  - Marguerite Humeau - [The Rebirth of Prehistoric Creatures](https://we-make-money-not-art.com/back_here_below_formidable/)
+  - Liberator ([youtube](https://www.youtube.com/watch?v=DconsfGsXyA))
 - Discussion:
   - Configure Rhinoceros Zoo (carson center license for Rhino 6.0)
     - (Update: is working on wired connection, still not working on eduroam for me)
 - Prusa Orientation and Start 3D Prints
 - Project 1
 - Physical Computing Kits
+  - ECEN Store [EMAR 391 Class Kit](https://marketplace.unl.edu/ees/engineering-class-kits/emar391.html)
+  - buy online or in person with N-CARD before next week
 - [Office Hours this Week](#office-hours)
 
 ## Digitizing Objects
