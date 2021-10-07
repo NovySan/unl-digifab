@@ -28,7 +28,7 @@ Our electronics are for sale at the ECE Shop:
 
 > 122 Scott Engineering Center <br>
 > Lincoln, NE 68588-0511 <br>
-> Telephone: (402) 472-1969 <br>
+> Telephone: (402) 472-1969 <br><br>
 > Hours: Monday - Friday 7:00am - 4:00pm
 
 - You can pay for them online [EMAR 391 Class Kit](https://marketplace.unl.edu/ees/engineering-class-kits/emar391.html)
