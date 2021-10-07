@@ -10,9 +10,11 @@
 - [Office Hours this Week](#office-hours)
 
 ## Prusa Orientation
-
 - Which part do you want to print (virtual replica, 3d scan)
-- Consider how long it will print (can you get it down to 1:30 to test?)
+- Project prep:
+  - Consider how long it will print (can you get it down to 1:30 to test?)
+  - Export as GCODE. 
+  - Save to SD card.
 - Stay with the print for the first 10-15 minutes, or until the first layer is complete.
 
 ## Project 1 Ideas
