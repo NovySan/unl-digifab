@@ -53,8 +53,8 @@ A student who successfully completes this course will:
 | | - ~(ex5)~,  Assign [Project 1](projects/project1.md)|
 | 10/7 | [Week 7 - Prusa; 3D Printing Time; Project 1 Discussion](sessions/week7.md) |
 | | - DUE Project 1 Proposal |
-| 10/14 | Week 8 - Microcontrollers and Digital I/O |
-| | Meaningful Signal (ex8), DUE Project 1 Proposal |
+| 10/14 | [Week 8 - Microcontrollers and Digital I/O](sessions/week8.md) |
+| | [Meaningful Signal (ex8)](exercises/ex8.md) |
 | 10/21 | Week 9 - Analog Input and Output; Analog Sensors |
 | | - “Even Thermostats Can Be Said to Have Feelings” (ex9) |
 | 10/28 | Week 10 - Making Things Move: Servos and Actuators |
