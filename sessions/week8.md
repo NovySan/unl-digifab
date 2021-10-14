@@ -14,7 +14,7 @@
 - [Homework](#homework)
 
 ## Arduino Intro
-Arduino 1: Intro and Digital Input/Output [slides](https://docs.google.com/presentation/d/1MCeMUA2qPpZfLuKuGprEjDnPsyBjrhgGWWYNJiq0oLI/edit?usp=sharing)
+Arduino 1: Intro and Digital Input/Output. ([slides](https://docs.google.com/presentation/d/1MCeMUA2qPpZfLuKuGprEjDnPsyBjrhgGWWYNJiq0oLI/edit?usp=sharing))
 
 ## Code Basics
 - `setup()` - runs once, like `setup()` in processing. [reference](https://www.arduino.cc/reference/en/language/structure/sketch/setup/)
