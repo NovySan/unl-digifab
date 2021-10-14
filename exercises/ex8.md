@@ -6,24 +6,25 @@ From [Cerith Wyn Evans at White Cube Hoxon Square](https://whitecube.com/exhibit
 
 # Meaningful Signal
 
-Cerith Wyn Evans has made a series of artworks with chandeliers, rendering passages of text in morse code. These works set up multiple channels of communication: coded text, sculptural objects, installation spaces. 
+Cerith Wyn Evans has made a series of artworks with chandeliers, rendering passages of text in morse code. These works set up multiple channels of communication: coded text, sculptural objects, installation spaces. This is also a model for using a simple blinking light (with sculptural setting) to communicate a meaningful signal.
 
-http://www.sculpture.org/documents/scmag05/june_05/webspecs/evans.shtml
-http://whitecube.com/artists/cerith_wyn_evans/, click on the chandelier thumbnail (middle row, bottom)
-
-The arduino “blink” example (Examples->01.Basics->Blink) turns the on-board LED on for 1 second and off for 1 second, repeating forever, an essentially meaningless “signal”. Taking Evan’s work as a model, modify the blink code to produce a meaningful signal. You should accomplish with the very limited palette of the digitalWrite() and delay() functions from the blink example, outputting to the built-in LED.
+The Arduino blink example turns the on-board LED on for 1 second and off for 1 second, repeating forever, an essentially meaningless “signal”. Taking Evan’s work as a model, modify the blink code to produce a meaningful signal. You should accomplish with the very limited palette of the `digitalWrite()` and `delay()` functions from the blink example, outputting to the built-in LED. 
 
 Is your signal a coded communication, like Evan’s texts rendered in Morse code? Can we read it? Is it evocative of emotional state (frightened, cheerful, aggressive)? Does it repeat, forever, with no hope of response, or execute some finite sequence? Who starts the device, who resets it, and when? Is a meaningful, low-bandwidth signal necessarily coded?
 
 # Process
-1. [TK]
+1. Start with the Arduino blink example (**Examples->01.Basics->Blink**), you will convert this simple ON/OFF pattern into a meaningful signal. 
+2. Add more ON and OFF statements (`digitalWrite(HIGH)` and `digitalWrite(LOW)`)
+3. Add more `delays()`. 
+4. This combination of ON, delay, OFF, delay, ON, etc... will be the pattern/signal that you are creating.
+5. Upload your code frequently to the arduino to see how it looks. Iterate on your code.
 
 # Submission
 1. Canvas:
    - Arduino code as .zip file. 
    - Photo of your circuit.
-   - Photos/video documenting your "signal" in action.
-   - (use the naming convention _ex8_Lastname_1.jpg_ and _ex8_Lastname.stl_ _ex8_Lastname.3dm_ for the files.)
+   - Video documenting your "signal" in action.
+   - (use the naming convention _ex8_Lastname_1.zip_, _ex8_Lastname.jpg_ and _ex8_Lastname.mp4 for the files.)
 
 2. Sketchbook Updates:
    - add images of the scans, Rhino file, and STL file to your sketchbook.
