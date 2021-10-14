@@ -1,4 +1,6 @@
+![image](https://user-images.githubusercontent.com/1598545/137361696-ab39365d-f099-40aa-a98d-bd88d739e6dd.png)
 
+From Cerith Wyn Evans at White Cube Hoxon Square. 2003 [link](https://whitecube.com/exhibitions/exhibition/cerith_wyn_evans_hoxton_square_2003)
 
 # Meaningful Signal
 
