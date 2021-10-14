@@ -7,11 +7,13 @@
 - Project 1 Check-In
 
 ## Arduino Intro
-- Meet the players
-  - Arduino
-  - Breadboard
-  - Button
-  - LED
+Meet the players.
+- Arduino
+![image](https://user-images.githubusercontent.com/1598545/137305695-2d5a0bbc-37c9-43ad-9d26-435b2782f24b.png)
+- Breadboard
+![image](https://user-images.githubusercontent.com/1598545/137305908-31ef631b-e085-44bf-b058-f9cb3bc7a368.png)
+- Button
+- LED
 
 ## Code Basics
 - `setup()`
@@ -19,9 +21,15 @@
 - `digitalRead()`
 - `digitalWrite()`
 
+## Digital Input
+- Schematic
+- Code
+## Digital Output
+- Schematic
+- Code
+
 ## Homework
 - Meaningful Signal
-- Install Arduino software for our laptop: https://www.arduino.cc/en/software
 
 ## Office Hours 
 - Immediately after class. 
