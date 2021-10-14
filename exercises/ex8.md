@@ -2,7 +2,14 @@
 
 # Meaningful Signal
 
-[TK]
+Cerith Wyn Evans has made a series of artworks with chandeliers, rendering passages of text in morse code. These works set up multiple channels of communication: coded text, sculptural objects, installation spaces. 
+
+http://www.sculpture.org/documents/scmag05/june_05/webspecs/evans.shtml
+http://whitecube.com/artists/cerith_wyn_evans/, click on the chandelier thumbnail (middle row, bottom)
+
+The arduino “blink” example (Examples->01.Basics->Blink) turns the on-board LED on for 1 second and off for 1 second, repeating forever, an essentially meaningless “signal”. Taking Evan’s work as a model, modify the blink code to produce a meaningful signal. You should accomplish with the very limited palette of the digitalWrite() and delay() functions from the blink example, outputting to the built-in LED.
+
+Is your signal a coded communication, like Evan’s texts rendered in Morse code? Can we read it? Is it evocative of emotional state (frightened, cheerful, aggressive)? Does it repeat, forever, with no hope of response, or execute some finite sequence? Who starts the device, who resets it, and when? Is a meaningful, low-bandwidth signal necessarily coded?
 
 # Process
 1. [TK]
