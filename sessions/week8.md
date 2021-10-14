@@ -1,4 +1,4 @@
-# Week 7 - Prusa; 3D Printing in Lab; Project 1 Discussion
+# Week 7 - Arduino; Digital Electronics
 
 ## Agenda
 - Artist of the Day:
