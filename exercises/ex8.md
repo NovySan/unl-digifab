@@ -2,7 +2,7 @@
 
 >For his exhibtion at White Cube Hoxton Square, British artist Cerith Wyn Evans presented a field of transparent, crystal chandeliers momentarily flashing on and off, rendering Morse code from a series of texts driven through a network of hidden computers. The chandeliers are from different historical eras and as each lamp turns on and off, a soft, mellifluous language is created, one that suggests a wholly other structure of communication with intimations of an otherworldly presence or an improbable séance. Although each chandelier has its own particular text, the installation worked as a polyphonous whole, a matrix of different narratives that transmit layers of possible and associative meaning. The text for each chandelier was visible simultaneously on adjacent computer screens embedded in the gallery walls.
 
-From Cerith Wyn Evans at White Cube Hoxon Square. 2003 [link](https://whitecube.com/exhibitions/exhibition/cerith_wyn_evans_hoxton_square_2003)
+From [Cerith Wyn Evans at White Cube Hoxon Square](https://whitecube.com/exhibitions/exhibition/cerith_wyn_evans_hoxton_square_2003) (2003)
 
 # Meaningful Signal
 
@@ -31,4 +31,4 @@ Is your signal a coded communication, like Evan’s texts rendered in Morse code
 DUE 10/21, 9pm (Thursday) to [Canvas](https://canvas.unl.edu/courses/114938/assignments/1101734)
 
 # References
-- The Stanford Bunny is one of a number of significant objects from the history of computer science. Read about more of these significant objects from computer graphics in the book [Image Objects: An Archeology of Computer Graphics](https://mitpress.mit.edu/books/image-objects) by Jacob Gaboury (2021)
+- Words Imagined: Cerith Wyn Evans by Marty Carlock, Sculpture Magazine (June 1, 2005) https://sculpturemagazine.art/words-imagined-cerith-wyn-evans/
