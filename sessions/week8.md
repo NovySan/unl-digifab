@@ -17,11 +17,11 @@
 Arduino 1: Intro and Digital Input/Output [slides](https://docs.google.com/presentation/d/1MCeMUA2qPpZfLuKuGprEjDnPsyBjrhgGWWYNJiq0oLI/edit?usp=sharing)
 
 ## Code Basics
-- `setup()` - runs once, like `setup()` in processing. https://www.arduino.cc/reference/en/language/structure/sketch/setup/
-- `loop()` - runs repeatedly, like `draw()` in processing. https://www.arduino.cc/reference/en/language/structure/sketch/loop/
-- `pinMode()` - tell the arduino whether to use a pin as an input, an output, or the other things it can do (more later on that). https://www.arduino.cc/reference/en/language/functions/digital-io/pinmode/
-- `digitalRead()` - reads the input on a digital pin. https://www.arduino.cc/reference/en/language/functions/digital-io/digitalread/
-- `digitalWrite()` - sets the output on a digital pin. https://www.arduino.cc/reference/en/language/functions/digital-io/digitalwrite/
+- `setup()` - runs once, like `setup()` in processing. [reference](https://www.arduino.cc/reference/en/language/structure/sketch/setup/)
+- `loop()` - runs repeatedly, like `draw()` in processing. [reference](https://www.arduino.cc/reference/en/language/structure/sketch/loop/)
+- `pinMode()` - tell the arduino whether to use a pin as an input, an output, or the other things it can do (more later on that). [reference](https://www.arduino.cc/reference/en/language/functions/digital-io/pinmode/)
+- `digitalRead()` - reads the input on a digital pin. [reference](https://www.arduino.cc/reference/en/language/functions/digital-io/digitalread/)
+- `digitalWrite()` - sets the output on a digital pin. [reference](https://www.arduino.cc/reference/en/language/functions/digital-io/digitalwrite/)
 
 ## Blink
 - The hello world of arduino. **File->Examples->01.Basics->Blink**
