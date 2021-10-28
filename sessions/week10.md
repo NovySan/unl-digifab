@@ -8,9 +8,6 @@
   - [Digital Input](#digital-input)
   - [Analog Output](#analog-output)
   - [Analog Input](#analog-input)
-- [Activities](#activities)
-  - [Digital Output](#digital-output)
-  - [Digital Input](#digital-input)
 - [Homework](#homework)
 
 ## Digital Input
@@ -36,8 +33,14 @@ https://www.arduino.cc/en/Tutorial/BuiltInExamples/Fade
 - TODO: 
   - modify the speed at which it fades. (hint: change the `delay()`. see [the delay reference](https://www.arduino.cc/reference/en/language/functions/time/delay/))
 
+## Analog Input
+
+![Image](https://www.arduino.cc/wiki/static/7dbfb4b4c090ba1bc52c2a779822b8f9/29007/analoginoutserial1_bb.png)
+
+https://www.arduino.cc/en/Tutorial/BuiltInExamples/AnalogInput
+
 ## Homework
-- Meaningful Signal
+- no homework
 
 ## Office Hours 
 - Immediately after class. 
