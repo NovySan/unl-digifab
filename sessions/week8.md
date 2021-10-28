@@ -24,6 +24,7 @@ Arduino 1: Intro and Digital Input/Output. ([slides](https://docs.google.com/pre
 - `digitalWrite()` - sets the output on a digital pin. [reference](https://www.arduino.cc/reference/en/language/functions/digital-io/digitalwrite/)
 
 ## Blink
+
 The hello world of arduino. By default, the arduino will blink a built-in LED ("L"), next to the RX, TX, and POW lights.
 - Schematic:
   - (no schematic needed, we will use the built in LED on the Arduino nano)
@@ -33,12 +34,9 @@ The hello world of arduino. By default, the arduino will blink a built-in LED ("
 - Behavior:
   - we will see the LED blinkin on for 1000 milliseconds, and then off for 1000 milliseconds.
 
-### Delay and digitalWrite
-
-Experiment with delays and digitalWrite
-
 ## Digital Output
-![Image](https://www.arduino.cc/wiki/static/52c238dba09c2e40b69e0612ff02ef0f/29007/circuit.png)
+
+https://www.arduino.cc/wiki/static/52c238dba09c2e40b69e0612ff02ef0f/29007/circuit.png
 
 https://www.arduino.cc/en/Tutorial/BuiltInExamples/Blink
 
@@ -50,6 +48,10 @@ Let's wire up our own LED attached to a different pin.
 - Code
   - Make a copy of your Blink code from above. 
   - we need to change the line in `setup()` where the `pinMode()` is declared. Change `LED_BUILTIN` to the 
+
+TODO: 
+- Change the `delay()`. Experiment with how the delays change the blinking rate and duration.
+- Add more blinks. Can you spell out morse code?
 
 ## Homework
 - Meaningful Signal
@@ -72,7 +74,6 @@ __LED__
 ![image](https://user-images.githubusercontent.com/1598545/137358952-3ea6684c-6ea3-4efb-8c69-6b9a4b2427d2.png)
 
 __Resistor__
-
 
 ![image](https://user-images.githubusercontent.com/1598545/139250236-3dfac097-bcbe-4dad-920f-a23bd82b32a9.png)
 
