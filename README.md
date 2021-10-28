@@ -50,23 +50,23 @@ A student who successfully completes this course will:
 | 9/23 | [Week 5 -  Capture Digital Form: Photogrammetry and 3d Scanning](sessions/week5.md) |
 | | - [Real World to Digital and Back (ex5)](exercises/ex5.md) |
 | 9/30 | [Week 6 - 3DP session at Innovation Studio](sessions/week6.md) |
-| | - ~(ex5)~,  Assign [Project 1](projects/project1.md)|
+| | - Assign [Project 1](projects/project1.md)|
 | 10/7 | [Week 7 - Prusa; 3D Printing Time; Project 1 Discussion](sessions/week7.md) |
 | | - DUE Project 1 Proposal |
 | 10/14 | [Week 8 - Microcontrollers and Digital I/O](sessions/week8.md) |
 | | [Meaningful Signal (ex8)](exercises/ex8.md) |
-| 10/21 | Week 9 - Analog Input and Output; Analog Sensors |
-| | - “Even Thermostats Can Be Said to Have Feelings” (ex9) |
-| 10/28 | Week 10 - Making Things Move: Servos and Actuators |
-| | - Biomimicry (ex10), DUE Project 1 |
-| 11/4 | Week 11 - DC Motors, Solenoids; Linkages and Mounts |
-| | - ____________ exercise (ex11), Assign Project 2 |
-| 11/11 | Week 12 - Smart Textiles; Digital Craft |
-| | - High/Low Tech (ex12) |
-| 11/18 | Week 13 - Wearables: Embodied Interface; Augmentation, Prosthesis |
-| | - Somatic Interface (ex13)|
-| 11/25 | Week 14 - THANKSGIVING HOLIDAY (MEET ONLINE?) - Embodied Technologies: Somatic Interface; Hardware Performance|
-| | - “The Pleasure of Being the Cause” (ex14), DUE Project 2 |
+| 10/21 | Week 9 - == FLYOVER COUNTRY==  |
+| |  - In class work, FLYOVER COUNTRY AI Writers Room|
+| 10/28 | Week 10 - Digital Input; Analog Input and Output; Analog Sensors;  |
+| | - DUE Project 1 |
+| 11/4 | Week 11 -  Making Things Move: Servos and Actuators |
+| | - “Even Thermostats Can Be Said to Have Feelings” (ex11), Assign Project 2 |
+| 11/11 | Week 12 - DC Motors, Solenoids; Linkages and Mounts |
+| | - Biomimicry exercise (ex12) |
+| 11/18 | Week 13 - Smart Textiles; Digital Craft |
+| | - High/Low Tech (ex13)|
+| 11/25 | Week 14 - THANKSGIVING HOLIDAY (MEET ONLINE?) - Wearables, Embodiment, Somatic Interface, Augmentation/Prosthesis|
+| | - “The Pleasure of Being the Cause” or Somatic Interface(ex14), DUE Project 2 |
 | 12/2 | Week 15 - Workshopping Final Presentations, Internet of Things: Networked Objects, Spimes |
 | | - Exhibition/Showcase Open Studios; Objects with Memories (ex15)  |
 | 12/9 | Week 16 - (Final Project Documentation due, Talk) NO FINAL EXAM |
