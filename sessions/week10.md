@@ -1,22 +1,18 @@
-# Week 8 - Microcontrollers and Digital I/O
+# Week 10 - Digital and Analog IO
 
 ## Agenda
-- Check In
-  - Show and Tell
-  - Project 1 Check In
-  - Fabrication Questions
-- [Arduino Intro](#arduino-intro)
-- [Code Basics](#code-basics)
+- Pre-class: ECE Capstone Visit
+- Project 1 Critique
+- Physical Computing
+  - [Digital IO](#digital-io) and Voltage
+  - [Analog Output](#analog-output)
+  - [Analog Input](#analog-input)
 - [Activities](#activities)
-  - [Blink](#blink)
-  - [Digital Input](#digital-input)
   - [Digital Output](#digital-output)
+  - [Digital Input](#digital-input)
 - [Homework](#homework)
 
-## Arduino Intro
-Arduino 1: Intro and Digital Input/Output. ([slides](https://docs.google.com/presentation/d/1MCeMUA2qPpZfLuKuGprEjDnPsyBjrhgGWWYNJiq0oLI/edit?usp=sharing))
-
-## Code Basics
+## Review Code Basics
 - `setup()` - runs once, like `setup()` in processing. [reference](https://www.arduino.cc/reference/en/language/structure/sketch/setup/)
 - `loop()` - runs repeatedly, like `draw()` in processing. [reference](https://www.arduino.cc/reference/en/language/structure/sketch/loop/)
 - `pinMode()` - tell the arduino whether to use a pin as an input, an output, or the other things it can do (more later on that). [reference](https://www.arduino.cc/reference/en/language/functions/digital-io/pinmode/)
@@ -48,6 +44,10 @@ Let's wire up our own LED attached to a different pin.
   - we need to change the line in `setup()` where the `pinMode()` is declared. Change `LED_BUILTIN` to the 
 
 ## Digital Input
+- Schematic
+- Code
+
+## Analog Output
 - Schematic
 - Code
 
