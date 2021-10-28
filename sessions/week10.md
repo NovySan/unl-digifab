@@ -52,6 +52,9 @@ https://www.arduino.cc/en/Tutorial/BuiltInExamples/Button
 ## Analog Output
 
 ![Image](https://www.arduino.cc/wiki/static/079b1bab3758603a56c5d98e1f59a88e/29007/circuit.png)
+
+- Fade - https://www.arduino.cc/en/Tutorial/BuiltInExamples/Fade
+
 - NOTE: this is a very similar circuit and wiring as [Digital Output](../week8.md#digital-output) from last time! 
   - the difference is that here we are using `analogWrite()` (reference)
   - and a different pin (one of the PWM capable pins)
