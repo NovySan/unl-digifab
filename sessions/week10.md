@@ -39,6 +39,10 @@ https://www.arduino.cc/en/Tutorial/BuiltInExamples/Fade
 
 https://www.arduino.cc/en/Tutorial/BuiltInExamples/AnalogInput
 
+- Talk about Voltage, Current, and Resistance (Ohm's Law)
+- Talk about using a multimeter. 
+- Look at how a potentiometer (as voltage divider) changes voltages
+
 ## Homework
 - no homework
 
