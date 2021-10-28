@@ -54,7 +54,7 @@ TODO:
 - Add more blinks. Can you spell out morse code?
 
 ## Homework
-- [Meaningful Signal[../exercises/ex8.md]
+- [Meaningful Signal](../exercises/ex8.md)
 
 ## Office Hours 
 - Immediately after class. 
