@@ -36,7 +36,7 @@ The hello world of arduino. By default, the arduino will blink a built-in LED ("
 
 ## Digital Output
 
-https://www.arduino.cc/wiki/static/52c238dba09c2e40b69e0612ff02ef0f/29007/circuit.png
+[!Image](https://www.arduino.cc/wiki/static/52c238dba09c2e40b69e0612ff02ef0f/29007/circuit.png)
 
 https://www.arduino.cc/en/Tutorial/BuiltInExamples/Blink
 
