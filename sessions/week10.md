@@ -7,7 +7,7 @@
   - Review: Blink and [Digital Output](..sessions/week8.md#digital-output) (last time)
   - [Digital Input](#digital-input)
   - [Analog Output](#analog-output)
-  - [Analog Input](#analog-input)
+  - Analog Input (next time)
 - [Homework](#homework)
 
 ## Digital Input
