@@ -51,10 +51,6 @@ Let's wire up our own LED attached to a different pin.
   - Make a copy of your Blink code from above. 
   - we need to change the line in `setup()` where the `pinMode()` is declared. Change `LED_BUILTIN` to the 
 
-## Digital Input
-- Schematic
-- Code
-
 ## Homework
 - Meaningful Signal
 
@@ -74,7 +70,3 @@ __Breadboard__
 __LED__
 
 ![image](https://user-images.githubusercontent.com/1598545/137358952-3ea6684c-6ea3-4efb-8c69-6b9a4b2427d2.png)
-
-__Resistor__
-
-__Button__
