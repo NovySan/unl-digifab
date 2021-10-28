@@ -58,7 +58,7 @@ A student who successfully completes this course will:
 | 10/21 | Week 9 - == FLYOVER COUNTRY==  |
 | |  - In class work, FLYOVER COUNTRY AI Writers Room|
 | 10/28 | Week 10 - Digital Input; Analog Input and Output; Analog Sensors;  |
-| | - DUE Project 1 |
+| | - Project 1 Critique |
 | 11/4 | Week 11 -  Making Things Move: Servos and Actuators |
 | | - “Even Thermostats Can Be Said to Have Feelings” (ex11), Assign Project 2 |
 | 11/11 | Week 12 - DC Motors, Solenoids; Linkages and Mounts |
