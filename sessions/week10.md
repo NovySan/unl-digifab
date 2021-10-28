@@ -64,7 +64,7 @@ https://www.arduino.cc/en/Tutorial/BuiltInExamples/Fade
   - and a different pin (one of the PWM capable pins)
 
 - TODO: 
-  - modify the speed at which it fades. (hint: change the [`delay()`](https://www.arduino.cc/reference/en/language/functions/time/delay/))
+  - modify the speed at which it fades. (hint: change the `delay()` [ref](https://www.arduino.cc/reference/en/language/functions/time/delay/))
 
 ## Homework
 - Meaningful Signal
