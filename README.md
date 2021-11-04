@@ -60,9 +60,9 @@ A student who successfully completes this course will:
 | 10/28 | [Week 10 - Digital Input; Analog Input and Output](sessions/week9.md)  |
 | | - Project 1 Critique |
 | 11/4 | [Week 11 -  Analog Input, Making Things Move: Servos and Actuators](sessions/week11.md) |
-| | - “Even Thermostats Can Be Said to Have Feelings” (ex11), Assign Project 2 |
+| | - Biomimicry exercise (ex11) |
 | 11/11 | Week 12 - Sensors; DC Motors, Solenoids; Linkages and Mounts |
-| | - Biomimicry exercise (ex12) |
+| | - “Even Thermostats Can Be Said to Have Feelings” (ex12), Assign Project 2  |
 | 11/18 | Week 13 - Smart Textiles; Digital Craft |
 | | - High/Low Tech (ex13)|
 | 11/25 | Week 14 - THANKSGIVING HOLIDAY (MEET ONLINE?) - Wearables, Embodiment, Somatic Interface, Augmentation/Prosthesis|
