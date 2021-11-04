@@ -57,11 +57,11 @@ A student who successfully completes this course will:
 | | [Meaningful Signal (ex8)](exercises/ex8.md) |
 | 10/21 | Week 9 - == FLYOVER COUNTRY==  |
 | |  - In class work, FLYOVER COUNTRY AI Writers Room|
-| 10/28 | Week 10 - Digital Input; Analog Input and Output; Analog Sensors;  |
+| 10/28 | [Week 10 - Digital Input; Analog Input and Output](sessions/week9.md)  |
 | | - Project 1 Critique |
-| 11/4 | Week 11 -  Making Things Move: Servos and Actuators |
+| 11/4 | [Week 11 -  Analog Input, Making Things Move: Servos and Actuators](sessions/week11.md) |
 | | - “Even Thermostats Can Be Said to Have Feelings” (ex11), Assign Project 2 |
-| 11/11 | Week 12 - DC Motors, Solenoids; Linkages and Mounts |
+| 11/11 | Week 12 - Sensors; DC Motors, Solenoids; Linkages and Mounts |
 | | - Biomimicry exercise (ex12) |
 | 11/18 | Week 13 - Smart Textiles; Digital Craft |
 | | - High/Low Tech (ex13)|
