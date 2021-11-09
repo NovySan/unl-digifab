@@ -43,7 +43,7 @@ https://www.arduino.cc/en/Tutorial/LibraryExamples/Sweep
 - Use the servo to control two knobs. 
 
 ## Homework
-- Bio-mimicry
+- [Biomimicry](../exercises/ex11.md)
 
 ## Office Hours 
 - Immediately after class. 
