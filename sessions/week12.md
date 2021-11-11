@@ -21,7 +21,7 @@ https://docs.arduino.cc/built-in-examples/basics/AnalogReadSerial
 - From last class, we should still have our potentiometer hooked up into Analog Input 0 (A0) on the arduino. 
 - Load the AnalogReadSerial sketch (Examples->01.Basics->AnalogReadSerial) to the arduino. 
 - Open the serial monitor:
-  - ![image](https://user-images.githubusercontent.com/1598545/141341983-b758674a-a8b8-439e-b27c-d8603ae417dc.png)
+  - ![image](https://user-images.githubusercontent.com/1598545/141345025-13b9fced-5f45-4f7b-892e-936678a94808.png)
   - Look at how moving the potentiometer changes the value of analogRead(). 
 - Activity: Use [`map()`](https://www.arduino.cc/reference/en/language/functions/math/map/) to scale those analog values to 0-255, and use that to fade a jumbo LED (`analogWrite()`)
 - We can use `serial.write()` to communicate with p5, or processing, or maxMSP or any other program that can read from a serial port.
