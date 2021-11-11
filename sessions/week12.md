@@ -74,4 +74,3 @@ https://www.arduino.cc/en/Tutorial/BuiltInExamples/AnalogInput
 
 ## Reference
 - Detailed HC-SR04 tutorial with LEDs and Arduino https://www.instructables.com/Simple-Arduino-and-HC-SR04-Example/
-- 
