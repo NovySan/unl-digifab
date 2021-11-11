@@ -27,8 +27,11 @@ https://www.arduino.cc/en/Tutorial/BuiltInExamples/AnalogInput
 - photoresistor and voltage divider
 - using multimeter to see how the resistance changes
 - reading the photoresistor as a sensor
-- Use the photoresistor to control the servo from last class, in place of the potentiometer
-- 
+- Activity: Use the photoresistor to control the servo from last class, in place of the potentiometer
+  1. Use the serial port to debug the range of analog values coming in from the photo-resistor/resistor voltage divider.
+  2. Use map() to scale those analog values to zero -> 180 degrees (the full range of the servo)
+  3. Interact with the photoresistor and see the motor move. 
+- Extension: Instead of directly mapping sensor values to servo position, use the sensor values to trigger specific motions. For instance, have if statements that move it to different positions depending on how much light it sees.
 
 ## Temperature sensor
 
