@@ -43,3 +43,7 @@ https://www.arduino.cc/en/Tutorial/BuiltInExamples/AnalogInput
 ## Office Hours 
 - Immediately after class. 
 - or, contact me online
+
+## Reference
+- Detailed HC-SR04 tutorial with LEDs and Arduino https://www.instructables.com/Simple-Arduino-and-HC-SR04-Example/
+- 
