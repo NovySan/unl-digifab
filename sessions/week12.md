@@ -52,8 +52,13 @@ https://www.arduino.cc/en/Tutorial/BuiltInExamples/AnalogInput
 
 - The [TMP 36GZ](http://www.us.diigiit.com/tmp36gz-temperature-sensor) is a temperature sensor.
 - This is an active sensor, meaning we provide power to ground and 5V, and it outputs a voltage proportional to temperature.
-  - Looking at the datasheet, we see it is 10mV/degree Celsius. That means we can use the output voltage (read by analog in) to figure out what the temperature is.
-- 
+  - Looking at the [datasheet](http://www.us.diigiit.com/download/TMP35-36-37.pdf), we see it is 10mV/degree Celsius. That means we can use the output voltage (read by analog in) to figure out what the temperature is.
+- To convert from AnalogRead value to milli-volts: __Voltage at pin in milliVolts = (reading from ADC) * (5000/1024)__
+- To convert from Volts to degree celsius: __Centigrade temperature = [(analog voltage in mV) - 500] / 10__
+- Activity: 
+  - Use AnalogReadSerial to figure out what the current temperature in the room is in Celsius.
+  - Modify your code to convert Celsius to fahrenheit. 
+  - Explore the dynamic behavior: how quickly does it change in response to breathing on it? In response to touching it? Can you get the temperature to go up, or go down?
 
 ## Ultrasonice Rangefinder
 
