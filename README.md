@@ -61,15 +61,19 @@ A student who successfully completes this course will:
 | | - Project 1 Critique |
 | 11/4 | [Week 11 -  Analog Input, Making Things Move: Servos and Actuators](sessions/week11.md) |
 | | - [Biomimicry exercise (ex11)](exercises/ex11.md) |
-| 11/11 | Week 12 - Sensors; DC Motors, Solenoids; Linkages and Mounts |
+| 11/11 | [Week 12 - Sensors: Light, Temperature, Distance](sessions/week12.md) |
 | | - “Even Thermostats Can Be Said to Have Feelings” (ex12), Assign Project 2  |
-| 11/18 | Week 13 - Smart Textiles; Digital Craft |
-| | - High/Low Tech (ex13)|
+| 11/18 | Week 13 - Actuators: DC Motors, Solenoids; Linkages and Mounts |
+| | - ex13 |
 | 11/25 | Week 14 - THANKSGIVING HOLIDAY (MEET ONLINE?) - Wearables, Embodiment, Somatic Interface, Augmentation/Prosthesis|
 | | - “The Pleasure of Being the Cause” or Somatic Interface(ex14), DUE Project 2 |
 | 12/2 | Week 15 - Workshopping Final Presentations, Internet of Things: Networked Objects, Spimes |
 | | - Exhibition/Showcase Open Studios; Objects with Memories (ex15)  |
 | 12/9 | Week 16 - (Final Project Documentation due, Talk) NO FINAL EXAM |
+
+Leftovers 
+- Smart Textiles; Digital Craft 
+- High/Low Tech (ex13
 
 # Resources
 - **Discussion:** we will use discord for discussion on the Carson Center server [https://discord.gg/QBkMgHW8](https://discord.gg/QBkMgHW8)
