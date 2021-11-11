@@ -32,9 +32,13 @@ https://www.arduino.cc/en/Tutorial/BuiltInExamples/AnalogInput
 - TMP 36GZ ([link](http://www.us.diigiit.com/tmp36gz-temperature-sensor)) - [datasheet](http://www.us.diigiit.com/download/TMP35-36-37.pdf)
 - Active sensor: connects to ground and 5V. The output is a voltage proportional to temperature.
 
+## Ultrasonice Rangefinder
+
+- [HC-SR04](https://www.sparkfun.com/products/15569) - [datasheet](https://www.sparkfun.com/products/15569)
+
 
 ## Homework
-- [Biomimicry](../exercises/ex11.md)
+- [Even Thermostats](../exercises/ex12.md)
 
 ## Office Hours 
 - Immediately after class. 
