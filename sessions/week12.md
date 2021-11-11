@@ -3,7 +3,7 @@
 ## Agenda
 - John Strough - DIY Animatronics and other work
   - Animatronic Eye Parts and Code: https://www.johnstrope.com/post/eyemech
-- NEW PARTS: Jmbo Leds, various sensors, relay modules, etc.
+- NEW PARTS
 - Sensors and Serial Communication
   - [Analog with Serial](#analog-serial)
   - [Photoresistor](#photoresistor)
