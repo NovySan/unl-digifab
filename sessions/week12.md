@@ -1,14 +1,15 @@
 # Week 11 - Digital and Analog IO
 
 ## Agenda
-- 12:30-1:10pm - John Strough - DIY Animatronics and other work
+- John Strough - DIY Animatronics and other work
   - Animatronic Eye Parts and Code: https://www.johnstrope.com/post/eyemech
-- 1:10-2:30pm - Sensors and Serial Communication
+- NEW PARTS: Jmbo Leds, various sensors, relay modules, etc.
+- Sensors and Serial Communication
   - [Analog with Serial](#analog-serial)
   - [Photoresistor](#photoresistor)
   - [Temperature Sensor](#temperature-sensor)
   - [Ultrasonic Rangefinder](#ultrasonic-rangefinder)
-- 2:30pm - NFT Workshop wth the McCoys
+- NFT Workshop wth the McCoys
 
 ## Analog Serial
 
@@ -26,6 +27,8 @@ https://www.arduino.cc/en/Tutorial/BuiltInExamples/AnalogInput
 - photoresistor and voltage divider
 - using multimeter to see how the resistance changes
 - reading the photoresistor as a sensor
+- Use the photoresistor to control the servo from last class, in place of the potentiometer
+- 
 
 ## Temperature sensor
 
