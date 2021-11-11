@@ -66,7 +66,7 @@ https://www.arduino.cc/en/Tutorial/BuiltInExamples/AnalogInput
 
 
 ## Homework
-- [Even Thermostats](../exercises/ex12.md)
+- <!--[Even Thermostats](../exercises/ex12.md)-->
 
 ## Office Hours 
 - Immediately after class. 
