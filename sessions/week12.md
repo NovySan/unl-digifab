@@ -7,8 +7,6 @@
 - Sensors and Serial Communication
   - [Analog with Serial](#analog-serial)
   - [Photoresistor](#photoresistor)
-  - [Temperature Sensor](#temperature-sensor)
-  - [Ultrasonic Rangefinder](#ultrasonic-rangefinder)
 - NFT Workshop wth the McCoys
 
 ## Analog Serial
