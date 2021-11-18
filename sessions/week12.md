@@ -60,9 +60,10 @@ https://www.arduino.cc/en/Tutorial/BuiltInExamples/AnalogInput
   - Modify your code to convert Celsius to fahrenheit. 
   - Explore the dynamic behavior: how quickly does it change in response to breathing on it? In response to touching it? Can you get the temperature to go up, or go down?
 
-## Ultrasonice Rangefinder
+## Ultrasonic Rangefinder
 
-![image](https://user-images.githubusercontent.com/1598545/142435895-e3024774-86f0-41b1-9914-a6e01e59d3fd.png)
+<img src="https://user-images.githubusercontent.com/1598545/142435895-e3024774-86f0-41b1-9914-a6e01e59d3fd.png" width=600px>
+
 from https://create.arduino.cc/projecthub/abdularbi17/ultrasonic-sensor-hc-sr04-with-arduino-tutorial-327ff6
 
 - [HC-SR04](https://www.sparkfun.com/products/15569) - [datasheet](https://www.sparkfun.com/products/15569)
