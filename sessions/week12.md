@@ -76,7 +76,6 @@ from https://create.arduino.cc/projecthub/abdularbi17/ultrasonic-sensor-hc-sr04-
 - `Serial.write()`
 - `Serial.read()`
 
-
 ## Homework
 - <!--[Even Thermostats](../exercises/ex12.md)-->
 
