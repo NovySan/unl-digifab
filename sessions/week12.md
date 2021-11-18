@@ -67,12 +67,14 @@ https://www.arduino.cc/en/Tutorial/BuiltInExamples/AnalogInput
 from https://create.arduino.cc/projecthub/abdularbi17/ultrasonic-sensor-hc-sr04-with-arduino-tutorial-327ff6
 
 - [HC-SR04](https://www.sparkfun.com/products/15569) - [datasheet](https://www.sparkfun.com/products/15569)
-- Code: [ping_hc_sr04.zip](assets/ping_hc_sr04.zip)
+- Code: [ping_hc_sr04.zip](../assets/ping_hc_sr04.zip)
+- Graph it: __Tools->Serial Plotter__
+  - ![image](https://user-images.githubusercontent.com/1598545/142435810-0a44c871-7218-4de4-9567-a46c0be70462.png)
 
-### Graph It
+## Range Finder to Control p5 sketch
 
-__Tools->Serial Plotter__
-![image](https://user-images.githubusercontent.com/1598545/142435810-0a44c871-7218-4de4-9567-a46c0be70462.png)
+- `Serial.write()`
+- `Serial.read()`
 
 
 ## Homework
