@@ -62,7 +62,16 @@ https://www.arduino.cc/en/Tutorial/BuiltInExamples/AnalogInput
 
 ## Ultrasonice Rangefinder
 
+![image](https://user-images.githubusercontent.com/1598545/142435895-e3024774-86f0-41b1-9914-a6e01e59d3fd.png)
+from https://create.arduino.cc/projecthub/abdularbi17/ultrasonic-sensor-hc-sr04-with-arduino-tutorial-327ff6
+
 - [HC-SR04](https://www.sparkfun.com/products/15569) - [datasheet](https://www.sparkfun.com/products/15569)
+- Code: [ping_hc_sr04.zip](assets/ping_hc_sr04.zip)
+
+### Graph It
+
+__Tools->Serial Plotter__
+![image](https://user-images.githubusercontent.com/1598545/142435810-0a44c871-7218-4de4-9567-a46c0be70462.png)
 
 
 ## Homework
