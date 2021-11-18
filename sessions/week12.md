@@ -69,7 +69,7 @@ from https://create.arduino.cc/projecthub/abdularbi17/ultrasonic-sensor-hc-sr04-
 - [HC-SR04](https://www.sparkfun.com/products/15569) - [datasheet](https://www.sparkfun.com/products/15569)
 - Code: [ping_hc_sr04.zip](../assets/ping_hc_sr04.zip)
 - Graph it: __Tools->Serial Plotter__
-  - ![image](https://user-images.githubusercontent.com/1598545/142435810-0a44c871-7218-4de4-9567-a46c0be70462.png)
+![image](https://user-images.githubusercontent.com/1598545/142436593-12c286c5-e72e-4a53-af84-ee74648fd148.png)
 
 ## Range Finder to Control p5 sketch
 
