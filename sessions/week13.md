@@ -18,7 +18,7 @@
 - This is an active sensor, meaning we provide power to ground and 5V, and it outputs a voltage proportional to temperature.
   - Looking at the [datasheet](http://www.us.diigiit.com/download/TMP35-36-37.pdf), we see it is 10mV/degree Celsius. That means we can use the output voltage (read by analog in) to figure out what the temperature is.
 - To convert from AnalogRead value to milli-volts: __Voltage at pin in milliVolts = (reading from ADC) * (5000/1024)__
-- To convert from Volts to degree celsius: __Centigrade temperature = [(analog voltage in mV) - 500] / 10__
+- To convert from milliVolts to degree celsius: __Centigrade temperature = [(analog voltage in mV) - 500] / 10__
 - Activity: 
   - Use AnalogReadSerial to figure out what the current temperature in the room is in Celsius.
   - Modify your code to convert Celsius to fahrenheit. 
