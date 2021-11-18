@@ -63,17 +63,23 @@ A student who successfully completes this course will:
 | | - [Biomimicry exercise (ex11)](exercises/ex11.md) |
 | 11/11 | [Week 12 - Sensors: Light, Temperature, Distance](sessions/week12.md) |
 | | - Catch up time |
-| 11/18 | [Week 13 - Actuators: DC Motors, Solenoids; Linkages and Mounts](sessions/week13.md) |
+| 11/18 | [Week 13 - Sensors and Serial Communication](sessions/week13.md) |
 | | - “Even Thermostats Can Be Said to Have Feelings” (ex12), Assign Project 2 |
-| 11/25 | Week 14 - THANKSGIVING HOLIDAY (MEET ONLINE?) - Wearables, Embodiment, Somatic Interface, Augmentation/Prosthesis|
-| | - “The Pleasure of Being the Cause” or Somatic Interface(ex14), DUE Project 2 |
-| 12/2 | Week 15 - Workshopping Final Presentations, Internet of Things: Networked Objects, Spimes |
-| | - Exhibition/Showcase Open Studios; Objects with Memories (ex15)  |
-| 12/9 | Week 16 - (Final Project Documentation due, Talk) NO FINAL EXAM |
+| 11/25 | Week 14 - THANKSGIVING HOLIDAY |
+| | -  |
+| 12/2 | Week 15 -  Actuators: DC Motors, Solenoids; Linkages and Mounts; Workshopping Final Presentations|
+| | -  |
+| 12/9 | Week 16 - (Final Project Documentation due, Talk) |
+| | - Exhibition/Showcase Open Studios |
+| Finals Week | NO FINAL EXAM |
 
 Leftovers 
 - Smart Textiles; Digital Craft 
-- High/Low Tech (ex13
+- High/Low Tech (ex13)
+- Wearables, Embodiment, Somatic Interface, Augmentation/Prosthesis
+- “The Pleasure of Being the Cause” or Somatic Interface (ex14)
+- Internet of Things: Networked Objects, Spimes 
+- Objects with Memories (ex15)
 
 # Resources
 - **Discussion:** we will use discord for discussion on the Carson Center server [https://discord.gg/QBkMgHW8](https://discord.gg/QBkMgHW8)
