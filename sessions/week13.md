@@ -33,13 +33,13 @@ from https://create.arduino.cc/projecthub/abdularbi17/ultrasonic-sensor-hc-sr04-
 - Graph it: __Tools->Serial Plotter__
 ![image](https://user-images.githubusercontent.com/1598545/142436732-25252eb5-682d-497d-9f52-df6584063f64.png)
 
-## Range Finder to Control p5 sketch
+<!--## Range Finder to Control p5 sketch
 
 - `Serial.write()`
 - `Serial.read()`
-
+-->
 ## Homework
-- <!--[Even Thermostats](../exercises/ex12.md)-->
+- [Even Thermostats](../exercises/ex12.md) Due December 2nd (2 weeks)
 
 ## Office Hours 
 - Immediately after class. 
