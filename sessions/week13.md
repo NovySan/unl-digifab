@@ -1,4 +1,4 @@
-# Week 13 - Sensors and Serial Communication
+# Week 13 - More Sensors and Serial Communication
 
 ## Agenda
 - Sensors and Serial Communication
