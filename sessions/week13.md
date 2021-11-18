@@ -1,10 +1,12 @@
 # Week 13 - More Sensors and Serial Communication
 
 ## Agenda
+- Biomimicry Checkin
 - Sensors and Serial Communication
   - [Temperature Sensor](#temperature-sensor)
   - [Ultrasonic Rangefinder](#ultrasonic-rangefinder)
   - Rangefinder to P5
+- Discuss Final Project and Exhibition
 
 ## Temperature sensor
 
