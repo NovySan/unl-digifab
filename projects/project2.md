@@ -12,6 +12,8 @@ For this project you will use the 3d design and fabrication techniques that we h
 
 You will also meed to use your Arduino and some combination of sensors (photoresistor, rangefinder, etc.) and actuators (lights, buzzer, servo, etc.)
 
+Your project needs to have some meaningful behavior, whether preprogrammed, or in response to sensor/user input or interaction. 
+
 We will critique these projects the last week of class, Week 16.
 
 <!-- ## Proposal
