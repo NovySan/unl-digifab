@@ -1,7 +1,7 @@
-![image](https://user-images.githubusercontent.com/1598545/135893454-f925bb08-b92c-4254-acf8-db47bb92dc5a.png)
-
 # Project 2: Mechatronic Artwork
 ## Description
+
+The final project needs to integrate digital fabrication with physical computing (inputs, outputs, sensors, actuators). 
 
 For this project you will make an object that is a combination of two (or more) things at once. This could be a literal hybrid of multiple objects (see Moreshin Allahyari's Dark Metter), an online / offline object (existing both in digital form and physical form), or some individual direction you identify that hybridizes between two forms. See the [references](#references) below for some examples. The concept is open-ended, but you will need to submit a written proposal for your project. (see [proposal](#proposal) below)
 
