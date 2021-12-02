@@ -66,12 +66,13 @@ A student who successfully completes this course will:
 | 11/18 | [Week 13 - Sensors and Serial Communication](sessions/week13.md) |
 | | - “Even Thermostats Can Be Said to Have Feelings” (ex12), Assign Project 2 |
 | 11/25 | Week 14 - THANKSGIVING HOLIDAY |
-| | -  |
+| | - HOLIDAY  |
 | 12/2 | Week 15 -  Actuators: DC Motors, Solenoids; Linkages and Mounts; Workshopping Final Presentations|
-| | -  |
-| 12/9 | Week 16 - (Final Project Documentation due, Talk) |
+| | - Final Project Work Time |
+| 12/9 | Week 16 - Final Critiques |
 | | - Exhibition/Showcase Open Studios |
 | Finals Week | NO FINAL EXAM |
+| | - All work due to Canvas for Grading (12/17)
 
 Leftovers 
 - Smart Textiles; Digital Craft 
