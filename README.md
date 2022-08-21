@@ -13,9 +13,8 @@ This course introduces physical computing and digital fabrication for emerging m
 
 - **Instructor:** Dr. Robert Twomey
 - **Class:** Tu/Th 9:30-10:45pm
-- **Location:** Student Lounge / Fabrication Studio
-- - **Office:** CEMA 253 
-- **Office Hours:** Likely Wed, Zoom and in person.
+- **Location:** CEMA Student Lounge / Fabrication Studio
+- **Office Hours:** Wed, Discord and in person (CEMA 253)
 
 ## Course objectives
 -	Experiential learning.
