@@ -93,7 +93,7 @@ Leftovers
 # Grading
 
 ## Graded activities
-- 30% Weekly Exercises – approximately 14 exercises
+- 30% Weekly Exercises – approximately 10 exercises
 - 60% Projects – 3 total at approximately 20% each
 - 10% Participation
 
