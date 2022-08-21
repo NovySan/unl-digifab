@@ -1,6 +1,6 @@
 # EMAR 391-007: Digital Fabrication and Physical Computing - Fall 2022
 
-[Description](#description) | [Schedule](#schedule) | [Resources](#resources) | [Grading](#grading) | [Policies](#policies) | [Accomodations](#accommodations-for-students-with-disabilities) | [References](#references)
+[Description](#description) | [Resources](#resources) | [Schedule](#schedule) | [Grading](#grading) | [Policies](#policies) | [References](#references)
 
 ![Image](digifab_image_2021.png)
 *Clockwise from top left: [Ken Rinaldo - Mediated Encounters](https://www.kenrinaldo.com/portfolio/mediated-encounters/); [MIT Mediated Matter Group - Silk Pavillion](https://www.media.mit.edu/projects/silk-pavilion/overview/); [Morehshin Allahyari - Material Spectulation](http://www.morehshin.com/material-speculation-isis/); [Quayola - Carvings](https://www.cnn.com/style/article/davide-quayola-laocoon-robot-sculpture-smart-creativity/index.html); [David Bowen - Space Junk](https://www.dwbowen.com/spacejunk); [James Loh - Amae Apparatus](https://process.jonas-loh.com/post/7800652708/intimateethnography-title-amae-apparatus)*
@@ -14,7 +14,9 @@ This course introduces physical computing and digital fabrication for emerging m
 - **Instructor:** Dr. Robert Twomey
 - **Class:** Tu/Th 9:30-10:45pm
 - **Location:** CEMA Student Lounge / Fabrication Studio
-- **Office Hours:** Wed, Discord and in person (CEMA 253)
+- **Office Hours:** Wed, Discord and in person (Cohab-Lab - CEMA 253)
+- **Discord:** https://discord.gg/kMvwgyYHvj
+- **Canvas:** https://canvas.unl.edu/courses/137404
 
 ## Course objectives
 -	Experiential learning.
@@ -33,6 +35,12 @@ A student who successfully completes this course will:
 -	Be able to think critically about computer-aided design and fabrication methods and relate them to historical art methods.
 
 **Prequisites:** Major in Emerging Media Arts and successful completion of EMAR161 Computational Media Studio II, or permission of instructor.
+
+# Resources
+- **[Rhinoceros 3d]**
+- Axidraw
+- Prusa Mk3iis
+- Muse laser engraver
 
 # Schedule
 (Subject to Change-Always check back for most up to date information)
@@ -81,10 +89,6 @@ Leftovers
 - “The Pleasure of Being the Cause” or Somatic Interface (ex14)
 - Internet of Things: Networked Objects, Spimes 
 - Objects with Memories (ex15)
-
-# Resources
-- **Discussion:** Carson Center discord server [https://discord.gg/kMvwgyYHvj](https://discord.gg/kMvwgyYHvj)
-- **Canvas:** this is where I will handle formal announcements, grading, class business: [https://canvas.unl.edu/courses/114938](https://canvas.unl.edu/courses/114938)
 
 # Grading
 
