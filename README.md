@@ -1,4 +1,4 @@
-# EMAR 391-007: Digital Fabrication and Physical Computing - Fall 2021
+# EMAR 391-007: Digital Fabrication and Physical Computing - Fall 2022
 
 [Description](#description) | [Schedule](#schedule) | [Resources](#resources) | [Grading](#grading) | [Policies](#policies) | [Accomodations](#accommodations-for-students-with-disabilities) | [References](#references)
 
@@ -12,9 +12,10 @@ This course introduces physical computing and digital fabrication for emerging m
 ## Details
 
 - **Instructor:** Dr. Robert Twomey
-- **Class:** Thursday 12:30-3:15pm
-- **Location:** Fabrication Lab / Student Lounge
-- **Office Hours:** TBD, Wednesday pm, Discord, and in person.
+- **Class:** Tu/Th 9:30-10:45pm
+- **Location:** Student Lounge / Fabrication Studio
+- - **Office:** CEMA 253 
+- **Office Hours:** Likely Wed, Zoom and in person.
 
 ## Course objectives
 -	Experiential learning.
@@ -83,7 +84,7 @@ Leftovers
 - Objects with Memories (ex15)
 
 # Resources
-- **Discussion:** we will use discord for discussion on the Carson Center server [https://discord.gg/QBkMgHW8](https://discord.gg/QBkMgHW8)
+- **Discussion:** Carson Center discord server [https://discord.gg/kMvwgyYHvj](https://discord.gg/kMvwgyYHvj)
 - **Canvas:** this is where I will handle formal announcements, grading, class business: [https://canvas.unl.edu/courses/114938](https://canvas.unl.edu/courses/114938)
 
 # Grading
