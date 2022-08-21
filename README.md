@@ -106,8 +106,53 @@ We will have three projects over the semester with the following aims: Project 1
 __*Participation*__
 Contributions to class discussions and active participation in small group work are essential to both the momentum of the course and the development of your ideas. This requires that you come to class prepared (having completed assigned reading and writing) and ready to participate in class activities. This course is based on collaborative, project-based learning and you are also expected to contribute as a responsible member of a group. See the participation evaluation in the Grading Scale below for more information.
 
+## Late work policy
+An assignment may receive an F if a student does not participate in every phase of the development of the project and meet all deadlines for preliminary materials (proposals, drafts, etc.). Failure to submit any of the graded course assignments is grounds for failure in the course. If a final draft or project, plus required addenda, is not submitted in class on the date due, it will be considered late and will lose one letter grade for each day or part of a day past due (A to B, etc.). Assignments are due in hard copy and or via email/link (online assignment). You must submit your assignments directly to the instructor. Any late submissions must be approved by your faculty instructor well in advance of the due date.
+
+## Grading Scale
+A+ = 97-100 | A = 93-97 | A- = 90-93 <br>
+B+ = 87-90 | B = 83-87 | B- = 80-83 <br>
+C+ = 77-80 | C = 73-77 | C- = 70-73 <br>
+D+ = 67-70 | D = 63-67 | D- = 60-63 <br>
+F = below 60%<br>
+
+Here is a description of the kind of participation in the course that would earn you an A, B, C, etc. Your instructor may use pluses and minuses to reflect your participation more fairly, but this is a general description for each letter grade.
+
+A – Excellent<br>
+Excellent participation is marked by near-perfect attendance and rigorous preparation for class. You respond to questions and activities with enthusiasm and insight and you listen and respond thoughtfully to your peers. You submit rough drafts on time, and these drafts demonstrate a thorough engagement with the assignment. You respond creatively to the feedback you receive (from both your peers and instructors) on drafts, making significant changes to your writing between the first and final drafts that demonstrate ownership of your own writing process. Finally, you are an active contributor to the peer- review and collaborative writing/making processes.
+
+B – Good<br>
+Good participation is marked by near-perfect attendance and thorough preparation for discussion section. You respond to questions with specificity and make active contributions to creating a safe space for the exchange of ideas. You submit rough drafts on time, and these drafts demonstrate thorough engagement with the assignment. You respond effectively to the feedback you receive (from both your peers and instructor) on drafts, making changes to your work between the first and final drafts. You are a regular and reliable contributor to the peer-review and collaborative writing/making processes.
+
+C – Satisfactory<br>
+Satisfactory participation is marked by regular attendance and preparation for class. You respond to questions when prompted and participate in classroom activities, though you may sometimes be distracted. You are present, with few absences, and have done some of the reading some of the time. You submit drafts on time and make some efforts toward revision between the first and final drafts of an assignment. You are involved in peer-review activities, but you offer minimal feedback and you may not always contribute fully to the collaborative writing/making process.
+
+D – Unsatisfactory<br>
+Unsatisfactory participation is marked by multiple absences from section and a consistent lack of preparation. You may regularly be distracted by materials/technology not directly related to class. You submit late or incomplete work and revise minimally or only at a surface level between drafts. You are absent for peer-review activities, offer unproductive feedback, or do not work cooperatively in collaborative environments.
+
+F—Failing<br>
+Failing participation is marked by excessive absences, a habitual lack of preparation, and failure to engage in the drafting, revision, and collaborative writing/making processes.
+
+# Policies
+
+__UNL Course Policies and Resources__. Students are responsible for knowing the university policies and resources found on this page: [https://go.unl.edu/coursepolicies](https://go.unl.edu/coursepolicies)
+- University-wide Attendance Policy
+- Academic Honesty Policy
+- Services for Students with Disabilities
+- Mental Health and Well-Being Resources
+- Final Exam Schedule
+- Fifteenth Week Policy
+- Emergency Procedures
+- Diversity & Inclusiveness
+- Title IX Policy
+- Other Relevant University-Wide Policies
+
+## Academic Honesty Policy
+
+While we will adhere to the UNL Academic Honesty Policy linked above, we will use many open source projects to make our work. It is ok to use others' code. However, **you need to cite your sources**, and **you need to do transformative work/make it your own**.
+
 ## Attendance
-On-time attendance is required as well as playtesting inside and outside of section. Please notify your instructor in advance if you must be absent for illness or family emergency. Any absences must be cleared with the instructor, or justified with written documentation (e.g. letter from team, etc.). We do not differentiate between mental and physical health and in either case please be in communication for when you need to take a day off. After a student misses a week’s worth of classes each subsequent missed class will result in the reduction of the final grade by a full letter grade (i.e., A to B, B- to C-) Excessive tardiness or leaving early will also impact your grade and will follow the same rubric.
+On-time attendance is required as well as work inside and outside of section. Please notify your instructor in advance if you must be absent for illness or family emergency. Any absences must be cleared with the instructor, or justified with written documentation (e.g. letter from team, etc.). We do not differentiate between mental and physical health and in either case please be in communication for when you need to take a day off. After a student misses a week’s worth of classes each subsequent missed class will result in the reduction of the final grade by a full letter grade (i.e., A to B, B- to C-) Excessive tardiness or leaving early will also impact your grade and will follow the same rubric.
 
 Please also note the JCSTF attendance policy:
 - 4.7 Attendance Policy
@@ -118,88 +163,8 @@ class will result in the reduction of the final grade by a full letter grade (i.
 - 4.7.4 This policy, as approved by the faculty, represents the minimum requirement. Faculty members are permitted to develop more stringent attendance requirements, as long as those requirements are detailed in writing in the class syllabus and distributed at the beginning of each course.
 - 4.7.5 The policy on students who are late to class will be left up to the individual instructors.
 
-## Late work policy
-Students can submit one assignment (exercise or peer review) late without penalty. Any following late assignments will be docked 5% for each day they are late (if an assignment is two days late, the grade will be docked 10%).
-
-Due to COVID-19 and current community health concerns, I will make exceptions for illness with documentation. 
-
-
-## Grading Scale
-|      |     |     |
-| ---- | ---- | ---- |
-| A+ = 97-100 | A = 93-96 | A- = 90-92 |
-| B+ = 87-89 | B = 83-86 | B- = 80-82 |
-| C+ = 77-79 | C = 73-76 | C- = 70-72 |
-| D+ = 67-69 | D = 63-66 | D- = 60-62 |
-| F =below 60% | | |
-
-Here is a description of the kind of participation in the course that would earn you an A, B, C, etc. Your instructor may use pluses and minuses to reflect your participation more fairly, but this is a general description for each letter grade.
-
-A – Excellent
-Excellent participation is marked by near-perfect attendance and rigorous preparation for class. You respond to questions and activities with enthusiasm and insight and you listen and respond thoughtfully to your peers. You submit rough drafts on time, and these drafts demonstrate a thorough engagement with the assignment. You respond creatively to the feedback you receive (from both your peers and instructors) on drafts, making significant changes to your writing between the first and final drafts that demonstrate ownership of your own writing process. Finally, you are an active contributor to the peer- review and collaborative writing/making processes.
-
-B – Good
-Good participation is marked by near-perfect attendance and thorough preparation for discussion section. You respond to questions with specificity and make active contributions to creating a safe space for the exchange of ideas. You submit rough drafts on time, and these drafts demonstrate thorough engagement with the assignment. You respond effectively to the feedback you receive (from both your peers and instructor) on drafts, making changes to your work between the first and final drafts. You are a regular and reliable contributor to the peer-review and collaborative writing/making processes.
-
-C – Satisfactory
-Satisfactory participation is marked by regular attendance and preparation for class. You respond to questions when prompted and participate in classroom activities, though you may sometimes be distracted. You are present, with few absences, and have done some of the reading some of the time. You submit drafts on time and make some efforts toward revision between the first and final drafts of an assignment. You are involved in peer-review activities, but you offer minimal feedback and you may not always contribute fully to the collaborative writing/making process.
-
-D – Unsatisfactory
-Unsatisfactory participation is marked by multiple absences from section and a consistent lack of preparation. You may regularly be distracted by materials/technology not directly related to class. You submit late or incomplete work and revise minimally or only at a surface level between drafts. You are absent for peer-review activities, offer unproductive feedback, or do not work cooperatively in collaborative environments.
-
-F—Failing
-Failing participation is marked by excessive absences, a habitual lack of preparation, and failure to engage in the drafting, revision, and collaborative writing/making processes.
-
-## Academic Honesty Policy
-
-Academic dishonesty will not be tolerated in this course. Any instances will result in an automatic grade of F in the course and possible disciplinary action under the Student Code of Conduct (https://studentconduct.unl.edu/student-code-conduct). For information on the University’s policy on academic dishonesty, please refer to the current Undergraduate Bulletin (https://registrar.unl.edu/academic-honesty).
-
-We will use many open source projects to make our work. It is ok to use others' code. However, **you need to cite your sources**, and **you need to do transformative work/make it your own**.
-
-# Policies
-
-## Accommodations for Students with Disabilities
-Students with disabilities are encouraged to contact their instructor for a confidential discussion of their individual needs for academic accommodation based on a current accommodation plan. It is the policy of the University to provide flexible and individualized accommodations to students with documented disabilities including those students with mental health disabilities such as depression and anxiety. To receive reasonable accommodation, students must be registered with the Services for Students with Disabilities (SSD) office, 117 Louise Pound Hall, 402-472-3787 V/TTY.
-
-## Mental Health and Wellbeing Resources
-UNL offers a variety of options to students to aid them in dealing with stress and adversity. Counseling and Psychological & Services (CAPS) is a multidisciplinary team of psychologists and counselors that works collaboratively with Nebraska students to help them explore their feelings and thoughts and learn helpful ways to improve their mental, psychological and emotional well- being when issues arise. CAPS can be reached by calling 402-472-7450. Big Red Resilience & Well- Being provides one-on-one well-being coaching to any student who wants to enhance their well- being. Trained well-being coaches help students create and be grateful for positive experiences, practice resilience and self-compassion, and find support as they need it. BRRWB can be reached by calling 402-472-8770.
-
-## COVID-19 face covering policy
-
-To protect the health and well-being of the University and wider community, UNL has implemented 
-a policy requiring all people, including students, faculty, and staff, to wear a face covering that 
-covers the mouth and nose while on campus. The classroom is a community, and as a community, 
-we seek to maintain the health and safety of all members by wearing face coverings when in the 
-classroom. Failure to comply with this policy is interpreted as a disruption of the classroom 
-and may be a violation of UNL’s Student Code of Conduct.
-<br><br>
-Individuals who have health or medical reasons for not wearing face coverings should work with 
-the Office of Services for Students with Disabilities (for students) or the Office of Faculty/Staff 
-Disability Services (for faculty and staff) to establish accommodations to address the health 
-concern. Students who prefer not to wear a face covering should work with their advisor to arrange 
-a fully online course schedule that does not require their presence on campus.
-<br><br>
-Students in the classroom:
-
-1. If a student is not properly wearing a face covering, the instructor will remind the student of the policy and ask them to comply with it.
-
-2. If the student will not comply with the face covering policy, the instructor will ask the student to leave the classroom, and the student may only return when they are properly wearing a face covering.
-
-3. If the student refuses to properly wear a face covering or leave the classroom, the instructor will dismiss the class and will report the student to Student Conduct & Community Standards for misconduct, where the student will be subject to disciplinary action.
-<br><br>
-
-Instructors in the classroom:
-
-1. If an instructor is not properly wearing a face covering, students will remind the instructor of the policy and ask them to comply with it.
-
-2. If an instructor will not properly wear a face covering, students may leave the classroom and should report the misconduct to the department chair or via the TIPS system for disciplinary action through faculty governance processes.
-
-<br>
-*Courses that have been granted an exception to the Face Covering Policy for pedagogical 
-reasons are excluded. Exceptions to the Face Covering Policy are only granted after an 
-approved health safety plan is developed
-
-<!--An individual in this course has a documented need for face coverings to be required in this course. Without divulging personal or identifying information, such a documented need might be that a member of their household is unable to be vaccinated or has a health condition that makes vaccines less effective for them. As a result, the Hixson-Lied College of Fine and Performing Arts has determined that face coverings will be required in this course. If you are unwilling to comply with this requirement, please visit with your advisor about different sections or possible alternative courses that you might take in lieu of this one.-->
+# References
+<!--- Past courses: [UCSD ECE188 ML for the Arts 2019](https://roberttwomey.github.io/ucsd-ml-art/)-->
 
 # Land Acknowledgment
 
