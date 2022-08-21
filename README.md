@@ -45,12 +45,11 @@ A student who successfully completes this course will:
 # Schedule
 (Subject to Change-Always check back for most up to date information)
 
-| Date | Topic |
+| Week | Topic |
 |------|-------|
-| 8/26 | [Week 1 - Introduction, Overview - Digital Fabrication and Physical Computing](sessions/week1.md)|
-|  | - [Introductory Exercise / Stencil (ex1)](exercises/ex1.md) |
-| 9/2 | [Week 2 - CAD, 3D Modeling; Designing 2D and 3D Form](sessions/week2.md) |
-| | - [Digital Double / Virtual Replica (ex2)](exercises/ex2.md), Introduce Sketchbook |
+| 1a | **Hello, Syllabus, Policies** |
+| 1b | **[Week 1 - Introduction, Overview - Digital Fabrication and Physical Computing]()**<br>- [Introductory Exercise / Stencil (ex1)](exercises/ex1.md) |
+| 2 | [Week 2 - CAD, 3D Modeling; Designing 2D and 3D Form](sessions/week2.md)<br>- [Digital Double / Virtual Replica (ex2)](exercises/ex2.md), Introduce Sketchbook |
 | 9/9 | [Week 3 - Laser Cutter; 2D Digifab](sessions/week3.md) |
 | | - [Flatpack Future (ex3)](exercises/ex3.md)|
 | 9/16 | [Week 4 - Stacked Contours; Slices; 3D Forms; Mesh Editing](sessions/week4.md) |
