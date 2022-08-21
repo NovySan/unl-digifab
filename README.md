@@ -15,8 +15,8 @@ This course introduces physical computing and digital fabrication for emerging m
 - **Class:** Tu/Th 9:30-10:45pm
 - **Location:** CEMA Student Lounge / Fabrication Studio
 - **Office Hours:** Wed, Discord and in person (Cohab-Lab - CEMA 253)
-- **Discord:** https://discord.gg/kMvwgyYHvj
-- **Canvas:** https://canvas.unl.edu/courses/137404
+- **Discord:** [https://discord.gg/kMvwgyYHvj](https://discord.gg/kMvwgyYHvj)
+- **Canvas:** [https://canvas.unl.edu/courses/137404](https://canvas.unl.edu/courses/137404)
 
 ## Course objectives
 -	Experiential learning.
