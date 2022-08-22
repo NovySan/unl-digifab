@@ -39,19 +39,33 @@ A student who successfully completes this course will:
 # Resources
 - **[Rhinoceros 3d]**
 - Axidraw
-- Prusa Mk3iis
+- Prusa MK3S+
 - Muse laser engraver
 
 # Schedule
-(Subject to Change-Always check back for most up to date information)
+(Subject to change. Check back for most up to date information)
 
 | Week | Topic |
 |------|-------|
-| 1a | **Hello, Syllabus, Policies** |
-| 1b | **[Week 1 - Introduction, Overview - Digital Fabrication and Physical Computing]()**<br>- [Introductory Exercise / Stencil (ex1)](exercises/ex1.md) |
-| 2 | [Week 2 - CAD, 3D Modeling; Designing 2D and 3D Form](sessions/week2.md)<br>- [Digital Double / Virtual Replica (ex2)](exercises/ex2.md), Introduce Sketchbook |
-| 9/9 | [Week 3 - Laser Cutter; 2D Digifab](sessions/week3.md) |
-| | - [Flatpack Future (ex3)](exercises/ex3.md)|
+| 1a | **Intro and Overview**<br>- Activities: Install Rhino<br>- Exercise: [TK] |
+| 1b | **[Rhino Hands-On]()**<br>- 2D Drawing Tools<br>- Exercise: [Stencil]() |
+| 2 | [Week 2 - Laser Cutter]()<br>- Tab and slot<br>- [TK]|
+| 3 | [Week 3 - Stacked Construction]()<br>- [TK] |
+| 4 | [Week 4 - 3D Modeling]()<br>- Project 1 |
+| 5-7 | 3D Modeling and 3D Printing | 
+| 8-12 | Mechatronics |
+| 13-15 | Final Project | 
+| 16 | Final Critiques, Open Studios | 
+| Finals | Submit Final Documentation |
+
+<!--
+| Week | Topic |
+|------|-------|
+| 1a | **Hello, Syllabus, Policies**<br>- Activities: Install Rhino<br>- Exercise: [TK] |
+| 1b | **[Overview - Digital Fabrication and Physical Computing]()**<br>- [Introductory Exercise / Stencil (ex1)]() |
+| 2 | [Week 2 - CAD, 3D Modeling; Designing 2D and 3D Form]()<br>- [Digital Double / Virtual Replica (ex2)](), Introduce Sketchbook |
+| 9/9 | [Week 3 - Laser Cutter; 2D Digifab]() |
+| | - [Flatpack Future (ex3)]()|
 | 9/16 | [Week 4 - Stacked Contours; Slices; 3D Forms; Mesh Editing](sessions/week4.md) |
 | | - ~Stacked Construction (ex4)~ |
 | 9/23 | [Week 5 -  Capture Digital Form: Photogrammetry and 3d Scanning](sessions/week5.md) |
@@ -88,11 +102,12 @@ Leftovers
 - “The Pleasure of Being the Cause” or Somatic Interface (ex14)
 - Internet of Things: Networked Objects, Spimes 
 - Objects with Memories (ex15)
+-->
 
 # Grading
 
 ## Graded activities
-- 30% Weekly Exercises – approximately 10 exercises
+- 30% Exercises – approximately 8 exercises
 - 60% Projects – 3 total at approximately 20% each
 - 10% Participation
 
@@ -100,7 +115,7 @@ Work will be evaluated on the quality of concept, the degree of experimentation 
 
 ## Description of Assignments and Exams
 
-__*Weekly Exercises*__
+__*Exercises*__
 We will have regular, weekly programming assignments employing the tools and techniques covered in class. These will be short activities with clearly stated creative prompts and technical requirements. Projects will be graded on satisfactory completion with additional credit for creative, technical, expressive extension beyond requirements. 
 
 __*Projects*__
