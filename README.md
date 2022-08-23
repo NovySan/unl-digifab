@@ -48,15 +48,14 @@ A student who successfully completes this course will:
 
 | Week | Topic |
 |------|-------|
-| 1a | **Intro and Overview**<br>- Course policies and structure<br>- Digifab overview<br>- Activities: Install Rhinoceros 3d<br>- Exercise: Intro tutorials (not graded) |
-| 1b | **[Rhino]()**<br>- 2D Drawing Tools<br>- Exercise: [Stencil]() |
-| 2 | Laser Cutter]<br>Tab and slot|
-| 3 | Stacked Construction]|
-| 4 | 3D Modeling|
-| 5-7 | 3D Printing<br>3d scanning and photogrammetry | 
+| 1a | **Intro and Overview**<br> - Lecture: Course policies and structure; Digifab overview<br> - Activities: Install Rhinoceros 3d<br> - Exercise: Intro tutorials (not graded) |
+| 1b | **Rhino**<br>- 2D Drawing Tools<br>- Exercise: Stencil |
+| 2 | Laser Cutter<br>Tab and slot|
+| 3 | 3D Modeling; Stacked Construction |
+| 4-7 | 3D Printing; 3d scanning and photogrammetry | 
 | 8-12 | Mechatronics |
 | 13-15 | Final Project | 
-| 16 | Final Critiques, Open Studios | 
+| 16 | Final Critiques; Open Studios | 
 | Finals | Submit Final Documentation |
 
 <!--
