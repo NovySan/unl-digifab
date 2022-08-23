@@ -14,9 +14,7 @@ This course introduces physical computing and digital fabrication for emerging m
 - **Instructor:** Dr. Robert Twomey
 - **Class:** Tu/Th 9:30-10:45pm
 - **Location:** CEMA Student Lounge / Fabrication Studio
-- **Office Hours:** Wed, Discord and in person (Cohab-Lab - CEMA 253)
-- **Discord:** [https://discord.gg/kMvwgyYHvj](https://discord.gg/kMvwgyYHvj)
-- **Canvas:** [https://canvas.unl.edu/courses/137404](https://canvas.unl.edu/courses/137404)
+- **Office Hours:** Wed 2-4pm, Discord and in person (Cohab-Lab - CEMA 253)
 
 ## Course objectives
 -	Experiential learning.
@@ -37,6 +35,8 @@ A student who successfully completes this course will:
 **Prequisites:** Major in Emerging Media Arts and successful completion of EMAR161 Computational Media Studio II, or permission of instructor.
 
 # Resources
+- **Discord:** [https://discord.gg/kMvwgyYHvj](https://discord.gg/kMvwgyYHvj)
+- **Canvas:** [https://canvas.unl.edu/courses/137404](https://canvas.unl.edu/courses/137404)
 - **[Rhinoceros 3d]**
 - Axidraw
 - Prusa MK3S+
