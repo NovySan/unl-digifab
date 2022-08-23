@@ -48,7 +48,7 @@ A student who successfully completes this course will:
 
 | Week | Topic |
 |------|-------|
-| 1a | **Intro and Overview**<br> - Lecture: Course policies and structure; Digifab overview<br> - Activities: Install Rhinoceros 3d<br> - Exercise: Sign up for Dicord; [Rhino Windows/Mac Interface Basics tutorials](https://www.rhino3d.com/learn/?query=kind:%20jump_start%20tag:%20basics) (not graded) |
+| 1a | **Intro and Overview**<br> - Lecture: [Course policies and structure; Digifab overview](https://docs.google.com/presentation/d/1rdQ6GW55rUbtzcVgvRdJd38HRzeoCYWv9SFrszI7yak/edit?usp=sharing)<br> - Activities: Install Rhinoceros 3d<br> - Exercise: Sign up for Dicord; [Rhino Windows/Mac Interface Basics tutorials](https://www.rhino3d.com/learn/?query=kind:%20jump_start%20tag:%20basics) (not graded) |
 | 1b | **Rhino**<br>- 2D Drawing Tools<br>- Exercise: Stencil |
 | 2 | Laser Cutter<br>Tab and slot|
 | 3 | 3D Modeling; Stacked Construction |
