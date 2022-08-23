@@ -37,9 +37,10 @@ A student who successfully completes this course will:
 # Resources
 - **Discord:** [https://discord.gg/kMvwgyYHvj](https://discord.gg/kMvwgyYHvj)
 - **Canvas:** [https://canvas.unl.edu/courses/137404](https://canvas.unl.edu/courses/137404)
-- **[Rhinoceros 3d]**
-- Axidraw
-- Prusa MK3S+
+- **[Rhino 3d](https://www.rhino3d.com/)**
+  - **[Grasshopper](https://www.grasshopper3d.com/)** and https://www.rhino3d.com/6/new/grasshopper/
+- [Axidraw(https://shop.evilmadscientist.com/productsmenu/890)
+- [Prusa MK3S+](https://www.prusa3d.com/category/original-prusa-i3-mk3s/)
 - Muse laser engraver
 
 # Schedule
@@ -47,12 +48,12 @@ A student who successfully completes this course will:
 
 | Week | Topic |
 |------|-------|
-| 1a | **Intro and Overview**<br>- Activities: Install Rhino<br>- Exercise: [TK] |
-| 1b | **[Rhino Hands-On]()**<br>- 2D Drawing Tools<br>- Exercise: [Stencil]() |
-| 2 | [Week 2 - Laser Cutter]()<br>- Tab and slot<br>- [TK]|
-| 3 | [Week 3 - Stacked Construction]()<br>- [TK] |
-| 4 | [Week 4 - 3D Modeling]()<br>- Project 1 |
-| 5-7 | 3D Modeling and 3D Printing | 
+| 1a | **Intro and Overview**<br>- Course policies and structure<br>- Digifab overview<br>- Activities: Install Rhinoceros 3d<br>- Exercise: Intro tutorials (not graded) |
+| 1b | **[Rhino]()**<br>- 2D Drawing Tools<br>- Exercise: [Stencil]() |
+| 2 | Laser Cutter]<br>Tab and slot|
+| 3 | Stacked Construction]|
+| 4 | 3D Modeling|
+| 5-7 | 3D Printing<br>3d scanning and photogrammetry | 
 | 8-12 | Mechatronics |
 | 13-15 | Final Project | 
 | 16 | Final Critiques, Open Studios | 
@@ -116,10 +117,10 @@ Work will be evaluated on the quality of concept, the degree of experimentation 
 ## Description of Assignments and Exams
 
 __*Exercises*__
-We will have regular, weekly programming assignments employing the tools and techniques covered in class. These will be short activities with clearly stated creative prompts and technical requirements. Projects will be graded on satisfactory completion with additional credit for creative, technical, expressive extension beyond requirements. 
+We will have regular, weekly assignments employing the tools and techniques covered in class. These will be short activities with clearly stated creative prompts and technical requirements. Projects will be graded on satisfactory completion with additional credit for creative, technical, expressive extension beyond requirements. 
 
 __*Projects*__
-We will have three projects over the semester with the following aims: Project 1 covers digital fabrication and analog and computer mediated processes. Project 2 covers physical computing, interactivity, and mechatronic/automated systems. Project 3 covers wearables and embodied technologies. For each project students will submit a project archive containing a statement of concept, source code, links to data resources, documentation of the work, discussion of results, and future directions. When assigned, students will submit a proposal/concept for their project to receive instructor feedback, and then work to complete the project. Projects will be presented and critiqued in class and project archives will be submitted for grading.
+We will have three projects over the semester due approximately every 5 weeks. Project 1 covers digital fabrication and analog and computer mediated processes. Project 2 covers physical computing, interactivity, and mechatronic/automated systems. Project 3 covers wearables and embodied technologies. For each project students will submit a project archive containing a statement of concept, source code, links to data resources, documentation of the work, discussion of results, and future directions. When assigned, students will submit a proposal/concept for their project to receive instructor feedback, and then work to complete the project. Projects will be presented and critiqued in class and project archives will be submitted for grading.
 
 __*Participation*__
 Contributions to class discussions and active participation in small group work are essential to both the momentum of the course and the development of your ideas. This requires that you come to class prepared (having completed assigned reading and writing) and ready to participate in class activities. This course is based on collaborative, project-based learning and you are also expected to contribute as a responsible member of a group. See the participation evaluation in the Grading Scale below for more information.
