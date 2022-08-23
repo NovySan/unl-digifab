@@ -1,4 +1,4 @@
-# EMAR 391-007: Digital Fabrication and Physical Computing - Fall 2022
+# EMAR 446: Digital Fabrication and Physical Computing - Fall 2022
 
 [Description](#description) | [Resources](#resources) | [Schedule](#schedule) | [Grading](#grading) | [Policies](#policies) | [References](#references)
 
