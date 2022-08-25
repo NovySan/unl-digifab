@@ -20,6 +20,7 @@ Install [Rhinoceros](https://www.rhino3d.com/). We have a license for Rhino 7. I
   - <img src="https://user-images.githubusercontent.com/1598545/186644741-11696636-c79e-4d3c-8044-84b81838b571.png" width=300>
 
 ### Rhino Basics
+(_please remind me to record this_)
   - UI: controls, commands, display modes, view, model units ([interface basics tutorial](https://www.rhino3d.com/learn/?query=kind:%20jump_start%20tag:%20interface,rhino&modal=null), [selection basics tutorial](https://www.rhino3d.com/learn/?query=kind:%20jump_start%20tag:%20selection)) 
   - 2d operations: line, rectangle, trim, circle, dimension
   - transforms: scale, rotate, move
