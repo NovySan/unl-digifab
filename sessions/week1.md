@@ -7,6 +7,12 @@
 
 ## Thursday
 
+### Artist of the Day
+
+<img src="https://user-images.githubusercontent.com/1598545/186651503-cd6f4b1e-3caa-4558-bd56-8bebda4ab708.png" width=400>
+
+[Gabriel Schama](https://www.gabrielschama.com/2016lasercuts/) - laser cut filagree
+
 ### Hands-On
 Touch and Feel
   - 3DP / Digital Fabrication Specimens
