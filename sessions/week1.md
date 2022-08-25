@@ -13,6 +13,9 @@
 
 [Gabriel Schama](https://www.gabrielschama.com/2016lasercuts/) - laser cut filagree
 
+### Discord Setup
+Please share your discord handle here (so I can add you to our digifab group): [https://canvas.unl.edu/courses/137404/quizzes/303636](https://canvas.unl.edu/courses/137404/quizzes/303636)
+
 ### Hands-On
 Touch and Feel
   - 3DP / Digital Fabrication Specimens
