@@ -1,13 +1,11 @@
 # Week 1 - Introduction, Overview, Hands-On
-# Week 1a
-**Tuesday**
 
+# Tuesday
 - Introductions
 - Review Syllabus
 - [Lecture 1: Context and Overview](https://docs.google.com/presentation/d/1rdQ6GW55rUbtzcVgvRdJd38HRzeoCYWv9SFrszI7yak/edit?usp=sharing)
 
-# Week 1b
-**Thursday**
+# Thursday
 
 ## Hands-On
 ### Touch and Feel
