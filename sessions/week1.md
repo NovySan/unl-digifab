@@ -38,7 +38,7 @@ Install [Rhinoceros](https://www.rhino3d.com/). We have a license for Rhino 7. I
   - DUE Tuesday 8/30. Come to class with your file. 
   - Bring a USB drive.
 - Create a [Digital Sketchbook](https://canvas.unl.edu/courses/137404/assignments/1281430) and add images/description of this project.
-  - DUE Thursday 9/1. Submit your link on Canvas.
+  - DUE Thursday 9/1. Submit your link on [Canvas](https://canvas.unl.edu/courses/137404/assignments/1281430).
 
 # References
 - [Rhino Learn](https://www.rhino3d.com/learn/?keyword=kind:%20rhino_win) video tutorials
