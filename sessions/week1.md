@@ -1,18 +1,18 @@
 # Week 1 - Introduction, Overview, Hands-On
 
-# Tuesday
+## Tuesday
 - Introductions
 - Review Syllabus
 - [Lecture 1: Context and Overview](https://docs.google.com/presentation/d/1rdQ6GW55rUbtzcVgvRdJd38HRzeoCYWv9SFrszI7yak/edit?usp=sharing)
 
-# Thursday
+## Thursday
 
-## Hands-On
-### Touch and Feel
+### Hands-On
+Touch and Feel
   - 3DP / Digital Fabrication Specimens
   - Physical Computing Specimens
-### Set up Rhino 3d
 
+### Set up Rhino 3d
 Install [Rhinoceros](https://www.rhino3d.com/). We have a license for Rhino 7. It uses the Zoo server.
   - follow these steps (for Windows): https://www.rhino3d.com/en/features/administration/zoo/#setting-up-rhino-for-windows
   - or these steps (for Mac): https://www.rhino3d.com/en/features/administration/zoo/#setting-up-rhino-for-mac
