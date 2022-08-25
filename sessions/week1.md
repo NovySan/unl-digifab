@@ -7,14 +7,14 @@
 
 ## Thursday
 
+### Discord Setup
+Please share your discord handle here (so I can add you to our digifab group): [https://canvas.unl.edu/courses/137404/quizzes/303636](https://canvas.unl.edu/courses/137404/quizzes/303636)
+
 ### Artist of the Day
 
 <img src="https://user-images.githubusercontent.com/1598545/186651503-cd6f4b1e-3caa-4558-bd56-8bebda4ab708.png" width=400>
 
 [Gabriel Schama](https://www.gabrielschama.com/2016lasercuts/) - laser cut filagree
-
-### Discord Setup
-Please share your discord handle here (so I can add you to our digifab group): [https://canvas.unl.edu/courses/137404/quizzes/303636](https://canvas.unl.edu/courses/137404/quizzes/303636)
 
 ### Hands-On
 Touch and Feel
