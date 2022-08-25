@@ -20,15 +20,15 @@ Install [Rhinoceros](https://www.rhino3d.com/). We have a license for Rhino 7. I
   - <img src="https://user-images.githubusercontent.com/1598545/186644741-11696636-c79e-4d3c-8044-84b81838b571.png" width=300>
 
 ### Rhino Basics
-  - UI: controls, commands, display modes, view, model units
+  - UI: controls, commands, display modes, view, model units ([interface basics tutorial](https://www.rhino3d.com/learn/?query=kind:%20jump_start%20tag:%20interface,rhino&modal=null), [selection basics tutorial](https://www.rhino3d.com/learn/?query=kind:%20jump_start%20tag:%20selection)) 
   - 2d operations: line, rectangle, trim, circle, dimension
   - transforms: scale, rotate, move
   - operations: split, join, trim, extend
   - organization: layers, groups
-- For your reference: [Rhino Learn](https://www.rhino3d.com/learn/?keyword=kind:%20rhino_win) (tutorials)
 
 # Homework
 [Exercise 1 - Laser Cut Stencil](../exercises/ex1.md)
 Due Tuesday 8/30. Come to class with your file. Bring a USB drive.
 
 # References
+- [Rhino Learn](https://www.rhino3d.com/learn/?keyword=kind:%20rhino_win) video tutorials
