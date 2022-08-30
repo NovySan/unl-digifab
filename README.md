@@ -50,7 +50,8 @@ A student who successfully completes this course will:
 |------|-------|
 | 1a | **[Intro and Overview](https://github.com/roberttwomey/unl-digifab/blob/master/sessions/week1.md#tuesday)**<br> - [Lecture: Course policies and structure; Digifab overview](https://docs.google.com/presentation/d/1rdQ6GW55rUbtzcVgvRdJd38HRzeoCYWv9SFrszI7yak/edit?usp=sharing)<br> - Activities: Install Rhinoceros 3d<br> - Exercise: Sign up for Discord; [Rhino Windows/Mac Interface Basics tutorials](https://www.rhino3d.com/learn/?query=kind:%20jump_start%20tag:%20basics) (not graded) |
 | 1b | **[Rhino](https://github.com/roberttwomey/unl-digifab/blob/master/sessions/week1.md#thursday)**<br>- 2D Drawing Tools<br>- Exercise: Stencil |
-| 2 | Laser Cutter<br>Tab and slot|
+| 2a | **[Laser Cutter](sessions/week2.md#tuesday)**|
+| 2b | Tab and slot|
 | 3 | 3D Modeling; Stacked Construction |
 | 4-7 | 3D Printing; 3d scanning and photogrammetry | 
 | 8-12 | Mechatronics |
@@ -63,7 +64,7 @@ A student who successfully completes this course will:
 |------|-------|
 | 1a | **Hello, Syllabus, Policies**<br>- Activities: Install Rhino<br>- Exercise: [TK] |
 | 1b | **[Overview - Digital Fabrication and Physical Computing]()**<br>- [Introductory Exercise / Stencil (ex1)]() |
-| 2 | [Week 2 - CAD, 3D Modeling; Designing 2D and 3D Form]()<br>- [Digital Double / Virtual Replica (ex2)](), Introduce Sketchbook |
+| 2a | **[Week 2 - CAD, 3D Modeling; Designing 2D and 3D Form]()<br>- [Digital Double / Virtual Replica (ex2)](), Introduce Sketchbook |
 | 9/9 | [Week 3 - Laser Cutter; 2D Digifab]() |
 | | - [Flatpack Future (ex3)]()|
 | 9/16 | [Week 4 - Stacked Contours; Slices; 3D Forms; Mesh Editing](sessions/week4.md) |
