@@ -48,7 +48,7 @@ A student who successfully completes this course will:
 
 | Week | Topic |
 |------|-------|
-| 1a | **[Intro and Overview](sessions/week1.md#tuesday)**<br> Course Policies; Install Rhino; Sign up for Discord |
+| 1a | **[Intro and Overview](sessions/week1.md#tuesday)** Course Policies; Install Rhino; Sign up for Discord |
 | 1b | **[Rhino](sessions/week1.md#thursday)** 2D Drawing; Exercise: Stencil |
 | 2a | **[Laser Cutter](sessions/week2.md#tuesday)**|
 | 2b | Tab and slot|
