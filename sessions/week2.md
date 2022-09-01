@@ -135,10 +135,9 @@ Ben Butler
 
 ### Tutorial
 
-__Measuring Thickness__
-
 <img width="543" alt="image" src="https://user-images.githubusercontent.com/1598545/187929511-8a4545b6-dddb-4427-8dcc-b22d8726bd96.png">
 
+__Measuring Thickness__
 - Using calipers. See [Sparkfun: How To Use Calipers](https://www.youtube.com/watch?v=73YJA5giZfs) (youtube link)
 - Cutting tests. 
 
