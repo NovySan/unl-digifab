@@ -2,11 +2,11 @@
 
 # Flat Pack Future
 
-This exercise is about building 3d form using 2D materials. I want you to design a kit of parts that can be assembled to create a 3D form. On the laser cutter we can cut flat stock (corrugated cardboard, matte board, architectural pywood). The trick is desinging flat parts that can be assembled to make a 3D structure. This technique is probably most familiar to you from wooden models (see the dinosaur above). In terms of form, this exercise is very open ended -- you do not need to make a dinosaur.
+This exercise is about building 3d form using 2D materials. On the laser cutter we can cut flat stock (corrugated cardboard, matte board, architectural plywood, acrylic). The trick is desinging flat parts that can be assembled to make a 3D structure. This technique is probably most familiar to you from wooden models (see the dinosaur above). In terms of form, this exercise is very open ended -- you do not need to make a dinosaur.
 
 <br>
 
-For this assignment you can predominantly do 2D free-form drawing in Rhino, so long as you are sure to include some tabs and slots so that those drawings can be assembled after they are cut. 
+For this assignment you can predominantly do 2D free-form drawing in Rhino, so long as you are sure to include some tabs and slots so that those drawings can be assembled after they are cut. Or stack of contours.
 
 <br>
 
@@ -26,8 +26,8 @@ Learning Goals:
    - You do not necessarily need to assemble it in 3D in Rhino. (Though if it helps you to think through how the piece will go together, then extrude your outlines as 2D parts, and rotate/translate/assemble them in 3D)
 3. Fabrication
    - You need to actually fabricate this assignment from some flat material. 
-     -  I suggest that you use salvaged corrogated cardboard.
-   - What time will we have open fabrication hours? check [here](https://github.com/roberttwomey/unl-digifab/blob/master/sessions/week3.md#office-hours)
+     -  Acrylic, Cardboard, Matt Board, Paper.
+   - What time will we have open fabrication hours? Office hours (3-5pm Wed) or by appointment.
 
 # Submission
 1. Documentation:
@@ -45,7 +45,7 @@ Learning Goals:
    - Upload all of these files to Canvas
      - (use the naming convention _p1_Lastname_1.jpg_ and _p1_Lastname.svg_ _p1_Lastname.3dm_ for the files.)
 
-DUE 9/12, 11:59pm (Monday) to [Canvas](https://canvas.unl.edu/courses/137404/assignments/1342790)
+DUE 9/19, 11:59pm (Monday) to [Canvas](https://canvas.unl.edu/courses/137404/assignments/1342790)
 
 # References
 - No references at the moment.
