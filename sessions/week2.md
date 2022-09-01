@@ -135,12 +135,6 @@ Ben Butler
 
 ### Tutorial
 
-<img width="543" alt="image" src="https://user-images.githubusercontent.com/1598545/187929511-8a4545b6-dddb-4427-8dcc-b22d8726bd96.png">
-
-__Measuring Thickness__
-- Using calipers. See [Sparkfun: How To Use Calipers](https://www.youtube.com/watch?v=73YJA5giZfs) (youtube link)
-- Cutting tests. 
-
 __Tab and Slot Construction__
 1. How can we build 3d structure with 2d materials? 
 2. Tab and slot construction? (also called finger joints)
@@ -149,6 +143,17 @@ __Tab and Slot Construction__
 5. Reference (Video Tutorials):
    - Finger joint laser cut box: https://www.youtube.com/watch?v=FBSQGHBpBWg
    - Finger joint tutorial in Rhino with boolean operations: https://www.youtube.com/watch?v=AYxUUSWIRW4
+
+<img width="543" alt="image" src="https://user-images.githubusercontent.com/1598545/187929511-8a4545b6-dddb-4427-8dcc-b22d8726bd96.png">
+
+__Measuring Thickness__
+- Using calipers. See [Sparkfun: How To Use Calipers](https://www.youtube.com/watch?v=73YJA5giZfs) (youtube link)
+- Cutting tests. 
+
+__Matching Parts__
+- [Line](https://docs.mcneel.com/rhino/7/help/en-us/index.htm#commands/line.htm)
+- [Offset](https://docs.mcneel.com/rhino/7/help/en-us/index.htm#commands/offset.htm)
+- [Trim](https://docs.mcneel.com/rhino/7/help/en-us/index.htm#commands/trim.htm)
 
 __Advanced 3D Forms__
 - Living hinge construction
