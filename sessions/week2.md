@@ -124,6 +124,16 @@ __Simple Laser Cutter Design__
 5. Exporting to SVG.
 
 ## Thursday
+
+### Artist of the Day 
+
+![image](https://user-images.githubusercontent.com/1598545/187927860-5f8562d7-a570-4f86-ad8a-f2e61c886b3b.png)
+
+Ben Butler
+- https://mymodernmet.com/ben-butler-organic-sculptures/
+- https://www.benbutlerart.com/
+
+
 __Measuring Thickness
 - Using calipers. See [Sparkfun: How To Use Calipers](https://www.youtube.com/watch?v=73YJA5giZfs) (youtube link)
 - Cutting tests. 
