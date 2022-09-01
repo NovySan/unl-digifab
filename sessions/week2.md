@@ -124,7 +124,7 @@ __Simple Laser Cutter Design__
 5. Exporting to SVG.
 
 ## Thursday
-__Measuring Materials__
+__Measuring Thickness
 - Using calipers. See [Sparkfun: How To Use Calipers](https://www.youtube.com/watch?v=73YJA5giZfs) (youtube link)
 - Cutting tests. 
 
@@ -145,7 +145,7 @@ __Advanced 3D Forms__
 - Parametric design for kerfs and 3d structures (grasshopper)
 
 # Homework
-- [TK]
+- Ideas for [project 1](../projects/project1.md)
 
 # References
 - For your reference: [Rhino Learn](https://www.rhino3d.com/learn/?keyword=kind:%20rhino_win) (tutorials)
