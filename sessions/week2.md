@@ -124,6 +124,9 @@ __Simple Laser Cutter Design__
 5. Exporting to SVG.
 
 ## Thursday
+__Measuring Materials__
+- Using calipers. See [Sparkfun: How To Use Calipers](https://www.youtube.com/watch?v=73YJA5giZfs) (youtube link)
+- Cutting tests. 
 
 __Tab and Slot Construction__
 1. How can we build 3d structure with 2d materials? 
