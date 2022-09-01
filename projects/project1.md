@@ -43,9 +43,9 @@ Learning Goals:
    - SVG file of your cutting templates
    - Rhino file (3DM)
    - Upload all of these files to Canvas
-     - (use the naming convention _ex3_Lastname_1.jpg_ and _ex3_Lastname.svg_ _ex3_Lastname.3dm_ for the files.)
+     - (use the naming convention _p1_Lastname_1.jpg_ and _p1_Lastname.svg_ _p1_Lastname.3dm_ for the files.)
 
-DUE 9/16, 9pm (Thursday) to [Canvas](https://canvas.unl.edu/courses/114938/assignments/1086825)
+DUE 9/12, 11:59pm (Monday) to [Canvas](https://canvas.unl.edu/courses/137404/assignments/1342790)
 
 # References
 - No references at the moment.
