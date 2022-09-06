@@ -6,6 +6,11 @@
 - [Lecture 1: Context and Overview](https://docs.google.com/presentation/d/1rdQ6GW55rUbtzcVgvRdJd38HRzeoCYWv9SFrszI7yak/edit?usp=sharing)
 
 ## Thursday
+- [Discord Setup](#discord-setup)
+- [Artist of the Day](#artist-of-the-day)
+- [Hands-On](#hands-on)
+- [Set up Rhino 3D](#set-up-rhino-3d)
+- [Rhino Basics](#rhino-basics)
 
 ### Discord Setup
 Please share your discord handle here (so I can add you to our digifab group): [https://canvas.unl.edu/courses/137404/quizzes/303636](https://canvas.unl.edu/courses/137404/quizzes/303636)
@@ -36,12 +41,12 @@ Install [Rhinoceros](https://www.rhino3d.com/). We have a license for Rhino 7. I
   - operations: split, join, trim, extend
   - organization: layers, groups
 
-# Homework
+## Homework
 - [Exercise 1 - Laser Cut Stencil](../exercises/ex1.md)
   - DUE Tuesday 8/30. Come to class with your file. 
   - Bring a USB drive.
 - Create a [Digital Sketchbook](https://canvas.unl.edu/courses/137404/assignments/1281430) and add images/description of this project.
   - DUE Thursday 9/1. Submit your link on [Canvas](https://canvas.unl.edu/courses/137404/assignments/1281430).
 
-# References
+## References
 - [Rhino Learn](https://www.rhino3d.com/learn/?keyword=kind:%20rhino_win) video tutorials
