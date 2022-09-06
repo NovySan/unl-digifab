@@ -163,6 +163,7 @@ Ben Butler
 - Living hinge construction
   - Kerf Bending Experiments: https://www.martin-breuer.com/kerf-bending-patterns
   - Lattice Hinge Design Workshop: https://futurearchi.org/t/lattice-hinge-design-workshop-starting-from-an-open-source-grasshopper-design/576
+  - With grasshopper: [https://github.com/StDrunks/Living-Loop](https://github.com/StDrunks/Living-Loop)
 
 ## Homework
 - Ideas for [project 1](../projects/project1.md)
