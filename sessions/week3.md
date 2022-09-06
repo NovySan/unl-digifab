@@ -1,10 +1,8 @@
 # Week 3 - Laser Cutter to 3D Form
 ## Tuesday
 - Artist of the Day [Lauren Baker](https://laurenbaker.net/filter/art/Laser-cut-acrylic)
-- Cutting Acrylic
-  - Material Tests
-- Stacked Contours
-  - Extrusion
+- [Extruding Curves](#extruding-curves)
+- [Stacked Contours](#homework)
 
 ## Artist of the Day
 
@@ -12,30 +10,30 @@
 
 Lauren Baker ([https://laurenbaker.net/filter/art/Laser-cut-acrylic](https://laurenbaker.net/filter/art/Laser-cut-acrylic))
 
-## Cutting Acrylic
-
-Acrylic is the most common plastic sheet good that we might cut with the laser cutter. 
-- We can vector cut, vector engrave, or raster engrave acrylic very successfully.
-- Reference for cutting/engraving acrylic, refer to our [laser cutter power settings](week2.md#power-settings).
-- As a starting point with a new material, after checking it's safety, we could do some material tests.
-
-### Material Tests
-
-## Stacked Contours
-
-## Extrusion
-
-Extrusion 
-See **Solids from Curves** below:
+## Extruding Curves
+- We can **extrude** a 2d curve into 3 dimensions to see what it would look like as a flat object. 
+- See **Solids from Curves** below:
  - [_ExtrudeCrv_](https://docs.mcneel.com/rhino/7/help/en-us/index.htm#commands/extrudecrv.htm) **<--- THIS IS OUR GOTO**
-
+- Load up your tab and slot construction
+- Join the perimeters for each of the pieces. 
+- Extrude the curves into three dimensions. 
+- Use the move, translate, rotate, scale commands to join your pieces together into a virtual model. 
 
 ## Homework
+
+**Stacked Contours**
+- Draw a series of contours (curves, lines–line art) which you will then stack into 3 dimensions. 
+- Assemble these in 3d. 
+- Take a screenshot ([_ViewCapture_](https://docs.mcneel.com/rhino/7/help/en-us/commands/viewcapture.htm#ViewCaptureToFile)) and save to file. 
+  - Rotate the viewport to capture a number of different vantage points.
+  - Experiment with the [_Display Options_](https://docs.mcneel.com/rhino/7/help/en-us/options/view_displaymode_options.htm) to choose an aesthetically pleasing render.
+- Upload your Rhino File and screen shots to Canvas.
 
 ## Thursday
 - Artist of the Day
 - [Rhino 3D Basics](#rhino-3d-basics)
-- Assembling in 3D
+- Cutting Acrylic
+  - Material Tests
 
 ## Artist of the Day
 [TK]
@@ -67,6 +65,25 @@ In rhino we can either natively author 3d shapes (create boxes, spheres, pyramid
    - ```STL files describe only the surface geometry of a three dimensional object without any representation of color, texture or other common CAD model attributes.```
    - [Exporting STL files](https://docs.mcneel.com/rhino/6/help/en-us/index.htm#fileio/stereolithography_stl_import_export.htm)
    - We can open 3D files in programs like [Meshmixer](https://www.meshmixer.com/) (for mesh manipulations) and [PrusaSlicer](https://www.prusa3d.com/prusaslicer/) (which slices files for 3d printing)
+
+## Cutting Acrylic
+
+Acrylic is the most common plastic sheet good that we might cut with the laser cutter. 
+- We can vector cut, vector engrave, or raster engrave acrylic very successfully.
+- When you first get a new sheet of acrylic, determine what thickness it is (calipers): [measuring thickness](week2.html#measuring-thickness)
+- Run some material tests to find speed, power, and current settings.
+
+### Material Tests
+- When you first work with a new material, you want to determine what settings work best for cutting and engraving. 
+- As a starting point, you can begin with [the suggested settings for common materials](week2.html#power-settings).
+- Typically you might produce a small shape (square, or text) which you can run multiple times with different settings for the 
+- Full Spectrum Laser (who manufactures our laser) has some material test files we can try: [https://fslaser.com/material-test/](https://fslaser.com/material-test/)
+
+### Plastic Suppliers
+- [H&H Plastics](https://www.google.com/maps/dir/40.8298688,-96.7012424/h+and+h+plastics+lincoln/@40.8423437,-96.7027104,13z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x8796bb88f445b751:0x4b7f5828f156d80b!2m2!1d-96.6333809!2d40.851637)
+- Home Depot, Lowes, etc. 
+- [Tap Plastics](https://www.tapplastics.com/) (mail order)
+
 
 ## Homework
 [TK]
