@@ -124,6 +124,12 @@ __Simple Laser Cutter Design__
 5. Exporting to SVG.
 
 ## Thursday
+- Artist of the Day
+- Tutorial
+  - [Tab and Slot Construction](#tab-and-slot-construction)
+  - [Measuring Thickness](#measuring-thickness)
+  - [Matching Parts](#matching-parts)
+  - [Living Hinge](#living-hinge)
 
 ### Artist of the Day 
 
@@ -133,9 +139,7 @@ Ben Butler
 - https://mymodernmet.com/ben-butler-organic-sculptures/
 - https://www.benbutlerart.com/
 
-### Tutorial
-
-__Tab and Slot Construction__
+### Tab and Slot Construction
 1. How can we build 3d structure with 2d materials? 
 2. Tab and slot construction? (also called finger joints)
 3. You need to design 2d parts that have holes (slots), and other parts that have tabs, so that when cut from flat materials you can assemble them into 3d forms.
@@ -146,26 +150,24 @@ __Tab and Slot Construction__
 
 <img width="543" alt="image" src="https://user-images.githubusercontent.com/1598545/187929511-8a4545b6-dddb-4427-8dcc-b22d8726bd96.png">
 
-__Measuring Thickness__
+### Measuring Thickness
 - Using calipers. See [Sparkfun: How To Use Calipers](https://www.youtube.com/watch?v=73YJA5giZfs) (youtube link)
 - Cutting tests. 
 
-__Matching Parts__
+### Matching Parts
 - [Line](https://docs.mcneel.com/rhino/7/help/en-us/index.htm#commands/line.htm)
 - [Offset](https://docs.mcneel.com/rhino/7/help/en-us/index.htm#commands/offset.htm)
 - [Trim](https://docs.mcneel.com/rhino/7/help/en-us/index.htm#commands/trim.htm)
 
-__Advanced 3D Forms__
+### Living Hinge
 - Living hinge construction
   - Kerf Bending Experiments: https://www.martin-breuer.com/kerf-bending-patterns
   - Lattice Hinge Design Workshop: https://futurearchi.org/t/lattice-hinge-design-workshop-starting-from-an-open-source-grasshopper-design/576
-- Slicing / panelling tools (breaking 3d structure down into 2d components that can be assembled)
-- Parametric design for kerfs and 3d structures (grasshopper)
 
-# Homework
+## Homework
 - Ideas for [project 1](../projects/project1.md)
 
-# References
+## References
 - For your reference: [Rhino Learn](https://www.rhino3d.com/learn/?keyword=kind:%20rhino_win) (tutorials)
 - [Sketchup to Rhino Cheatsheet](https://static1.squarespace.com/static/585ca81337c5816afcb8d981/t/5c7478b715fcc0b3c46366d7/1551136953876/Sketchup-Rhino+Cheat+Sheet.pdf)
 - ![image](https://user-images.githubusercontent.com/1598545/131845474-7ce17921-1ce1-4601-b6ef-96ec6d62a6cc.png)
@@ -178,3 +180,7 @@ __Advanced 3D Forms__
   - FSL Muse specifications, safety documentation.
   - Suggested starting power settings for FSL Muse (do tests and adjust these for your project):
 ![image](https://user-images.githubusercontent.com/1598545/132598192-898d58a6-ba56-40fc-8e95-18374daada8a.png)
+
+## Leftovers 
+- Slicing / panelling tools (breaking 3d structure down into 2d components that can be assembled)
+- Parametric design for kerfs and 3d structures (grasshopper)
