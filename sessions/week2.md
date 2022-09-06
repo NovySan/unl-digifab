@@ -172,14 +172,18 @@ Ben Butler
 - For your reference: [Rhino Learn](https://www.rhino3d.com/learn/?keyword=kind:%20rhino_win) (tutorials)
 - [Sketchup to Rhino Cheatsheet](https://static1.squarespace.com/static/585ca81337c5816afcb8d981/t/5c7478b715fcc0b3c46366d7/1551136953876/Sketchup-Rhino+Cheat+Sheet.pdf)
 - ![image](https://user-images.githubusercontent.com/1598545/131845474-7ce17921-1ce1-4601-b6ef-96ec6d62a6cc.png)
-- - RetinaEngrave Software:
+
+### Laser Cutter Reference
+- RetinaEngrave Software:
   - [quick reference guide](https://info.fslaser.com/hubfs/Public_Documents/RetinaEngrave%20v3.0%20RefGuide.pdf)  
   - [Video Tutorials](https://www.youtube.com/playlist?list=PL_1I1UNQ4oGa0w55C772Y1mC6F4f3ZcG6)
   - [RE3.0 Manual](https://info.fslaser.com/hubfs/Public_Documents/RetinaEngrave%20v3.0%20Manual.pdf)
 - FSL Muse References:
   - [Muse 3D Manual](https://f.hubspotusercontent00.net/hubfs/2882208/MUSE_MANUAL.pdf)
   - FSL Muse specifications, safety documentation.
-  - Suggested starting power settings for FSL Muse (do tests and adjust these for your project):
+
+### Power Settings
+- Suggested starting power settings for FSL Muse (do tests and adjust these for your project):
 ![image](https://user-images.githubusercontent.com/1598545/132598192-898d58a6-ba56-40fc-8e95-18374daada8a.png)
 
 ## Leftovers 
