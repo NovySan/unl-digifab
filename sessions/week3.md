@@ -1,42 +1,36 @@
-# Week 3 - Laser Cutter; 2D Digifab
-## Agenda
-- Announcements:
-  - Lecture recordings (try and try again)
-  - Digital Sketchbooks
-  - Configure Rhinoceros Zoo (license)
-    - (Rhino is available in the computer lab as well)
-- Review HW1 and HW2
-- Topics
-- [Homework](#homework)
-- [Office Hours this Week](#office-hours)
+# Week 3 - Laser Cutter to 3D Form
+## Tuesday
+- Artist of the Day [Lauren Baker](https://laurenbaker.net/filter/art/Laser-cut-acrylic)
+- Cutting Acrylic
+  - Material Tests
+- Stacked Contours
+  - Extrusion
 
+## Artist of the Day
 
-# Homework
-- [Exercise 3](../exercises/ex3.md) DUE Thursday September 16, 9pm
+<img src="https://user-images.githubusercontent.com/1598545/188630308-bb449780-4e4d-4fba-8fbc-407fd9135e82.png" width=400>
 
-# Office Hours
-- Tuesday (9/14) - 12:30-3:15 - Shop hours
-- Wednesday (9/15) - 1-2pm
+Lauren Baker ([https://laurenbaker.net/filter/art/Laser-cut-acrylic](https://laurenbaker.net/filter/art/Laser-cut-acrylic))
 
-# Reference
+## Cutting Acrylic
 
-# === LEFTOVERS ===
+### Material Tests
 
+## Stacked Contours
+
+## Extrusion
+
+## Homework
+
+## Thursday
+- Artist of the Day
 - [Rhino 3D Basics](#rhino-3d-basics)
-- [Measuring Objects](#measuring-objects)
+- Assembling in 3D
 
-# Measuring Objects
-- Recording dimensions (pen and paper)
-  - [Engineering Drawing and Sketching (MIT)](https://ocw.mit.edu/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/related-resources/drawing_and_sketching/)
-  - [dimensioned drawings on paper](http://www.pages.drexel.edu/~rcc34/Files/Teaching/MEM201%20L5-Fa0809-SpDimensions_RC.pdf)
-- Taking dimensions
-  - Ruler
-  - Tape measure
-  - Digital Calipers. See [Sparkfun: How To Use Calipers](https://www.youtube.com/watch?v=73YJA5giZfs) (youtube link)
-  - 3D Scanner
-- Transferring dimensions to a Rhino model
-- 
-# Rhino 3D Basics
+## Artist of the Day
+[TK]
+
+## Rhino 3D Basics
 In rhino we can either natively author 3d shapes (create boxes, spheres, pyramids, etc.), or we can extrude/loft/revolve 2D drawings into 3d shapes. These two methods are typical for CAD softwares. There is one additional distinction between meshes, polysurfaces, solids, but we do not need to deal with that now.
 
 1. 3D Viewports
@@ -63,3 +57,8 @@ In rhino we can either natively author 3d shapes (create boxes, spheres, pyramid
    - > STL files describe only the surface geometry of a three dimensional object without any representation of color, texture or other common CAD model attributes.
    - [Exporting STL files](https://docs.mcneel.com/rhino/6/help/en-us/index.htm#fileio/stereolithography_stl_import_export.htm)
    - We can open 3D files in programs like [Meshmixer](https://www.meshmixer.com/) (for mesh manipulations) and [PrusaSlicer](https://www.prusa3d.com/prusaslicer/) (which slices files for 3d printing)
+
+## Homework
+[TK]
+
+## Reference
