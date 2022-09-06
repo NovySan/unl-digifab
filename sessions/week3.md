@@ -14,11 +14,21 @@ Lauren Baker ([https://laurenbaker.net/filter/art/Laser-cut-acrylic](https://lau
 
 ## Cutting Acrylic
 
+Acrylic is the most common plastic sheet good that we might cut with the laser cutter. 
+- We can vector cut, vector engrave, or raster engrave acrylic very successfully.
+- Reference for cutting/engraving acrylic, refer to our [laser cutter power settings](../week2.md#power-settings).
+- As a starting point with a new material, after checking it's safety, we could do some material tests.
+
 ### Material Tests
 
 ## Stacked Contours
 
 ## Extrusion
+
+Extrusion 
+See **Solids from Curves** below:
+ - [_ExtrudeCrv_](https://docs.mcneel.com/rhino/7/help/en-us/index.htm#commands/extrudecrv.htm) **<--- THIS IS OUR GOTO**
+
 
 ## Homework
 
