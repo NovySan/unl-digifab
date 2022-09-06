@@ -16,7 +16,7 @@ Lauren Baker ([https://laurenbaker.net/filter/art/Laser-cut-acrylic](https://lau
 
 Acrylic is the most common plastic sheet good that we might cut with the laser cutter. 
 - We can vector cut, vector engrave, or raster engrave acrylic very successfully.
-- Reference for cutting/engraving acrylic, refer to our [laser cutter power settings](../week2.md#power-settings).
+- Reference for cutting/engraving acrylic, refer to our [laser cutter power settings](week2.md#power-settings).
 - As a starting point with a new material, after checking it's safety, we could do some material tests.
 
 ### Material Tests
