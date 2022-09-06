@@ -20,14 +20,15 @@ Lauren Baker ([https://laurenbaker.net/filter/art/Laser-cut-acrylic](https://lau
   - [_Move_](https://docs.mcneel.com/rhino/7/help/en-us/commands/move.htm)
   - [_Rotate_](https://docs.mcneel.com/rhino/7/help/en-us/commands/rotate.htm)
   - [_object snaps_](https://docs.mcneel.com/rhino/7/help/en-us/user_interface/object_snaps.htm)
+- Take a screenshot ([_ViewCapture_](https://docs.mcneel.com/rhino/7/help/en-us/commands/viewcapture.htm#ViewCaptureToFile)) and save to file. 
+  - Rotate the viewport to capture a number of different vantage points.
+  - Experiment with the [_Display Options_](https://docs.mcneel.com/rhino/7/help/en-us/options/view_displaymode_options.htm) to choose an aesthetically pleasing render.
 
 ## Homework
 **Stacked Contours**
 - Draw a series of contours (curves, lines–line art) which you will then stack into 3 dimensions. 
 - Assemble these in 3d. 
-- Take a screenshot ([_ViewCapture_](https://docs.mcneel.com/rhino/7/help/en-us/commands/viewcapture.htm#ViewCaptureToFile)) and save to file. 
-  - Rotate the viewport to capture a number of different vantage points.
-  - Experiment with the [_Display Options_](https://docs.mcneel.com/rhino/7/help/en-us/options/view_displaymode_options.htm) to choose an aesthetically pleasing render.
+- Document your resultant assemblage with a number of screenshots (3 minimum). 
 - Upload your Rhino File and screen shots to Canvas: [https://canvas.unl.edu/courses/137404/assignments/1344055](https://canvas.unl.edu/courses/137404/assignments/1344055). DUE end of this week (Friday 11:59pm)
 
 ## Thursday
