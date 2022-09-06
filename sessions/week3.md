@@ -12,15 +12,16 @@ Lauren Baker ([https://laurenbaker.net/filter/art/Laser-cut-acrylic](https://lau
 
 ## Extruding Curves
 - We can **extrude** a 2d curve into 3 dimensions to see what it would look like as a flat object. 
-- See **Solids from Curves** below:
- - [_ExtrudeCrv_](https://docs.mcneel.com/rhino/7/help/en-us/index.htm#commands/extrudecrv.htm) **<--- THIS IS OUR GOTO**
-- Load up your tab and slot construction
-- Join the perimeters for each of the pieces. 
-- Extrude the curves into three dimensions. 
-- Use the move, translate, rotate, scale commands to join your pieces together into a virtual model. 
+  - [_ExtrudeCrv_](https://docs.mcneel.com/rhino/7/help/en-us/index.htm#commands/extrudecrv.htm) **<--- THIS IS OUR GOTO**
+- Load up your tab and slot construction from last week (or make a new one).
+- If you have not already, join the perimeters for each of the pieces so that you have continuous outlines. 
+- Extrude the curves into three dimensions using Extrude Curve.
+- Use the transformations and object snaps to assemble your pieces together into a virtual model: 
+  - [_Move_](https://docs.mcneel.com/rhino/7/help/en-us/commands/move.htm)
+  - [_Rotate_](https://docs.mcneel.com/rhino/7/help/en-us/commands/rotate.htm)
+  - [_object snaps_](https://docs.mcneel.com/rhino/7/help/en-us/user_interface/object_snaps.htm)
 
 ## Homework
-
 **Stacked Contours**
 - Draw a series of contours (curves, lines–line art) which you will then stack into 3 dimensions. 
 - Assemble these in 3d. 
