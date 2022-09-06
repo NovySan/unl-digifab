@@ -27,9 +27,10 @@ Lauren Baker ([https://laurenbaker.net/filter/art/Laser-cut-acrylic](https://lau
 - Take a screenshot ([_ViewCapture_](https://docs.mcneel.com/rhino/7/help/en-us/commands/viewcapture.htm#ViewCaptureToFile)) and save to file. 
   - Rotate the viewport to capture a number of different vantage points.
   - Experiment with the [_Display Options_](https://docs.mcneel.com/rhino/7/help/en-us/options/view_displaymode_options.htm) to choose an aesthetically pleasing render.
-- Upload your Rhino File and screen shots to Canvas.
+- Upload your Rhino File and screen shots to Canvas: [https://canvas.unl.edu/courses/137404/assignments/1344055](https://canvas.unl.edu/courses/137404/assignments/1344055). DUE end of this week (Friday 11:59pm)
 
 ## Thursday
+3d Basics and Contour Extraction
 - Artist of the Day
 - [Rhino 3D Basics](#rhino-3d-basics)
 - Cutting Acrylic
