@@ -33,6 +33,7 @@ Lauren Baker ([https://laurenbaker.net/filter/art/Laser-cut-acrylic](https://lau
 3d Basics and Contour Extraction
 - Artist of the Day
 - [Rhino 3D Basics](#rhino-3d-basics)
+- Extracting Contours
 - Cutting Acrylic
   - Material Tests
 
