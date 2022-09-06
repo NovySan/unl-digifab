@@ -64,7 +64,7 @@ In rhino we can either natively author 3d shapes (create boxes, spheres, pyramid
    - [_BooleanSplit_](https://docs.mcneel.com/rhino/6/help/en-us/index.htm#commands/booleansplit.htm) split and make new objects at every intersection
    - Sometimes these operations may fail. Pay attention to error messages.
 5. Exporting solids
-   - > STL files describe only the surface geometry of a three dimensional object without any representation of color, texture or other common CAD model attributes.
+   - ```STL files describe only the surface geometry of a three dimensional object without any representation of color, texture or other common CAD model attributes.```
    - [Exporting STL files](https://docs.mcneel.com/rhino/6/help/en-us/index.htm#fileio/stereolithography_stl_import_export.htm)
    - We can open 3D files in programs like [Meshmixer](https://www.meshmixer.com/) (for mesh manipulations) and [PrusaSlicer](https://www.prusa3d.com/prusaslicer/) (which slices files for 3d printing)
 
