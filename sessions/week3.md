@@ -2,6 +2,7 @@
 ## Tuesday
 - Artist of the Day [Lauren Baker](https://laurenbaker.net/filter/art/Laser-cut-acrylic)
 - [Extruding Curves](#extruding-curves)
+  - [Extruding Example](#extruding-example)
 - Homework: [Stacked Contours](#homework) (DUE Friday)
 
 ## Artist of the Day
@@ -24,6 +25,19 @@ Lauren Baker ([https://laurenbaker.net/filter/art/Laser-cut-acrylic](https://lau
   - Rotate the viewport to capture a number of different vantage points.
   - Experiment with the [_Display Options_](https://docs.mcneel.com/rhino/7/help/en-us/options/view_displaymode_options.htm) to choose an aesthetically pleasing render.
 
+### Extruding Example
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/1598545/189135643-7c5be2f6-b27e-4d34-ac53-f457c74b61b6.png">
+
+Rhino file: [stacked_contours_offset.3dm](../examples_stacked_contours_offset.3dm)
+
+Workflow: 
+- draw some curves using the 2d drawing tools (Curve, Line, Trim/Join, etc.)
+- [_Offset_](http://docs.mcneel.com/rhino/7/help/en-us/commands/offset.htm)
+- [_ExtrudeCrv_](https://docs.mcneel.com/rhino/7/help/en-us/index.htm#commands/extrudecrv.htm)
+- Move the curves into position, stacking them vertically.
+
+
+## Stacking Contours
 ## Homework
 **Stacked Contours**
 - Draw a series of contours (curves, lines–line art) which you will then stack into 3 dimensions. 
