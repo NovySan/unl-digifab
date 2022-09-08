@@ -1,4 +1,7 @@
 # Week 3 - Laser Cutter to 3D Form
+- [Tuesday](#tuesday)
+- [Thursday](#thursday)
+
 ## Tuesday
 - Artist of the Day [Lauren Baker](https://laurenbaker.net/filter/art/Laser-cut-acrylic)
 - [Extruding Curves](#extruding-curves)
