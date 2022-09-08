@@ -101,6 +101,9 @@ In rhino we can either natively author 3d shapes (create boxes, spheres, pyramid
 Rhino file: [unroll.3dm](../examples/unroll.3dm)
 
 ## Homework
-[TK]
+
+Pepakura Construction
+
 
 ## Reference
+- Pepakura Designer: [https://tamasoft.co.jp/pepakura-en/](https://tamasoft.co.jp/pepakura-en/)
