@@ -46,10 +46,10 @@ Lauren Baker ([https://laurenbaker.net/filter/art/Laser-cut-acrylic](https://lau
 In rhino we can either natively author 3d shapes (create boxes, spheres, pyramids, etc.), or we can extrude/loft/revolve 2D drawings into 3d shapes. These two methods are typical for CAD softwares. There is one additional distinction between meshes, polysurfaces, solids, but we do not need to deal with that now.
 
 1. 3D Viewports
-  - When we are drawing in 3d, we are going to want to switch back to the 4-up view (top, front, right, perspective)
-  - [4View](https://docs.mcneel.com/rhino/6/help/en-us/index.htm#commands/4view.htm) four views at once
-  - [MaxViewport](https://docs.mcneel.com/rhino/6/help/en-us/index.htm#commands/maxviewport.htm) single view
-  - The 4-up viewport lets us see things from the sides to draw in 3d.
+   - When we are drawing in 3d, we are going to want to switch back to the 4-up view (top, front, right, perspective)
+   - [4View](https://docs.mcneel.com/rhino/6/help/en-us/index.htm#commands/4view.htm) four views at once
+   - [MaxViewport](https://docs.mcneel.com/rhino/6/help/en-us/index.htm#commands/maxviewport.htm) single view
+   - The 4-up viewport lets us see things from the sides to draw in 3d.
 2. 3D Primitives (Solids)
    - [_Box_](https://docs.mcneel.com/rhino/6/help/en-us/index.htm#commands/box.htm)
    - [_Sphere_](https://docs.mcneel.com/rhino/6/help/en-us/index.htm#commands/sphere.htm)
