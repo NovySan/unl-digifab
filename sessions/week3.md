@@ -52,7 +52,7 @@ Workflow:
 - Artist of the Day
 - [Rhino 3D Basics](#rhino-3d-basics)
 - [Unrolling Surfaces](#unrolling-surfaces)
-- [Homework](#homework)
+- [Homework](#homework-2)
 
 ## Artist of the Day
 
@@ -99,7 +99,7 @@ In rhino we can either natively author 3d shapes (create boxes, spheres, pyramid
 
 Rhino file: [unroll.3dm](../examples/unroll.3dm)
 
-## Homework
+## Homework 2
 **Pepakura Construction**
 
 - Using a combination of 3d primitives and solid editing tools, design a virtual sculpture you want to fabricate. 
