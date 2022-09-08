@@ -28,7 +28,7 @@ Lauren Baker ([https://laurenbaker.net/filter/art/Laser-cut-acrylic](https://lau
   - Experiment with the [_Display Options_](https://docs.mcneel.com/rhino/7/help/en-us/options/view_displaymode_options.htm) to choose an aesthetically pleasing render.
 
 ### Extruding Example
-<img width="400" alt="image" src="https://user-images.githubusercontent.com/1598545/189135643-7c5be2f6-b27e-4d34-ac53-f457c74b61b6.png">
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/1598545/189135643-7c5be2f6-b27e-4d34-ac53-f457c74b61b6.png">
 
 Rhino file: [stacked_contours_offset.3dm](../examples_stacked_contours_offset.3dm)
 
@@ -93,6 +93,13 @@ In rhino we can either natively author 3d shapes (create boxes, spheres, pyramid
    - ```STL files describe only the surface geometry of a three dimensional object without any representation of color, texture or other common CAD model attributes.```
    - [Exporting STL files](https://docs.mcneel.com/rhino/6/help/en-us/index.htm#fileio/stereolithography_stl_import_export.htm)
    - We can open 3D files in programs like [Meshmixer](https://www.meshmixer.com/) (for mesh manipulations) and [PrusaSlicer](https://www.prusa3d.com/prusaslicer/) (which slices files for 3d printing)
+
+## Unrolling Surfaces
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/1598545/189140440-1254ab04-b1e7-4424-adbb-2de3c9869f86.png">
+
+Rhino file: [unroll.3dm](../examples/unroll.3dm)
+
 
 ## Cutting Acrylic
 
