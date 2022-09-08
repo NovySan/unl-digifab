@@ -49,7 +49,7 @@ Workflow:
 3d Basics and Contour Extraction
 - Artist of the Day
 - [Rhino 3D Basics](#rhino-3d-basics)
-- Extracting Contours
+- Unrolling Surfaces
 - Cutting Acrylic
   - Material Tests
 
