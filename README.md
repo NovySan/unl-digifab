@@ -52,7 +52,8 @@ A student who successfully completes this course will:
 | 1b | **[Rhino](sessions/week1.md#thursday)** 2D Drawing; Exercise: Stencil |
 | 2a | **[Laser Cutter](sessions/week2.md#tuesday)**|
 | 2b | **[Tab and slot](sessions/week2.md#thursday)**|
-| 3 | 3D Modeling; Stacked Construction |
+| 3a | **[Laser to 3D: Stacked Contours](sessions/week3.md#tuesday)** |
+| 3b | 3D Basics and Contour Extraction |
 | 4-7 | 3D Printing; 3d scanning and photogrammetry | 
 | 8-12 | Mechatronics |
 | 13-15 | Final Project | 
