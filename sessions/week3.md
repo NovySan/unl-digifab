@@ -52,8 +52,7 @@ Workflow:
 - Artist of the Day
 - [Rhino 3D Basics](#rhino-3d-basics)
 - [Unrolling Surfaces](#unrolling-surfaces)
-- Cutting Acrylic
-  - Material Tests
+- [Homework](#homework)
 
 ## Artist of the Day
 
