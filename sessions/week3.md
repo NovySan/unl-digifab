@@ -101,9 +101,18 @@ In rhino we can either natively author 3d shapes (create boxes, spheres, pyramid
 Rhino file: [unroll.3dm](../examples/unroll.3dm)
 
 ## Homework
+**Pepakura Construction**
 
-Pepakura Construction
+- Using a combination of 3d primitives and solid editing tools, design a virtual sculpture you want to fabricate. 
+- Using Unroll, Explode, and your 2d drawing tools, flatten this object into a series of pieces that can be fashioned from cut paper. 
+- Fabricate the result with the laser cutter and assemble it. 
 
+**Submission**
+- Upload your complete rhino file. 
+- Take 3-4 pictures of your object, and add them to your digital sketchbook. 
+  - Upload a copy of that page from your sketchbook
+
+DUE: Not sure.
 
 ## Reference
 - Pepakura Designer: [https://tamasoft.co.jp/pepakura-en/](https://tamasoft.co.jp/pepakura-en/)
