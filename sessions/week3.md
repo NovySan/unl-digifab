@@ -49,7 +49,7 @@ Workflow:
 - Upload your Rhino File and screen shots to Canvas: [https://canvas.unl.edu/courses/137404/assignments/1344055](https://canvas.unl.edu/courses/137404/assignments/1344055). DUE end of this week (Friday 11:59pm)
 
 ## Thursday
-3d Basics and Contour Extraction
+3d Basics and Unrolling Surfaces
 - Artist of the Day
 - [Rhino 3D Basics](#rhino-3d-basics)
 - Unrolling Surfaces
@@ -57,7 +57,15 @@ Workflow:
   - Material Tests
 
 ## Artist of the Day
-[TK]
+
+<img src="https://user-images.githubusercontent.com/1598545/189138511-e74e66cf-12dc-4b3c-b372-a6196d3ee79a.png" height=400>
+
+[**Joseph Delappe**](http://www.delappe.net)
+
+- [Cardboard Ghandi](http://www.delappe.net/project/cardboard-gandhi-2008-2009/)
+- [Liberty Weeps](http://www.delappe.net/sculptureinstallation/liberty-weeps/)
+- [Paper Soldier](http://www.delappe.net/project/paper-soldier/)
+- [The Drone Project](http://www.delappe.net/sculptureinstallation/the-drone-project/)
 
 ## Rhino 3D Basics
 In rhino we can either natively author 3d shapes (create boxes, spheres, pyramids, etc.), or we can extrude/loft/revolve 2D drawings into 3d shapes. These two methods are typical for CAD softwares. There is one additional distinction between meshes, polysurfaces, solids, but we do not need to deal with that now.
