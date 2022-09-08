@@ -100,26 +100,6 @@ In rhino we can either natively author 3d shapes (create boxes, spheres, pyramid
 
 Rhino file: [unroll.3dm](../examples/unroll.3dm)
 
-
-## Cutting Acrylic
-
-Acrylic is the most common plastic sheet good that we might cut with the laser cutter. 
-- We can vector cut, vector engrave, or raster engrave acrylic very successfully.
-- When you first get a new sheet of acrylic, determine what thickness it is (calipers): [measuring thickness](week2.html#measuring-thickness)
-- Run some material tests to find speed, power, and current settings.
-
-### Material Tests
-- When you first work with a new material, you want to determine what settings work best for cutting and engraving. 
-- As a starting point, you can begin with [the suggested settings for common materials](week2.html#power-settings).
-- Typically you might produce a small shape (square, or text) which you can run multiple times with different settings for the 
-- Full Spectrum Laser (who manufactures our laser) has some material test files we can try: [https://fslaser.com/material-test/](https://fslaser.com/material-test/)
-
-### Plastic Suppliers
-- [H&H Plastics](https://www.google.com/maps/dir/40.8298688,-96.7012424/h+and+h+plastics+lincoln/@40.8423437,-96.7027104,13z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x8796bb88f445b751:0x4b7f5828f156d80b!2m2!1d-96.6333809!2d40.851637)
-- Home Depot, Lowes, etc. 
-- [Tap Plastics](https://www.tapplastics.com/) (mail order)
-
-
 ## Homework
 [TK]
 
