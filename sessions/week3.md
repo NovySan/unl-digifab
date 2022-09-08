@@ -1,7 +1,10 @@
 # Week 3 - Laser Cutter to 3D Form
+| [Tuesday](#tuesday) | [Thursday](#thursday) |
+
 ## Tuesday
 - Artist of the Day [Lauren Baker](https://laurenbaker.net/filter/art/Laser-cut-acrylic)
 - [Extruding Curves](#extruding-curves)
+  - [Extruding Example](#extruding-example)
 - Homework: [Stacked Contours](#homework) (DUE Friday)
 
 ## Artist of the Day
@@ -24,6 +27,19 @@ Lauren Baker ([https://laurenbaker.net/filter/art/Laser-cut-acrylic](https://lau
   - Rotate the viewport to capture a number of different vantage points.
   - Experiment with the [_Display Options_](https://docs.mcneel.com/rhino/7/help/en-us/options/view_displaymode_options.htm) to choose an aesthetically pleasing render.
 
+### Extruding Example
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/1598545/189135643-7c5be2f6-b27e-4d34-ac53-f457c74b61b6.png">
+
+Rhino file: [stacked_contours_offset.3dm](../examples_stacked_contours_offset.3dm)
+
+Workflow: 
+- draw some curves using the 2d drawing tools (Curve, Line, Trim/Join, etc.)
+- [_Offset_](http://docs.mcneel.com/rhino/7/help/en-us/commands/offset.htm)
+- [_ExtrudeCrv_](https://docs.mcneel.com/rhino/7/help/en-us/index.htm#commands/extrudecrv.htm)
+- Move the curves into position, stacking them vertically.
+
+
+## Stacking Contours
 ## Homework
 **Stacked Contours**
 - Draw a series of contours (curves, lines–line art) which you will then stack into 3 dimensions. 
@@ -32,15 +48,23 @@ Lauren Baker ([https://laurenbaker.net/filter/art/Laser-cut-acrylic](https://lau
 - Upload your Rhino File and screen shots to Canvas: [https://canvas.unl.edu/courses/137404/assignments/1344055](https://canvas.unl.edu/courses/137404/assignments/1344055). DUE end of this week (Friday 11:59pm)
 
 ## Thursday
-3d Basics and Contour Extraction
+3d Basics and Unrolling Surfaces
 - Artist of the Day
 - [Rhino 3D Basics](#rhino-3d-basics)
-- Extracting Contours
+- Unrolling Surfaces
 - Cutting Acrylic
   - Material Tests
 
 ## Artist of the Day
-[TK]
+
+<img src="https://user-images.githubusercontent.com/1598545/189138511-e74e66cf-12dc-4b3c-b372-a6196d3ee79a.png" height=400>
+
+[**Joseph Delappe**](http://www.delappe.net)
+
+- [Cardboard Ghandi](http://www.delappe.net/project/cardboard-gandhi-2008-2009/)
+- [Liberty Weeps](http://www.delappe.net/sculptureinstallation/liberty-weeps/)
+- [Paper Soldier](http://www.delappe.net/project/paper-soldier/)
+- [The Drone Project](http://www.delappe.net/sculptureinstallation/the-drone-project/)
 
 ## Rhino 3D Basics
 In rhino we can either natively author 3d shapes (create boxes, spheres, pyramids, etc.), or we can extrude/loft/revolve 2D drawings into 3d shapes. These two methods are typical for CAD softwares. There is one additional distinction between meshes, polysurfaces, solids, but we do not need to deal with that now.

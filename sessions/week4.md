@@ -1,5 +1,9 @@
 # Week 4 - Mesh Creation and Stacked Contours
 
+- Importing 3d Models
+- Working with Meshes
+- Extracting Contours
+
 == LEFTOVERS ==
 
 - [Measuring Objects](#measuring-objects)
