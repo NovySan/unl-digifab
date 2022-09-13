@@ -30,7 +30,7 @@ Lauren Baker ([https://laurenbaker.net/filter/art/Laser-cut-acrylic](https://lau
 ### Extruding Example
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/1598545/189135643-7c5be2f6-b27e-4d34-ac53-f457c74b61b6.png">
 
-Rhino file: [stacked_contours_offset.3dm](../examples_stacked_contours_offset.3dm)
+Rhino file: [stacked_contours_offset.3dm](../examples/stacked_contours_offset.3dm)
 
 Workflow: 
 - draw some curves using the 2d drawing tools (Curve, Line, Trim/Join, etc.)
