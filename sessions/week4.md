@@ -19,6 +19,10 @@
 
 Inmi Lee. _I will not dance_. 2016.</a>
 
+Also:
+- [d  i  s p lace](https://www.inmilee.com/displace.html) 2005
+- complete [projects](https://www.inmilee.com/index.html)
+
 ## Working With Meshes
 
 __Solids vs. Meshes__ 
