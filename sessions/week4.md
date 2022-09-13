@@ -32,10 +32,10 @@ Rhino file: [solids_meshes.3dm](../examples/solids_meshes.3dm)
 - Importing - Import
   - STL file - Stereolithography ([wikipedia definition](https://en.wikipedia.org/wiki/STL_(file_format)))
   - [buffalo.stl](../assets/buffalo.stl)
-  - Rotate and Scale as necessary to find and position the object.
+  - **Rotate**, **Scale**, and translate as necessary to find and position the object. Also, [Zoom Extents](http://docs.mcneel.com/rhino/7/help/en-us/commands/zoom.htm#Extents)
 - Simplification (MeshReduce)
   - [buffalo_reduction.3dm](../assets/day4/buffalo_reduction.3dm)
-- Edit - PointsOn, and directly manipulating points on the mesh.
+- Edit directly - **[PointsOn](http://docs.mcneel.com/rhino/7/help/en-us/commands/pointson.htm)**, and directly manipulating points on the mesh.
 - Closed vs Open Meshes
   - We need closed meshes for 3DP. Object properties will tell you if a mesh is an open or closed mesh.
   - Attempt to patch an open mesh: **Mesh** -> **Repair Tools** -> **Fill All Holes**
@@ -49,7 +49,7 @@ Rhino file: [solids_meshes.3dm](../examples/solids_meshes.3dm)
   - extrude to priview (optional)
 
 - Slicing a 3d mesh or surface object into 2d stacks
-  - the [contour](http://docs.mcneel.com/rhino/5/help/en-us/commands/contour.htm) command
+  - the [contour](http://docs.mcneel.com/rhino/7/help/en-us/commands/contour.htm) command
   - [contour_command.3dm](../assets/day4/contour_command.3dm)
   - [contour_flatten_shear.3dm](../assets/day4/contour_flatten_shear.3dm)
 - Importing and slicing a complex mesh
@@ -58,7 +58,11 @@ Rhino file: [solids_meshes.3dm](../examples/solids_meshes.3dm)
   - Slicing a mesh with the contour command
   - slicing/design for digital fabrication (material thickness considerations)
     - [buffalo_contours.3dm](../assets/day4/buffalo_contours.3dm)
-    - [sliced_pikachu.3dm](../assets/day4/sliced_pikachu.3dm)
+### Example Sliced Pikachu
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/1598545/189891434-480d9b21-ffcf-4623-ae8a-09f4dcfb078f.png">
+
+Rhino file: [sliced_pikachu.3dm](../examples/sliced_pikachu.3dm)
 
 ## Homework
 [TK]
