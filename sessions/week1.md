@@ -33,13 +33,19 @@ Install [Rhinoceros](https://www.rhino3d.com/). We have a license for Rhino 7. I
   - and enter this information for the zoo server: **its-cemalicense.unl.edu**__
   - <img src="https://user-images.githubusercontent.com/1598545/186644741-11696636-c79e-4d3c-8044-84b81838b571.png" width=300>
 
-### Rhino Basics
+## Rhino Basics
 (_please remind me to record this_)
   - UI: controls, commands, display modes, view, model units ([interface basics tutorial](https://www.rhino3d.com/learn/?query=kind:%20jump_start%20tag:%20interface,rhino&modal=null), [selection basics tutorial](https://www.rhino3d.com/learn/?query=kind:%20jump_start%20tag:%20selection)) 
   - 2d operations: line, rectangle, trim, circle, dimension
   - transforms: scale, rotate, move
   - operations: split, join, trim, extend
   - organization: layers, groups
+
+### Example Stencil
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/1598545/189884689-a2ca1e56-3e37-41f0-86d4-5501d9b19a31.png">
+
+Rhino example: [lines_curves.3dm](../examples/lines_curves.3dm)
 
 ## Homework
 - [Exercise 1 - Laser Cut Stencil](../exercises/ex1.md)
