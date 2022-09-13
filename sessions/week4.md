@@ -7,6 +7,8 @@
   - [Mesh Example](#mesh-example)
 - [Importing Meshes](#importing-meshes) 
 - [Extracting Contours](#extracting-contours)
+  - [Example Buffalo Contours](#example-buffalo-contours)
+  - [Example Sliced Pikachu](#example-sliced-pikachu)
 
 ## Artist of the Day
 [TK]
