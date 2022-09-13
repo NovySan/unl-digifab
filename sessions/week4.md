@@ -8,12 +8,6 @@
 - [Importing Meshes](#importing-meshes) 
 - [Extracting Contours](#extracting-contours)
 
-## Agenda
-  - [Contours and Stacked Construction](#contours-and-stacked-construction)
-  - [Bonus: Pepakura and Unfolding](#bonus-pepakura-and-unfolding)
-- [Homework](#homework)
-- [Office Hours this Week](#office-hours)
-
 ## Working With Meshes
 
 __Solids vs. Meshes__ 
