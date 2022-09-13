@@ -3,8 +3,9 @@
 ## Tuesday
 
 - Artist of the Day
-- Importing 3d Models
 - [Working with Meshes](#working-with-meshes)
+  - [Mesh Example](#mesh-example)
+- [Importing Meshes](#importing-meshes) 
 - [Extracting Contours](#extracting-contours)
 
 ## Agenda
@@ -30,7 +31,7 @@ __Solids vs. Meshes__
 Rhino file: [solids_meshes.3dm](../examples/solids_meshes.3dm)
 
 
-__Importing Meshes__
+## Importing Meshes
 - Importing - Import
   - [buffalo.stl](../assets/day4/buffalo.stl)
   - Rotate and Scale as necessary to find and position the object.
