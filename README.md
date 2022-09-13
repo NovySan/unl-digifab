@@ -54,7 +54,7 @@ A student who successfully completes this course will:
 | 2b | **[Tab and slot](sessions/week2.md#thursday)**|
 | 3a | **[Laser to 3D: Stacked Contours](sessions/week3.md#tuesday)** |
 | 3b | **[3D Basics and Unrolling](sessions/week3.md#thursday)** |
-| 4a | **[Meshes and Contour Extraction](sessions/week3.md/#thursday)** |
+| 4a | **[Meshes and Contour Extraction](sessions/week4.md/#tuesday)** |
 | 4b | Material Tests. Work Time |
 | 5-7 | 3D Printing; 3d scanning and photogrammetry | 
 | 8-12 | Mechatronics |
