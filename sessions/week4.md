@@ -53,11 +53,6 @@ Rhino file: [solids_meshes.3dm](../examples/solids_meshes.3dm)
   - Rhino [Mesh Repair](http://docs.mcneel.com/rhino/7/help/en-us/commands/meshrepair.htm) tools
 
 ## Extracting Contours
-- Review: Building a 3d form directly with stacks of contours
-  - tutorial file [stacked_contours_offset.3dm](../assets/day4/stacked_contours_offset.3dm)
-  - freeform drawing
-  - offset
-  - extrude to priview (optional)
 
 - Slicing a 3d mesh or surface object into 2d stacks
   - the [contour](http://docs.mcneel.com/rhino/7/help/en-us/commands/contour.htm) command
