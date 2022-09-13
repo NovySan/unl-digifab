@@ -14,9 +14,10 @@
 
 ## Artist of the Day
 
+<a href="https://www.inmilee.com/un.html">
 <img src="https://user-images.githubusercontent.com/1598545/189894549-fe5a944d-3d61-4143-8abd-ad4856d9bbac.png" width=600>
 
-Inmi Lee. _I will not dance_. 2016. ([link](https://www.inmilee.com/un.html))
+Inmi Lee. _I will not dance_. 2016.</a>
 
 ## Working With Meshes
 
