@@ -65,6 +65,8 @@ Rhino file: [solids_meshes.3dm](../examples/solids_meshes.3dm)
   - slicing/design for digital fabrication (material thickness considerations)
 - Simplifying mesh
   - [ReduceMesh](http://docs.mcneel.com/rhino/7/help/en-us/commands/reducemesh.htm)
+- Go from mesh to unrollable surface: 
+  - [MeshToNURB](http://docs.mcneel.com/rhino/7/help/en-us/commands/meshtonurb.htm)
 
 ### Example Buffalo Contours
 
