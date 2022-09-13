@@ -49,6 +49,12 @@
      - Click and drag to move points. Use transforms (_Move_). 
    - [_PointsOff_](https://docs.mcneel.com/rhino/6/help/en-us/index.htm#commands/pointsoff.htm)
 
+### Example File 2D Basics
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/1598545/189883552-117aa5e6-15f9-41ba-83cb-5f5bd18673de.png">
+
+Rhino file: [basic_drawing](../examples/basic_drawing.3dm)
+
 ## Intro to Laser Cutter
 
 Hands-on with our [FSL Muse 3D (Full Spectrum Laser)](https://fslaser.com/fsl-muse-3d-autofocus-desktop-co2-laser-cutter-bundle/):
@@ -158,6 +164,12 @@ Ben Butler
 - [Line](https://docs.mcneel.com/rhino/7/help/en-us/index.htm#commands/line.htm)
 - [Offset](https://docs.mcneel.com/rhino/7/help/en-us/index.htm#commands/offset.htm)
 - [Trim](https://docs.mcneel.com/rhino/7/help/en-us/index.htm#commands/trim.htm)
+
+### Example Two Slots
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/1598545/189883344-83d52a8c-c5cc-4190-a7df-1a2f3d3a5d5b.png">
+
+Rhino file: [two_slots.3dm](../examples/two_slots.3dm)
 
 ### Living Hinge
 - Living hinge construction

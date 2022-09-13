@@ -30,14 +30,16 @@ Rhino file: [solids_meshes.3dm](../examples/solids_meshes.3dm)
 
 ## Importing Meshes
 - Importing - Import
-  - [buffalo.stl](../assets/day4/buffalo.stl)
+  - STL file - Stereolithography ([wikipedia definition](https://en.wikipedia.org/wiki/STL_(file_format)))
+  - [buffalo.stl](../assets/buffalo.stl)
   - Rotate and Scale as necessary to find and position the object.
 - Simplification (MeshReduce)
   - [buffalo_reduction.3dm](../assets/day4/buffalo_reduction.3dm)
 - Edit - PointsOn, and directly manipulating points on the mesh.
 - Closed vs Open Meshes
-  - We need closed meshes for 3DP
-  - Attempt to patch an open mesh: Mesh -> Repair Tools -> Fill All Holes
+  - We need closed meshes for 3DP. Object properties will tell you if a mesh is an open or closed mesh.
+  - Attempt to patch an open mesh: **Mesh** -> **Repair Tools** -> **Fill All Holes**
+  - Rhino [Mesh Repair](http://docs.mcneel.com/rhino/7/help/en-us/commands/meshrepair.htm) tools
 
 ## Extracting Contours
 - Review: Building a 3d form directly with stacks of contours
