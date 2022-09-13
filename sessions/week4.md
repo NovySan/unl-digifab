@@ -3,20 +3,17 @@
 ## Tuesday
 
 - Artist of the Day
-- Importing 3d Models
 - [Working with Meshes](#working-with-meshes)
+  - [Mesh Example](#mesh-example)
+- [Importing Meshes](#importing-meshes) 
 - [Extracting Contours](#extracting-contours)
 
-## Agenda
-  - [Contours and Stacked Construction](#contours-and-stacked-construction)
-  - [Bonus: Pepakura and Unfolding](#bonus-pepakura-and-unfolding)
-- [Homework](#homework)
-- [Office Hours this Week](#office-hours)
+## Artist of the Day
+[TK]
 
 ## Working With Meshes
 
 __Solids vs. Meshes__ 
-- [solids_meshes.3dm](../assets/day4/solids_meshes.3dm)
 - Solids
   - what are they? (collections of surfaces)
   - explode, cap
@@ -24,7 +21,14 @@ __Solids vs. Meshes__
 - Meshes
   - Create meshes directly
 
-__Importing Meshes__
+### Mesh Example
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/1598545/189800138-80ca4469-d7d3-4f3a-ab88-48cb677463e2.png">
+
+Rhino file: [solids_meshes.3dm](../examples/solids_meshes.3dm)
+
+
+## Importing Meshes
 - Importing - Import
   - [buffalo.stl](../assets/day4/buffalo.stl)
   - Rotate and Scale as necessary to find and position the object.
