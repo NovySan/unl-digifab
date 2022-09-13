@@ -1,3 +1,19 @@
+- [Measuring Objects](#measuring-objects)
+# Measuring Objects
+- Recording dimensions (pen and paper)
+  - [Engineering Drawing and Sketching (MIT)](https://ocw.mit.edu/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/related-resources/drawing_and_sketching/)
+  - [dimensioned drawings on paper](http://www.pages.drexel.edu/~rcc34/Files/Teaching/MEM201%20L5-Fa0809-SpDimensions_RC.pdf)
+- Taking dimensions
+  - Ruler
+  - Tape measure
+  - Digital Calipers. See [Sparkfun: How To Use Calipers](https://www.youtube.com/watch?v=73YJA5giZfs) (youtube link)
+  - 3D Scanner
+- Transferring dimensions to a Rhino model
+
+
+
+
+=== LEFTOVERS ===
 # Week 5 - 3D Scanning, Rendering, Mesh for 3DP
 
 ## Agenda
