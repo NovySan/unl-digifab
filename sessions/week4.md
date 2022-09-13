@@ -14,10 +14,9 @@
 
 ## Artist of the Day
 
-<a href="https://www.inmilee.com/un.html">
 <img src="https://user-images.githubusercontent.com/1598545/189894549-fe5a944d-3d61-4143-8abd-ad4856d9bbac.png" width=600>
 
-Inmi Lee. _I will not dance_. 2016.</a>
+Inmi Lee. [_I will not dance_](https://www.inmilee.com/un.html). 2016.
 
 Also:
 - [d  i  s p lace](https://www.inmilee.com/displace.html) 2005
