@@ -1,5 +1,7 @@
 # Week 4 - Mesh Creation and Stacked Contours
 
+[Tuesday](#tuesday) | [Thursday](#thursday)
+
 ## Tuesday
 
 - [Artist of the Day](#artist-of-the-day)
