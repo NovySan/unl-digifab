@@ -57,7 +57,13 @@ Rhino file: [solids_meshes.3dm](../examples/solids_meshes.3dm)
   - Importing a mesh into rhino
   - Slicing a mesh with the contour command
   - slicing/design for digital fabrication (material thickness considerations)
-    - [buffalo_contours.3dm](../assets/day4/buffalo_contours.3dm)
+
+### Example Buffalo Contours
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/1598545/189891871-067e9994-7137-4afd-b115-b3f5a529326b.png">
+
+Rhino file: [buffalo_contours.3dm](../examples/buffalo_contours.3dm)
+
 ### Example Sliced Pikachu
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/1598545/189891434-480d9b21-ffcf-4623-ae8a-09f4dcfb078f.png">
