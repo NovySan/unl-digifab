@@ -8,6 +8,9 @@
 - [Importing Meshes](#importing-meshes) 
 - [Extracting Contours](#extracting-contours)
 
+## Artist of the Day
+[TK]
+
 ## Working With Meshes
 
 __Solids vs. Meshes__ 
