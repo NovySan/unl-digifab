@@ -16,13 +16,19 @@
 ## Working With Meshes
 
 __Solids vs. Meshes__ 
-- [solids_meshes.3dm](../assets/day4/solids_meshes.3dm)
 - Solids
   - what are they? (collections of surfaces)
   - explode, cap
   - when we export STL we are creating a mesh
 - Meshes
   - Create meshes directly
+
+### Mesh Example
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/1598545/189800138-80ca4469-d7d3-4f3a-ab88-48cb677463e2.png">
+
+Rhino file: [solids_meshes.3dm](../examples/solids_meshes.3dm)
+
 
 __Importing Meshes__
 - Importing - Import
