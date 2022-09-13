@@ -78,18 +78,18 @@ Rhino file: [buffalo_contours.3dm](../examples/buffalo_contours.3dm)
 Rhino file: [sliced_pikachu.3dm](../examples/sliced_pikachu.3dm)
 
 ## Homework
-[TK]
+Work on project 1 (due in one week, 9/20)
 
 ## Thursday
+[TK]
 
 ## Homework 2
 [TK]
 
 ## Reference
+[TK]
 
-# Leftovers
-
-## Cutting Acrylic
+### Cutting Acrylic
 
 Acrylic is the most common plastic sheet good that we might cut with the laser cutter. 
 - We can vector cut, vector engrave, or raster engrave acrylic very successfully.
@@ -106,5 +106,3 @@ Acrylic is the most common plastic sheet good that we might cut with the laser c
 - [H&H Plastics](https://www.google.com/maps/dir/40.8298688,-96.7012424/h+and+h+plastics+lincoln/@40.8423437,-96.7027104,13z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x8796bb88f445b751:0x4b7f5828f156d80b!2m2!1d-96.6333809!2d40.851637)
 - Home Depot, Lowes, etc. 
 - [Tap Plastics](https://www.tapplastics.com/) (mail order)
-
-
