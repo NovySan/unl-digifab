@@ -93,7 +93,13 @@ In rhino we can either natively author 3d shapes (create boxes, spheres, pyramid
    - [Exporting STL files](https://docs.mcneel.com/rhino/6/help/en-us/index.htm#fileio/stereolithography_stl_import_export.htm)
    - We can open 3D files in programs like [Meshmixer](https://www.meshmixer.com/) (for mesh manipulations) and [PrusaSlicer](https://www.prusa3d.com/prusaslicer/) (which slices files for 3d printing)
 
-## Unrolling Surfaces
+## Example 3D Basics
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/1598545/189884167-b5e94bb4-daca-4e90-a400-5ef851a55a75.png">
+
+Rhino file: [basics_3d.3dm](../examples/unroll.3dm)
+
+## Example Unrolling Surfaces
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/1598545/189140440-1254ab04-b1e7-4424-adbb-2de3c9869f86.png">
 
