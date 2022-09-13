@@ -165,7 +165,7 @@ Ben Butler
 - [Offset](https://docs.mcneel.com/rhino/7/help/en-us/index.htm#commands/offset.htm)
 - [Trim](https://docs.mcneel.com/rhino/7/help/en-us/index.htm#commands/trim.htm)
 
-### Example File
+### Example Two Slots
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/1598545/189883344-83d52a8c-c5cc-4190-a7df-1a2f3d3a5d5b.png">
 
