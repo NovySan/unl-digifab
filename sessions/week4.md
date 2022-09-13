@@ -63,6 +63,8 @@ Rhino file: [solids_meshes.3dm](../examples/solids_meshes.3dm)
   - Importing a mesh into rhino
   - Slicing a mesh with the contour command
   - slicing/design for digital fabrication (material thickness considerations)
+- Simplifying mesh
+  - [ReduceMesh](http://docs.mcneel.com/rhino/7/help/en-us/commands/reducemesh.htm)
 
 ### Example Buffalo Contours
 
