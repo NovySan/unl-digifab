@@ -56,7 +56,9 @@ A student who successfully completes this course will:
 | 3b | **[3D Basics and Unrolling](sessions/week3.md#thursday)** |
 | 4a | **[Meshes and Contour Extraction](sessions/week4.md/#tuesday)** |
 | 4b | **[Work Time. Material Tests](sessions/week4.md/#thursday)** |
-| 5-7 | 3D Printing; 3d scanning and photogrammetry | 
+| 5a | Critique Flat Pack project | 
+| 5b | 3D Printing | 
+| 6-7 | 3D Printing; 3d scanning and photogrammetry | 
 | 8-12 | Mechatronics |
 | 13-15 | Final Project | 
 | 16 | Final Critiques; Open Studios | 
