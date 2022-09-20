@@ -1,5 +1,7 @@
 # Week 5 - Intro to 3D Printing
 
+| [Tuesday](#tuesday) | [Thursday](#thursday) |
+
 ## Tuesday
 
 - Critique
