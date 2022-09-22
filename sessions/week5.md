@@ -13,6 +13,7 @@
   - [Prepping for 3DP](#prepping-for-3dp)
   - [Slicing for 3DP](#slicing-for-3dp)
 - Intro to the 3d Printer
+- [Homework](#homework)
 
 ### Importing Models
 
@@ -29,6 +30,11 @@
   - Mesh -> Repair Tools -> **[Fill All Holes](https://docs.mcneel.com/rhino/7/help/en-us/commands/fillmeshhole.htm#FillMeshHoles)**
 - Save as STL
   - File -> Export -> select STL file (Stereolithography). Answer yes to most questions.
+
+#### Example
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/1598545/191771117-8152421f-1818-4d31-8464-bcbce680bcfb.png">
+
+Rhino file: [../examples/venus_sculpture.3dm](../examples/venus_sculpture.3dm)
 
 ### Slicing for 3DP
 - [Download Prusa Slicer](https://www.prusa3d.com/drivers/) (DRIVERS & APPS)
