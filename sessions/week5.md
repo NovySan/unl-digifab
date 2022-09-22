@@ -40,12 +40,35 @@
 - Add multiple objects to a build.
 
 ## Homework
-[TK]
+
+<img src="https://user-images.githubusercontent.com/1598545/191767959-277d1211-81ab-421a-89c4-466806e0cbb4.png" width=600>
+
+**Venus of Willendorf** (25000bce) [stl file](https://www.myminifactory.com/object/3d-print-venus-of-willendorf-at-the-naturhistorisches-museum-vienna-austria-11455) from Scan the World on myminifactory
+
+### Description
+You are going to combine a 3d scanned object with a base and text to make a small trophy (< 3" x 3" x 3").
+1. Find a 3d model you want to work with. See references below. It does not have to be a historical artifact.
+2. Import your scanned object into Rhino.
+3. Create an extruded base
+4. Add Text. 
+5. Slice this model for the Prusa MK3S+, PLA filament.
+6. Finally you will 3d print this model. 
+
+### Submission
+- Add documentation of this (screenshots of rhino, screenshot of the slicer, and photo of your printed object) to your digital sketchbook. 
+- Submit a pdf of these pages from the digital sketchbook to Canvas. DUE: Wednesday 9/28, 11:59pm.
+
 
 ## Office Hours 
-[TK]
+Wednesday 3-5pm or by appointment.
 
 ## Reference
+
+### Places to get 3d models
+- [https://www.printables.com/](https://www.printables.com/)
+- [https://www.myminifactory.com/](https://www.myminifactory.com/)
+- [https://www.thingiverse.com/](https://www.thingiverse.com/)
+- Search for **.STL** files on google. If you find a good source, share it with me.
 
 ## Meshmixer
 - [Download Meshmixer](https://www.meshmixer.com/download.html)
