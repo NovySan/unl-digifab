@@ -26,11 +26,13 @@
 - Add a base
 - Add a label (text objects as solids)
 - Is it a closed object? 
-  - Mesh -> Repair Tools
-- Save as STL.
+  - Mesh -> Repair Tools -> **[Fill All Holes](https://docs.mcneel.com/rhino/7/help/en-us/commands/fillmeshhole.htm#FillMeshHoles)**
+- Save as STL
+  - File -> Export -> select STL file (Stereolithography). Answer yes to most questions.
 
 ### Slicing for 3DP
 - [Download Prusa Slicer](https://www.prusa3d.com/drivers/) (DRIVERS & APPS)
+  - We have the [Prusa MK3S+](https://help.prusa3d.com/tag/mk3s-2)
 - Load your STL file from the previous steps. 
 - Check scale, positioning. 
 - Select print parameters.
