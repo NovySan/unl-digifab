@@ -46,7 +46,8 @@
 **Venus of Willendorf** (25000bce) [stl file](https://www.myminifactory.com/object/3d-print-venus-of-willendorf-at-the-naturhistorisches-museum-vienna-austria-11455) from Scan the World on myminifactory
 
 ### Description
-You are going to combine a 3d scanned object with a base and text to make a small trophy (< 3" x 3" x 3").
+You are going to combine a 3d scanned object with a base and text to make a small trophy (< 3" x 3" x 3"). Try to come up with some interesting combination between text, object, and base.
+
 1. Find a 3d model you want to work with. See references below. It does not have to be a historical artifact.
 2. Import your scanned object into Rhino.
 3. Create an extruded base
