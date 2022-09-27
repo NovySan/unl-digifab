@@ -37,13 +37,13 @@
 Rhino file: [../examples/venus_sculpture.3dm](../examples/venus_sculpture.3dm)
 
 ### Slicing for 3DP
-- [Download Prusa Slicer](https://www.prusa3d.com/drivers/) (DRIVERS & APPS)
+- [Download Prusa Slicer]([https://www.prusa3d.com/drivers/](https://www.prusa3d.com/page/prusaslicer_424/))
   - We have the [Prusa MK3S+](https://help.prusa3d.com/tag/mk3s-2)
 - Load your STL file from the previous steps. 
 - Check scale, positioning. 
 - Select print parameters.
   - Material. Slicing. Support. 
-- Add multiple objects to a build.
+- See the complete First Print with Prusa Slicer article from Prusa: [https://help.prusa3d.com/article/first-print-with-prusaslicer_1753](https://help.prusa3d.com/article/first-print-with-prusaslicer_1753)
 
 ## Homework
 
@@ -70,6 +70,9 @@ You are going to combine a 3d scanned object with a base and text to make a smal
 Wednesday 3-5pm or by appointment.
 
 ## Reference
+- Prusa has great Tutorials.
+  - First Print with Prusa Slicer [https://help.prusa3d.com/article/first-print-with-prusaslicer_1753](https://help.prusa3d.com/article/first-print-with-prusaslicer_1753)
+  - 
 
 ### Places to get 3d models
 - [https://www.printables.com/](https://www.printables.com/)
