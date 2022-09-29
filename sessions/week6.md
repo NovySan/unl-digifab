@@ -27,7 +27,7 @@
 
 <img src="https://user-images.githubusercontent.com/1598545/193049455-8f5a7e69-7534-4ca8-9eb5-44157fa4aa76.png" width=400>
 
-**[Urs Fischer](https://ursfischer.com/)** 
+**Urs Fischer** ([website](https://ursfischer.com/) 
 
 ```
 Untitled (Lamp / Bear)
