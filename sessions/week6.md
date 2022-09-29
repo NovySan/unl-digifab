@@ -11,14 +11,15 @@
   - Printing from a file. 
   - Stay your print for the 10-15 minutes, or until the first few layers have completed, to be sure it is printing correctly. If the build height seems off, quit the print and re-rerun the first layer calibration.
 
-- [Homework][#homework] Complete your Trophy project from last week, DUE Friday at midnight.
+- [Homework](#homework) Complete your Trophy project from last week, DUE Friday at midnight.
 
 ## Office Hours 
-- Wednesday 3-5pm.
+- Wednesday 3-5pm
 
 ## Thursday
 
-[TK]
+- More 3D Printing time. 
+- Boolean two objects. 
 
 ## Homework 
 
