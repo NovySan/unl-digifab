@@ -36,23 +36,29 @@ Cast bronze, epoxy primer, urethane paint, acrylic polyurethane topcoat, acrylic
 275 5/8 x 255 7/8 x 295 1/4 inches
 (700 x 650 x 750 cm)
 ```
-([link](https://ursfischer.com/searches/bear)
+([link](https://ursfischer.com/searches/bear))
 
 ## Homework-2
 
-### Description
-You are going to combine a 3d scanned object with a base and text to make a small trophy (< 3" x 3" x 3"). Try to come up with some interesting combination between text, object, and base.
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/1598545/193051534-45e87d29-e20e-491c-8188-d1b716a87155.png">
 
-1. Find a 3d model you want to work with. See references below. It does not have to be a historical artifact.
-2. Import your scanned object into Rhino.
-3. Create an extruded base
-4. Add Text. 
-5. Slice this model for the Prusa MK3S+, PLA filament.
-6. Finally you will 3d print this model. 
+[Dark Matter (First Series)](http://www.morehshin.com/dark-matter-first-series/) by Moreshin Allahyari.
+
+
+### Description
+Following Moreshin's Dark Matter (and Urs Fischer's sculpture above) for this assignment I want you to find two objects, boolean them together (either subtraction, intersection, joining, etc.) and add a base. You should then slice this so we know it is 3d printable. YOU DO NOT HAVE TO PRINT THIS but I do want it sliced. 
+
+1. Find two 3d models to work with. You can find them online, or model your own.
+2. Import your 3d models into Rhino.
+3. Create an extruded base.
+4. Slice this model for the Prusa MK3S+, PLA filament. 
+5. Screen capture your sliced model
 
 ### Submission
 - Add documentation of this (screenshots of rhino, screenshot of the slicer) to your digital sketchbook. 
-- Submit a pdf of these pages from the digital sketchbook to [Canvas](https://canvas.unl.edu/courses/137404/assignments/1350190). DUE: Tuesday 10/4, 11:59pm.
-- 
+- Submit to [Canvas](https://canvas.unl.edu/courses/137404/assignments/1350190). DUE: Tuesday 10/4 11:59pm.
+  - a pdf of these pages from the digital sketchbook
+  - your rhino file (.3dm)
+
 ## Reference
 - Prusa Cheat Sheats: [UNL 3D Printer Guides](https://docs.google.com/document/d/1vCnLAMQ0IFE0_WeRT_rv4E3FyUzv3gbLFVJa0F7clCM/edit?usp=sharing)
