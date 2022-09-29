@@ -29,13 +29,14 @@
 
 **[Urs Fischer](https://ursfischer.com/)** 
 
-'''
+```
 Untitled (Lamp / Bear)
 2005-2006
 Cast bronze, epoxy primer, urethane paint, acrylic polyurethane topcoat, acrylic glass, gas discharge lamp, stainless-steel framework
 275 5/8 x 255 7/8 x 295 1/4 inches
 (700 x 650 x 750 cm)
-''' ([link](https://ursfischer.com/searches/bear)
+```
+([link](https://ursfischer.com/searches/bear)
 
 ## Homework-2
 
