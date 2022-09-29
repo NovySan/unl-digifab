@@ -27,11 +27,17 @@
 
 <img src="https://user-images.githubusercontent.com/1598545/193049455-8f5a7e69-7534-4ca8-9eb5-44157fa4aa76.png" width=400>
 
-**[Urs Fischer](https://ursfischer.com/)**
+**[Urs Fischer](https://ursfischer.com/)** 
+
+'''
+Untitled (Lamp / Bear)
+2005-2006
+Cast bronze, epoxy primer, urethane paint, acrylic polyurethane topcoat, acrylic glass, gas discharge lamp, stainless-steel framework
+275 5/8 x 255 7/8 x 295 1/4 inches
+(700 x 650 x 750 cm)
+''' ([link](https://ursfischer.com/searches/bear)
 
 ## Homework-2
-
-**Venus of Willendorf** (25000bce) [stl file](https://www.myminifactory.com/object/3d-print-venus-of-willendorf-at-the-naturhistorisches-museum-vienna-austria-11455) from Scan the World on myminifactory
 
 ### Description
 You are going to combine a 3d scanned object with a base and text to make a small trophy (< 3" x 3" x 3"). Try to come up with some interesting combination between text, object, and base.
