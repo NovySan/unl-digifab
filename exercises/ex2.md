@@ -31,8 +31,6 @@ There are many other ways to get an object into Rhino / into the computer (for i
    - photograph of object
    - STL of model
 
-DUE 9/9, 9pm (Thursday) to Canvas https://canvas.unl.edu/courses/114938/assignments/1079274
+DUE 10/11, 11:59pm (Tuesday) to Canvas https://canvas.unl.edu/courses/114938/assignments/1079274
 
 # References
-- Rhino has some great video tutorials to help you getting started. 
-  - [Rhino Learn](https://www.rhino3d.com/learn/?keyword=kind:%20rhino_win) (tutorials)
