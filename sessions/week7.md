@@ -24,7 +24,7 @@ Claire Hentschker [website](http://www.clairesophie.com/)
 - Transfer dimensions to a Rhino model
 
 ## Homework
-Digital Double - [see here](exercises/ex2.md)
+Digital Double - [see here](../exercises/ex2.md)
 
 ## Office Hours 
 - Wednesday 3-5pm
