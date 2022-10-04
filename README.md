@@ -59,7 +59,9 @@ A student who successfully completes this course will:
 | 5a | **[Critique Project 1](sessions/week5.md/#tuesday)** | 
 | 5b | **[3D Printing](sessions/week5.md/#thursday)** | 
 | 6a | **[Prusa Hands-On](sessions/week6.md#tuesday)** |
-| 6b-7 | 3D Printing; 3d scanning and photogrammetry | 
+| 6b | **[3D Printing; 3d scanning and photogrammetry](sessions/week6.md#tuesday)** | 
+| 7a | **[Digitizing Objects](sessions/week7.md#tuesday)** |
+| 7b | 3D Scanning |
 | 8-12 | Mechatronics |
 | 13-15 | Final Project | 
 | 16 | Final Critiques; Open Studios | 
