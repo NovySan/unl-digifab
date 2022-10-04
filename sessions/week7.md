@@ -14,7 +14,7 @@ Claire Hentschker [website](http://www.clairesophie.com/)
 
 ## Measuring Objects
 - Recording dimensions (pen and paper)
-  - [Engineering Drawing and Sketching (MIT)](https://ocw.mit.edu/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/related-resources/drawing_and_sketching/)
+  - [Engineering Drawing and Sketching (MIT)](https://ocw.mit.edu/courses/2-007-design-and-manufacturing-i-spring-2009/pages/related-resources/drawing_and_sketching/)
   - [dimensioned drawings on paper](http://www.pages.drexel.edu/~rcc34/Files/Teaching/MEM201%20L5-Fa0809-SpDimensions_RC.pdf)
 - Taking dimensions
   - Ruler
