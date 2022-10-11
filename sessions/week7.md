@@ -13,7 +13,7 @@ Claire Hentschker [website](http://www.clairesophie.com/)
 - [Bedazzles](http://www.clairesophie.com/new-page-1)
 
 
-<a src="https://user-images.githubusercontent.com/1598545/195104353-61e1075a-9fc3-4192-a71f-332bd9350990.png" width=800>
+<img src="https://user-images.githubusercontent.com/1598545/195104353-61e1075a-9fc3-4192-a71f-332bd9350990.png" width=800>
 
 [Free Universal Construction Kit](https://fffff.at/free-universal-construction-kit/), The Free Art and Technology (F.A.T.) Lab
 
