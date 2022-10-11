@@ -61,6 +61,8 @@ Each of these ideas below is one approach to a "hybrid" object.
 - Patching a physical space
   - Jan Vormann [Dispatchwork](https://twistedsifter.com/2018/10/people-around-the-globe-are-filling-cracks-with-lego-10-photos/)
     - [column](https://www.janvormann.com/column/)
+- Missing Real First and Added Second Object
+  - Rachel Whiteread [https://www.tate.org.uk/art/artists/rachel-whiteread-2319/five-things-know-rachel-whiteread](https://www.tate.org.uk/art/artists/rachel-whiteread-2319/five-things-know-rachel-whiteread) 
 - Combinations of Objects:
   - Moreshin Allahyari, [Dark Matter First Series](http://www.morehshin.com/dark-matter-first-series/) (2014)
     - (these are also online/offline: notice how she posted the 3d model file for the dog/dildo/satellite dish in a virtual gallery. this are also, in essence, "the sculptures")
