@@ -12,7 +12,6 @@
 - [Office Hours this Week](#office-hours)
 
 ### Artist of the Day
-  - Tivon Rice [Environment Built for Absence](http://tivonrice.com/absence.html)
 
 ### 3d Scanning
 - Two main techniques: photogrammetry and LIDAR
@@ -33,7 +32,7 @@
 - [Photogrammetry](#photogrammetry)
 
 ### Artist of the Day 2
-Robert Twomey and Mike McCrea, Rover
+- Robert Twomey and Mike McCrea, Rover OR Tivon Rice [Environment Built for Absence](http://tivonrice.com/absence.html)
 
 ### Photogrammetry
 - Autodesk ReCap: [https://www.autodesk.com/products/recap/](https://www.autodesk.com/products/recap)
