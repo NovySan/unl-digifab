@@ -22,7 +22,7 @@ Paul McCarthy
     - ArTec scanner at NIS.
 
 ### 3D Scans in Rhino
-- [TK]
+- Really just working with Meshes. 
 
 ### Homework
 **Scan Big Print Small**
