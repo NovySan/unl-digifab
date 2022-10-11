@@ -5,7 +5,6 @@
 ## Tuesday
 - [Artist of the Day](#artist-of-the-day)
 - [3D Scanning](#3d-scanning)
-- [Photogrammetry](#photogrammetry)
 - [3D Scans in Rhino](#3d-scans-in-rhino)
   - Rhino for 3DP
   - Bonus: Meshmixer
