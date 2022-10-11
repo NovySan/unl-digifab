@@ -23,12 +23,20 @@ Paul McCarthy
   - Photogrammetry
   - LIDAR / 3d scanning (with laser)
     - ArTec scanner at NIS.
+- Examples of room scans (Twomey)
+- Simple solution, phone/tablet apps. 
+  - Polycam [https://poly.cam](https://poly.cam/) - does both photogrammetry and LIDAR
+  - Scandy Pro [https://www.scandy.co/apps/scandy-pro](https://www.scandy.co/apps/scandy-pro) - can use the front facing lidar camera (FaceID) on iphone/tablet to do detailed scan. 
+  - Other approaches?
+- Strengths and limitations of various approaches. 
+- Hands-on.
 
 ### 3D Scans in Rhino
 - Really just working with Meshes. 
 
 ### Homework
 **Scan Big Print Small**
+Using the ipad pro with Polycam, digitize a real world object. Think big: the LIDAR is best for room scale or 
 
 ## Office Hours
 
