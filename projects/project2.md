@@ -34,15 +34,18 @@ This written description will be [submitted online to Canvas](https://canvas.unl
 ## Deliverables
 
 1. Proposal: 
-   - written proposal to Canvas (10/7)
-2. Submission:  
-   - upload the following to Canvas (10/28)
-   - Written Project Description (update your written proposal once you are done with the project, this is your project description)
+   - Written proposal submitted to Canvas. 
+2. Final Project Submission:  
+   - Add the following to your digital sketchbook and submit:
+     - Written Project Description (update your written proposal once you are done with the project, this is your project description)
+     - Documentation of 3d modeling (rhino captures)
+     - Documentation of final object (photographs)
+     - submit as a PDF
    - Rhino Models (.3dm)
    - Printable file (.stl) 
-   - Documentation (photographs)
+
 3. Critique: 
-   - Present both your Object and your documentation for Critique. (10/28)
+   - Present both your Object and your documentation for Critique in two weeks.
 
 ## References
 Each of these ideas below is one approach to a "hybrid" object. 
@@ -53,6 +56,9 @@ Each of these ideas below is one approach to a "hybrid" object.
       - [an essay](https://digitalartdmu.wordpress.com/2016/03/31/the-image-object-post-internet/) about Viertkant's work and ideas by Grace Williams (2016).
     - (in addition to online/offline, these exist between real object and documentation)
   - (others?)
+- Patching a physical space
+  - Jan Vormann [Dispatchwork](https://twistedsifter.com/2018/10/people-around-the-globe-are-filling-cracks-with-lego-10-photos/)
+    - [column](https://www.janvormann.com/column/)
 - Combinations of Objects:
   - Moreshin Allahyari, [Dark Matter First Series](http://www.morehshin.com/dark-matter-first-series/) (2014)
     - (these are also online/offline: notice how she posted the 3d model file for the dog/dildo/satellite dish in a virtual gallery. this are also, in essence, "the sculptures")
