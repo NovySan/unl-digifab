@@ -32,30 +32,6 @@ Digital Double - [see here](../exercises/ex2.md)
 ## Thursday
 
 ## Agenda
-- Artist of the Day
-  - Tivon Rice [Environment Built for Absence](http://tivonrice.com/absence.html)
-- Topics
-  - Digitizing Objects
-  - 3D Scans in Rhino
-  - Rhino for 3DP
-  - Bonus: Meshmixer
-- [Homework](#homework)
-- [Office Hours this Week](#office-hours)
-
-## Digitizing Objects
-- Two main techniques: photogrammetry and LIDAR
-  - Photogrammetry
-  - LIDAR / 3d scanning (with laser)
-    - ArTec scanner at NIS.
-
-## Agenda
-- Artist of the Day
-  - Moreshin Allahyari [Dark Matter: Series 1](http://www.morehshin.com/dark-matter-first-series/)
-- Introduce [Project 1](../projects/project1.md)
-- Hands on Session with Ultimaker and Max from NIS
-
-## Homework
-- [Project 1 Proposal](https://canvas.unl.edu/courses/114938/assignments/1097230) DUE Thursday October 7, 9pm
-  - Description on Canvas.
+- [Work Time]
 
 ## Reference
