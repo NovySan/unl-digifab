@@ -12,6 +12,8 @@
 - [Office Hours this Week](#office-hours)
 
 ### Artist of the Day
+Paul McCarthy 
+- [White Snow]()
 
 ### 3d Scanning
 - Two main techniques: photogrammetry and LIDAR
