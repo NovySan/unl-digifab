@@ -35,8 +35,13 @@ Paul McCarthy
 - Really just working with Meshes. 
 
 ### Homework
-**Scan Big Print Small**
-Using the ipad pro with Polycam, digitize a real world object. Think big: the LIDAR is best for room scale or 
+** Project 2 Proposal **
+
+<!-- **Scan Big Print Small**
+Using the ipad pro with Polycam, digitize a real world object. Think big: the rear camera LIDAR is best body to room scale. Photogrammetry is ok for a range of sizes. Front facing LIDAR is good for details. Here we will play with scale:
+1. Scan something big
+2. Share the mesh with yourself (AirDrop, email, or some other means to get it off of the iPad
+3. Clean up the mesh in Rhino and make it -->
 
 ## Office Hours
 
