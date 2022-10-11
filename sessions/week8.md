@@ -25,7 +25,7 @@ Paul McCarthy
 - [TK]
 
 ### Homework
-- Scan Big Print Small
+**Scan Big Print Small**
 
 ## Office Hours
 
