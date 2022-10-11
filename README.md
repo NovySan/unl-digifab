@@ -62,7 +62,9 @@ A student who successfully completes this course will:
 | 6b | **[3D Printing; 3d scanning and photogrammetry](sessions/week6.md#tuesday)** | 
 | 7a | **[Digitizing Objects](sessions/week7.md#tuesday)** |
 | 7b | 3D Scanning |
-| 8-12 | Mechatronics |
+| 8a | **[3D Scanning](sessions/week8.md#tuesday)** |
+| 8b | 3D Scanning Part 2 |
+| 9-12 | Mechatronics |
 | 13-15 | Final Project | 
 | 16 | Final Critiques; Open Studios | 
 | Finals | Submit Final Documentation |
