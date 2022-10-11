@@ -1,13 +1,13 @@
 ![image](https://user-images.githubusercontent.com/1598545/135893454-f925bb08-b92c-4254-acf8-db47bb92dc5a.png)
 
-# Project 1: Hybrid Object
+# Project 2: Hybrid Object
 ## Description
 
-For this project you will make an object that is a combination of two (or more) things at once. This could be a literal hybrid of multiple objects (see Moreshin Allahyari's Dark Metter), an online / offline object (existing both in digital form and physical form), or some individual direction you identify that hybridizes between two forms. See the [references](#references) below for some examples. The concept is open-ended, but you will need to submit a written proposal for your project. (see [proposal](#proposal) below)
+For this project you will make an object that is a combination of two (or more) things at once. It should be a combination of a physical and a digital object. You can think of this as a prosthesis –– scanning a real object and modeling/fabricating a prosthesis that attaches to it. You can think of it as an augmentation or exoskeleton –– a fabricated structure that provides a home for and extends the object's capabilities. This could be a site specific intervention, scanning a crack in a wall or negative space of an object and creating an object that fills it. See the [references](#references) below for some examples. The concept is open-ended, but you will need to submit a written proposal for your project. (see [proposal](#proposal) below)
 
 For this project you will use the 3d design and fabrication techniques that we have covered in class so far, as appropriate to your concept:
 - 3d modeling (Rhino, as well any other software you have experience with)
-- 3d scanning (with ipad/iphone or ArTec scanner at NIS)
+- 3d scanning (with ipad/iphone)
 - laser cutting
 - 3d printing
 
