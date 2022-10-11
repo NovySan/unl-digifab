@@ -24,16 +24,13 @@
 ### 3D Scans in Rhino
 - [TK]
 
+### Homework
+- Scan Big Print Small
+
 ## Office Hours
 
-## Agenda
+## Thursday
 - Artist of the Day
-  - Moreshin Allahyari [Dark Matter: Series 1](http://www.morehshin.com/dark-matter-first-series/)
-- Introduce [Project 1](../projects/project1.md)
-- Hands on Session with Ultimaker and Max from NIS
-
-## Homework
-- Scan Big Print Small
 
 ## Reference
 - [TK]
