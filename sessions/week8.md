@@ -30,9 +30,15 @@
 ## Office Hours
 
 ## Thursday
-- Artist of the Day
-- Photogrammetry
-  - Autodesk ReCap: [https://www.autodesk.com/products/recap/](https://www.autodesk.com/products/recap)
+- [Artist of the Day](#artist-of-the-day-2)
+- [Photogrammetry](#photogrammetry)
+
+### Artist of the Day 2
+Robert Twomey and Mike McCrea, Rover
+
+### Photogrammetry
+- Autodesk ReCap: [https://www.autodesk.com/products/recap/](https://www.autodesk.com/products/recap)
+- Agisoft Metashape: [https://www.agisoft.com/](https://www.agisoft.com/)
 
 ## Reference
 - [TK]
