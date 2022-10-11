@@ -12,8 +12,10 @@
 - [Office Hours this Week](#office-hours)
 
 ### Artist of the Day
+<img src="https://user-images.githubusercontent.com/1598545/195103516-1e6321d5-4307-4806-bbea-b9c34b7d77f8.jpg" height=800>
+
 Paul McCarthy 
-- [White Snow]()
+- [White Snow](https://henryart.org/exhibitions/paul-mccarthy)
 
 ### 3d Scanning
 - Two main techniques: photogrammetry and LIDAR
