@@ -16,6 +16,7 @@
 
 Paul McCarthy 
 - [White Snow](https://henryart.org/exhibitions/paul-mccarthy)
+- [Heigh-Ho, Heigh-Ho, I Mistrust Paul McCarthy's Snow White Sculptures (But I'm Not Saying Don't Go)](https://www.thestranger.com/visual-art/2016/03/23/23828114/heigh-ho-heigh-ho-i-mistrust-paul-mccarthys-snow-white-sculptures-but-im-not-saying-dont-go), The Stranger, Seattle, WA 2016.
 
 ### 3d Scanning
 - Two main techniques: photogrammetry and LIDAR
