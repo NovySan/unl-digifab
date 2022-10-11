@@ -56,6 +56,8 @@ Each of these ideas below is one approach to a "hybrid" object.
       - [an essay](https://digitalartdmu.wordpress.com/2016/03/31/the-image-object-post-internet/) about Viertkant's work and ideas by Grace Williams (2016).
     - (in addition to online/offline, these exist between real object and documentation)
   - (others?)
+- Hybrids of scans: 
+  - Inmi Lee Un [https://www.inmilee.com/un.html](https://www.inmilee.com/un.html)
 - Patching a physical space
   - Jan Vormann [Dispatchwork](https://twistedsifter.com/2018/10/people-around-the-globe-are-filling-cracks-with-lego-10-photos/)
     - [column](https://www.janvormann.com/column/)
