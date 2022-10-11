@@ -31,6 +31,8 @@
 
 ## Thursday
 - Artist of the Day
+- Photogrammetry
+  - Autodesk ReCap: [https://www.autodesk.com/products/recap/](https://www.autodesk.com/products/recap)
 
 ## Reference
 - [TK]
