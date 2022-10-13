@@ -37,12 +37,6 @@ Paul McCarthy
 ### Homework
 ** [Project 2 Proposal](../projects/project2.md#proposal) **
 
-<!-- **Scan Big Print Small**
-Using the ipad pro with Polycam, digitize a real world object. Think big: the rear camera LIDAR is best body to room scale. Photogrammetry is ok for a range of sizes. Front facing LIDAR is good for details. Here we will play with scale:
-1. Scan something big
-2. Share the mesh with yourself (AirDrop, email, or some other means to get it off of the iPad
-3. Clean up the mesh in Rhino and make it -->
-
 ## Office Hours
 
 ## Thursday
@@ -57,6 +51,20 @@ Using the ipad pro with Polycam, digitize a real world object. Think big: the re
 - Agisoft Metashape: [https://www.agisoft.com/](https://www.agisoft.com/)
 - Colmap: [https://colmap.github.io/](https://colmap.github.io/)
 - OpenDroneMap: [https://www.opendronemap.org/](https://www.opendronemap.org/)
+
+### Cleaning Meshes
+- [MeshMixer](https://www.meshmixer.com/download.html) (discontinued as of 2021)
+  - [Mac download link](https://meshmixer.en.softonic.com/mac/download)
+  - replace by [Fusion 360](https://www.autodesk.com/products/fusion-360/free-trial)
+- [MeshLab](https://www.meshlab.net/) - hardcore research grade
+
+### Homework of the Day
+**Scan Big Print Small**
+Using the ipad pro with Polycam or your own device, digitize a real world object. Think big: the rear camera LIDAR is best body to room scale. Photogrammetry is ok for a range of sizes. Here we will play with scale:
+1. Scan something big
+2. Share the mesh with yourself (AirDrop, email, or some other means to get it off of the iPad)
+3. Clean up the mesh in Rhino and make it
+4. 
 
 ## Reference
 - [TK]
