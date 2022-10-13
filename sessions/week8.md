@@ -68,7 +68,7 @@ Tivon Rice [Environment Built for Absence](http://tivonrice.com/absence.html)
   - replaced by [Fusion 360](https://www.autodesk.com/products/fusion-360/free-trial) as of 2021.
 - [MeshLab](https://www.meshlab.net/) - hardcore research grade
 
-### Homework Day 2
+### Homework 2
 **Scan Big Print Small**
 Using the ipad pro with Polycam or your own device, digitize a real world object. Think big: the rear camera LIDAR is best body to room scale. Photogrammetry is ok for a range of sizes. Here we will play with scale:
 1. Scan something big
