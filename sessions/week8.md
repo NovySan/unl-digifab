@@ -44,7 +44,15 @@ Paul McCarthy
 - [Photogrammetry](#photogrammetry)
 
 ### Artist of the Day 2
-- Robert Twomey and Mike McCrea, Rover OR Tivon Rice [Environment Built for Absence](http://tivonrice.com/absence.html)
+<img src="https://user-images.githubusercontent.com/1598545/195608502-0d15925b-5cd3-4802-997f-524f9ccb2f6f.jpg" height=800>
+
+Robert Twomey and Mike McCrea, [Rover](http://roberttwomey.com/rover) 
+
+OR 
+
+<img src="https://user-images.githubusercontent.com/1598545/195609549-73ddc315-a53f-4b11-aa7f-949641e1f709.png" width=800>
+
+Tivon Rice [Environment Built for Absence](http://tivonrice.com/absence.html)
 
 ### Photogrammetry
 - Autodesk ReCap: [https://www.autodesk.com/products/recap/](https://www.autodesk.com/products/recap)
@@ -53,9 +61,9 @@ Paul McCarthy
 - OpenDroneMap: [https://www.opendronemap.org/](https://www.opendronemap.org/)
 
 ### Cleaning Meshes
-- [MeshMixer](https://www.meshmixer.com/download.html) (discontinued as of 2021)
+- [MeshMixer](https://www.meshmixer.com/download.html)
   - [Mac download link](https://meshmixer.en.softonic.com/mac/download)
-  - replace by [Fusion 360](https://www.autodesk.com/products/fusion-360/free-trial)
+  - replaced by [Fusion 360](https://www.autodesk.com/products/fusion-360/free-trial) as of 2021.
 - [MeshLab](https://www.meshlab.net/) - hardcore research grade
 
 ### Homework of the Day
@@ -63,8 +71,13 @@ Paul McCarthy
 Using the ipad pro with Polycam or your own device, digitize a real world object. Think big: the rear camera LIDAR is best body to room scale. Photogrammetry is ok for a range of sizes. Here we will play with scale:
 1. Scan something big
 2. Share the mesh with yourself (AirDrop, email, or some other means to get it off of the iPad)
-3. Clean up the mesh in Rhino and make it
-4. 
+3. Clean up the mesh in Rhino. 
+4. Print it at (small) scale (< 3x3x3")
+
+**Submission**
+1. Document the scan with screenshots in Rhino.
+2. Document the printed object with photographs. 
+3. Add these materials to your digital sketchbook and upload the new pages as a pdf.
 
 ## Reference
 - [TK]
