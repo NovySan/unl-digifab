@@ -40,8 +40,10 @@ Paul McCarthy
 ## Office Hours
 
 ## Thursday
+Agenda
 - [Artist of the Day](#artist-of-the-day-2)
 - [Photogrammetry](#photogrammetry)
+- [Cleaning Meshes](#cleaning-meshes)
 
 ### Artist of the Day 2
 <img src="https://user-images.githubusercontent.com/1598545/195608502-0d15925b-5cd3-4802-997f-524f9ccb2f6f.jpg" height=800>
