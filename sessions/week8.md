@@ -66,7 +66,10 @@ Tivon Rice [Environment Built for Absence](http://tivonrice.com/absence.html)
 - [MeshMixer](https://www.meshmixer.com/download.html)
   - [Mac download link](https://meshmixer.en.softonic.com/mac/download)
   - replaced by [Fusion 360](https://www.autodesk.com/products/fusion-360/free-trial) as of 2021.
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/1598545/195615437-07714460-cfdc-418e-9744-c92f9ca9f5b5.png">
 - [MeshLab](https://www.meshlab.net/) - hardcore research grade
+<img width="600" alt="picture of " src="https://user-images.githubusercontent.com/1598545/195615315-6615baf3-1932-4a5a-ab59-71872c01985d.png">
+
 
 ### Homework 2
 **Scan Big Print Small**
@@ -80,6 +83,7 @@ Using the ipad pro with Polycam or your own device, digitize a real world object
 1. Document the scan with screenshots in Rhino.
 2. Document the printed object with photographs. 
 3. Add these materials to your digital sketchbook and upload the new pages as a pdf.
+   - [canvas link](https://canvas.unl.edu/courses/137404/assignments/1356636)
 
 ## Reference
 - [TK]
