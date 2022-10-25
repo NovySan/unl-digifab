@@ -1,75 +1,54 @@
-# Week 10 - Digital and Analog IO
+# Week 10 - Making Things Move
 
-## Agenda
-- Pre-class: ECE Capstone Visit
-- Project 1 Critique
-- Physical Computing
-  - Review: Blink and [Digital Output](..sessions/week8.md#digital-output) (last time)
-  - [Digital Input](#digital-input)
-  - [Analog Output](#analog-output)
-  - Analog Input (next time)
+| [Tuesday](#tuesday) | [Thursday](#thursday) |
+
+## Tuesday
+Agenda: 
+- [Artist of the Day](#artist-of-the-day)
+- [Mechatronics](#topic-1)
 - [Homework](#homework)
+- [Office Hours this Week](#office-hours)
 
-## Digital Input
+### Artist of the Day
 
-![Image](https://www.arduino.cc/wiki/static/73702ee121860fa04c7f6db5bc77183b/29007/circuit.png)
+![Image](https://i.vimeocdn.com/video/510995310-137ac31797f68b1f7b9d7c09b401a733cb284cc81c2e9e708541caccaee709b0-d?mw=1600&mh=900&q=70)
 
-https://www.arduino.cc/en/Tutorial/BuiltInExamples/Button
+Ian Ingram, 
 
-- TODO
-  - modify to be a toggle (and a variable that keeps track of on/off)
-  - use the button input to call a function
+[Doctor Maggotty is Anxious about The End](https://www.ianingram.org/machines/2015_doctormaggotty.html) (2015)
 
-## Analog Output
+Robot that uses the beak-wiping gesture of the Eurasian Magpie to relay messages to those around: to magpies that it is very well-fed yet nervous; to humans that know Morse code that it is in a state of constant mourning.
 
-![Image](https://www.arduino.cc/wiki/static/079b1bab3758603a56c5d98e1f59a88e/29007/circuit.png)
+### Topic 1
+- Items
 
-https://www.arduino.cc/en/Tutorial/BuiltInExamples/Fade
+### Homework
+**Making Things Move**
+A simple servo plus arduino construction with a stationary base (holding servo) and a moving component (attached to servo spline). 
+1. Step 1.
+2. Print your design. 
+3. Program a behavior for your design.
+4. Document and demonstrate.
 
-- NOTE: this is a very similar circuit and wiring as [Digital Output](../week8.md#digital-output) from last time! 
-  - the difference is that here we are using `analogWrite()` (reference)
-  - and a different pin (one of the PWM capable pins)
+**Submission**
+1. Document your Rhino design with screenshots. Show perspective views of the object and it's motion. 
+2. Photograph your printed objects and final assembly.
+3. Add this documentation 
+2. Upload to Canvas.
 
-- TODO: 
-  - modify the speed at which it fades. (hint: change the `delay()`. see [the delay reference](https://www.arduino.cc/reference/en/language/functions/time/delay/))
+## Office Hours
 
-## Analog Input
+Wednesday 3-5pm. 
 
-![Image](https://www.arduino.cc/wiki/static/7dbfb4b4c090ba1bc52c2a779822b8f9/29007/analoginoutserial1_bb.png)
+## Thursday
 
-https://www.arduino.cc/en/Tutorial/BuiltInExamples/AnalogInput
+Agenda
+- Critique Project #2.
+- Homework: begin work on Making Things Move
 
-- Talk about Voltage, Current, and Resistance (Ohm's Law)
-- Talk about using a multimeter. 
-- Look at how a potentiometer (as voltage divider) changes voltages
+### Artist of the Day 2
 
-## Homework
-- no homework
+You all! (we are critiquing).
 
-## Office Hours 
-- Immediately after class. 
-- or, contact me online
-  
 ## Reference
-__Arduino__
-
-<img src="https://user-images.githubusercontent.com/1598545/137305695-2d5a0bbc-37c9-43ad-9d26-435b2782f24b.png" width=400>
-
-__Breadboard__
-
-<img src="https://user-images.githubusercontent.com/1598545/137305908-31ef631b-e085-44bf-b058-f9cb3bc7a368.png" width=400>
-
-__LED__
-
-![image](https://user-images.githubusercontent.com/1598545/137358952-3ea6684c-6ea3-4efb-8c69-6b9a4b2427d2.png)
-
-__Resistor__
-
-![image](https://user-images.githubusercontent.com/1598545/139250236-3dfac097-bcbe-4dad-920f-a23bd82b32a9.png)
-
-![image](https://user-images.githubusercontent.com/1598545/139250292-c751c276-03f8-4714-a918-3b29955106b5.png)
-
-from Sparkfun ([link](https://learn.sparkfun.com/tutorials/voltage-current-resistance-and-ohms-law/resistance))
-
-__Button__
-
+- [TK]
