@@ -66,7 +66,7 @@ A student who successfully completes this course will:
 | 8b | **[3D Scanning Part 2](sessions/week8.md#thursday)** |
 | 9a | - Fall Break - |
 | 9b | - Work Day - |
-| 10a | **[Making Things Move](sessesion/week10.md#tuesday)** | 
+| 10a | **[Making Things Move](session/week10.md#tuesday)** | 
 | 10b | Critique Project 2 | 
 | 11-13 | Mechatronics |
 | 14-15 | Final Project | 
