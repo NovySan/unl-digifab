@@ -12,9 +12,12 @@ Agenda:
 
 ### Artist of the Day
 
-<img src="https://i.vimeocdn.com/video/510995310-137ac31797f68b1f7b9d7c09b401a733cb284cc81c2e9e708541caccaee709b0-d?mw=1600&mh=900&q=70" width=800>
+<img src="https://user-images.githubusercontent.com/1598545/197802241-8decd3ea-c640-4a60-a174-dfc0a9a60fa1.png" width=800>
 
-Ian Ingram [Doctor Maggotty is Anxious about The End](https://www.ianingram.org/machines/2015_doctormaggotty.html) (2015)
+Ian Ingram 
+- [Marvelous Meat](https://www.ianingram.org/machines/2016_marvelousmeat.html)
+- [Ziggy Dirtdust](https://www.ianingram.org/machines/2020_ziggy-dirtdust.html) (2020)
+- [Doctor Maggotty is Anxious about The End](https://www.ianingram.org/machines/2015_doctormaggotty.html) (2015)
 
 Robot that uses the beak-wiping gesture of the Eurasian Magpie to relay messages to those around: to magpies that it is very well-fed yet nervous; to humans that know Morse code that it is in a state of constant mourning.
 
