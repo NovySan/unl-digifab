@@ -22,6 +22,9 @@ Ian Ingram
 Robot that uses the beak-wiping gesture of the Eurasian Magpie to relay messages to those around: to magpies that it is very well-fed yet nervous; to humans that know Morse code that it is in a state of constant mourning.
 
 ### Designing around a part
+- Look at Examples
+
+Howto
 - Taking dimensions (or finding a dimensioned drawing)
 - Designing a part that mates. 
 - Checking fit 
