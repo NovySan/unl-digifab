@@ -22,6 +22,8 @@ Daniel Rozin
 ### Motor Mounts
 - Boolean subtraction
 - 2d outlines then extrusions/cuts.
+- Test prints to test fit. 
+- Working with screws and nuts.
 
 ### Homework
 Continue work on Making Things Move. NOTE: due date was moved to Monday.
