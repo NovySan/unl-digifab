@@ -10,11 +10,14 @@ Agenda - Making Things Move II
 - [Office Hours this Week](#office-hours)
 
 ### Artist of the Day
-<img src="">
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/1598545/199234670-4492adcd-ad5b-4dc7-959e-af737f84db18.png">
 
-Name
+Daniel Rozin
 
-- [Work](url)
+- [Wooden Mirror](http://www.smoothware.com/danny/woodenmirror.html)
+  - Thousands of servo motors
+- Longer video from Wired (2019): [https://www.youtube.com/watch?v=kV8v2GKC8WA](https://www.youtube.com/watch?v=kV8v2GKC8WA)
+- Wooden Mirror (2000) in SIGGRAPH Archives: [https://digitalartarchive.siggraph.org/artwork/daniel-rozin-wooden-mirror/](https://digitalartarchive.siggraph.org/artwork/daniel-rozin-wooden-mirror/)
 
 ### Motor Mounts
 - Items
