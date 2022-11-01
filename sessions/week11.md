@@ -3,10 +3,9 @@
 | [Tuesday](#tuesday) | [Thursday](#thursday) |
 
 ## Tuesday
-Agenda 
+Agenda - Making Things Move II
 - [Artist of the Day](#artist-of-the-day)
-- [Topic 1](#topic-1)
-- [Topic 2](#topic-2)
+- [Motor Mounts](#motor-mounts)
 - [Homework](#homework)
 - [Office Hours this Week](#office-hours)
 
@@ -17,14 +16,11 @@ Name
 
 - [Work](url)
 
-### Topic 1
-- Items
-
-### Topic 2
+### Motor Mounts
 - Items
 
 ### Homework
-** [Link to Project Assignment](../projects/) **
+Continue work on Making Things Move. NOTE: due date was moved to Monday.
 
 ## Office Hours
 
@@ -42,12 +38,12 @@ Agenda
 - [Homework](#homework-2)
 
 ### Artist of the Day 2
-<img src="">
+<!--<img src="">
 
 Name
 
 - [Work](url)
-
+-->
 ### Arduino Refresher
 [TK]
 
