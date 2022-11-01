@@ -1,4 +1,4 @@
-# Week 11 - Making Things Move, II/Digital and Analog IO
+# Week 11 - Making Things Move II/Digital and Analog IO
 
 | [Tuesday](#tuesday) | [Thursday](#thursday) |
 
