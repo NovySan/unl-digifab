@@ -1,4 +1,10 @@
 
+#
+
+## Homework
+- [Biomimicry](../exercises/ex11.md)
+
+
 # Leftover Artists
 
 ### Artist of the Day

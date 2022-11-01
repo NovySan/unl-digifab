@@ -1,15 +1,57 @@
-# Week 11 - Digital and Analog IO
+# Week 11 - Making Things Move, II/Digital and Analog IO
 
-## Agenda
-- Check in
+| [Tuesday](#tuesday) | [Thursday](#thursday) |
+
+## Tuesday
+Agenda 
+- [Artist of the Day](#artist-of-the-day)
+- [Topic 1](#topic-1)
+- [Topic 2](#topic-2)
+- [Homework](#homework)
+- [Office Hours this Week](#office-hours)
+
+### Artist of the Day
+<img src="">
+
+Name
+
+- [Work](url)
+
+### Topic 1
+- Items
+
+### Topic 2
+- Items
+
+### Homework
+** [Link to Project Assignment](../projects/) **
+
+## Office Hours
+
+Wednesday, 2-4pm.
+
+## Thursday
+Agenda
+- [Artist of the Day](#artist-of-the-day-2)
+- Arduino Refresher
 - Physical Computing
-  - [Analog Output](../sessions/week10#analog-output)
+  - [Analog Output](#analog-output)
   - [Analog Input](#analog-input)
   - [Servo Sweep](#servo-sweep)
   - [Servo Knob](#servo-knob)
+- [Homework](#homework-2)
 
+### Artist of the Day 2
+<img src="">
 
-## Analog Input
+Name
+
+- [Work](url)
+
+### Arduino Refresher
+[TK]
+
+### Analog Input
 
 ![Image](https://www.arduino.cc/wiki/static/7dbfb4b4c090ba1bc52c2a779822b8f9/29007/analoginoutserial1_bb.png)
 
@@ -20,7 +62,7 @@ https://www.arduino.cc/en/Tutorial/BuiltInExamples/AnalogInput
 - Look at how a potentiometer (as voltage divider) changes voltages.
 - How a changing voltage corresponds to an `analogRead()`
 
-## Servo Sweep
+### Servo Sweep
 
 ![image](https://user-images.githubusercontent.com/1598545/140386249-6cd37d02-87af-4730-b97e-e04a0f0afb11.png)
 
@@ -33,7 +75,7 @@ https://www.arduino.cc/en/Tutorial/LibraryExamples/Sweep
   - (`analogWrite()`!)
   - more on PWM [Secrets of Arduino PWM](https://www.arduino.cc/en/Tutorial/SecretsOfArduinoPWM)
 
-## Servo Knob
+### Servo Knob
 
 ![Image](https://www.arduino.cc/wiki/static/32db11499efe2d9c9ee451f7996e42a2/e85cb/knob_bb.png)
 
@@ -42,9 +84,8 @@ https://www.arduino.cc/en/Tutorial/LibraryExamples/Sweep
 - Reading the schematic.
 - Use the servo to control two knobs. 
 
-## Homework
-- [Biomimicry](../exercises/ex11.md)
+### Homework 2
+Finish _Making Things Move_. (Due Monday). Be ready to demo.
 
-## Office Hours 
-- Immediately after class. 
-- or, contact me online
+## Reference
+- [TK]
