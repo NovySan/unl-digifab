@@ -68,7 +68,9 @@ A student who successfully completes this course will:
 | 9b | - Work Day - |
 | 10a | **[Making Things Move](sessions/week10.md#tuesday)** | 
 | 10b | Critique Project 2 | 
-| 11-13 | Mechatronics |
+| 11a | **[Making Things Move II** | 
+| 11b | Arduino Analog | 
+| 12-13 | Mechatronics |
 | 14-15 | Final Project | 
 | 16 | Final Critiques; Open Studios | 
 | Finals | Submit Final Documentation |
