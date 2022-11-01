@@ -22,6 +22,8 @@ Daniel Rozin
 ### Motor Mounts
 - Boolean subtraction
 - 2d outlines then extrusions/cuts.
+  - BEST WAY TO DO THIS: 
+  - **_MeshOutline_** produces a 2d outline of a 3d shape. [https://docs.mcneel.com/rhino/7/help/en-us/commands/meshoutline.htm](https://docs.mcneel.com/rhino/7/help/en-us/commands/meshoutline.htm)
 - Test prints to test fit. 
 - Working with screws and nuts.
 
