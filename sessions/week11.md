@@ -20,7 +20,8 @@ Daniel Rozin
 - Wooden Mirror (2000) in SIGGRAPH Archives: [https://digitalartarchive.siggraph.org/artwork/daniel-rozin-wooden-mirror/](https://digitalartarchive.siggraph.org/artwork/daniel-rozin-wooden-mirror/)
 
 ### Motor Mounts
-- Items
+- Boolean subtraction
+- 2d outlines then extrusions/cuts.
 
 ### Homework
 Continue work on Making Things Move. NOTE: due date was moved to Monday.
