@@ -102,7 +102,7 @@ https://www.arduino.cc/en/Tutorial/LibraryExamples/Sweep
 - Use the servo to control two knobs. 
 
 ### Homework 2
-Finish _Making Things Move_. (Due Monday). Be ready to demo.
+Finish _Making Things Move_. (Due Monday). Be ready to demo on Tuesday.
 
 ## Reference
 - [TK]
