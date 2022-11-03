@@ -146,7 +146,7 @@ https://www.arduino.cc/en/Tutorial/BuiltInExamples/AnalogInput
 - Look at how a potentiometer (as voltage divider) changes voltages
 
 ## Homework
-- no homework
+- Complete Makign Thinno homework
 
 ## Office Hours 
 - Immediately after class. 
