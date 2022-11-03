@@ -52,7 +52,6 @@ Marguerite Humeau
 
 - [The Rebirth of Prehistoric Creatures](https://we-make-money-not-art.com/back_here_below_formidable/)
 - [making of video](https://www.dezeen.com/2012/07/11/proposal-for-resuscitating-prehistoric-creatures-marguerite-humeau/)
-- 
 
 ### Arduino Refresher
 - Install the arduino software on your computer: [https://www.arduino.cc/en/software](https://www.arduino.cc/en/software)
