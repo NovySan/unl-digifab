@@ -37,7 +37,7 @@ Wednesday, 2-4pm.
 ## Thursday
 Agenda
 - [Artist of the Day](#artist-of-the-day-2)
-- Arduino Refresher
+- [Arduino Refresher](#arduino-refresher)
 - Physical Computing
   - [Analog Output](#analog-output)
   - [Analog Input](#analog-input)
