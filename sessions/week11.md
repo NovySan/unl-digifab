@@ -53,7 +53,10 @@ Name
 - [Work](url)
 -->
 ### Arduino Refresher
-[TK]
+- Install the arduino software on your computer: [https://www.arduino.cc/en/software](https://www.arduino.cc/en/software)
+- Explore the Basic Blink example: 
+  - <img width="400" alt="image" src="https://user-images.githubusercontent.com/1598545/199736888-13783e7a-c5d5-49d6-abb2-d90e79e5cd69.png">
+ 
 
 ### Analog Input
 
