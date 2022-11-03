@@ -72,8 +72,8 @@ https://www.arduino.cc/en/Tutorial/BuiltInExamples/AnalogInput
 ### Servo Sweep
 
 - Install the Servo library: 
-  - <img width="300" alt="image" src="https://user-images.githubusercontent.com/1598545/199737681-24316f67-162c-4575-b1e5-931186a644c5.png"> 
-  - <img width="400" alt="image" src="https://user-images.githubusercontent.com/1598545/199737612-735b282d-016f-4162-897a-6d06e2802555.png">
+  - **Tools** -> **Manage Libraries**: <img width="300" alt="image" src="https://user-images.githubusercontent.com/1598545/199737681-24316f67-162c-4575-b1e5-931186a644c5.png"> 
+  - Search for **Servo**. Click **Install**. <img width="400" alt="image" src="https://user-images.githubusercontent.com/1598545/199737612-735b282d-016f-4162-897a-6d06e2802555.png">
 
 ![image](https://user-images.githubusercontent.com/1598545/140386249-6cd37d02-87af-4730-b97e-e04a0f0afb11.png)
 
@@ -87,6 +87,7 @@ https://www.arduino.cc/en/Tutorial/LibraryExamples/Sweep
   - more on PWM [Secrets of Arduino PWM](https://www.arduino.cc/en/Tutorial/SecretsOfArduinoPWM)
 
 ### Servo Knob
+- <img width="300" alt="image" src="https://user-images.githubusercontent.com/1598545/199741588-8e8a7d49-9f1a-4bff-a5db-9fd8c0d67384.png">
 
 ![Image](https://www.arduino.cc/wiki/static/32db11499efe2d9c9ee451f7996e42a2/e85cb/knob_bb.png)
 
