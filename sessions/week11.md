@@ -46,12 +46,14 @@ Agenda
 - [Homework](#homework-2)
 
 ### Artist of the Day 2
-<!--<img src="">
+<img src="https://user-images.githubusercontent.com/1598545/199747061-8090f82e-6b9d-4d82-b17d-0b3633036b4b.png" width="600">
 
-Name
+Marguerite Humeau
 
-- [Work](url)
--->
+- [The Rebirth of Prehistoric Creatures](https://we-make-money-not-art.com/back_here_below_formidable/)
+- [making of video](https://www.dezeen.com/2012/07/11/proposal-for-resuscitating-prehistoric-creatures-marguerite-humeau/)
+- 
+
 ### Arduino Refresher
 - Install the arduino software on your computer: [https://www.arduino.cc/en/software](https://www.arduino.cc/en/software)
 - Explore the Basic Blink example: 
