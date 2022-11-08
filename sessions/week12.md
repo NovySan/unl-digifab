@@ -1,16 +1,29 @@
-# Week 12 - Light Sensor and Servo
+# Week 12 - Sensors and Sensations
 
-## Agenda
-- John Strough - DIY Animatronics and other work
-  - Animatronic Eye Parts and Code: https://www.johnstrope.com/post/eyemech
+| [Tuesday](#tuesday) | [Thursday](#thursday) |
+
+## Tuesday
+
+Agenda
+- Look at "Making Things Move" 
+- Artist of the Day
+John Strope - 
+  - Animatronic Eye Parts and Code: 
+
 - NEW PARTS
 - Sensors and Serial Communication
   - [Analog with Serial](#analog-serial)
   - [Photoresistor](#photoresistor)
-- NFT Workshop wth the McCoys
+
+### Artist of the Day
+<img src="">
+
+John Strope - DIY Animatronics and other work
+
+- [DIY Animatronic Eyeball](https://www.johnstrope.com/post/eyemech)
+- [Giraffe Enrichment Design](https://www.johnstrope.com/extracurricular)
 
 ## Analog Serial
-
 
 ![Image](https://www.arduino.cc/wiki/static/7dbfb4b4c090ba1bc52c2a779822b8f9/29007/analoginoutserial1_bb.png)
 
@@ -30,7 +43,6 @@ https://docs.arduino.cc/built-in-examples/basics/AnalogReadSerial
 
 https://www.arduino.cc/en/Tutorial/BuiltInExamples/AnalogInput
 
-
 - Use a multimeter to see how the resistance changes with the photoresistor. 
   - (this does not need a circuit. connect the red lead to one side of the photoresister, and the black lead to the other)
 - We can put a photoresistor in series with a resistor to make a voltage divider. This is similar to how a potentiometer works. As the resistance of the photoresistor changes (the light changes), the output voltage will change.
@@ -42,11 +54,37 @@ https://www.arduino.cc/en/Tutorial/BuiltInExamples/AnalogInput
   3. Interact with the photoresistor and see the motor move. 
 - Extension: Instead of directly mapping sensor values to servo position, use the sensor values to trigger specific motions. For instance, have if statements that move it to different positions depending on how much light it sees.
 
-## Homework
+### Homework
 - <!--[Even Thermostats](../exercises/ex12.md)-->
 
 ## Office Hours 
-- Immediately after class. 
-- or, contact me online
+- Wednesday 3-5pm.
+
+## Thursday
+Agenda
+- [Artist of the Day](#artist-of-the-day-2)
+- [Topic](#topic)
+- [Homework](#homework-2)
+
+### Artist of the Day 2
+<img src="">
+
+Name
+
+- [Work](url)
+
+### Topic
+- Items
+
+### Homework 2
+**Title for Inline Homework**
+[Description TK].
+1. Step 1.
+2. Step 2.
+
+**Submission**
+1. Document the scan with screenshots in Rhino.
+2. Upload to Canvas.
+
 
 ## Reference
