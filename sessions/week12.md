@@ -53,7 +53,7 @@ John Strope - DIY Animatronics and other work
 - Extension: Instead of directly mapping sensor values to servo position, use the sensor values to trigger specific motions. For instance, have if statements that move it to different positions depending on how much light it sees.
 
 ### Homework
-- <!--[Even Thermostats](../exercises/ex12.md)-->
+- catch up
 
 ## Office Hours 
 - Wednesday 3-5pm.
@@ -75,7 +75,9 @@ Agenda
 - Items
 
 ### Homework 2
-**Title for Inline Homework**
+**Even Thermostats**
+<!--[Even Thermostats](../exercises/ex12.md)-->
+
 [Description TK].
 1. Step 1.
 2. Step 2.
