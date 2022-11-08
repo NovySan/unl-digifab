@@ -25,7 +25,7 @@ John Strope - DIY Animatronics and other work
 ## Analog Serial
 <img = "https://www.arduino.cc/wiki/static/7dbfb4b4c090ba1bc52c2a779822b8f9/29007/analoginoutserial1_bb.png" width=800>
 
-https://docs.arduino.cc/built-in-examples/basics/AnalogReadSerial
+[https://docs.arduino.cc/built-in-examples/basics/AnalogReadSerial](https://docs.arduino.cc/built-in-examples/basics/AnalogReadSerial)
 
 - From last class, we should still have our potentiometer hooked up into Analog Input 0 (A0) on the arduino. 
 - Load the AnalogReadSerial sketch (Examples->01.Basics->AnalogReadSerial) to the arduino. 
@@ -39,7 +39,7 @@ https://docs.arduino.cc/built-in-examples/basics/AnalogReadSerial
 
 <img src="https://www.arduino.cc/wiki/static/bb8d0c184836ed4f8cabf71c3dc07ce9/29007/PhotoCellA0.png" width=800>
 
-https://www.arduino.cc/en/Tutorial/BuiltInExamples/AnalogInput
+[https://www.arduino.cc/en/Tutorial/BuiltInExamples/AnalogInput](https://www.arduino.cc/en/Tutorial/BuiltInExamples/AnalogInput)
 
 - Use a multimeter to see how the resistance changes with the photoresistor. 
   - (this does not need a circuit. connect the red lead to one side of the photoresister, and the black lead to the other)
