@@ -16,7 +16,7 @@ John Strope -
   - [Photoresistor](#photoresistor)
 
 ### Artist of the Day
-<img src="">
+<img src="https://static.wixstatic.com/media/da4380_8c69e59f02c94561ada1e465a9204f84~mv2.gif">
 
 John Strope - DIY Animatronics and other work
 
