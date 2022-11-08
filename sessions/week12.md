@@ -6,14 +6,13 @@
 
 Agenda
 - Look at "Making Things Move" 
-- Artist of the Day
-John Strope - 
-  - Animatronic Eye Parts and Code: 
-
-- NEW PARTS
+- [Artist of the Day](#artist-of-the-day)
 - Sensors and Serial Communication
-  - [Analog with Serial](#analog-serial)
   - [Photoresistor](#photoresistor)
+  - [Analog with Serial](#analog-serial)
+  - IR Rangefinder
+  - Analog joystick? others?
+  
 
 ### Artist of the Day
 <img src="https://static.wixstatic.com/media/da4380_8c69e59f02c94561ada1e465a9204f84~mv2.gif">
@@ -24,8 +23,7 @@ John Strope - DIY Animatronics and other work
 - [Giraffe Enrichment Design](https://www.johnstrope.com/extracurricular)
 
 ## Analog Serial
-
-![Image](https://www.arduino.cc/wiki/static/7dbfb4b4c090ba1bc52c2a779822b8f9/29007/analoginoutserial1_bb.png)
+<img = "https://www.arduino.cc/wiki/static/7dbfb4b4c090ba1bc52c2a779822b8f9/29007/analoginoutserial1_bb.png" width=800>
 
 https://docs.arduino.cc/built-in-examples/basics/AnalogReadSerial
 
@@ -39,7 +37,7 @@ https://docs.arduino.cc/built-in-examples/basics/AnalogReadSerial
 
 ## Photoresistor
 
-![Image](https://www.arduino.cc/wiki/static/bb8d0c184836ed4f8cabf71c3dc07ce9/29007/PhotoCellA0.png)
+<img src="https://www.arduino.cc/wiki/static/bb8d0c184836ed4f8cabf71c3dc07ce9/29007/PhotoCellA0.png" width=800>
 
 https://www.arduino.cc/en/Tutorial/BuiltInExamples/AnalogInput
 
@@ -69,7 +67,7 @@ Agenda
 ### Artist of the Day 2
 <img src="">
 
-Name
+[Name TK]
 
 - [Work](url)
 
@@ -87,4 +85,4 @@ Name
 2. Upload to Canvas.
 
 
-## Reference
+## References
