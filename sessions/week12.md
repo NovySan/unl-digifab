@@ -65,14 +65,21 @@ Agenda
 - [Homework](#homework-2)
 
 ### Artist of the Day 2
-<img src="">
+<img src="https://user-images.githubusercontent.com/1598545/201127236-a9b6ffef-a8dd-47a1-887a-312a98a2db2e.png" width=800>
 
-[Name TK]
+[Jesse Colin Jackson]
 
-- [Work](url)
+- [Marching Cubes: Santa Ana Watershed](http://jessecolinjackson.com/portfolio/santa-ana-watershed)
+- [Final Countdown](http://jessecolinjackson.com/portfolio/final-countdown)
 
 ### Topic
-- Items
+- LED Outputs
+- More sensors: 
+  - PIR (Passive Infra-Red) sensor - HC-SR501
+    - How PIR sensors work: [https://lastminuteengineers.com/pir-sensor-arduino-tutorial/](https://lastminuteengineers.com/pir-sensor-arduino-tutorial/)
+  - Ping Ultrasonic Range-Finder (SEN136B5B or similar)
+    - [https://docs.arduino.cc/built-in-examples/sensors/Ping](https://docs.arduino.cc/built-in-examples/sensors/Ping)
+    - 
 
 ### Homework 2
 **Even Thermostats**
@@ -88,3 +95,5 @@ Agenda
 
 
 ## References
+- ELEGOO Super Starter Kit pdf files: [https://drive.google.com/file/d/1SO3fE0uGj5zWoRDyEcqw6EWSEa3kLStb/view](https://drive.google.com/file/d/1SO3fE0uGj5zWoRDyEcqw6EWSEa3kLStb/view)
+
