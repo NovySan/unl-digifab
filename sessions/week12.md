@@ -76,7 +76,6 @@ Inmi Lee
 - Finish talking about photoresistors and voltage dividers.
 - [Thermistors](#thermistors)
 - [LED Outputs](#led-outputs)
-- Multiple LED Outputs
 
 ### Thermistors
 
@@ -90,21 +89,12 @@ Inmi Lee
 <img width="462" alt="image" src="https://user-images.githubusercontent.com/1598545/201133182-74643380-a892-4af0-9566-3b851f79c75f.png">
 
 - [https://hackthedeveloper.com/multiple-blinking-led-using-arduino-uno/](https://hackthedeveloper.com/multiple-blinking-led-using-arduino-uno/)
-    
+- Wire up multiple LEDs with resistors to your arduino. 
+- Try to flash the multiple LEDs in some sort of sequence. 
+- Read the value from a sensor and use it to control the lights.
 
 ### Homework 2
-**Even Thermostats**
-<!--[Even Thermostats](../exercises/ex12.md)-->
-
-[Description TK].
-1. Step 1.
-2. Step 2.
-
-**Submission**
-1. Document the scan with screenshots in Rhino.
-2. Upload to Canvas.
-
+Finish up the class activities. 
 
 ## References
 - ELEGOO Super Starter Kit pdf files: [https://drive.google.com/file/d/1SO3fE0uGj5zWoRDyEcqw6EWSEa3kLStb/view](https://drive.google.com/file/d/1SO3fE0uGj5zWoRDyEcqw6EWSEa3kLStb/view)
-
