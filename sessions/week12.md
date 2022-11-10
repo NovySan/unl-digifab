@@ -61,7 +61,9 @@ John Strope - DIY Animatronics and other work
 ## Thursday
 Agenda
 - [Artist of the Day](#artist-of-the-day-2)
-- [Topic](#topic)
+- Finish talking about photoresistors and voltage dividers.
+- [LED Outputs](#led-outputs)
+- [Thermistors](#thermistors)
 - [Homework](#homework-2)
 
 ### Artist of the Day 2
@@ -71,11 +73,6 @@ Inmi Lee
 
 - [I love you (Love In The Absence of Intelligence)](https://www.inmilee.com/love.html) 2011.
 
-
-### Topic
-- Finish talking about photoresistors and voltage dividers.
-- [LED Outputs](#led-outputs)
-- [Thermistors](#thermistors)
 
 ### Thermistors
 
