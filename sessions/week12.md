@@ -74,8 +74,8 @@ Inmi Lee
 
 ### Topic
 - Finish talking about photoresistors and voltage dividers.
-- [Thermistors](#thermistors)
 - [LED Outputs](#led-outputs)
+- [Thermistors](#thermistors)
 
 ### Thermistors
 
