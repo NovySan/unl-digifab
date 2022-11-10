@@ -65,15 +65,15 @@ Agenda
 - [Homework](#homework-2)
 
 ### Artist of the Day 2
-<img src="https://user-images.githubusercontent.com/1598545/201127236-a9b6ffef-a8dd-47a1-887a-312a98a2db2e.png" width=800>
+<img src="https://user-images.githubusercontent.com/1598545/201132380-c514b10a-5aae-4386-bc7c-171ddc487bb0.png" width=800>
 
-[Jesse Colin Jackson]
+Inmi Lee
 
-- [Marching Cubes: Santa Ana Watershed](http://jessecolinjackson.com/portfolio/santa-ana-watershed)
-- [Final Countdown](http://jessecolinjackson.com/portfolio/final-countdown)
+- [I love you (Love In The Absence of Intelligence](https://www.inmilee.com/love.html) 2011.
+
 
 ### Topic
-- Thermistor
+- Thermistors
 - LED Outputs
 - Multiple LED Outputs
 
