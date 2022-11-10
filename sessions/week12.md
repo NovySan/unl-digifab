@@ -73,9 +73,24 @@ Inmi Lee
 
 
 ### Topic
-- Thermistors
-- LED Outputs
+- Finish talking about photoresistors and voltage dividers.
+- [Thermistors](#thermistors)
+- [LED Outputs](#led-outputs)
 - Multiple LED Outputs
+
+### Thermistors
+
+<img width="180" alt="image" src="https://user-images.githubusercontent.com/1598545/201132587-13c42b78-eb8a-47dc-b400-498b53e3c411.png">
+
+- Good adafruit tutorial: [https://learn.adafruit.com/thermistor/using-a-thermistor](https://learn.adafruit.com/thermistor/using-a-thermistor)
+  - including more about voltage dividers: [https://learn.adafruit.com/thermistor/using-a-thermistor#analog-voltage-reading-method-2917724](https://learn.adafruit.com/thermistor/using-a-thermistor#analog-voltage-reading-method-2917724)
+
+### LED Outputs
+
+<img width="462" alt="image" src="https://user-images.githubusercontent.com/1598545/201133182-74643380-a892-4af0-9566-3b851f79c75f.png">
+
+- [https://hackthedeveloper.com/multiple-blinking-led-using-arduino-uno/](https://hackthedeveloper.com/multiple-blinking-led-using-arduino-uno/)
+    
 
 ### Homework 2
 **Even Thermostats**
