@@ -73,13 +73,9 @@ Agenda
 - [Final Countdown](http://jessecolinjackson.com/portfolio/final-countdown)
 
 ### Topic
+- Thermistor
 - LED Outputs
-- More sensors: 
-  - PIR (Passive Infra-Red) sensor - HC-SR501
-    - How PIR sensors work: [https://lastminuteengineers.com/pir-sensor-arduino-tutorial/](https://lastminuteengineers.com/pir-sensor-arduino-tutorial/)
-  - Ping Ultrasonic Range-Finder (SEN136B5B or similar)
-    - [https://docs.arduino.cc/built-in-examples/sensors/Ping](https://docs.arduino.cc/built-in-examples/sensors/Ping)
-    - 
+- Multiple LED Outputs
 
 ### Homework 2
 **Even Thermostats**
