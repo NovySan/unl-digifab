@@ -71,7 +71,7 @@ A student who successfully completes this course will:
 | 11a | **[Making Things Move II](sessions/week11.md#tuesday)** | 
 | 11b | **[Arduino Analog](sessions/week11.md#thursday)** | 
 | 12a | **[Sensors](sessions/week12.md#tuesday)** |
-| 12b | **Even Machines as simple as thermostats can be said to have beliefs** 
+| 12b | **[LED Outputs](sessions/week12.md#thursday)** |
 | 13 | Mechatronics |
 | 14 | Class and Thanksgiving |
 | 15 | Final Project Work | 
