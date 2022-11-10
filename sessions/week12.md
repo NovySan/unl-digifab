@@ -69,7 +69,7 @@ Agenda
 
 Inmi Lee
 
-- [I love you (Love In The Absence of Intelligence](https://www.inmilee.com/love.html) 2011.
+- [I love you (Love In The Absence of Intelligence)](https://www.inmilee.com/love.html) 2011.
 
 
 ### Topic
