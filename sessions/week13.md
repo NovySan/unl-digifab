@@ -14,11 +14,12 @@ Agenda
 - [Office Hours this Week](#office-hours)
 
 ### Artist of the Day
-<img src="">
+![image](https://user-images.githubusercontent.com/1598545/201956027-a0033407-8a2d-4167-91bc-a0a6dd38d518.png)
 
-Name
+Amy Youngs
 
-- [Work](url)
+- [Rearming the Spineless Apuntia](https://hypernatural.com/portfolio/rearming-the-spineless-opuntia/)
+- rest of portfolio: [https://hypernatural.com/art/](https://hypernatural.com/art/)
 
 ### Temperature sensor
 
@@ -41,6 +42,7 @@ Name
 See this file from the ELEGOO examples: [l10 ultrasonic sensor.pdf](https://github.com/roberttwomey/unl-digifab/files/10013826/l10.ultrasonic.sensor.pdf)
 And this code: [Lesson 10 Ultrasonic Sensor Module.zip](https://github.com/roberttwomey/unl-digifab/files/10013847/Lesson.10.Ultrasonic.Sensor.Module.zip)
 
+<!--
 
 <img src="https://user-images.githubusercontent.com/1598545/142435895-e3024774-86f0-41b1-9914-a6e01e59d3fd.png" width=600px>
 
@@ -50,6 +52,8 @@ from https://create.arduino.cc/projecthub/abdularbi17/ultrasonic-sensor-hc-sr04-
 - Code: [ping_hc_sr04.zip](../assets/ping_hc_sr04.zip)
 - Graph it: __Tools->Serial Plotter__
 ![image](https://user-images.githubusercontent.com/1598545/142436732-25252eb5-682d-497d-9f52-df6584063f64.png)
+
+-->
 
 <!--## Range Finder to Control p5 sketch
 
