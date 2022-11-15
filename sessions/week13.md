@@ -6,7 +6,7 @@
 Agenda 
 - [Artist of the Day](#artist-of-the-day)
 - More Sensors
-  - [Temperature Sensor](#temperature-sensor)
+  - ~[Temperature Sensor](#temperature-sensor)~
   - [Ultrasonic Rangefinder](#ultrasonic-rangefinder)
   - Rangefinder to P5
 - [DC Motor](#dc-motor) and High Power
