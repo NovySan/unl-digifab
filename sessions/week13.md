@@ -74,7 +74,7 @@ And this code: [Lesson 21 DC Motors.zip](https://github.com/roberttwomey/unl-dig
 
 
 ### Homework
-None.
+Starting thinking about a final project.
 
 ## Office Hours 
 Wednesday 4-6pm.
