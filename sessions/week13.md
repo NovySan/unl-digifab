@@ -39,7 +39,10 @@ Amy Youngs
 
 ### Ultrasonic Rangefinder
 
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/1598545/201957013-f666732a-57be-410c-85c1-76aa5d606797.png">
+
 See this file from the ELEGOO examples: [l10 ultrasonic sensor.pdf](https://github.com/roberttwomey/unl-digifab/files/10013826/l10.ultrasonic.sensor.pdf)
+
 And this code: [Lesson 10 Ultrasonic Sensor Module.zip](https://github.com/roberttwomey/unl-digifab/files/10013847/Lesson.10.Ultrasonic.Sensor.Module.zip)
 
 <!--
@@ -63,7 +66,10 @@ from https://create.arduino.cc/projecthub/abdularbi17/ultrasonic-sensor-hc-sr04-
 
 ### DC Motor
 
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/1598545/201957155-f1e5e081-5967-4d14-8664-c4820943d348.png">
+
 See this file from the ELEGOO examples: [l21 dc motor.pdf](https://github.com/roberttwomey/unl-digifab/files/10013811/l21.dc.motor.pdf)
+
 And this code: [Lesson 21 DC Motors.zip](https://github.com/roberttwomey/unl-digifab/files/10013843/Lesson.21.DC.Motors.zip)
 
 
