@@ -45,6 +45,10 @@ See this file from the ELEGOO examples: [l10 ultrasonic sensor.pdf](https://gith
 
 And this code: [Lesson 10 Ultrasonic Sensor Module.zip](https://github.com/roberttwomey/unl-digifab/files/10013847/Lesson.10.Ultrasonic.Sensor.Module.zip)
 
+### Bonus Artist: Garnet Hertz
+
+Cockroach Bot [http://www.conceptlab.com/roachbot/](http://www.conceptlab.com/roachbot/)
+
 <!--
 
 <img src="https://user-images.githubusercontent.com/1598545/142435895-e3024774-86f0-41b1-9914-a6e01e59d3fd.png" width=600px>
