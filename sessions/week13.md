@@ -52,11 +52,17 @@ from https://create.arduino.cc/projecthub/abdularbi17/ultrasonic-sensor-hc-sr04-
 - `Serial.write()`
 - `Serial.read()`
 -->
+
+### DC Motor
+
+See this file from the ELEGOO examples: [l21 dc motor.pdf](https://github.com/roberttwomey/unl-digifab/files/10013811/l21.dc.motor.pdf)
+
 ### Homework
 None.
 
 ## Office Hours 
 Wednesday 4-6pm.
+
 
 ## Thursday
 Agenda
