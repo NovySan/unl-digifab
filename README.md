@@ -39,9 +39,11 @@ A student who successfully completes this course will:
 - **Canvas:** [https://canvas.unl.edu/courses/137404](https://canvas.unl.edu/courses/137404)
 - **[Rhino 3d](https://www.rhino3d.com/)**
   - **[Grasshopper](https://www.grasshopper3d.com/)** and https://www.rhino3d.com/6/new/grasshopper/
-- [Axidraw(https://shop.evilmadscientist.com/productsmenu/890)
+- [Axidraw](https://shop.evilmadscientist.com/productsmenu/890)
 - [Prusa MK3S+](https://www.prusa3d.com/category/original-prusa-i3-mk3s/)
 - Muse laser engraver
+- [UNL EE Shop](http://eeshop.unl.edu/ee_shop_store.html) a good (local) source for all things electronic. mingle with engineers! you can just walk over there and buy stuff. 
+
 
 # Schedule
 (Subject to change. Check back for most up to date information)
