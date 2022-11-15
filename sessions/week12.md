@@ -90,6 +90,10 @@ Inmi Lee
 - Try to flash the multiple LEDs in some sort of sequence. 
 - Read the value from a sensor and use it to control the lights.
 
+### Activity
+
+Using multiple LEDs, build a bar-graph that displays the temperature (e.g. more lights for higher temp)
+
 ### Homework 2
 Finish up the class activities. 
 
