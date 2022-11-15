@@ -1,14 +1,26 @@
-# Week 13 - More Sensors and Serial Communication
+# Week 13 - More Sensors and DC Motor
 
-## Agenda
-- Biomimicry Checkin
-- Sensors and Serial Communication
+| [Tuesday](#tuesday) | [Thursday](#thursday) |
+
+## Tuesday
+Agenda 
+- [Artist of the Day](#artist-of-the-day)
+- More Sensors
   - [Temperature Sensor](#temperature-sensor)
   - [Ultrasonic Rangefinder](#ultrasonic-rangefinder)
   - Rangefinder to P5
-- Discuss Final Project and Exhibition
+- [DC Motor](#dc-motor) and High Power
+- [Homework](#homework)
+- [Office Hours this Week](#office-hours)
 
-## Temperature sensor
+### Artist of the Day
+<img src="">
+
+Name
+
+- [Work](url)
+
+### Temperature sensor
 
 ![image](https://user-images.githubusercontent.com/1598545/141343262-3c12cb66-e550-4696-81d9-30cc9c1ac033.png)
 
@@ -24,7 +36,7 @@
   - Modify your code to convert Celsius to fahrenheit. 
   - Explore the dynamic behavior: how quickly does it change in response to breathing on it? In response to touching it? Can you get the temperature to go up, or go down?
 
-## Ultrasonic Rangefinder
+### Ultrasonic Rangefinder
 
 <img src="https://user-images.githubusercontent.com/1598545/142435895-e3024774-86f0-41b1-9914-a6e01e59d3fd.png" width=600px>
 
@@ -40,12 +52,23 @@ from https://create.arduino.cc/projecthub/abdularbi17/ultrasonic-sensor-hc-sr04-
 - `Serial.write()`
 - `Serial.read()`
 -->
-## Homework
-- [Even Thermostats](../exercises/ex12.md) Due December 2nd (2 weeks)
+### Homework
+None.
 
 ## Office Hours 
-- Immediately after class. 
-- or, contact me online
+Wednesday 4-6pm.
+
+## Thursday
+Agenda
+- [Artist of the Day](#artist-of-the-day-2)
+- Stepper Motors
+- LCD Screen
+- [Homework](#homework-2)
+
+### Artist of the Day 2
+
+### Homework 2
+Write a proposal for the final project. Due Tuesday morning 11/22 for one-on-one meetings.
 
 ## Reference
 - Detailed HC-SR04 tutorial with LEDs and Arduino https://www.instructables.com/Simple-Arduino-and-HC-SR04-Example/
