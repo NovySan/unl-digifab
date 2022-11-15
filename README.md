@@ -74,8 +74,9 @@ A student who successfully completes this course will:
 | 11b | **[Arduino Analog](sessions/week11.md#thursday)** | 
 | 12a | **[Sensors](sessions/week12.md#tuesday)** |
 | 12b | **[LED Outputs](sessions/week12.md#thursday)** |
-| 13 | Mechatronics |
-| 14 | Class and Thanksgiving |
+| 13a | **[Ultrasonic and DC Motor](sessions/week13.md#tuesday)** | 
+| 13b | **[Stepper Motor](sessions/week13.md#thursday)** |
+| 14 | One on One meetings, Thanksgiving |
 | 15 | Final Project Work | 
 | 16 | Final Critiques; Open Studios | 
 | Finals | Submit Final Documentation |
