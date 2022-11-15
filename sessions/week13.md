@@ -38,6 +38,9 @@ Name
 
 ### Ultrasonic Rangefinder
 
+See this file from the ELEGOO examples: [l10 ultrasonic sensor.pdf](https://github.com/roberttwomey/unl-digifab/files/10013826/l10.ultrasonic.sensor.pdf)
+
+
 <img src="https://user-images.githubusercontent.com/1598545/142435895-e3024774-86f0-41b1-9914-a6e01e59d3fd.png" width=600px>
 
 from https://create.arduino.cc/projecthub/abdularbi17/ultrasonic-sensor-hc-sr04-with-arduino-tutorial-327ff6
