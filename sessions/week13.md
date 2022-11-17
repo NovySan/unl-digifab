@@ -47,7 +47,7 @@ And this code: [Lesson 10 Ultrasonic Sensor Module.zip](https://github.com/rober
 
 ### Bonus Artist: Garnet Hertz
 
-Cockroach Bot [http://www.conceptlab.com/roachbot/](http://www.conceptlab.com/roachbot/)
+
 
 <!--
 
@@ -83,18 +83,40 @@ Starting thinking about a final project.
 ## Office Hours 
 Wednesday 4-6pm.
 
-
 ## Thursday
 Agenda
 - [Artist of the Day](#artist-of-the-day-2)
-- Stepper Motors
-- LCD Screen
+- [Relay](#relay)
+- [Stepper Motor](#stepper-motor)
 - [Homework](#homework-2)
 
 ### Artist of the Day 2
 
+![image](https://user-images.githubusercontent.com/1598545/202450393-95dcd465-afec-471d-b35c-89b1e6bf95fa.png)
+
+Garnet Hertz
+
+- Cockroach Bot [http://www.conceptlab.com/roachbot/](http://www.conceptlab.com/roachbot/)
+
+### Relay
+
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/1598545/202452995-d084949b-fb19-455f-ac36-3a27b9632fcc.png">
+
+
+See this file from the ELEGOO examples: [l22 relay.pdf](https://github.com/roberttwomey/unl-digifab/files/10031660/l22.relay.pdf)
+ 
+And this code: [Lesson 22 Relay.zip](https://github.com/roberttwomey/unl-digifab/files/10031666/Lesson.22.Relay.zip)
+
+### Stepper Motor
+
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/1598545/202453114-ee4b9e7f-306f-411b-b49b-834e013e4514.png">
+
+See this file from the ELEGOO examples: [l23 stepper.pdf](https://github.com/roberttwomey/unl-digifab/files/10031617/l23.stepper.pdf)
+
+And this code: [Lesson 23 Stepper Motor.zip](https://github.com/roberttwomey/unl-digifab/files/10031668/Lesson.23.Stepper.Motor.zip)
+
 ### Homework 2
-Write a proposal for the final project. Due Tuesday morning 11/22 for one-on-one meetings.
+Write a proposal for the final project. Due Tuesday morning 11/22 for one-on-one meetings. [https://canvas.unl.edu/courses/137404/assignments/1370188](https://canvas.unl.edu/courses/137404/assignments/1370188)
 
 ## Reference
 - Detailed HC-SR04 tutorial with LEDs and Arduino https://www.instructables.com/Simple-Arduino-and-HC-SR04-Example/
