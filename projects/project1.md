@@ -33,9 +33,8 @@ Learning Goals:
 1. Documentation:
    - Take screenshots of your 2d designs
    - Photos/videos to document your fabrication and assembly process
-   - Photographs of your final product, assembled. Follow good documentation procedure.
    - SVG export of your final design, formatted to run on our laser cutter. (remember to hide extraneous layers)
-   - Photographs of your final product.
+   - Photographs of your final product, assembled. Follow good documentation procedure.
 2. Sketchbook Updates:
    - sketches; screenshots of 2D designs; process images/videos; photos of final product; any notes, narrative about process.
 3. Submission: 
