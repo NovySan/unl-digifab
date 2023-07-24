@@ -1,8 +1,8 @@
 # Week 12 - Sensors and Sensations
 
-| [Tuesday](#tuesday) | [Thursday](#thursday) |
+| [Monday](#monday) | [Wednesday](#wednesday) |
 
-## Tuesday
+## Monday
 
 Agenda
 - Look at "Making Things Move" 
@@ -58,7 +58,7 @@ John Strope - DIY Animatronics and other work
 ## Office Hours 
 - Wednesday 3-5pm.
 
-## Thursday
+## Wednesday
 Agenda
 - [Artist of the Day](#artist-of-the-day-2)
 - Finish talking about photoresistors and voltage dividers.

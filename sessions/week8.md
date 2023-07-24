@@ -1,8 +1,8 @@
 # Week 8 - 3D Scanning
 
-| [Tuesday](#tuesday) | [Thursday](#thursday) |
+| [Monday](#monday) | [Wednesday](#wednesday) |
 
-## Tuesday
+## Monday
 - [Artist of the Day](#artist-of-the-day)
 - [3D Scanning](#3d-scanning)
 - [3D Scans in Rhino](#3d-scans-in-rhino)
@@ -39,7 +39,7 @@ Paul McCarthy
 
 ## Office Hours
 
-## Thursday
+## Wednesday
 Agenda
 - [Artist of the Day](#artist-of-the-day-2)
 - [Photogrammetry](#photogrammetry)

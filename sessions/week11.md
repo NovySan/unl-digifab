@@ -1,8 +1,8 @@
 # Week 11 - Making Things Move II/Digital and Analog IO
 
-| [Tuesday](#tuesday) | [Thursday](#thursday) |
+| [Monday](#monday) | [Wednesday](#wednesday) |
 
-## Tuesday
+## Monday
 Agenda - Making Things Move II
 - [Artist of the Day](#artist-of-the-day)
 - [Motor Mounts](#motor-mounts)
@@ -34,7 +34,7 @@ Continue work on Making Things Move. NOTE: due date was moved to Monday.
 
 Wednesday, 2-4pm.
 
-## Thursday
+## Wednesday
 Agenda
 - [Artist of the Day](#artist-of-the-day-2)
 - [Arduino Refresher](#arduino-refresher)
@@ -103,7 +103,7 @@ https://www.arduino.cc/en/Tutorial/LibraryExamples/Sweep
 - Use the servo to control two knobs. 
 
 ### Homework 2
-Finish _Making Things Move_. (Due Monday). Be ready to demo on Tuesday.
+Finish _Making Things Move_. (Due Monday). Be ready to demo on Monday.
 
 ## Reference
 - [TK]

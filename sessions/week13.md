@@ -1,8 +1,8 @@
 # Week 13 - More Sensors and DC Motor
 
-| [Tuesday](#tuesday) | [Thursday](#thursday) |
+| [Monday](#monday) | [Wednesday](#wednesday) |
 
-## Tuesday
+## Monday
 Agenda 
 - [Artist of the Day](#artist-of-the-day)
 - More Sensors
@@ -83,7 +83,7 @@ Starting thinking about a final project.
 ## Office Hours 
 Wednesday 4-6pm.
 
-## Thursday
+## Wednesday
 Agenda
 - [Artist of the Day](#artist-of-the-day-2)
 - [Relay](#relay)
@@ -116,7 +116,7 @@ See this file from the ELEGOO examples: [l23 stepper.pdf](https://github.com/rob
 And this code: [Lesson 23 Stepper Motor.zip](https://github.com/roberttwomey/unl-digifab/files/10031668/Lesson.23.Stepper.Motor.zip)
 
 ### Homework 2
-Write a proposal for the final project. Due Tuesday morning 11/22 for one-on-one meetings. [https://canvas.unl.edu/courses/137404/assignments/1370188](https://canvas.unl.edu/courses/137404/assignments/1370188)
+Write a proposal for the final project. Due Monday morning 11/22 for one-on-one meetings. [https://canvas.unl.edu/courses/137404/assignments/1370188](https://canvas.unl.edu/courses/137404/assignments/1370188)
 
 ## Reference
 - Detailed HC-SR04 tutorial with LEDs and Arduino https://www.instructables.com/Simple-Arduino-and-HC-SR04-Example/

@@ -31,6 +31,6 @@ There are many other ways to get an object into Rhino / into the computer (for i
    - photograph of object
    - STL of model
 
-DUE 10/11, 11:59pm (Tuesday) to Canvas https://canvas.unl.edu/courses/114938/assignments/1079274
+DUE 10/09, 11:59pm (Monday) to Canvas [https://canvas.unl.edu/courses/158902/assignments/1521875](https://canvas.unl.edu/courses/158902/assignments/1521875)
 
 # References

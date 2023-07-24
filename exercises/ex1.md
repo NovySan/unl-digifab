@@ -14,7 +14,7 @@ Use the 2D drawing commands in Rhinoceros (lines, curves, etc.), design a stenci
 - Export your image as an SVG. 
 - Submit your Rhino file and SVG file to Canvas
   - use the naming convention _ex1_Lastname.svg_ and _ex1_Lastname.3dm_ for the files.
-- DUE by 9am, 8/30 (Tuesday) to Canvas [https://canvas.unl.edu/courses/137404/assignments/1281431](https://canvas.unl.edu/courses/137404/assignments/1281431)
+- DUE by 15:00 (3pm), 8/28 (Monday) to Canvas [https://canvas.unl.edu/courses/158902/assignments/1521868](https://canvas.unl.edu/courses/158902/assignments/1521868)
 
 # References
 - Rhino has some great video tutorials to help you getting started. 

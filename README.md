@@ -1,4 +1,4 @@
-# EMAR 446: Digital Fabrication and Physical Computing - Fall 2022
+# EMAR 446: Digital Fabrication and Physical Computing - Fall 2023
 
 [Description](#description) | [Resources](#resources) | [Schedule](#schedule) | [Grading](#grading) | [Policies](#policies) | [References](#references)
 
@@ -11,10 +11,10 @@ This course introduces physical computing and digital fabrication for emerging m
 
 ## Details
 
-- **Instructor:** Dr. Robert Twomey
-- **Class:** Tu/Th 9:30-10:45pm
-- **Location:** CEMA Student Lounge / Fabrication Studio
-- **Office Hours:** Wed 3-5pm, in person (Cohab-Lab CEMA253) and on Discord.
+- **Instructor:** Dr. Dan "NovySan" Novy
+- **Class:** M/W 15:00-17:20 (3:00PM-5:20PM) CT
+- **Location:** Nebraska Innovation Studio
+- **Office Hours:** By appointment, Discord, and in person (CEMA 207)
 
 ## Course objectives
 -	Experiential learning.
@@ -35,13 +35,14 @@ A student who successfully completes this course will:
 **Prequisites:** Major in Emerging Media Arts and successful completion of EMAR161 Computational Media Studio II, or permission of instructor.
 
 # Resources
-- **Discord:** [https://discord.gg/kMvwgyYHvj](https://discord.gg/kMvwgyYHvj)
-- **Canvas:** [https://canvas.unl.edu/courses/137404](https://canvas.unl.edu/courses/137404)
+- **Discord:** [https://discord.com/channels/688079641738608705/1131317707883683992](https://discord.com/channels/688079641738608705/1131317707883683992)
+- **Canvas:** [https://canvas.unl.edu/courses/158902](https://canvas.unl.edu/courses/158902)
 - **[Rhino 3d](https://www.rhino3d.com/)**
   - **[Grasshopper](https://www.grasshopper3d.com/)** and https://www.rhino3d.com/6/new/grasshopper/
 - [Axidraw](https://shop.evilmadscientist.com/productsmenu/890)
 - [Prusa MK3S+](https://www.prusa3d.com/category/original-prusa-i3-mk3s/)
 - Muse laser engraver
+- Innovation Shop
 - [UNL EE Shop](http://eeshop.unl.edu/ee_shop_store.html) a good (local) source for all things electronic. mingle with engineers! you can just walk over there and buy stuff. 
 
 
@@ -50,32 +51,32 @@ A student who successfully completes this course will:
 
 | Week | Topic |
 |------|-------|
-| 1a | **[Intro and Overview](sessions/week1.md#tuesday)** Course Policies; Install Rhino; Sign up for Discord |
-| 1b | **[Rhino](sessions/week1.md#thursday)** 2D Drawing; Exercise: Stencil |
-| 2a | **[Laser Cutter](sessions/week2.md#tuesday)**|
-| 2b | **[Tab and slot](sessions/week2.md#thursday)**|
-| 3a | **[Laser to 3D: Stacked Contours](sessions/week3.md#tuesday)** |
-| 3b | **[3D Basics and Unrolling](sessions/week3.md#thursday)** |
-| 4a | **[Meshes and Contour Extraction](sessions/week4.md/#tuesday)** |
-| 4b | **[Work Time. Material Tests](sessions/week4.md/#thursday)** |
-| 5a | **[Critique Project 1](sessions/week5.md/#tuesday)** | 
-| 5b | **[3D Printing](sessions/week5.md/#thursday)** | 
-| 6a | **[Prusa Hands-On](sessions/week6.md#tuesday)** |
-| 6b | **[3D Printing; 3d scanning and photogrammetry](sessions/week6.md#tuesday)** | 
-| 7a | **[Digitizing Objects](sessions/week7.md#tuesday)** |
+| 1a | **[Intro and Overview](sessions/week1.md#monday)** Course Policies; Install Rhino; Sign up for Discord |
+| 1b | **[Rhino](sessions/week1.md#wednesday)** 2D Drawing; Exercise: Stencil |
+| 2a | **[Laser Cutter](sessions/week2.md#monday)**|
+| 2b | **[Tab and slot](sessions/week2.md#wednesday)**|
+| 3a | **[Laser to 3D: Stacked Contours](sessions/week3.md#monday)** |
+| 3b | **[3D Basics and Unrolling](sessions/week3.md#wednesday)** |
+| 4a | **[Meshes and Contour Extraction](sessions/week4.md/#monday)** |
+| 4b | **[Work Time. Material Tests](sessions/week4.md/#wednesday)** |
+| 5a | **[Critique Project 1](sessions/week5.md/#monday)** | 
+| 5b | **[3D Printing](sessions/week5.md/#wednesday)** | 
+| 6a | **[Prusa Hands-On](sessions/week6.md#monday)** |
+| 6b | **[3D Printing; 3d scanning and photogrammetry](sessions/week6.md#monday)** | 
+| 7a | **[Digitizing Objects](sessions/week7.md#monday)** |
 | 7b | - Work Day - |
-| 8a | **[3D Scanning](sessions/week8.md#tuesday)** |
-| 8b | **[3D Scanning Part 2](sessions/week8.md#thursday)** |
+| 8a | **[3D Scanning](sessions/week8.md#monday)** |
+| 8b | **[3D Scanning Part 2](sessions/week8.md#wednesday)** |
 | 9a | - Fall Break - |
 | 9b | - Work Day - |
-| 10a | **[Making Things Move](sessions/week10.md#tuesday)** | 
+| 10a | **[Making Things Move](sessions/week10.md#monday)** | 
 | 10b | Critique Project 2 | 
-| 11a | **[Making Things Move II](sessions/week11.md#tuesday)** | 
-| 11b | **[Arduino Analog](sessions/week11.md#thursday)** | 
-| 12a | **[Sensors](sessions/week12.md#tuesday)** |
-| 12b | **[LED Outputs](sessions/week12.md#thursday)** |
-| 13a | **[Ultrasonic and DC Motor](sessions/week13.md#tuesday)** | 
-| 13b | **[Stepper Motor](sessions/week13.md#thursday)** |
+| 11a | **[Making Things Move II](sessions/week11.md#monday)** | 
+| 11b | **[Arduino Analog](sessions/week11.md#wednesday)** | 
+| 12a | **[Sensors](sessions/week12.md#monday)** |
+| 12b | **[LED Outputs](sessions/week12.md#wednesday)** |
+| 13a | **[Ultrasonic and DC Motor](sessions/week13.md#monday)** | 
+| 13b | **[Stepper Motor](sessions/week13.md#wednesday)** |
 | 14 | One on One meetings, Thanksgiving |
 | 15 | Final Project Work | 
 | 16 | Final Critiques; Open Studios | 

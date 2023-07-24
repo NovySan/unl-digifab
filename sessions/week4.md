@@ -1,8 +1,8 @@
 # Week 4 - Mesh Creation and Stacked Contours
 
-[Tuesday](#tuesday) | [Thursday](#thursday)
+[Monday](#monday) | [Wednesday](#wednesday)
 
-## Tuesday
+## Monday
 
 - [Artist of the Day](#artist-of-the-day)
 - [Working with Meshes](#working-with-meshes)
@@ -81,9 +81,9 @@ Rhino file: [buffalo_contours.3dm](../examples/buffalo_contours.3dm)
 Rhino file: [sliced_pikachu.3dm](../examples/sliced_pikachu.3dm)
 
 ## Homework
-Work on project 1 (due in one week, Tuesday 9/20)
+Work on project 1 (due in one week, Monday 9/18)
 
-## Thursday
+## Wednesday
 - [Artist of the Day](#artist-of-the-day-2)
 - Work Time
 - [Material Tests](#material-tests) (maybe)
@@ -98,7 +98,7 @@ Lawrence Malstaf
 - [Portfolio website](https://www.lawrencemalstaf.com/work/)
 
 ## Homework 2
-Complete project 1 (due Tuesday, 9/20)
+Complete project 1 (due Monday, 9/18)
 
 ## Material Tests
 

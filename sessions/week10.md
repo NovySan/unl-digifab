@@ -1,8 +1,8 @@
 # Week 10 - Making Things Move
 
-| [Tuesday](#tuesday) | [Thursday](#thursday) |
+| [Monday](#monday) | [Wednesday](#wednesday) |
 
-## Tuesday
+## Monday
 Agenda: 
 - Check in (who is going to Infinity Fest? please email me)
 - [Artist of the Day](#artist-of-the-day)
@@ -42,7 +42,7 @@ You will create a simple servo plus arduino construction with a stationary base 
    - again, do test prints as necessary to check the fit.
 4. Print your designs. 
    - Iterate, if you need to. 
-5. Program a behavior for your design (we will start this next Tuesday, so bring an ardino, power supply, and potentiometer)
+5. Program a behavior for your design (we will start this next Monday, so bring an ardino, power supply, and potentiometer)
 6. Document and demonstrate.
 
 **Submission**
@@ -55,7 +55,7 @@ You will create a simple servo plus arduino construction with a stationary base 
 
 Wednesday 10/26, 3-5pm. 
 
-## Thursday
+## Wednesday
 
 Agenda
 - Critique Project #2.

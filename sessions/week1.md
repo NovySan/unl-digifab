@@ -1,11 +1,11 @@
 # Week 1 - Introduction, Overview, Hands-On
 
-## Tuesday
+## Monday
 - Introductions
 - Review Syllabus
-- [Lecture 1: Context and Overview](https://docs.google.com/presentation/d/1rdQ6GW55rUbtzcVgvRdJd38HRzeoCYWv9SFrszI7yak/edit?usp=sharing)
+- [Lecture 1: Context and Overview](https://docs.google.com/presentation/d/1wZe4Y-v-qv1fI5xNWKBqZGWpz57f6yS_R98hfc4AVRU/edit?usp=sharing)
 
-## Thursday
+## Wednesday
 - [Discord Setup](#discord-setup)
 - [Artist of the Day](#artist-of-the-day)
 - [Hands-On](#hands-on)
@@ -13,7 +13,7 @@
 - [Rhino Basics](#rhino-basics)
 
 ### Discord Setup
-Please share your discord handle here (so I can add you to our digifab group): [https://canvas.unl.edu/courses/137404/quizzes/303636](https://canvas.unl.edu/courses/137404/quizzes/303636)
+Please share your discord handle here (so I can add you to our digifab group): [https://canvas.unl.edu/courses/158902/quizzes/348410](https://canvas.unl.edu/courses/158902/quizzes/348410)
 
 ### Artist of the Day
 
@@ -49,10 +49,10 @@ Rhino example: [lines_curves.3dm](../examples/lines_curves.3dm)
 
 ## Homework
 - [Exercise 1 - Laser Cut Stencil](../exercises/ex1.md)
-  - DUE Tuesday 8/30. Come to class with your file. 
+  - DUE Monday 8/28. Come to class with your file. 
   - Bring a USB drive.
-- Create a [Digital Sketchbook](https://canvas.unl.edu/courses/137404/assignments/1281430) and add images/description of this project.
-  - DUE Thursday 9/1. Submit your link on [Canvas](https://canvas.unl.edu/courses/137404/assignments/1281430).
+- Create a [Digital Sketchbook](https://canvas.unl.edu/courses/158902/assignments/1521865) and add images/description of this project.
+  - DUE Wednesday 8/30. Submit your link on [Canvas](https://canvas.unl.edu/courses/158902/assignments/1521865).
 
 ## References
 - [Rhino Learn](https://www.rhino3d.com/learn/?keyword=kind:%20rhino_win) video tutorials

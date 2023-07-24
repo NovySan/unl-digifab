@@ -1,6 +1,6 @@
 # Week 2 - Laser Cutter
 
-## Tuesday
+## Monday
 - Review [Rhino 2D Basics](#rhino-2d-basics)
 - Topics
   - [Intro to Laser Cutter](#intro-to-laser-cutter) (hardware hands-on)
@@ -129,7 +129,7 @@ __Simple Laser Cutter Design__
    - (f.ex. for 1/8" birch plywood you would extrude it to something like 0.125" thick. you can use your calipers to check these measurements)
 5. Exporting to SVG.
 
-## Thursday
+## Wednesday
 - Artist of the Day
 - Tutorial
   - [Tab and Slot Construction](#tab-and-slot-construction)
@@ -193,6 +193,8 @@ Rhino file: [two_slots.3dm](../examples/two_slots.3dm)
 - FSL Muse References:
   - [Muse 3D Manual](https://f.hubspotusercontent00.net/hubfs/2882208/MUSE_MANUAL.pdf)
   - FSL Muse specifications, safety documentation.
+
+- [MIT's How to Make (Almost) Anything computer controlled cutting resources] (http://academy.cba.mit.edu/classes/computer_cutting/index.html)
 
 ### Power Settings
 - Suggested starting power settings for FSL Muse (do tests and adjust these for your project):

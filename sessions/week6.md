@@ -1,8 +1,8 @@
 # Week 6 - 3D Printing
 
-| [Tuesday](#tuesday) | [Thursday](#thursday) |
+| [Monday](#monday) | [Wednesday](#wednesday) |
 
-## Tuesday
+## Monday
 
 - Working with the Prusa Printer
 - Intro to the 3d Printer
@@ -17,7 +17,7 @@
 ## Office Hours 
 - Wednesday 3-5pm
 
-## Thursday
+## Wednesday
 
 - [Artist of the Day](#artist-of-the-day)
 - More 3D Printing time. 
@@ -56,7 +56,7 @@ Following Moreshin's Dark Matter (and Urs Fischer's sculpture above) for this as
 
 ### Submission
 - Add documentation of this (screenshots of rhino, screenshot of the slicer) to your digital sketchbook. 
-- Submit to [Canvas](https://canvas.unl.edu/courses/137404/assignments/1350190). DUE: Tuesday 10/4 11:59pm.
+- Submit to [Canvas](https://canvas.unl.edu/courses/137404/assignments/1350190). DUE: Monday 10/4 11:59pm.
   - a pdf of these pages from the digital sketchbook
   - your rhino file (.3dm)
 

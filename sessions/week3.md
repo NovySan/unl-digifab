@@ -1,7 +1,7 @@
 # Week 3 - Laser Cutter to 3D Form
-| [Tuesday](#tuesday) | [Thursday](#thursday) |
+| [Monday](#monday) | [Wednesday](#wednesday) |
 
-## Tuesday
+## Monday
 - Artist of the Day [Lauren Baker](https://laurenbaker.net/filter/art/Laser-cut-acrylic)
 - [Extruding Curves](#extruding-curves)
   - [Extruding Example](#extruding-example)
@@ -47,7 +47,7 @@ Workflow:
 - Document your resultant assemblage with a number of screenshots (3 minimum). 
 - Upload your Rhino File and screen shots to Canvas: [https://canvas.unl.edu/courses/137404/assignments/1344055](https://canvas.unl.edu/courses/137404/assignments/1344055). DUE end of this week (Friday 11:59pm)
 
-## Thursday
+## Wednesday
 3d Basics and Unrolling Surfaces
 - Artist of the Day
 - [Rhino 3D Basics](#rhino-3d-basics)
