@@ -1,64 +1,86 @@
-# Week 6 - 3D Printing
+# Week 5 - Intro to 3D Printing
 
 | [Monday](#monday) | [Wednesday](#wednesday) |
 
 ## Monday
 
-- Working with the Prusa Printer
-- Intro to the 3d Printer
-  - Loading and Unloading Filament.  
-  - Setting the Build Height (First Layer Calibration)
-  - Printing from a file. 
-  - Stay your print for the 10-15 minutes, or until the first few layers have completed, to be sure it is printing correctly. If the build height seems off, quit the print and re-rerun the first layer calibration.
-
-- Homework: Complete your Trophy project from last week, DUE Friday at midnight.
-
-
-## Office Hours 
-- Wednesday 3-5pm
+- Critique
 
 ## Wednesday
 
-- [Artist of the Day](#artist-of-the-day)
-- More 3D Printing time. 
-- [Homework-2](#homework-2): Boolean two objects.
+- Introduction to 3D Printing
+  - [Importing Models](#importing-models)
+  - [Prepping for 3DP](#prepping-for-3dp)
+  - [Slicing for 3DP](#slicing-for-3dp)
+- Intro to the 3d Printer
+- [Homework](#homework)
 
-## Artist of the Day 
+### Importing Models
 
-<img src="https://user-images.githubusercontent.com/1598545/193049455-8f5a7e69-7534-4ca8-9eb5-44157fa4aa76.png" width=400>
+- Create a new file in Rhino and import a 3d scan 
+  - [bunny.ply](../assets/day5/bunny.ply) (3MB)
+- Find the bunny and scale to an appropriate size. 
+  - Locate (Zoom eXtents), Rotate, Scale
+  - Simplify Mesh (MeshReduce) if necessary
 
-**Urs Fischer** ([website](https://ursfischer.com/) 
+### Prepping for 3DP
+- Add a base
+- Add a label (text objects as solids)
+- Is it a closed object? 
+  - Mesh -> Repair Tools -> **[Fill All Holes](https://docs.mcneel.com/rhino/7/help/en-us/commands/fillmeshhole.htm#FillMeshHoles)**
+- Save as STL
+  - File -> Export -> select STL file (Stereolithography). Answer yes to most questions.
 
-```
-Untitled (Lamp / Bear)
-2005-2006
-Cast bronze, epoxy primer, urethane paint, acrylic polyurethane topcoat, acrylic glass, gas discharge lamp, stainless-steel framework
-275 5/8 x 255 7/8 x 295 1/4 inches
-(700 x 650 x 750 cm)
-```
-([link](https://ursfischer.com/searches/bear))
+#### Example
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/1598545/191771117-8152421f-1818-4d31-8464-bcbce680bcfb.png">
 
-## Homework-2
+Rhino file: [../examples/venus_sculpture.3dm](../examples/venus_sculpture.3dm)
 
-<img width="800" alt="image" src="https://user-images.githubusercontent.com/1598545/193051534-45e87d29-e20e-491c-8188-d1b716a87155.png">
+### Slicing for 3DP
+- [Download Prusa Slicer]([https://www.prusa3d.com/drivers/](https://www.prusa3d.com/page/prusaslicer_424/))
+  - We have the [Prusa MK3S+](https://help.prusa3d.com/tag/mk3s-2)
+- Load your STL file from the previous steps. 
+- Check scale, positioning. 
+- Select print parameters.
+  - Material. Slicing. Support. 
+- See the complete First Print with Prusa Slicer article from Prusa: [https://help.prusa3d.com/article/first-print-with-prusaslicer_1753](https://help.prusa3d.com/article/first-print-with-prusaslicer_1753)
 
-[Dark Matter (First Series)](http://www.morehshin.com/dark-matter-first-series/) by Moreshin Allahyari.
+## Homework
 
+<img src="https://user-images.githubusercontent.com/1598545/191767959-277d1211-81ab-421a-89c4-466806e0cbb4.png" width=600>
+
+**Venus of Willendorf** (25000bce) [stl file](https://www.myminifactory.com/object/3d-print-venus-of-willendorf-at-the-naturhistorisches-museum-vienna-austria-11455) from Scan the World on myminifactory
 
 ### Description
-Following Moreshin's Dark Matter (and Urs Fischer's sculpture above) for this assignment I want you to find two objects, boolean them together (either subtraction, intersection, joining, etc.) and add a base. You should then slice this so we know it is 3d printable. YOU DO NOT HAVE TO PRINT THIS but I do want it sliced. 
+You are going to combine a 3d scanned object with a base and text to make a small trophy (< 3" x 3" x 3"). Try to come up with some interesting combination between text, object, and base.
 
-1. Find two 3d models to work with. You can find them online, or model your own.
-2. Import your 3d models into Rhino.
-3. Create an extruded base.
-4. Slice this model for the Prusa MK3S+, PLA filament. 
-5. Screen capture your sliced model
+1. Find a 3d model you want to work with. See references below. It does not have to be a historical artifact.
+2. Import your scanned object into Rhino.
+3. Create an extruded base
+4. Add Text. 
+5. Slice this model for the Prusa MK3S+, PLA filament.
+6. Finally you will 3d print this model. 
 
 ### Submission
-- Add documentation of this (screenshots of rhino, screenshot of the slicer) to your digital sketchbook. 
-- Submit to [Canvas](https://canvas.unl.edu/courses/137404/assignments/1350190). DUE: Monday 10/4 11:59pm.
-  - a pdf of these pages from the digital sketchbook
-  - your rhino file (.3dm)
+- Add documentation of this (screenshots of rhino, screenshot of the slicer, and photo of your printed object) to your digital sketchbook. 
+- Submit a pdf of these pages from the digital sketchbook to [Canvas](https://canvas.unl.edu/courses/158902/assignments/1521881). DUE: Friday 9/29, 11:59pm.
+
+
+## Office Hours 
+Wednesday 3-5pm or by appointment.
 
 ## Reference
-- Prusa Cheat Sheats: [UNL 3D Printer Guides](https://docs.google.com/document/d/1vCnLAMQ0IFE0_WeRT_rv4E3FyUzv3gbLFVJa0F7clCM/edit?usp=sharing)
+- Prusa has great Tutorials.
+  - First Print with Prusa Slicer [https://help.prusa3d.com/article/first-print-with-prusaslicer_1753](https://help.prusa3d.com/article/first-print-with-prusaslicer_1753)
+  - 
+
+### Places to get 3d models
+- [https://www.printables.com/](https://www.printables.com/)
+- [https://www.myminifactory.com/](https://www.myminifactory.com/)
+- [https://www.thingiverse.com/](https://www.thingiverse.com/)
+- Search for **.STL** files on google. If you find a good source, share it with me.
+
+## Meshmixer
+- [Download Meshmixer](https://www.meshmixer.com/download.html)
+- Hacking things together with meshmixer.
+- Exporting for 3DP (.STL)

@@ -1,86 +1,123 @@
-# Week 5 - Intro to 3D Printing
+# Week 4 - Mesh Creation and Stacked Contours
 
-| [Monday](#monday) | [Wednesday](#wednesday) |
+[Monday](#monday) | [Wednesday](#wednesday)
 
 ## Monday
 
-- Critique
+- [Artist of the Day](#artist-of-the-day)
+- [Working with Meshes](#working-with-meshes)
+  - [Mesh Example](#mesh-example)
+- [Importing Meshes](#importing-meshes) 
+- [Extracting Contours](#extracting-contours)
+  - [Example Buffalo Contours](#example-buffalo-contours)
+  - [Example Sliced Pikachu](#example-sliced-pikachu)
 
-## Wednesday
+## Artist of the Day
 
-- Introduction to 3D Printing
-  - [Importing Models](#importing-models)
-  - [Prepping for 3DP](#prepping-for-3dp)
-  - [Slicing for 3DP](#slicing-for-3dp)
-- Intro to the 3d Printer
-- [Homework](#homework)
+<img src="https://user-images.githubusercontent.com/1598545/189894549-fe5a944d-3d61-4143-8abd-ad4856d9bbac.png" width=600>
 
-### Importing Models
+Inmi Lee. [_I will not dance_](https://www.inmilee.com/un.html). 2016.
 
-- Create a new file in Rhino and import a 3d scan 
-  - [bunny.ply](../assets/day5/bunny.ply) (3MB)
-- Find the bunny and scale to an appropriate size. 
-  - Locate (Zoom eXtents), Rotate, Scale
-  - Simplify Mesh (MeshReduce) if necessary
+Also:
+- [d  i  s p lace](https://www.inmilee.com/displace.html) 2005
+- complete [projects](https://www.inmilee.com/index.html)
 
-### Prepping for 3DP
-- Add a base
-- Add a label (text objects as solids)
-- Is it a closed object? 
-  - Mesh -> Repair Tools -> **[Fill All Holes](https://docs.mcneel.com/rhino/7/help/en-us/commands/fillmeshhole.htm#FillMeshHoles)**
-- Save as STL
-  - File -> Export -> select STL file (Stereolithography). Answer yes to most questions.
+## Working With Meshes
 
-#### Example
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/1598545/191771117-8152421f-1818-4d31-8464-bcbce680bcfb.png">
+__Solids vs. Meshes__ 
+- Solids
+  - what are they? (collections of surfaces)
+  - explode, cap
+  - when we export STL we are creating a mesh
+- Meshes
+  - Create meshes directly
 
-Rhino file: [../examples/venus_sculpture.3dm](../examples/venus_sculpture.3dm)
+### Mesh Example
 
-### Slicing for 3DP
-- [Download Prusa Slicer]([https://www.prusa3d.com/drivers/](https://www.prusa3d.com/page/prusaslicer_424/))
-  - We have the [Prusa MK3S+](https://help.prusa3d.com/tag/mk3s-2)
-- Load your STL file from the previous steps. 
-- Check scale, positioning. 
-- Select print parameters.
-  - Material. Slicing. Support. 
-- See the complete First Print with Prusa Slicer article from Prusa: [https://help.prusa3d.com/article/first-print-with-prusaslicer_1753](https://help.prusa3d.com/article/first-print-with-prusaslicer_1753)
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/1598545/189800138-80ca4469-d7d3-4f3a-ab88-48cb677463e2.png">
+
+Rhino file: [solids_meshes.3dm](../examples/solids_meshes.3dm)
+
+
+## Importing Meshes
+- Importing - Import
+  - STL file - Stereolithography ([wikipedia definition](https://en.wikipedia.org/wiki/STL_(file_format)))
+  - [buffalo.stl](../assets/buffalo.stl)
+  - **Rotate**, **Scale**, and translate as necessary to find and position the object. Also, [Zoom Extents](http://docs.mcneel.com/rhino/7/help/en-us/commands/zoom.htm#Extents)
+- Simplification (MeshReduce)
+  - [buffalo_reduction.3dm](../assets/day4/buffalo_reduction.3dm)
+- Edit directly - **[PointsOn](http://docs.mcneel.com/rhino/7/help/en-us/commands/pointson.htm)**, and directly manipulating points on the mesh.
+- Closed vs Open Meshes
+  - We need closed meshes for 3DP. Object properties will tell you if a mesh is an open or closed mesh.
+  - Attempt to patch an open mesh: **Mesh** -> **Repair Tools** -> **Fill All Holes**
+  - Rhino [Mesh Repair](http://docs.mcneel.com/rhino/7/help/en-us/commands/meshrepair.htm) tools
+
+## Extracting Contours
+
+- Slicing a 3d mesh or surface object into 2d stacks
+  - the [contour](http://docs.mcneel.com/rhino/7/help/en-us/commands/contour.htm) command
+  - [contour_command.3dm](../assets/day4/contour_command.3dm)
+  - [contour_flatten_shear.3dm](../assets/day4/contour_flatten_shear.3dm)
+- Importing and slicing a complex mesh
+  - Finding a mesh (thingiverse.com)
+  - Importing a mesh into rhino
+  - Slicing a mesh with the contour command
+  - slicing/design for digital fabrication (material thickness considerations)
+- Simplifying mesh
+  - [ReduceMesh](http://docs.mcneel.com/rhino/7/help/en-us/commands/reducemesh.htm)
+- Go from mesh to unrollable surface: 
+  - [MeshToNURB](http://docs.mcneel.com/rhino/7/help/en-us/commands/meshtonurb.htm)
+
+### Example Buffalo Contours
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/1598545/189891871-067e9994-7137-4afd-b115-b3f5a529326b.png">
+
+Rhino file: [buffalo_contours.3dm](../examples/buffalo_contours.3dm)
+
+### Example Sliced Pikachu
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/1598545/189891434-480d9b21-ffcf-4623-ae8a-09f4dcfb078f.png">
+
+Rhino file: [sliced_pikachu.3dm](../examples/sliced_pikachu.3dm)
 
 ## Homework
+Work on project 1 (due in one week, Monday 9/18)
 
-<img src="https://user-images.githubusercontent.com/1598545/191767959-277d1211-81ab-421a-89c4-466806e0cbb4.png" width=600>
+## Wednesday
+- [Artist of the Day](#artist-of-the-day-2)
+- Work Time
+- [Material Tests](#material-tests) (maybe)
 
-**Venus of Willendorf** (25000bce) [stl file](https://www.myminifactory.com/object/3d-print-venus-of-willendorf-at-the-naturhistorisches-museum-vienna-austria-11455) from Scan the World on myminifactory
+## Artist of the Day 2
 
-### Description
-You are going to combine a 3d scanned object with a base and text to make a small trophy (< 3" x 3" x 3"). Try to come up with some interesting combination between text, object, and base.
+<img src="https://user-images.githubusercontent.com/1598545/190411078-971f6d55-1c00-4001-82f1-55b3fd4af56b.png" width=600>
 
-1. Find a 3d model you want to work with. See references below. It does not have to be a historical artifact.
-2. Import your scanned object into Rhino.
-3. Create an extruded base
-4. Add Text. 
-5. Slice this model for the Prusa MK3S+, PLA filament.
-6. Finally you will 3d print this model. 
+Lawrence Malstaf
+- [Folding](https://exhibitions.hybridmatters.net/works/folding)
+- [Shrink](https://www.lawrencemalstaf.com/work/shrink/)
+- [Portfolio website](https://www.lawrencemalstaf.com/work/)
 
-### Submission
-- Add documentation of this (screenshots of rhino, screenshot of the slicer, and photo of your printed object) to your digital sketchbook. 
-- Submit a pdf of these pages from the digital sketchbook to [Canvas](https://canvas.unl.edu/courses/158902/assignments/1521881). DUE: Friday 9/29, 11:59pm.
+## Homework 2
+Complete project 1 (due Monday, 9/18)
 
+## Material Tests
 
-## Office Hours 
-Wednesday 3-5pm or by appointment.
+- When you first work with a new material, you want to determine what settings work best for cutting and engraving. 
+- As a starting point, you can begin with [the suggested settings for common materials](week2.html#power-settings).
+- Typically you might produce a small shape (square, or text) which you can run multiple times with different settings for the 
+- Full Spectrum Laser (who manufactures our laser) has some material test files we can try: [https://fslaser.com/material-test/](https://fslaser.com/material-test/)
+
+### Cutting Acrylic
+
+Acrylic is the most common plastic sheet good that we might cut with the laser cutter. 
+- We can vector cut, vector engrave, or raster engrave acrylic very successfully.
+- When you first get a new sheet of acrylic, determine what thickness it is (calipers): [measuring thickness](week2.html#measuring-thickness)
+- Run some material tests to find speed, power, and current settings.
+
+### Plastic Suppliers
+- [H&H Plastics](https://www.google.com/maps/dir/40.8298688,-96.7012424/h+and+h+plastics+lincoln/@40.8423437,-96.7027104,13z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x8796bb88f445b751:0x4b7f5828f156d80b!2m2!1d-96.6333809!2d40.851637)
+- Home Depot, Lowes, etc. 
+- [Tap Plastics](https://www.tapplastics.com/) (mail order)
 
 ## Reference
-- Prusa has great Tutorials.
-  - First Print with Prusa Slicer [https://help.prusa3d.com/article/first-print-with-prusaslicer_1753](https://help.prusa3d.com/article/first-print-with-prusaslicer_1753)
-  - 
-
-### Places to get 3d models
-- [https://www.printables.com/](https://www.printables.com/)
-- [https://www.myminifactory.com/](https://www.myminifactory.com/)
-- [https://www.thingiverse.com/](https://www.thingiverse.com/)
-- Search for **.STL** files on google. If you find a good source, share it with me.
-
-## Meshmixer
-- [Download Meshmixer](https://www.meshmixer.com/download.html)
-- Hacking things together with meshmixer.
-- Exporting for 3DP (.STL)
+None

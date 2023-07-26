@@ -1,7 +1,83 @@
-# Week 3 - Laser Cutter to 3D Form
-| [Monday](#monday) | [Wednesday](#wednesday) |
+# Week 3
 
 ## Monday
+
+- Artist of the Day
+- Tutorial
+  - [Tab and Slot Construction](#tab-and-slot-construction)
+  - [Measuring Thickness](#measuring-thickness)
+  - [Matching Parts](#matching-parts)
+  - [Living Hinge](#living-hinge)
+
+### Artist of the Day 
+
+![image](https://user-images.githubusercontent.com/1598545/187927860-5f8562d7-a570-4f86-ad8a-f2e61c886b3b.png)
+
+Ben Butler
+- https://mymodernmet.com/ben-butler-organic-sculptures/
+- https://www.benbutlerart.com/
+
+### Tab and Slot Construction
+1. How can we build 3d structure with 2d materials? 
+2. Tab and slot construction? (also called finger joints)
+3. You need to design 2d parts that have holes (slots), and other parts that have tabs, so that when cut from flat materials you can assemble them into 3d forms.
+4. Optional: Extrude your designs to the thickness of the material, to make solides. Assemble these solides in Rhino to mock up your 3d form.
+5. Reference (Video Tutorials):
+   - Finger joint laser cut box: https://www.youtube.com/watch?v=FBSQGHBpBWg
+   - Finger joint tutorial in Rhino with boolean operations: https://www.youtube.com/watch?v=AYxUUSWIRW4
+
+<img width="543" alt="image" src="https://user-images.githubusercontent.com/1598545/187929511-8a4545b6-dddb-4427-8dcc-b22d8726bd96.png">
+
+### Measuring Thickness
+- Using calipers. See [Sparkfun: How To Use Calipers](https://www.youtube.com/watch?v=73YJA5giZfs) (youtube link)
+- Cutting tests. 
+
+### Matching Parts
+- [Line](https://docs.mcneel.com/rhino/7/help/en-us/index.htm#commands/line.htm)
+- [Offset](https://docs.mcneel.com/rhino/7/help/en-us/index.htm#commands/offset.htm)
+- [Trim](https://docs.mcneel.com/rhino/7/help/en-us/index.htm#commands/trim.htm)
+
+### Example Two Slots
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/1598545/189883344-83d52a8c-c5cc-4190-a7df-1a2f3d3a5d5b.png">
+
+Rhino file: [two_slots.3dm](../examples/two_slots.3dm)
+
+### Living Hinge
+- Living hinge construction
+  - Kerf Bending Experiments: https://www.martin-breuer.com/kerf-bending-patterns
+  - Lattice Hinge Design Workshop: https://futurearchi.org/t/lattice-hinge-design-workshop-starting-from-an-open-source-grasshopper-design/576
+  - With grasshopper: [https://github.com/StDrunks/Living-Loop](https://github.com/StDrunks/Living-Loop)
+
+## Homework
+- Ideas for [project 1](../projects/project1.md)
+
+## References
+- For your reference: [Rhino Learn](https://www.rhino3d.com/learn/?keyword=kind:%20rhino_win) (tutorials)
+- [Sketchup to Rhino Cheatsheet](https://static1.squarespace.com/static/585ca81337c5816afcb8d981/t/5c7478b715fcc0b3c46366d7/1551136953876/Sketchup-Rhino+Cheat+Sheet.pdf)
+- ![image](https://user-images.githubusercontent.com/1598545/131845474-7ce17921-1ce1-4601-b6ef-96ec6d62a6cc.png)
+
+### Laser Cutter Reference
+- RetinaEngrave Software:
+  - [quick reference guide](https://info.fslaser.com/hubfs/Public_Documents/RetinaEngrave%20v3.0%20RefGuide.pdf)  
+  - [Video Tutorials](https://www.youtube.com/playlist?list=PL_1I1UNQ4oGa0w55C772Y1mC6F4f3ZcG6)
+  - [RE3.0 Manual](https://info.fslaser.com/hubfs/Public_Documents/RetinaEngrave%20v3.0%20Manual.pdf)
+- FSL Muse References:
+  - [Muse 3D Manual](https://f.hubspotusercontent00.net/hubfs/2882208/MUSE_MANUAL.pdf)
+  - FSL Muse specifications, safety documentation.
+
+- [MIT's How to Make (Almost) Anything computer controlled cutting resources] (http://academy.cba.mit.edu/classes/computer_cutting/index.html)
+
+### Power Settings
+- Suggested starting power settings for FSL Muse (do tests and adjust these for your project):
+![image](https://user-images.githubusercontent.com/1598545/132598192-898d58a6-ba56-40fc-8e95-18374daada8a.png)
+
+## Leftovers 
+- Slicing / panelling tools (breaking 3d structure down into 2d components that can be assembled)
+- Parametric design for kerfs and 3d structures (grasshopper)
+
+## Wednesday
+
 - Artist of the Day [Lauren Baker](https://laurenbaker.net/filter/art/Laser-cut-acrylic)
 - [Extruding Curves](#extruding-curves)
   - [Extruding Example](#extruding-example)
@@ -47,77 +123,3 @@ Workflow:
 - Document your resultant assemblage with a number of screenshots (3 minimum). 
 - Upload your Rhino File and screen shots to Canvas: [https://canvas.unl.edu/courses/137404/assignments/1344055](https://canvas.unl.edu/courses/137404/assignments/1344055). DUE end of this week (Friday 11:59pm)
 
-## Wednesday
-3d Basics and Unrolling Surfaces
-- Artist of the Day
-- [Rhino 3D Basics](#rhino-3d-basics)
-- [Unrolling Surfaces](#unrolling-surfaces)
-- [Homework](#homework-2)
-
-## Artist of the Day
-
-<img src="https://user-images.githubusercontent.com/1598545/189138511-e74e66cf-12dc-4b3c-b372-a6196d3ee79a.png" height=400>
-
-[**Joseph Delappe**](http://www.delappe.net)
-
-- [Cardboard Ghandi](http://www.delappe.net/project/cardboard-gandhi-2008-2009/)
-- [Liberty Weeps](http://www.delappe.net/sculptureinstallation/liberty-weeps/)
-- [Paper Soldier](http://www.delappe.net/project/paper-soldier/)
-- [The Drone Project](http://www.delappe.net/sculptureinstallation/the-drone-project/)
-
-## Rhino 3D Basics
-In rhino we can either natively author 3d shapes (create boxes, spheres, pyramids, etc.), or we can extrude/loft/revolve 2D drawings into 3d shapes. These two methods are typical for CAD softwares. There is one additional distinction between meshes, polysurfaces, solids, but we do not need to deal with that now.
-
-1. 3D Viewports
-   - When we are drawing in 3d, we are going to want to switch back to the 4-up view (top, front, right, perspective)
-   - [4View](https://docs.mcneel.com/rhino/6/help/en-us/index.htm#commands/4view.htm) four views at once
-   - [MaxViewport](https://docs.mcneel.com/rhino/6/help/en-us/index.htm#commands/maxviewport.htm) single view
-   - The 4-up viewport lets us see things from the sides to draw in 3d.
-2. 3D Primitives (Solids)
-   - [_Box_](https://docs.mcneel.com/rhino/6/help/en-us/index.htm#commands/box.htm)
-   - [_Sphere_](https://docs.mcneel.com/rhino/6/help/en-us/index.htm#commands/sphere.htm)
-   - [_Cylinder_](https://docs.mcneel.com/rhino/6/help/en-us/index.htm#commands/cylinder.htm)
-   - What are Solids? ([solid](https://docs.mcneel.com/rhino/6/help/en-us/index.htm#seealso/sak_solid.htm))
-3. Solids from Curves
-   - [_ExtrudeCrv_](https://docs.mcneel.com/rhino/6/help/en-us/index.htm#commands/extrudecrv.htm) **<--- THIS IS OUR GOTO**
-   - [_Revolve_](https://docs.mcneel.com/rhino/6/help/en-us/index.htm#commands/revolve.htm)
-   - [_Loft_](https://docs.mcneel.com/rhino/6/help/en-us/index.htm#commands/loft.htm)
-4. Boolean Operations (math with objects)
-   - [_BooleanUnion_](https://docs.mcneel.com/rhino/6/help/en-us/index.htm#commands/booleanunion.htm) join two objects together
-   - [_BooleanDifference_](https://docs.mcneel.com/rhino/6/help/en-us/index.htm#commands/booleandifference.htm) subtract one object from another
-   - [_BooleanIntersection_](https://docs.mcneel.com/rhino/6/help/en-us/index.htm#commands/booleanintersection.htm) create a new object from intersection of two objects
-   - [_BooleanSplit_](https://docs.mcneel.com/rhino/6/help/en-us/index.htm#commands/booleansplit.htm) split and make new objects at every intersection
-   - Sometimes these operations may fail. Pay attention to error messages.
-5. Exporting solids
-   - ```STL files describe only the surface geometry of a three dimensional object without any representation of color, texture or other common CAD model attributes.```
-   - [Exporting STL files](https://docs.mcneel.com/rhino/6/help/en-us/index.htm#fileio/stereolithography_stl_import_export.htm)
-   - We can open 3D files in programs like [Meshmixer](https://www.meshmixer.com/) (for mesh manipulations) and [PrusaSlicer](https://www.prusa3d.com/prusaslicer/) (which slices files for 3d printing)
-
-## Example 3D Basics
-
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/1598545/189884167-b5e94bb4-daca-4e90-a400-5ef851a55a75.png">
-
-Rhino file: [basics_3d.3dm](../examples/unroll.3dm)
-
-## Example Unrolling Surfaces
-
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/1598545/189140440-1254ab04-b1e7-4424-adbb-2de3c9869f86.png">
-
-Rhino file: [unroll.3dm](../examples/unroll.3dm)
-
-## Homework 2
-**Pepakura Construction**
-
-- Using a combination of 3d primitives and solid editing tools, design a virtual sculpture you want to fabricate. 
-- Using Unroll, Explode, and your 2d drawing tools, flatten this object into a series of pieces that can be fashioned from cut paper. 
-- Fabricate the result with the laser cutter and assemble it. 
-
-**Submission**
-- Upload your complete rhino file. 
-- Take 3-4 pictures of your object, and add them to your digital sketchbook. 
-  - Upload a copy of that page from your sketchbook
-
-DUE: Not sure.
-
-## Reference
-- Pepakura Designer: [https://tamasoft.co.jp/pepakura-en/](https://tamasoft.co.jp/pepakura-en/)
