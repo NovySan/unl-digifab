@@ -54,30 +54,29 @@ A student who successfully completes this course will:
 | 1a | **[Intro and Overview](sessions/week1.md#monday)** Course Policies; Install Rhino; Sign up for Discord |
 | 1b | **[Rhino](sessions/week1.md#wednesday)** 2D Drawing; Exercise: Stencil |
 | 2a | **[Laser Cutter](sessions/week2.md#monday)**|
-| 2b | **[Volly Ball Day - No In-Person Classes](https://novysan.github.io/unl-digifab/sessions/week2.html#monday)**|
-| 3a | **[Tab and slot](sessions/week2.md#wednesday)**|
-| 3b | **[Laser to 3D: Stacked Contours](sessions/week3.md#monday)** |
-|tbd  | **[3D Basics and Unrolling](sessions/week3.md#wednesday)** |
+| 2b | **[Volly Ball Day - No In-Person Classes](https://novysan.github.io/unl-digifab/sessions/week2.html#wednesday)**|
+| 3a | **[Tab and slot](sessions/week3.md#monday)**|
+| 3b | **[Laser to 3D: Stacked Contours](sessions/week3.md#wednesday)** |
 | 4a | **[Meshes and Contour Extraction](sessions/week4.md/#monday)** |
-| 4b | **[Work Time. Material Tests](sessions/week4.md/#wednesday)** |
-| 5a | **[Critique Project 1](sessions/week5.md/#monday)** | 
-| 5b | **[3D Printing](sessions/week5.md/#wednesday)** | 
-| 6a | **[Prusa Hands-On](sessions/week6.md#monday)** |
-| 6b | **[3D Printing; 3d scanning and photogrammetry](sessions/week6.md#monday)** | 
-| 7a | **[Digitizing Objects](sessions/week7.md#monday)** |
-| 7b | - Work Day - |
-| 8a | **[3D Scanning](sessions/week8.md#monday)** |
-| 8b | **[3D Scanning Part 2](sessions/week8.md#wednesday)** |
+| 4b | **[Shopbot](sessions/week4.md/#wednesday)** |
+| 5a | **[3D Basics and Unrolling](sessions/week5.md#monday)** |
+| 5b | - Work Day - |
+| 6a | **[Critique Project 1](sessions/week6.md/#monday)** 
+| 6b | **[3D Printing](sessions/week6.md/#wednesday)** | 
+| 7a | **[Ultimaker Hands-On//Prusa Discussion](sessions/week7.md#monday)** |
+| 7b | **[3D Printing; 3d scanning and photogrammetry](sessions/week7.md#wednesday)** | 
+| 8a | **[Digitizing Objects](sessions/week8.md#monday)**
+| 8b | - Work Day - |
 | 9a | - Fall Break - |
 | 9b | - Work Day - |
-| 10a | **[Making Things Move](sessions/week10.md#monday)** | 
-| 10b | Critique Project 2 | 
-| 11a | **[Making Things Move II](sessions/week11.md#monday)** | 
-| 11b | **[Arduino Analog](sessions/week11.md#wednesday)** | 
-| 12a | **[Sensors](sessions/week12.md#monday)** |
-| 12b | **[LED Outputs](sessions/week12.md#wednesday)** |
-| 13a | **[Ultrasonic and DC Motor](sessions/week13.md#monday)** | 
-| 13b | **[Stepper Motor](sessions/week13.md#wednesday)** |
+| 10a | **[3D Scanning](sessions/week10.md#monday)** |
+| 10b | **[3D Scanning Part 2](sessions/week10.md#wednesday)** |
+| 11a | **[Making Things Move](sessions/week11.md#monday)** | 
+| 11b | Critique Project 2 | 
+| 12a | **[Making Things Move II](sessions/week12.md#monday)** | 
+| 12b | **[Arduino Analog](sessions/week12.md#wednesday)** 
+| 13a | **[Sensors](sessions/week13.md#monday), [Ultrasonic and DC Motor](sessions/week13.md#monday)** |
+| 13b | **[LED Outputs](sessions/week13.md#wednesday), [Stepper Motor](sessions/week13.md#wednesday)** |
 | 14 | One on One meetings, Thanksgiving |
 | 15 | Final Project Work | 
 | 16 | Final Critiques; Open Studios | 
