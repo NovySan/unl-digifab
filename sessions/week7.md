@@ -1,4 +1,4 @@
-# Week 6 - 3D Printing
+# Week 7 - 3D Printing
 
 | [Monday](#monday) | [Wednesday](#wednesday) |
 

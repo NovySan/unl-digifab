@@ -1,4 +1,4 @@
-# Week 5 - Intro to 3D Printing
+# Week 6 - Intro to 3D Printing
 
 | [Monday](#monday) | [Wednesday](#wednesday) |
 
@@ -78,6 +78,7 @@ Wednesday 3-5pm or by appointment.
 - [https://www.printables.com/](https://www.printables.com/)
 - [https://www.myminifactory.com/](https://www.myminifactory.com/)
 - [https://www.thingiverse.com/](https://www.thingiverse.com/)
+- [https://3d.csm.ai/](https://3d.csm.ai/)
 - Search for **.STL** files on google. If you find a good source, share it with me.
 
 ## Meshmixer

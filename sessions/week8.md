@@ -1,4 +1,4 @@
-# Week 7 - Digitizing Objects
+# Week 8 - Digitizing Objects
 
 | [Monday](#monday) | [Wednesday](#wednesday) |
 

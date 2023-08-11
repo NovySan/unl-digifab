@@ -54,9 +54,10 @@ A student who successfully completes this course will:
 | 1a | **[Intro and Overview](sessions/week1.md#monday)** Course Policies; Install Rhino; Sign up for Discord |
 | 1b | **[Rhino](sessions/week1.md#wednesday)** 2D Drawing; Exercise: Stencil |
 | 2a | **[Laser Cutter](sessions/week2.md#monday)**|
-| 2b | **[Tab and slot](sessions/week2.md#wednesday)**|
-| 3a | **[Laser to 3D: Stacked Contours](sessions/week3.md#monday)** |
-| 3b | **[3D Basics and Unrolling](sessions/week3.md#wednesday)** |
+| 2b | **[Volly Ball Day - No In-Person Classes](https://novysan.github.io/unl-digifab/sessions/week2.html#monday)**|
+| 3a | **[Tab and slot](sessions/week2.md#wednesday)**|
+| 3b | **[Laser to 3D: Stacked Contours](sessions/week3.md#monday)** |
+|tbd  | **[3D Basics and Unrolling](sessions/week3.md#wednesday)** |
 | 4a | **[Meshes and Contour Extraction](sessions/week4.md/#monday)** |
 | 4b | **[Work Time. Material Tests](sessions/week4.md/#wednesday)** |
 | 5a | **[Critique Project 1](sessions/week5.md/#monday)** | 
