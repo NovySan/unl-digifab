@@ -57,7 +57,15 @@ Rhino file: [basic_drawing](../examples/basic_drawing.3dm)
 
 ## Intro to Laser Cutter
 
-Hands-on with our [FSL Muse 3D (Full Spectrum Laser)](https://fslaser.com/fsl-muse-3d-autofocus-desktop-co2-laser-cutter-bundle/):
+Hands on with the Epilog at Innovation Studio
+
+- Epilog Dashboard for laser operation (TAKE NOTES!!)
+- We will use your HW1. 
+- Let's double check/fix our HW 1 and then cut some.
+
+Brief Intro to Fiber Laser at Innovation Studio
+
+Below are the basics for our [FSL Muse 3D (Full Spectrum Laser)](https://fslaser.com/fsl-muse-3d-autofocus-desktop-co2-laser-cutter-bundle/) at the Carson Center:
 
 __1. Laser basics__
 - Safety (air filtration; fire safety)
@@ -102,9 +110,6 @@ __4. Cut Types__
 - In the Muse software (RetinaEngrave), "Cutting" and "Engraving" are both called Engraving. We just choose different power settings. See the chart at bottom of the page.
 <img src="https://user-images.githubusercontent.com/1598545/132678369-cbc08f46-2793-48e7-9f08-f020cf8dcfc6.png" width="400px">
 
-__5. Cut demos__
-- We will use your HW1. 
-- Let's double check/fix our HW 1 and then cut some. 
 
 ## Cutting
 Full Spectrum Laser has their own engraving software called [RetinaEngrave](https://fslaser.com/re3/).  We will use it from the workstation on the laser table.
@@ -120,6 +125,7 @@ Full Spectrum Laser has their own engraving software called [RetinaEngrave](http
 9. Set the engraving properties - __Vector Engraving__ (note, it is all called "engraving" in Muse)
 10. Turn on Water Cooler; Exhaust; Air Assist.
 11. Run job.
+
 ## Design for Laser Cutter
 
 __Simple Laser Cutter Design__
@@ -131,4 +137,4 @@ __Simple Laser Cutter Design__
 
 ## Wednesday
 
-### Volly Ball Day - No In-Person Classes
+### Volly Ball Day - No In-Person Classes :(
