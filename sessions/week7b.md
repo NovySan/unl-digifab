@@ -1,10 +1,7 @@
-# Week 6 - Intro to 3D Printing
+# Week 7b - Intro to 3D Printing
 
-| [Monday](#monday) | [Wednesday](#wednesday) |
+| [Wednesday](#wednesday) |
 
-## Monday
-
-- Critique
 
 ## Wednesday
 
@@ -67,7 +64,7 @@ You are going to combine a 3d scanned object with a base and text to make a smal
 
 
 ## Office Hours 
-Wednesday 3-5pm or by appointment.
+Discord or by appointment.
 
 ## Reference
 - Prusa has great Tutorials.

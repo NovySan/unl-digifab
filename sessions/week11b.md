@@ -1,9 +1,10 @@
-# Week 11 - Making Things Move
+# Week 11b - Making Things Move
 
-| [Monday](#monday) | [Wednesday](#wednesday) |
+| [Wednesday](#wednesday) |
 
-## Monday
-Agenda: 
+## Wednesday
+Agenda:
+ 
 - Check in (who is going to Infinity Fest? please email me)
 - [Artist of the Day](#artist-of-the-day)
 - [Designing around a Part](#designing-around-a-part)
@@ -53,17 +54,8 @@ You will create a simple servo plus arduino construction with a stationary base 
 
 ## Office Hours
 
-Wednesday 10/26, 3-5pm. 
+Discord or by appointment
 
-## Wednesday
-
-Agenda
-- Critique Project #2.
-- Homework: work on Making Things Move
-
-### Artist of the Day 2
-
-You all! (we are critiquing).
 
 ## Reference
 - UNL EE Shop [http://eeshop.unl.edu/ee_shop_store.html](http://eeshop.unl.edu/ee_shop_store.html) 

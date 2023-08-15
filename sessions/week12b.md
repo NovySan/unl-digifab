@@ -1,42 +1,12 @@
-# Week 12 - Making Things Move II/Digital and Analog IO
+# Week 12b - Wednesday - Digital and Analog IO
 
-| [Monday](#monday) | [Wednesday](#wednesday) |
-
-## Monday
-Agenda - Making Things Move II
-- [Artist of the Day](#artist-of-the-day)
-- [Motor Mounts](#motor-mounts)
-- [Homework](#homework)
-- [Office Hours this Week](#office-hours)
-
-### Artist of the Day
-<img width="800" alt="image" src="https://user-images.githubusercontent.com/1598545/199234670-4492adcd-ad5b-4dc7-959e-af737f84db18.png">
-
-Daniel Rozin
-
-- [Wooden Mirror](http://www.smoothware.com/danny/woodenmirror.html)
-  - Thousands of servo motors
-- Longer video from Wired (2019): [https://www.youtube.com/watch?v=kV8v2GKC8WA](https://www.youtube.com/watch?v=kV8v2GKC8WA)
-- Wooden Mirror (2000) in SIGGRAPH Archives: [https://digitalartarchive.siggraph.org/artwork/daniel-rozin-wooden-mirror/](https://digitalartarchive.siggraph.org/artwork/daniel-rozin-wooden-mirror/)
-
-### Motor Mounts
-- Boolean subtraction
-- 2d outlines then extrusions/cuts.
-  - BEST WAY TO DO THIS: 
-  - **_MeshOutline_** produces a 2d outline of a 3d shape. [https://docs.mcneel.com/rhino/7/help/en-us/commands/meshoutline.htm](https://docs.mcneel.com/rhino/7/help/en-us/commands/meshoutline.htm)
-- Test prints to test fit. 
-- Working with screws and nuts.
-
-### Homework
-Continue work on Making Things Move. NOTE: due date was moved to Monday.
-
-## Office Hours
-
-Wednesday, 2-4pm.
+| [Wednesday](#wednesday) |
 
 ## Wednesday
+
 Agenda
-- [Artist of the Day](#artist-of-the-day-2)
+
+- [Artist of the Day](#artist-of-the-day)
 - [Arduino Refresher](#arduino-refresher)
 - Physical Computing
   - [Analog Output](#analog-output)
@@ -45,7 +15,8 @@ Agenda
   - [Servo Knob](#servo-knob)
 - [Homework](#homework-2)
 
-### Artist of the Day 2
+### Artist of the Day
+
 <img src="https://user-images.githubusercontent.com/1598545/199747061-8090f82e-6b9d-4d82-b17d-0b3633036b4b.png" width="600">
 
 Marguerite Humeau
@@ -54,6 +25,7 @@ Marguerite Humeau
 - [making of video](https://www.dezeen.com/2012/07/11/proposal-for-resuscitating-prehistoric-creatures-marguerite-humeau/)
 
 ### Arduino Refresher
+
 - Install the arduino software on your computer: [https://www.arduino.cc/en/software](https://www.arduino.cc/en/software)
 - Explore the Basic Blink example: 
   - <img width="400" alt="image" src="https://user-images.githubusercontent.com/1598545/199736888-13783e7a-c5d5-49d6-abb2-d90e79e5cd69.png">

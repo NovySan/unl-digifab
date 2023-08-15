@@ -1,6 +1,6 @@
-# Week 13 - More Sensors and DC Motor
+# Week 13b - Actuators and Outputs
 
-| [Monday](#monday) | [Wednesday](#wednesday) |
+| [Wednesday](#wednesday) |
 
 ## Monday
 Agenda 

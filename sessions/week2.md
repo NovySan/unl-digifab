@@ -55,7 +55,7 @@
 
 Rhino file: [basic_drawing](../examples/basic_drawing.3dm)
 
-## Intro to Laser Cutter
+## Intro to Laser Cutting
 
 Hands on with the Epilog at Innovation Studio
 
@@ -65,7 +65,7 @@ Hands on with the Epilog at Innovation Studio
 
 Brief Intro to Fiber Laser at Innovation Studio
 
-Below are the basics for our [FSL Muse 3D (Full Spectrum Laser)](https://fslaser.com/fsl-muse-3d-autofocus-desktop-co2-laser-cutter-bundle/) at the Carson Center:
+Below are the basics for our [FSL Muse 3D (Full Spectrum Laser)](https://fslaser.com/fsl-muse-3d-autofocus-desktop-co2-laser-cutter-bundle/) at the Carson Center but are applicable to almost all laser cutters:
 
 __1. Laser basics__
 - Safety (air filtration; fire safety)

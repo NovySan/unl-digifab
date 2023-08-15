@@ -29,7 +29,7 @@ You will submit a two paragraph proposal for your idea addressing the following 
   - What materials will you fabricate your object from? What (if any) surface treatments will you use? What non-digital material/craft processes will you use?
   - How will you document your project? Consider where you will photograph the resulting object? What supporting images wil Where will you document your object?
 
-This written description will be [submitted online to Canvas](https://canvas.unl.edu/courses/114938/discussion_topics/805312) by Thursday October 7.
+This written description will be [submitted online to Canvas](https://canvas.unl.edu/courses/158902/assignments/1521883) by Thursday, October 11, 2023 at 15:00.
 
 ## Deliverables
 

@@ -1,6 +1,6 @@
-# Week 13 - Sensors and Sensations
+# Week 13a - Monday - Sensors and Inputs
 
-| [Monday](#monday) | [Wednesday](#wednesday) |
+| [Monday](#monday) |
 
 ## Monday
 
@@ -52,14 +52,7 @@ John Strope - DIY Animatronics and other work
   3. Interact with the photoresistor and see the motor move. 
 - Extension: Instead of directly mapping sensor values to servo position, use the sensor values to trigger specific motions. For instance, have if statements that move it to different positions depending on how much light it sees.
 
-### Homework
-- catch up
 
-## Office Hours 
-- Wednesday 3-5pm.
-
-## Wednesday
-Agenda
 - [Artist of the Day](#artist-of-the-day-2)
 - Finish talking about photoresistors and voltage dividers.
 - [LED Outputs](#led-outputs)

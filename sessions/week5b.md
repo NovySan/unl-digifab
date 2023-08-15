@@ -1,11 +1,10 @@
-# Week 4 - ShopBot
-| [Monday](#monday) | [Wednesday](#wednesday) |
+# Week 5b - 3D Basics and Unrolling Surfaces
 
-## Monday
-Insert ShopBot stuff here.
+[Wednesday](#wednesday)
 
 ## Wednesday
 3d Basics and Unrolling Surfaces
+
 - Artist of the Day
 - [Rhino 3D Basics](#rhino-3d-basics)
 - [Unrolling Surfaces](#unrolling-surfaces)
@@ -62,7 +61,7 @@ Rhino file: [basics_3d.3dm](../examples/unroll.3dm)
 
 Rhino file: [unroll.3dm](../examples/unroll.3dm)
 
-## Homework 2
+## Homework
 **Pepakura Construction**
 
 - Using a combination of 3d primitives and solid editing tools, design a virtual sculpture you want to fabricate. 
@@ -70,11 +69,15 @@ Rhino file: [unroll.3dm](../examples/unroll.3dm)
 - Fabricate the result with the laser cutter and assemble it. 
 
 **Submission**
+
 - Upload your complete rhino file. 
 - Take 3-4 pictures of your object, and add them to your digital sketchbook. 
   - Upload a copy of that page from your sketchbook
 
-DUE: Not sure.
+DUE: 09/20/2023 15:00
 
 ## Reference
 - Pepakura Designer: [https://tamasoft.co.jp/pepakura-en/](https://tamasoft.co.jp/pepakura-en/)
+- [https://www.polyhedra.net/en/](https://www.polyhedra.net/en/)
+- [Exact Flat for Rhino](https://www.exactflat.com/exactflat-for-rhino)
+- 

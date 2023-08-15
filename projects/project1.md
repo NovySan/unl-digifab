@@ -10,7 +10,8 @@ For this assignment you can predominantly do 2D free-form drawing in Rhino, so l
 
 <br>
 
-Learning Goals: 
+Learning Goals:
+ 
 - Gain experience with laser cutting flat materials. 
 - Experience using calipers to measure the thickness of materials. 
 - Experience iterating on designs with Rhino and the Laser Cutter, until the parts fit.
@@ -27,13 +28,13 @@ Learning Goals:
 3. Fabrication
    - You need to actually fabricate this assignment from some flat material. 
      -  Acrylic, Cardboard, Matt Board, Paper.
-   - What time will we have open fabrication hours? Office hours (3-5pm Wed) or by appointment.
+   - Learn to schedule time on Innovation Studio machinery.
 
 # Submission
 1. Documentation:
    - Take screenshots of your 2d designs
    - Photos/videos to document your fabrication and assembly process
-   - SVG export of your final design, formatted to run on our laser cutter. (remember to hide extraneous layers)
+   - SVG export of your final design, formatted to run on any laser cutter. (remember to hide extraneous layers)
    - Photographs of your final product, assembled. Follow good documentation procedure.
 2. Sketchbook Updates:
    - sketches; screenshots of 2D designs; process images/videos; photos of final product; any notes, narrative about process.
@@ -44,7 +45,7 @@ Learning Goals:
    - Upload all of these files to Canvas
      - (use the naming convention _p1_Lastname_1.jpg_ and _p1_Lastname.svg_ _p1_Lastname.3dm_ for the files.)
 
-DUE 9/18, 11:59pm (Monday) to [Canvas](https://canvas.unl.edu/courses/158902/assignments/1521881)
+DUE 09/25/2023, 15:00 (Monday) to [Canvas](https://canvas.unl.edu/courses/158902/assignments/1521881)
 
 # References
 - No references at the moment.
