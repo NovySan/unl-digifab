@@ -47,5 +47,5 @@ Workflow:
 - Assemble these in 3d. 
 - Document your resultant assemblage with a number of screenshots (3 minimum). 
 - Upload your Rhino File and screen shots to Canvas: [https://canvas.unl.edu/courses/158902/assignments/1521871](https://canvas.unl.edu/courses/158902/assignments/1521871).
-- DUE 09/08/2023 (Friday 21:00)
+- DUE 09/13/2023 (Wednesday 15:00)
 

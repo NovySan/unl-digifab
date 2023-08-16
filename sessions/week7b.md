@@ -55,12 +55,13 @@ You are going to combine a 3d scanned object with a base and text to make a smal
 2. Import your scanned object into Rhino.
 3. Create an extruded base
 4. Add Text. 
-5. Slice this model for the Prusa MK3S+, PLA filament.
+5. Slice this model for the Ultimaker or Prusa MK3S+, PLA filament.
 6. Finally you will 3d print this model. 
 
 ### Submission
 - Add documentation of this (screenshots of rhino, screenshot of the slicer, and photo of your printed object) to your digital sketchbook. 
-- Submit a pdf of these pages from the digital sketchbook to [Canvas](https://canvas.unl.edu/courses/158902/assignments/1521881). DUE: Friday 9/29, 11:59pm.
+- Submit a pdf of these pages from the digital sketchbook to [Canvas](https://canvas.unl.edu/courses/158902/assignments/1521881). 
+- DUE: Monday 10/09/23 at 15:00.
 
 
 ## Office Hours 
@@ -68,8 +69,8 @@ Discord or by appointment.
 
 ## Reference
 - Prusa has great Tutorials.
-  - First Print with Prusa Slicer [https://help.prusa3d.com/article/first-print-with-prusaslicer_1753](https://help.prusa3d.com/article/first-print-with-prusaslicer_1753)
-  - 
+- First Print with Prusa Slicer [https://help.prusa3d.com/article/first-print-with-prusaslicer_1753](https://help.prusa3d.com/article/first-print-with-prusaslicer_1753)
+
 
 ### Places to get 3d models
 - [https://www.printables.com/](https://www.printables.com/)

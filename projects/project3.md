@@ -15,7 +15,9 @@ You will also meed to use your Arduino and some combination of sensors (photores
 
 Your project needs to have some meaningful behavior, whether preprogrammed, or in response to sensor/user input or interaction. 
 
-We will critique these projects the last week of class, Week 16.
+We will critique these projects the last week of class on 12/04 and 12/06. 
+
+We will present all your work at Open Studios.
 
 ## Proposal
 

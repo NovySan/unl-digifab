@@ -2,7 +2,7 @@
 
 | [Monday](#monday) | 
 
-![image](wwii-ghost-army.jpeg)
+![wwii-ghost-army](https://github.com/NovySan/unl-digifab/assets/5796142/a28f6c51-e9d8-43ca-925a-0f14e308a16b)
 
 ## Monday
 - [Artist of the Day](#artist-of-the-day)

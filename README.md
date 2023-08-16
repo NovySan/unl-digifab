@@ -39,7 +39,7 @@ A student who successfully completes this course will:
 - **Canvas:** [https://canvas.unl.edu/courses/158902](https://canvas.unl.edu/courses/158902)
 - **[Rhino 3d](https://www.rhino3d.com/)**
   - **[Grasshopper](https://www.grasshopper3d.com/)** and https://www.rhino3d.com/6/new/grasshopper/
-- [Axidraw](https://shop.evilmadscientist.com/productsmenu/890)
+- [Ultimaker](https://ultimaker.com/software/ultimaker-cura/)
 - [Prusa MK3S+](https://www.prusa3d.com/category/original-prusa-i3-mk3s/)
 - Muse laser engraver
 - Innovation Shop

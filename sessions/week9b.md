@@ -39,7 +39,7 @@ Paul McCarthy
 - Really just working with Meshes. 
 
 ### Homework
-** [Project 2 Proposal](../projects/project2.md#proposal) **
+
 
 ## Office Hours
 Discord or by appointment

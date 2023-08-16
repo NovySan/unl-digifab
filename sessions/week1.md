@@ -2,6 +2,7 @@
 
 ## Monday
 - Introductions
+- Innovation Studio Orientation
 - Review Syllabus
 - [Lecture 1: Context and Overview](https://docs.google.com/presentation/d/1wZe4Y-v-qv1fI5xNWKBqZGWpz57f6yS_R98hfc4AVRU/edit?usp=sharing)
 
@@ -27,6 +28,7 @@ Touch and Feel
   - Physical Computing Specimens
 
 ### Set up Rhino 3d
+
 Install [Rhinoceros](https://www.rhino3d.com/). We have a license for Rhino 7. It uses the Zoo server.
   - follow these steps (for Windows): https://www.rhino3d.com/en/features/administration/zoo/#setting-up-rhino-for-windows
   - or these steps (for Mac): https://www.rhino3d.com/en/features/administration/zoo/#setting-up-rhino-for-mac
@@ -34,7 +36,7 @@ Install [Rhinoceros](https://www.rhino3d.com/). We have a license for Rhino 7. I
   - <img src="https://user-images.githubusercontent.com/1598545/186644741-11696636-c79e-4d3c-8044-84b81838b571.png" width=300>
 
 ## Rhino Basics
-(_please remind me to record this_)
+
   - UI: controls, commands, display modes, view, model units ([interface basics tutorial](https://www.rhino3d.com/learn/?query=kind:%20jump_start%20tag:%20interface,rhino&modal=null), [selection basics tutorial](https://www.rhino3d.com/learn/?query=kind:%20jump_start%20tag:%20selection)) 
   - 2d operations: line, rectangle, trim, circle, dimension
   - transforms: scale, rotate, move
