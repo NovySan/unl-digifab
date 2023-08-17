@@ -1,4 +1,4 @@
-# Week 9b - Wednesday - MOAR 3D Printing
+# Week 9b - Wednesday - Digitizing Objects, 3d Scanning, and Photogrammetry
 
 | [Wednesday](#wednesday) |
 
@@ -38,8 +38,24 @@ Paul McCarthy
 ### 3D Scans in Rhino
 - Really just working with Meshes. 
 
+
 ### Homework
 
+**Scan Big Print Small**
+
+Using the ipad pro with Polycam or your own device, digitize a real world object. Think big: the rear camera LIDAR is best body to room scale. Photogrammetry is ok for a range of sizes. Here we will play with scale:
+
+1. Scan something big
+2. Share the mesh with yourself (AirDrop, email, or some other means to get it off of the iPad)
+3. Clean up the mesh in Rhino. 
+4. Print it at (small) scale (< 3x3x3")
+
+**Submission**
+
+1. Document the scan with screenshots in Rhino.
+2. Document the printed object with photographs. 
+3. Add these materials to your digital sketchbook and upload the new pages as a pdf.
+   - [canvas link](https://canvas.unl.edu/courses/158902/assignments/1521877)
 
 ## Office Hours
 Discord or by appointment

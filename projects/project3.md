@@ -10,8 +10,12 @@ For this project you will use the 3d design and fabrication techniques that we h
 - 3d scanning
 - laser cutting
 - 3d printing
+- ShopBot
+- Vacuu-forming
+- Inflatables
+- ETC...
 
-You will also meed to use your Arduino and some combination of sensors (photoresistor, rangefinder, potentiometer, etc.) and actuators (lights, buzzer, servo, etc.)
+You will also meed to use your Arduino (or other) and some combination of sensors (photoresistor, rangefinder, potentiometer, etc.) and actuators (lights, buzzer, servo, etc.)
 
 Your project needs to have some meaningful behavior, whether preprogrammed, or in response to sensor/user input or interaction. 
 
@@ -35,7 +39,7 @@ You will submit a two paragraph proposal for your idea addressing the following 
   - What elements will be fabricated?
   - How will you document your project? Consider where you will photograph the resulting object? What supporting images wil Where will you document your object?
 
-This written description will be [submitted online to Canvas](https://canvas.unl.edu/courses/137404/assignments/1370188) by Tuesday November 22.
+This written description will be [submitted online to Canvas](https://canvas.unl.edu/courses/158902/assignments/1521886) by Monday, November 27 at 15:00.
 
 ## Deliverables
 

@@ -8,7 +8,7 @@ Insert Vacuuform stuff here.
 
 
 ## Homework
-** [Project 2 Proposal](../projects/project2.md#proposal) **
+## **[Project 2 Proposal](../projects/project2.md#proposal)**
 
 ## Reference
 - [Adam Savage Ecto-goggles](https://www.youtube.com/watch?v=lsXLGT5N2uo)

@@ -2,7 +2,7 @@
 
 | [Wednesday](#wednesday) |
 
-## Monday
+## Wednesday
 Agenda 
 - [Artist of the Day](#artist-of-the-day)
 - More Sensors
@@ -12,6 +12,11 @@ Agenda
 - [DC Motor](#dc-motor) and High Power
 - [Homework](#homework)
 - [Office Hours this Week](#office-hours)
+- [Artist of the Day](#artist-of-the-day-2)
+- [Relay](#relay)
+- [Stepper Motor](#stepper-motor)
+- [Homework](#homework)
+
 
 ### Artist of the Day
 ![image](https://user-images.githubusercontent.com/1598545/201956027-a0033407-8a2d-4167-91bc-a0a6dd38d518.png)
@@ -77,18 +82,10 @@ See this file from the ELEGOO examples: [l21 dc motor.pdf](https://github.com/ro
 And this code: [Lesson 21 DC Motors.zip](https://github.com/roberttwomey/unl-digifab/files/10013843/Lesson.21.DC.Motors.zip)
 
 
-### Homework
-Starting thinking about a final project.
-
 ## Office Hours 
-Wednesday 4-6pm.
+Discord or by appointment
 
-## Wednesday
-Agenda
-- [Artist of the Day](#artist-of-the-day-2)
-- [Relay](#relay)
-- [Stepper Motor](#stepper-motor)
-- [Homework](#homework-2)
+
 
 ### Artist of the Day 2
 
@@ -115,8 +112,9 @@ See this file from the ELEGOO examples: [l23 stepper.pdf](https://github.com/rob
 
 And this code: [Lesson 23 Stepper Motor.zip](https://github.com/roberttwomey/unl-digifab/files/10031668/Lesson.23.Stepper.Motor.zip)
 
-### Homework 2
-Write a proposal for the final project. Due Monday morning 11/22 for one-on-one meetings. [https://canvas.unl.edu/courses/137404/assignments/1370188](https://canvas.unl.edu/courses/137404/assignments/1370188)
+### Homework
+
+Write a proposal for the final project. Due Monday morning 11/27 for one-on-one meetings. [https://canvas.unl.edu/courses/158902/assignments/1521886](https://canvas.unl.edu/courses/158902/assignments/1521886)
 
 ## Reference
 - Detailed HC-SR04 tutorial with LEDs and Arduino https://www.instructables.com/Simple-Arduino-and-HC-SR04-Example/

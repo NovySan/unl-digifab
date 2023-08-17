@@ -28,7 +28,7 @@ Daniel Rozin
 - Working with screws and nuts.
 
 ### Homework
-Continue work on Making Things Move. NOTE: due date was moved to Monday.
+Continue work on Making Things Move.
 
 ## Office Hours
 

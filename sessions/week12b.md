@@ -1,4 +1,4 @@
-# Week 12b - Wednesday - Digital and Analog IO
+# Week 12b - Wednesday - Arduino Analog
 
 | [Wednesday](#wednesday) |
 
@@ -44,8 +44,10 @@ https://www.arduino.cc/en/Tutorial/BuiltInExamples/AnalogInput
 
 ### Servo Sweep
 
-- Install the Servo library: 
-  - **Tools** -> **Manage Libraries**: 
+- Install the Servo library:
+-  
+  - **Tools** -> **Manage Libraries**:
+  -  
     - <img width="300" alt="image" src="https://user-images.githubusercontent.com/1598545/199737681-24316f67-162c-4575-b1e5-931186a644c5.png"> 
   - Search for **Servo**. Click **Install**:
     - <img width="400" alt="image" src="https://user-images.githubusercontent.com/1598545/199737612-735b282d-016f-4162-897a-6d06e2802555.png">
@@ -74,7 +76,7 @@ https://www.arduino.cc/en/Tutorial/LibraryExamples/Sweep
 - Reading the schematic.
 - Use the servo to control two knobs. 
 
-### Homework 2
+### Homework
 Finish _Making Things Move_. (Due Monday). Be ready to demo on Monday.
 
 ## Reference

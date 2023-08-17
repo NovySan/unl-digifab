@@ -5,6 +5,7 @@
 ## Monday
 
 Agenda
+
 - Look at "Making Things Move" 
 - [Artist of the Day](#artist-of-the-day)
 - Sensors and Serial Communication
