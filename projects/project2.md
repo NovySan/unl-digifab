@@ -1,16 +1,19 @@
-![FrankMiller_Wolverine](https://github.com/NovySan/unl-digifab/assets/5796142/160415c7-0859-4959-8dda-ad78c9245966) ![RageBeforeAge](https://github.com/NovySan/unl-digifab/assets/5796142/35eb683e-0838-48fa-b526-c510b997be18)
-
-
 # Project 2: Halloween Costume (or Prop)
+
+<img src="https://github.com/NovySan/unl-digifab/assets/5796142/160415c7-0859-4959-8dda-ad78c9245966") width="50%" height="50%"><img src="https://github.com/NovySan/unl-digifab/assets/5796142/35eb683e-0838-48fa-b526-c510b997be18" width="50%" height="50%">
+
 ## Description
 
-For this project you will make all or a portion of your or somebody else's Halloween costume. The concept is open-ended, but you will need to submit a written proposal for your project. (see [proposal](#proposal) below)
+For this project you will make all or a significant portion of your (or somebody else's) Halloween costume. A prop of significant size or effort would also be acceptable. The concept is open-ended, but you will need to submit a written proposal for your project. (see [proposal](#proposal) below)
 
 For this project you should use as many of the 3d design and fabrication techniques that we have covered in class so far, as appropriate to your concept:
 - 3d modeling (Rhino, as well any other software you have experience with)
 - 3d scanning (with ipad/iphone)
 - laser cutting
+- ShopBot
 - 3d printing
+- vacuu-forming
+- inflatables/sewing
 
 We will critique these projects on 10/30/2023 (**the day before Halloween!**)
 
@@ -50,4 +53,5 @@ This written description will be [submitted online to Canvas](https://canvas.unl
 ## References
 [Foamsmith Trilogy](https://www.dropbox.com/sh/2cmurztqzms3s46/AAAARoeCIs4WzxBE_kpWY5CGa?dl=0)
 
+[Mandalorian Helmet Template](https://www.punishedprops.com/2019/11/11/foam-mandos/)
 
