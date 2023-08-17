@@ -1,6 +1,7 @@
 # Project 2: Halloween Costume (or Prop)
 
-<img src="https://github.com/NovySan/unl-digifab/assets/5796142/160415c7-0859-4959-8dda-ad78c9245966") width="50%" height="50%"><img src="https://github.com/NovySan/unl-digifab/assets/5796142/35eb683e-0838-48fa-b526-c510b997be18" width="50%" height="50%">
+![wolvie](https://github.com/NovySan/unl-digifab/assets/5796142/41369817-9a95-4221-b1eb-2a0c46020aa5)
+
 
 ## Description
 
@@ -16,6 +17,8 @@ For this project you should use as many of the 3d design and fabrication techniq
 - inflatables/sewing
 
 We will critique these projects on 10/30/2023 (**the day before Halloween!**)
+
+![helmets](https://github.com/NovySan/unl-digifab/assets/5796142/83378030-5e36-4759-8504-0f9fdef084e3)
 
 ## Proposal
 
