@@ -1,6 +1,6 @@
 # Week 4b - Wednesday - Mesh Creation and Contour Extraction
 
-| [Monday](#monday) | [Wednesday](#wednesday) |
+| [Wednesday](#wednesday) |
 
 ## Wednesday
 

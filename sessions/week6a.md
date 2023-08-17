@@ -1,4 +1,4 @@
-# Week 6a - Monday - Work Day
+# Week 6a - Monday - Work Day; Catch Up Day
 
 | [Monday](#monday) |
 
@@ -18,8 +18,8 @@ Lawrence Malstaf
 - [Shrink](https://www.lawrencemalstaf.com/work/shrink/)
 - [Portfolio website](https://www.lawrencemalstaf.com/work/)
 
-## Homework 2
-Complete Project 1 (due Monday, 9/27)
+## Homework
+Keep working on Project 1 (due Monday, 9/27)
 
 ## Material Testing Methods
 

@@ -2,7 +2,7 @@
 
 [Wednesday](#wednesday)
 
-## Monday
+## Wednesday
 
 Insert Vacuuform stuff here.
 

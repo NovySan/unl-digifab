@@ -74,7 +74,7 @@ Rhino file: [unroll.3dm](../examples/unroll.3dm)
 - Take 3-4 pictures of your object, and add them to your digital sketchbook. 
   - Upload a copy of that page from your sketchbook
 
-DUE: 09/20/2023 15:00
+DUE: 09/25/2023 15:00
 
 ## Reference
 - Pepakura Designer: [https://tamasoft.co.jp/pepakura-en/](https://tamasoft.co.jp/pepakura-en/)

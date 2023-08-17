@@ -69,7 +69,7 @@ A student who successfully completes this course will:
 | 8b | **[Vacuu-Forming](sessions/week8b.md)** | 
 | 9a | **[Fall Break](sessions/week9a.md)**
 | 9b | **[Digitizing Objects, 3d Scanning, and Photogrammetry ](sessions/week9b.md)**
-| 10a | **[3D Scanning & 3D Scanning Part 2](sessions/week10a.md)** |
+| 10a | **[Scanning Spaces](sessions/week10a.md)** |
 | 10b | **[Work Day](sessions/week10b.md)** 
 | 11a | **[Critique Project 2](sessions/week11a.md)** | 
 | 11b | **[Making Things Move](sessions/week11b.md)** | 

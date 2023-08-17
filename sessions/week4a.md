@@ -5,7 +5,7 @@
 - Artist of the Day [Lauren Baker](https://laurenbaker.net/filter/art/Laser-cut-acrylic)
 - [Extruding Curves](#extruding-curves)
   - [Extruding Example](#extruding-example)
-- Homework: [Stacked Contours](#homework) (DUE Friday)
+- Homework: [Stacked Contours](#homework)
 
 ## Artist of the Day
 

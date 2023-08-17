@@ -1,3 +1,3 @@
-# Week 10a - Monday - TK
+# Week 10a - Monday - Scanning Spaces
 
 WTK
