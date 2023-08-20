@@ -22,10 +22,13 @@ Ian Ingram
 
 Robot that uses the beak-wiping gesture of the Eurasian Magpie to relay messages to those around: to magpies that it is very well-fed yet nervous; to humans that know Morse code that it is in a state of constant mourning.
 
-### Designing around a part
-- Look at Examples
+## Robert's Excellent Video Series
+- [https://drive.google.com/file/d/1zhTfxoq8030BvpIwKexGnKYdWaQ9kTGY/view?usp=sharing]()
 
-Howto
+### Designing around a part
+
+**HowTo**
+
 - Taking dimensions (or finding a dimensioned drawing)
 - Designing a part that mates. 
 - Checking fit 
@@ -34,8 +37,11 @@ Howto
   - hot glue
 
 ### Homework
+
 **Making Things Move**
-You will create a simple servo plus arduino construction with a stationary base and a moving part. It could be a box that waves hello. Your stationary base should hold the servo (so measure the base of your servo). The moving component should attach to one of the servo attachments. 
+
+You will create a simple servo plus arduino construction with a stationary base and a moving part. It could be a box that waves hello. Your stationary base should hold the servo (so measure the base of your servo). The moving component should attach to one of the servo attachments.
+ 
 1. Sketch to come up with an idea for base and moving part. 
 2. Measure the servo and print a base that will mount it.
    - do test prints, as necessary, to check the fit. 
@@ -47,6 +53,7 @@ You will create a simple servo plus arduino construction with a stationary base 
 6. Document and demonstrate.
 
 **Submission**
+
 1. Document your Rhino design with screenshots. Show perspective views of the object and it's motion. 
 2. Photograph your printed objects and final assembly.
 3. Add this documentation 

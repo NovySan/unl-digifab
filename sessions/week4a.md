@@ -13,6 +13,9 @@
 
 Lauren Baker ([https://laurenbaker.net/filter/art/Laser-cut-acrylic](https://laurenbaker.net/filter/art/Laser-cut-acrylic))
 
+## Robert's Excellent Video Series
+- [https://drive.google.com/file/d/1tPlTyQPVZB22oaNCzVrWpezLiZ3NIW1x/view?usp=sharing]()
+
 ## Extruding Curves
 - We can **extrude** a 2d curve into 3 dimensions to see what it would look like as a flat object. 
   - [_ExtrudeCrv_](https://docs.mcneel.com/rhino/7/help/en-us/index.htm#commands/extrudecrv.htm) **<--- THIS IS OUR GOTO**
@@ -40,6 +43,8 @@ Workflow:
 
 
 ## Stacking Contours
+![](https://laughingsquid.com/wp-content/uploads/2015/01/skull_bricks_B_001__66920.1411477266.1280.1280-750x750.jpg)
+
 ## Homework
 **Stacked Contours**
 

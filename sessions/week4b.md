@@ -22,6 +22,10 @@ Also:
 - [d  i  s p lace](https://www.inmilee.com/displace.html) 2005
 - complete [projects](https://www.inmilee.com/index.html)
 
+## Robert's Excellent Video Series
+- [https://drive.google.com/file/d/1pMrvKhi0zbia2AFm2jC1IMdcXEHAfkUI/view?usp=sharing]()
+
+
 ## Working With Meshes
 
 __Solids vs. Meshes__

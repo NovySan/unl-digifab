@@ -21,6 +21,9 @@
 - [Paper Soldier](http://www.delappe.net/project/paper-soldier/)
 - [The Drone Project](http://www.delappe.net/sculptureinstallation/the-drone-project/)
 
+## Robert's Excellent Video Series
+- [https://drive.google.com/file/d/1FKsDfFfptjkkDLEj0PtASqYCQ7PpNILT/view?usp=sharing]()
+
 ## Rhino 3D Basics
 In rhino we can either natively author 3d shapes (create boxes, spheres, pyramids, etc.), or we can extrude/loft/revolve 2D drawings into 3d shapes. These two methods are typical for CAD softwares. There is one additional distinction between meshes, polysurfaces, solids, but we do not need to deal with that now.
 

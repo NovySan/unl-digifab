@@ -5,6 +5,11 @@
 - Innovation Studio Orientation
 - Review Syllabus
 - [Lecture 1: Context and Overview](https://docs.google.com/presentation/d/1wZe4Y-v-qv1fI5xNWKBqZGWpz57f6yS_R98hfc4AVRU/edit?usp=sharing)
+- Requirements:
+	- [ELEGOO UNO Project Super Starter Kit with Tutorial and UNO R3 Compatible with Arduino IDE](https://www.amazon.com/gp/product/B01D8KOZF4?ref=ppx_pt2_dt_b_prod_image)
+- Homework
+	- [Watch Robert's excellent video on Rhino 2D basics](https://drive.google.com/file/d/1AzgcXUiILhfRRCqnAntPxxSZ7xRO9Szj/view?usp=sharing)
+	- Practice, practice, practice
 
 ## Wednesday
 - [Discord Setup](#discord-setup)
@@ -42,6 +47,8 @@ Install [Rhinoceros](https://www.rhino3d.com/). We have a license for Rhino 7. I
   - transforms: scale, rotate, move
   - operations: split, join, trim, extend
   - organization: layers, groups
+
+- [Robert's excellent video tutorial again](https://drive.google.com/file/d/1AzgcXUiILhfRRCqnAntPxxSZ7xRO9Szj/view?usp=sharing)
 
 ### Example Stencil
 
