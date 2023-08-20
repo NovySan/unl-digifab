@@ -11,6 +11,16 @@
 
 ## Artist of the Day 
 
+Tim Davies
+
+![CLEAN+ocho__MG_0046](https://github.com/NovySan/unl-digifab/assets/5796142/86d70fca-6049-4748-9044-b71f84625324) 
+![CLEAN+ocho__MG_0033](https://github.com/NovySan/unl-digifab/assets/5796142/19f771c3-2c8d-4ba0-8615-d0a72dfc64fd)
+
+[Ocho](https://www.youtube.com/watch?v=KcYwXRdrhpU&t=59s)
+
+![P1020312s](https://github.com/NovySan/unl-digifab/assets/5796142/f7a0a6a5-8d53-4519-a28a-7012e4ee19e5)
+
+[Arachnobot](https://www.youtube.com/watch?v=c8O_NN5CUow)
 
 ## Resources
 
