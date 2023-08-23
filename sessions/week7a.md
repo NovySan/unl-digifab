@@ -22,6 +22,8 @@
 
 [Arachnobot](https://www.youtube.com/watch?v=c8O_NN5CUow)
 
+[https://www.architects-of-air.com/luminaria/daedalum]()
+
 ### Fused vs Sewn
 
 [Plastic Table Cloth Method](https://www.youtube.com/watch?v=THhGG1s-6sw)
@@ -37,6 +39,8 @@
 **_Can the laser cutter be used to cut or fuse?_**
 
 Technically, yes, polyetehlene can be laser cut. An unfocused beam could fuse as well. This would make an **excellent** research topic.
+
+[Ultrasonic Welding vs RF Welding](https://www.carolinacovertech.com/rf-welding-vs-ultrasonic-welding/)
 
 ### Bladder vs Bladderless
 
