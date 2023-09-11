@@ -81,7 +81,7 @@ Rhino file: [two_slots.3dm](../examples/two_slots.3dm)
 
 ### Power Settings
 - Suggested starting power settings for FSL Muse (do tests and adjust these for your project):
-![image](https://user-images.githubusercontent.com/1598545/132598192-898d58a6-ba56-40fc-8e95-18374daada8a.png)
+![image](../assets/laser-materials-guide.jpg)
 
 ## Leftovers 
 - Slicing / panelling tools (breaking 3d structure down into 2d components that can be assembled)
