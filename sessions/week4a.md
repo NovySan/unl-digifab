@@ -14,7 +14,7 @@
 Lauren Baker ([https://laurenbaker.net/filter/art/Laser-cut-acrylic](https://laurenbaker.net/filter/art/Laser-cut-acrylic))
 
 ## Robert's Excellent Video Series
-- [https://drive.google.com/file/d/1tPlTyQPVZB22oaNCzVrWpezLiZ3NIW1x/view?usp=sharing]()
+- [twomey digifab extrusion video](https://drive.google.com/file/d/1tPlTyQPVZB22oaNCzVrWpezLiZ3NIW1x/view?usp=sharing)
 
 ## Extruding Curves
 - We can **extrude** a 2d curve into 3 dimensions to see what it would look like as a flat object. 
