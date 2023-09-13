@@ -23,7 +23,7 @@ Also:
 - complete [projects](https://www.inmilee.com/index.html)
 
 ## Robert's Excellent Video Series
-- [https://drive.google.com/file/d/1pMrvKhi0zbia2AFm2jC1IMdcXEHAfkUI/view?usp=sharing]()
+- [https://drive.google.com/file/d/1pMrvKhi0zbia2AFm2jC1IMdcXEHAfkUI/view?usp=sharing](https://drive.google.com/file/d/1pMrvKhi0zbia2AFm2jC1IMdcXEHAfkUI/view?usp=sharing)
 
 
 ## Working With Meshes
@@ -86,4 +86,4 @@ Rhino file: [buffalo_contours.3dm](../examples/buffalo_contours.3dm)
 Rhino file: [sliced_pikachu.3dm](../examples/sliced_pikachu.3dm)
 
 ## Homework
-Work on Project 1 (Due Monday 9/25)
+Work on Project 1 (Due Wednesday 9/27)

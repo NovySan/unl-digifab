@@ -22,7 +22,7 @@
 - [The Drone Project](http://www.delappe.net/sculptureinstallation/the-drone-project/)
 
 ## Robert's Excellent Video Series
-- [https://drive.google.com/file/d/1FKsDfFfptjkkDLEj0PtASqYCQ7PpNILT/view?usp=sharing]()
+- [https://drive.google.com/file/d/1FKsDfFfptjkkDLEj0PtASqYCQ7PpNILT/view?usp=sharing](https://drive.google.com/file/d/1FKsDfFfptjkkDLEj0PtASqYCQ7PpNILT/view?usp=sharing)
 
 ## Rhino 3D Basics
 In rhino we can either natively author 3d shapes (create boxes, spheres, pyramids, etc.), or we can extrude/loft/revolve 2D drawings into 3d shapes. These two methods are typical for CAD softwares. There is one additional distinction between meshes, polysurfaces, solids, but we do not need to deal with that now.
@@ -69,12 +69,12 @@ Rhino file: [unroll.3dm](../examples/unroll.3dm)
 
 - Using a combination of 3d primitives and solid editing tools, design a virtual sculpture you want to fabricate. 
 - Using Unroll, Explode, and your 2d drawing tools, flatten this object into a series of pieces that can be fashioned from cut paper. 
-- Fabricate the result with the laser cutter and assemble it. 
+- No need to actually cut in the laser cutter unless you have time and want to. 
 
 **Submission**
 
 - Upload your complete rhino file. 
-- Take 3-4 pictures of your object, and add them to your digital sketchbook. 
+- Take 3-4 screenshots of your rhino object, and add them to your digital sketchbook. 
   - Upload a copy of that page from your sketchbook
 
 DUE: 09/25/2023 15:00
@@ -83,4 +83,4 @@ DUE: 09/25/2023 15:00
 - Pepakura Designer: [https://tamasoft.co.jp/pepakura-en/](https://tamasoft.co.jp/pepakura-en/)
 - [https://www.polyhedra.net/en/](https://www.polyhedra.net/en/)
 - [Exact Flat for Rhino](https://www.exactflat.com/exactflat-for-rhino)
-- 
+
