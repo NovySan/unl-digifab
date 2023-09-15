@@ -9,7 +9,7 @@
 
 ## Artist of the Day
 
-<img src="http://dataphys.org/list/images/uploads/2018/07/ekene-ijeoma-wage-islands-storefront-for-art-and-architecture-chicago-architecture-biennial-designboom-04.jpg" width=400>
+![ekene-ijeoma-wage-islands-storefront-for-art-and-architecture-chicago-architecture-biennial-designboom-04](https://github.com/NovySan/unl-digifab/assets/5796142/7b0937cd-0e50-48d1-9e82-b0c03a2d820a)
 
 Ekene Ijeoma ([https://studioijeoma.com/Wage-Islands](https://studioijeoma.com/Wage-Islands))
 
