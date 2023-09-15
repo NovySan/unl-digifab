@@ -2,16 +2,16 @@
 
 ## Monday
 
-- Artist of the Day [Lauren Baker](https://laurenbaker.net/filter/art/Laser-cut-acrylic)
+- [Artist of the Day](#artist-of-the-day)
 - [Extruding Curves](#extruding-curves)
   - [Extruding Example](#extruding-example)
 - Homework: [Stacked Contours](#homework)
 
 ## Artist of the Day
 
-<img src="https://user-images.githubusercontent.com/1598545/188630308-bb449780-4e4d-4fba-8fbc-407fd9135e82.png" width=400>
+<img src="http://dataphys.org/list/images/uploads/2018/07/ekene-ijeoma-wage-islands-storefront-for-art-and-architecture-chicago-architecture-biennial-designboom-04.jpg" width=400>
 
-Lauren Baker ([https://laurenbaker.net/filter/art/Laser-cut-acrylic](https://laurenbaker.net/filter/art/Laser-cut-acrylic))
+Ekene Ijeoma ([https://studioijeoma.com/Wage-Islands](https://studioijeoma.com/Wage-Islands))
 
 ## Robert's Excellent Video Series
 - [twomey digifab extrusion video](https://drive.google.com/file/d/1tPlTyQPVZB22oaNCzVrWpezLiZ3NIW1x/view?usp=sharing)
