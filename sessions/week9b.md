@@ -43,7 +43,7 @@ Paul McCarthy
 
 **Scan Big Print Small**
 
-Using the ipad pro with Polycam or your own device, digitize a real world object. Think big: the rear camera LIDAR is best body to room scale. Photogrammetry is ok for a range of sizes. Here we will play with scale:
+Using the ipad pro with Polycam or Scaniverse or your own device, digitize a real world object. Think big: the rear camera LIDAR is best body to room scale. Photogrammetry is ok for a range of sizes. Here we will play with scale:
 
 1. Scan something big
 2. Share the mesh with yourself (AirDrop, email, or some other means to get it off of the iPad)
