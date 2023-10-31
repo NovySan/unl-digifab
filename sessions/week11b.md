@@ -57,7 +57,7 @@ You will create a simple servo plus arduino construction with a stationary base 
 1. Document your Rhino design with screenshots. Show perspective views of the object and it's motion. 
 2. Photograph your printed objects and final assembly.
 3. Add this documentation 
-2. Upload to Canvas (due Monday Nov 7th): [https://canvas.unl.edu/courses/137404/assignments/1364197](https://canvas.unl.edu/courses/137404/assignments/1364197)
+2. Upload to Canvas (due Monday Nov 13th): [https://canvas.unl.edu/courses/158902/assignments/1521878](https://canvas.unl.edu/courses/158902/assignments/1521878)
 
 ## Office Hours
 
