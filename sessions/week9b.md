@@ -4,7 +4,7 @@
 
 
 ## Wednesday
-
+- [Artec Eva, Scaniverse, Polycam Training](artec-eva-scaniverse-polycam-training)
 - [Artist of the Day](#artist-of-the-day)
 - [3D Scanning](#3d-scanning)
 - [3D Scans in Rhino](#3d-scans-in-rhino)
@@ -12,6 +12,8 @@
   - Bonus: Meshmixer
 - [Homework](#homework)
 - [Office Hours this Week](#office-hours)
+
+## Artec Eva Scaniverse Polycam Training
 
 ### Artist of the Day
 <img src="https://user-images.githubusercontent.com/1598545/195103516-1e6321d5-4307-4806-bbea-b9c34b7d77f8.jpg" height=800>
@@ -29,7 +31,7 @@ Paul McCarthy
 - Examples of room scans (Twomey)
 - Simple solution, phone/tablet apps.
   - Scaniverse [https://scaniverse.com/](https://scaniverse.com/) 
-  - Polycam [https://poly.cam](https://poly.cam/) - does both photogrammetry and LIDAR
+  - Polycam [https://poly.cam](https://poly.cam/) - does both photogrammetry and LIDAR (not free).
   - Scandy Pro [https://www.scandy.co/apps/scandy-pro](https://www.scandy.co/apps/scandy-pro) - can use the front facing lidar camera (FaceID) on iphone/tablet to do detailed scan. 
   - Other approaches?
 - Strengths and limitations of various approaches. 
@@ -55,7 +57,7 @@ Using the ipad pro with Polycam or Scaniverse or your own device, digitize a rea
 1. Document the scan with screenshots in Rhino.
 2. Document the printed object with photographs. 
 3. Add these materials to your digital sketchbook and upload the new pages as a pdf.
-   - [canvas link](https://canvas.unl.edu/courses/158902/assignments/1521877)
+   - [Canvas Link](https://canvas.unl.edu/courses/185978/assignments/1807035)
 
 ## Office Hours
 Discord or by appointment

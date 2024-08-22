@@ -4,6 +4,6 @@
 
 Work Day -- Use your time wisely.
 
-Get caught up!
+Get caught up MORE!
 
-Work on your project.
+Work on your Project 2.

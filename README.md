@@ -1,4 +1,4 @@
-# EMAR 446: Digital Fabrication and Physical Computing - Fall 2023
+# EMAR 446: Digital Fabrication and Physical Computing - Fall 2024
 
 [Description](#description) | [Resources](#resources) | [Schedule](#schedule) | [Grading](#grading) | [Policies](#policies) | [References](#references)
 
@@ -35,15 +35,15 @@ A student who successfully completes this course will:
 **Prequisites:** Major in Emerging Media Arts and successful completion of EMAR161 Computational Media Studio II, or permission of instructor.
 
 # Resources
-- **Discord:** [https://discord.com/channels/688079641738608705/1131317707883683992](https://discord.com/channels/688079641738608705/1131317707883683992)
-- **Canvas:** [https://canvas.unl.edu/courses/158902](https://canvas.unl.edu/courses/158902)
+- **Discord:** [https://discord.com/channels/688079641738608705/1271213702497959956](https://discord.com/channels/688079641738608705/1271213702497959956)
+- **Canvas:** [https://canvas.unl.edu/courses/185978](https://canvas.unl.edu/courses/185978)
 - **[Rhino 3d](https://www.rhino3d.com/)**
-  - **[Grasshopper](https://www.grasshopper3d.com/)** and https://www.rhino3d.com/6/new/grasshopper/
-- [Ultimaker](https://ultimaker.com/software/ultimaker-cura/)
-- [Prusa MK3S+](https://www.prusa3d.com/category/original-prusa-i3-mk3s/)
-- Muse laser engraver
-- Innovation Shop
-- [UNL EE Shop](http://eeshop.unl.edu/ee_shop_store.html) a good (local) source for all things electronic. mingle with engineers! you can just walk over there and buy stuff. 
+- **[Grasshopper (included in Rhino 7 & 8)](https://www.grasshopper3d.com/)**
+- **[Ultimaker](https://ultimaker.com/software/ultimaker-cura/)**
+- **[Prusa MK3S+](https://www.prusa3d.com/category/original-prusa-i3-mk3s/)**
+- **[Muse laser cutter in student lounge](https://fslaser.com/laser-101/)**
+- **[Innovation Studio](https://make.unl.edu/)**
+- **[UNL EE Shop](http://eeshop.unl.edu/ee_shop_store.html)** a good (local) source for all things electronic. mingle with engineers! you can just walk over there and buy stuff. 
 
 
 # Schedule
@@ -51,39 +51,40 @@ A student who successfully completes this course will:
 
 | Week | Topic |
 |------|-------|
-| 1a | **[Intro and Overview](sessions/week1.md#monday)** Course Policies; Install Rhino; Sign up for Discord |
-| 1b | **[Rhino](sessions/week1.md#wednesday)** 2D Drawing; Exercise: Stencil |
-| 2a | **[Laser Cutter](sessions/week2.md#monday)**|
-| 2b | **[Volly Ball Day - No In-Person Classes](https://novysan.github.io/unl-digifab/sessions/week2.html#wednesday)**|
-| 3a | **[Labour Day - No In-Person Classes](sessions/week3a.md)**|
-| 3b | **[Tab and slot](sessions/week3b.md)**|
-| 4a | **[Laser to 3D: Stacked Contours](sessions/week4a.md)** 
-| 4b | **[Mesh Creation and Contour Extraction](sessions/week4b.md)** |
-| 5a | **[Shopbot and Large CNC](sessions/week5a.md)** |
-| 5b | **[3D Basics and Unrolling Surfaces](sessions/week5b.md)** |
-| 6a | **[Work Day. Material Testing Methods](sessions/week6a.md)** |
-| 6b | **[Critique Project 1](sessions/week6b.md)**
-| 7a | **[Inflatables](sessions/week7a.md)**   
-| 7b | **[Intro to 3D Printing](sessions/week7b.md)** | 
-| 8a | **[Formlabs and Stratasys Hands-On](sessions/week8a.md)** |
-| 8b | **[Vacuu-Forming](sessions/week8b.md)** | 
+| 1a | **[Intro and Overview](sessions/week1.md#monday)** Course Policies; Install Rhino; Rhino basics; Sign up for Discord |
+| 1b | **[Laser Cutter](sessions/week1.md#wednesday)** More Rhino basics; 2D Drawing; Exercise: Stencil and Digital Notebook |
+| 2a | **[Labour Day - No In-Person Classes]**
+| 2b | **[Tab and slot](sessions/week2.md#wednesday)**|
+| 3a | **[Laser to 3D: Stacked Contours](sessions/week3a.md)** 
+| 3b | **[Mesh Creation and Contour Extraction](sessions/week3b.md)** |
+| 4a | **[Shopbot and Large CNC](sessions/week4a.md)** |
+| 4b | **[3D Basics and Unrolling Surfaces](sessions/week4b.md)** |
+| 5a | **[Work Day. Material Testing Methods](sessions/week5a.md)** |
+| 5b | **[Critique Project 1](sessions/week5b.md)**
+| 6a | **[Inflatables](sessions/week6a.md)**   
+| 6b | **[Intro to 3D Printing](sessions/week6b.md)** | 
+| 7a | **[Formlabs and Stratasys Hands-On](sessions/week7a.md)** |
+| 7b | **[Vacuu-Forming](sessions/week7b.md)** |
+| 8a | **[Novy Out - Work Day](sessions/week8a.md)** |
+| 8b | **[Novy Out - Work Day](sessions/week8b.md)** | 
 | 9a | **[Fall Break](sessions/week9a.md)**
 | 9b | **[Digitizing Objects, 3d Scanning, and Photogrammetry ](sessions/week9b.md)**
 | 10a | **[Scanning Spaces](sessions/week10a.md)** |
-| 10b | **[Work Day](sessions/week10b.md)** 
-| 11a | **[Critique Project 2](sessions/week11a.md)** | 
-| 11b | **[Making Things Move](sessions/week11b.md)** | 
-| 12a | **[Making Things Move II](sessions/week12a.md)** | 
-| 12b | **[Arduino Analog](sessions/week12b.md)** 
-| 13a | **[Sensors and Inputs](sessions/week13a.md)** |
-| 13b | **[Actuators and Outputs](sessions/week13b.md)** |
-| 14a | **[One on One meetings](sessions/week14a.md)** |
+| 10b | **[Critique Project 2](sessions/week10b.md)** | 
+| 11a | **[Making Things Move](sessions/week11a.md)** | 
+| 11b | **[Making Things Move II](sessions/week11b.md)** | 
+| 12a | **[Arduino Analog](sessions/week12a.md)** | 
+| 12b | **[Sensors and Inputs](sessions/week12b.md)** | 
+| 13a | **[Actuators and Outputs](sessions/week13a.md)** |
+| 13b | **[One on One meetings](sessions/week13b.md)** |
+| 14a | **[SANITY CHECK](sessions/week14a.md)** |
 | 14b | **[Thanksgiving](sessions/week14b.md)** |
 | 15a | **[Final Project Work](sessions/week15.md#monday)** | 
 | 15b | **[Final Project Work](sessions/week15.md#wednesday)**|
-| 16a | **[Final Critiques; Open Studios](sessions/week16.md#monday)** | 
-| 16b | **[Final Critiques; Open Studios](sessions/week16.md#wednesday)** | 
-| Finals | Submit Final Documentation |
+| 16a | **[Final Critiques](sessions/week16.md#monday)** | 
+| 16b | **[Final Critiques](sessions/week16.md#wednesday)** |
+| 16c | **[Open Studios - 12/13/24]()** |
+| Finals Week| Submit Final Documentation |
 
 <!--
 | Week | Topic |
@@ -155,11 +156,14 @@ Contributions to class discussions and active participation in small group work 
 An assignment may receive an F if a student does not participate in every phase of the development of the project and meet all deadlines for preliminary materials (proposals, drafts, etc.). Failure to submit any of the graded course assignments is grounds for failure in the course. If a final draft or project, plus required addenda, is not submitted in class on the date due, it will be considered late and will lose one letter grade for each day or part of a day past due (A to B, etc.). Assignments are due in hard copy and or via email/link (online assignment). You must submit your assignments directly to the instructor. Any late submissions must be approved by your faculty instructor well in advance of the due date.
 
 ## Grading Scale
-A+ = 97-100 | A = 93-97 | A- = 90-93 <br>
-B+ = 87-90 | B = 83-87 | B- = 80-83 <br>
-C+ = 77-80 | C = 73-77 | C- = 70-73 <br>
-D+ = 67-70 | D = 63-67 | D- = 60-63 <br>
-F = below 60%<br>
+
+Default Canvas Grading Scheme:
+
+A = 100% to 94% | A- = < 94% to 90% <br>
+B+ = < 90% to 87% | B = < 87% to 84% | B- = < 84% to 80% <br>
+C+ = < 80% to 77% | C = < 77% to 74% | C- = < 74% to 70% <br>
+D+ = < 70% to 67% | D = < 67% to 64% | D- = < 64% to 61% <br>
+F = < 61% to 0%<br>
 
 Here is a description of the kind of participation in the course that would earn you an A, B, C, etc. Your instructor may use pluses and minuses to reflect your participation more fairly, but this is a general description for each letter grade.
 

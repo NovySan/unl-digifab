@@ -1,95 +1,122 @@
-# Week 13a - Monday - Sensors and Inputs
+# Week 13a - Monday - Actuators and Outputs
 
 | [Monday](#monday) |
 
 ## Monday
 
-Agenda
-
-- Look at "Making Things Move" 
+Agenda 
 - [Artist of the Day](#artist-of-the-day)
-- Sensors and Serial Communication
-  - [Photoresistor](#photoresistor)
-  - [Analog with Serial](#analog-serial)
-  - IR Rangefinder
-  - Analog joystick? others?
-  
+- More Sensors
+  - ~[Temperature Sensor](#temperature-sensor)~
+  - [Ultrasonic Rangefinder](#ultrasonic-rangefinder)
+  - Rangefinder to P5
+- [DC Motor](#dc-motor) and High Power
+- [Homework](#homework)
+- [Office Hours this Week](#office-hours)
+- [Artist of the Day](#artist-of-the-day-2)
+- [Relay](#relay)
+- [Stepper Motor](#stepper-motor)
+- [Homework](#homework)
+
 
 ### Artist of the Day
-<img src="https://static.wixstatic.com/media/da4380_8c69e59f02c94561ada1e465a9204f84~mv2.gif">
+![image](https://user-images.githubusercontent.com/1598545/201956027-a0033407-8a2d-4167-91bc-a0a6dd38d518.png)
 
-John Strope - DIY Animatronics and other work
+Amy Youngs
 
-- [DIY Animatronic Eyeball](https://www.johnstrope.com/post/eyemech)
-- [Giraffe Enrichment Design](https://www.johnstrope.com/extracurricular)
+- [Rearming the Spineless Apuntia](https://hypernatural.com/portfolio/rearming-the-spineless-opuntia/)
+- rest of portfolio: [https://hypernatural.com/art/](https://hypernatural.com/art/)
 
-## Analog Serial
-<img = "https://www.arduino.cc/wiki/static/7dbfb4b4c090ba1bc52c2a779822b8f9/29007/analoginoutserial1_bb.png" width=800>
+### Temperature sensor
 
-[https://docs.arduino.cc/built-in-examples/basics/AnalogReadSerial](https://docs.arduino.cc/built-in-examples/basics/AnalogReadSerial)
+![image](https://user-images.githubusercontent.com/1598545/141343262-3c12cb66-e550-4696-81d9-30cc9c1ac033.png)
 
-- From last class, we should still have our potentiometer hooked up into Analog Input 0 (A0) on the arduino. 
-- Load the AnalogReadSerial sketch (Examples->01.Basics->AnalogReadSerial) to the arduino. 
-- Open the serial monitor:
-  - ![image](https://user-images.githubusercontent.com/1598545/141345025-13b9fced-5f45-4f7b-892e-936678a94808.png)
-  - Look at how moving the potentiometer changes the value of analogRead(). 
-- Activity: Use [`map()`](https://www.arduino.cc/reference/en/language/functions/math/map/) to scale those analog values to 0-255, and use that to fade a jumbo LED (`analogWrite()`)
-- We can use `serial.write()` to communicate with p5, or processing, or maxMSP or any other program that can read from a serial port.
+(image from [Adafruit](https://learn.adafruit.com/tmp36-temperature-sensor/using-a-temp-sensor))
 
-## Photoresistor
+- The [TMP 36GZ](http://www.us.diigiit.com/tmp36gz-temperature-sensor) is a temperature sensor.
+- This is an active sensor, meaning we provide power to ground and 5V, and it outputs a voltage proportional to temperature.
+  - Looking at the [datasheet](http://www.us.diigiit.com/download/TMP35-36-37.pdf), we see it is 10mV/degree Celsius. That means we can use the output voltage (read by analog in) to figure out what the temperature is.
+- To convert from AnalogRead value to milli-volts: __Voltage at pin in milliVolts = (reading from ADC) * (5000/1024)__
+- To convert from milliVolts to degree celsius: __Centigrade temperature = [(analog voltage in mV) - 500] / 10__
+- Activity: 
+  - Use AnalogReadSerial to figure out what the current temperature in the room is in Celsius.
+  - Modify your code to convert Celsius to fahrenheit. 
+  - Explore the dynamic behavior: how quickly does it change in response to breathing on it? In response to touching it? Can you get the temperature to go up, or go down?
 
-<img src="https://www.arduino.cc/wiki/static/bb8d0c184836ed4f8cabf71c3dc07ce9/29007/PhotoCellA0.png" width=800>
+### Ultrasonic Rangefinder
 
-[https://www.arduino.cc/en/Tutorial/BuiltInExamples/AnalogInput](https://www.arduino.cc/en/Tutorial/BuiltInExamples/AnalogInput)
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/1598545/201957013-f666732a-57be-410c-85c1-76aa5d606797.png">
 
-- Use a multimeter to see how the resistance changes with the photoresistor. 
-  - (this does not need a circuit. connect the red lead to one side of the photoresister, and the black lead to the other)
-- We can put a photoresistor in series with a resistor to make a voltage divider. This is similar to how a potentiometer works. As the resistance of the photoresistor changes (the light changes), the output voltage will change.
-- Hook up the circuit in the picture above with a resistor, photoresistor, and wires to ground, 5V, and A0.
-- Use AnalogReadSerial from the section above, and use the serial port monitor to see what the range of output voltages is.
-- Activity: Use the photoresistor to control the servo from last class, in place of the potentiometer
-  1. Use the serial port to debug the range of analog values coming in from the photo-resistor/resistor voltage divider.
-  2. Use [`map()`](https://www.arduino.cc/reference/en/language/functions/math/map/) to scale those analog values to 0 -> 180 degrees (the full range of the servo)
-  3. Interact with the photoresistor and see the motor move. 
-- Extension: Instead of directly mapping sensor values to servo position, use the sensor values to trigger specific motions. For instance, have if statements that move it to different positions depending on how much light it sees.
+See this file from the ELEGOO examples: [l10 ultrasonic sensor.pdf](https://github.com/roberttwomey/unl-digifab/files/10013826/l10.ultrasonic.sensor.pdf)
+
+And this code: [Lesson 10 Ultrasonic Sensor Module.zip](https://github.com/roberttwomey/unl-digifab/files/10013847/Lesson.10.Ultrasonic.Sensor.Module.zip)
+
+### Bonus Artist: Garnet Hertz
 
 
-- [Artist of the Day](#artist-of-the-day-2)
-- Finish talking about photoresistors and voltage dividers.
-- [LED Outputs](#led-outputs)
-- [Thermistors](#thermistors)
-- [Homework](#homework-2)
+
+<!--
+
+<img src="https://user-images.githubusercontent.com/1598545/142435895-e3024774-86f0-41b1-9914-a6e01e59d3fd.png" width=600px>
+
+from https://create.arduino.cc/projecthub/abdularbi17/ultrasonic-sensor-hc-sr04-with-arduino-tutorial-327ff6
+
+- [HC-SR04](https://www.sparkfun.com/products/15569) - [datasheet](https://www.sparkfun.com/products/15569)
+- Code: [ping_hc_sr04.zip](../assets/ping_hc_sr04.zip)
+- Graph it: __Tools->Serial Plotter__
+![image](https://user-images.githubusercontent.com/1598545/142436732-25252eb5-682d-497d-9f52-df6584063f64.png)
+
+-->
+
+<!--## Range Finder to Control p5 sketch
+
+- `Serial.write()`
+- `Serial.read()`
+-->
+
+### DC Motor
+
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/1598545/201957155-f1e5e081-5967-4d14-8664-c4820943d348.png">
+
+See this file from the ELEGOO examples: [l21 dc motor.pdf](https://github.com/roberttwomey/unl-digifab/files/10013811/l21.dc.motor.pdf)
+
+And this code: [Lesson 21 DC Motors.zip](https://github.com/roberttwomey/unl-digifab/files/10013843/Lesson.21.DC.Motors.zip)
+
+
+## Office Hours 
+Discord or by appointment
+
+
 
 ### Artist of the Day 2
-<img src="https://user-images.githubusercontent.com/1598545/201132380-c514b10a-5aae-4386-bc7c-171ddc487bb0.png" width=800>
 
-Inmi Lee
+![image](https://user-images.githubusercontent.com/1598545/202450393-95dcd465-afec-471d-b35c-89b1e6bf95fa.png)
 
-- [I love you (Love In The Absence of Intelligence)](https://www.inmilee.com/love.html) 2011.
+Garnet Hertz
+
+- Cockroach Bot [http://www.conceptlab.com/roachbot/](http://www.conceptlab.com/roachbot/)
+
+### Relay
+
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/1598545/202452995-d084949b-fb19-455f-ac36-3a27b9632fcc.png">
 
 
-### Thermistors
+See this file from the ELEGOO examples: [l22 relay.pdf](https://github.com/roberttwomey/unl-digifab/files/10031660/l22.relay.pdf)
+ 
+And this code: [Lesson 22 Relay.zip](https://github.com/roberttwomey/unl-digifab/files/10031666/Lesson.22.Relay.zip)
 
-<img width="180" alt="image" src="https://user-images.githubusercontent.com/1598545/201132587-13c42b78-eb8a-47dc-b400-498b53e3c411.png">
+### Stepper Motor
 
-- Good adafruit tutorial: [https://learn.adafruit.com/thermistor/using-a-thermistor](https://learn.adafruit.com/thermistor/using-a-thermistor)
-  - including more about voltage dividers: [https://learn.adafruit.com/thermistor/using-a-thermistor#analog-voltage-reading-method-2917724](https://learn.adafruit.com/thermistor/using-a-thermistor#analog-voltage-reading-method-2917724)
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/1598545/202453114-ee4b9e7f-306f-411b-b49b-834e013e4514.png">
 
-### LED Outputs
+See this file from the ELEGOO examples: [l23 stepper.pdf](https://github.com/roberttwomey/unl-digifab/files/10031617/l23.stepper.pdf)
 
-<img width="462" alt="image" src="https://user-images.githubusercontent.com/1598545/201133182-74643380-a892-4af0-9566-3b851f79c75f.png">
+And this code: [Lesson 23 Stepper Motor.zip](https://github.com/roberttwomey/unl-digifab/files/10031668/Lesson.23.Stepper.Motor.zip)
 
-- [https://hackthedeveloper.com/multiple-blinking-led-using-arduino-uno/](https://hackthedeveloper.com/multiple-blinking-led-using-arduino-uno/)
-- Wire up multiple LEDs with resistors to your arduino. 
-- Try to flash the multiple LEDs in some sort of sequence. 
-- Read the value from a sensor and use it to control the lights.
+### Homework
 
-### Activity
 
-Using multiple LEDs, build a bar-graph that displays the temperature (e.g. more lights for higher temp)
 
-### Homework 2
-Finish up the class activities. 
+## Reference
+- Detailed HC-SR04 tutorial with LEDs and Arduino https://www.instructables.com/Simple-Arduino-and-HC-SR04-Example/
 
-## References
-- ELEGOO Super Starter Kit pdf files: [https://drive.google.com/file/d/1SO3fE0uGj5zWoRDyEcqw6EWSEa3kLStb/view](https://drive.google.com/file/d/1SO3fE0uGj5zWoRDyEcqw6EWSEa3kLStb/view)

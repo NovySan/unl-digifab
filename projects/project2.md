@@ -16,7 +16,7 @@ For this project you should use as many of the 3d design and fabrication techniq
 - vacuu-forming
 - inflatables/sewing
 
-We will critique these projects on 10/30/2023 (**the day before Halloween!**)
+We will critique these projects on 10/30/2024 (**the day before Halloween!**)
 
 ![helmets](https://github.com/NovySan/unl-digifab/assets/5796142/83378030-5e36-4759-8504-0f9fdef084e3)
 
@@ -35,7 +35,7 @@ You will submit a two paragraph proposal for your idea addressing the following 
   - What materials will you fabricate your object from? What (if any) surface treatments will you use? What non-digital material/craft processes will you use?
   - How will you document your project? Consider where you will photograph the resulting object? What supporting images wil Where will you document your object?
 
-This written description will be [submitted online to Canvas](https://canvas.unl.edu/courses/158902/assignments/1521883) by Thursday, October 18, 2023 at 15:00.
+This written description will be [submitted online to Canvas](https://canvas.unl.edu/courses/185978/assignments/1807040) by Wednesday, October 09, 2024 at 15:00.
 
 ## Deliverables
 
@@ -47,13 +47,13 @@ This written description will be [submitted online to Canvas](https://canvas.unl
      - Documentation of 3d modeling (rhino captures)
      - Documentation of final object (photographs)
      - submit as a PDF
-   - Rhino Models (.3dm)
-   - Printable file (.stl) 
+   - any Rhino Models (.3dm)
+   - any printable files (.stl) 
 
 3. Critique: 
    - Present both your Object and your documentation for Critique on 10/30.
 
-## References
+## Helpful References
 [Foamsmith Trilogy](https://www.dropbox.com/sh/2cmurztqzms3s46/AAAARoeCIs4WzxBE_kpWY5CGa?dl=0)
 
 [Mandalorian Helmet Template](https://www.punishedprops.com/2019/11/11/foam-mandos/)

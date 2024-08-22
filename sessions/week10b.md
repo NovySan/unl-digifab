@@ -1,9 +1,7 @@
-# Week 10b - Work Day
+# Week 10b - Wednesday - Project 2 Critique
 
-| [Wednesday](#wednesday) |
+| [Wednesday](#wednesday) | 
 
 ## Wednesday
 
-- Work Day
-
-## Reference
+- **Critique Project 2!**

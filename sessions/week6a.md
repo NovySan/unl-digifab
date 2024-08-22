@@ -1,45 +1,115 @@
-# Week 6a - Monday - Work Day; Catch Up Day
+# Week 6a - Inflatables
 
-| [Monday](#monday) |
+| [Monday](#monday) | 
+
+![wwii-ghost-army](https://github.com/NovySan/unl-digifab/assets/5796142/a28f6c51-e9d8-43ca-925a-0f14e308a16b)
 
 ## Monday
 
 - [Artist of the Day](#artist-of-the-day)
-- Work Time
-- [Material Testing Methods](#material-testing-methods)
+- [Inflatables Training](#inflatables)
+- [Resources](#resources)
 
-## Artist of the Day
 
-<img src="https://user-images.githubusercontent.com/1598545/190411078-971f6d55-1c00-4001-82f1-55b3fd4af56b.png" width=600>
+## Artist of the Day 
 
-Lawrence Malstaf
+### Tim Davies
 
-- [Folding](https://exhibitions.hybridmatters.net/works/folding)
-- [Shrink](https://www.lawrencemalstaf.com/work/shrink/)
-- [Portfolio website](https://www.lawrencemalstaf.com/work/)
+![CLEAN+ocho__MG_0046](https://github.com/NovySan/unl-digifab/assets/5796142/86d70fca-6049-4748-9044-b71f84625324) 
+![CLEAN+ocho__MG_0033](https://github.com/NovySan/unl-digifab/assets/5796142/19f771c3-2c8d-4ba0-8615-d0a72dfc64fd)
 
-## Homework
-Keep working on Project 1 (due Monday, 9/27)
+[Ocho](https://www.youtube.com/watch?v=KcYwXRdrhpU&t=59s)
 
-## Material Testing Methods
+![P1020312s](https://github.com/NovySan/unl-digifab/assets/5796142/f7a0a6a5-8d53-4519-a28a-7012e4ee19e5)
 
-- When you first work with a new material, you want to determine what settings work best for cutting and engraving. 
-- As a starting point, you can begin with [the suggested settings for common materials](week2.html#power-settings).
-- Typically you might produce a small shape (square, or text) which you can run multiple times with different settings for the 
-- Full Spectrum Laser (who manufactures our laser) has some material test files we can try: [https://fslaser.com/material-test/](https://fslaser.com/material-test/)
+[Arachnobot](https://www.youtube.com/watch?v=c8O_NN5CUow)
 
-### Cutting Acrylic
+[https://www.architects-of-air.com/luminaria/daedalum]()
 
-Acrylic is the most common plastic sheet good that we might cut with the laser cutter. 
-- We can vector cut, vector engrave, or raster engrave acrylic very successfully.
-- When you first get a new sheet of acrylic, determine what thickness it is (calipers): [measuring thickness](week2.html#measuring-thickness)
-- Run some material tests to find speed, power, and current settings.
+## Inflatables
 
-### Plastic Suppliers
-- [H&H Plastics](https://www.google.com/maps/dir/40.8298688,-96.7012424/h+and+h+plastics+lincoln/@40.8423437,-96.7027104,13z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x8796bb88f445b751:0x4b7f5828f156d80b!2m2!1d-96.6333809!2d40.851637)
-- Home Depot, Lowes, etc. 
-- [Tap Plastics](https://www.tapplastics.com/) (mail order)
-- [Amazon](https://www.amazon.com/s?k=acrylic&rh=p_n_feature_twelve_browse-bin%3A6523581011&dc&crid=1FP68QKLIHMU1&qid=1691868683&rnid=6523562011&sprefix=acrylic%2Caps%2C122&ref=sr_nr_p_n_feature_twelve_browse-bin_2&ds=v1%3Aj%2FkbjR6uukzvnX258UAPYUVc5vFUIxtwiIfGXy6EeTQ)
+[Inflatable Architecture from Trash Bags and Duct Tape](https://www.youtube.com/watch?v=drWmSCVoEJw)
 
-## Reference
-None
+### Fused vs Sewn
+
+[Plastic Table Cloth Method](https://www.youtube.com/watch?v=THhGG1s-6sw)
+
+[Stan Winston Plastic Bag Monsters](https://www.youtube.com/watch?v=pv1EQ_BAO7U)
+
+[Stan Winston Creature Shop Video 01](https://www.youtube.com/watch?v=FHfSdHL7Kic)
+
+[Create Inflatable Sculpture with Nicole Banowetz](https://www.youtube.com/watch?v=BBmMH-1-DG0)
+
+[Soldering Iron Method](https://www.youtube.com/watch?v=LG_m2ELgUBo)
+
+**_Can the laser cutter be used to cut or fuse?_**
+
+Technically, yes, polyetehlene can be laser cut. An unfocused beam could fuse as well. This would make an **excellent** research topic.
+
+[Using a 3D printer for sealing](https://www.instructables.com/Turn-Trash-Bags-Into-Interactive-Inflatables-Using/)
+
+[Ultrasonic Welding vs RF Welding](https://www.carolinacovertech.com/rf-welding-vs-ultrasonic-welding/)
+
+[Soft Robotics](https://tangible.media.mit.edu/project/pneui)
+
+### Bladder vs Bladderless
+
+
+## Resources
+
+
+### Inflatable Material
+
+NOTE: purchase **coated** ripstop for inflatables
+
+Best Bulk Ripstop Nylon
+
+[http://westmarkcorp.com/](http://westmarkcorp.com/)
+
+Other Sources of Ripstop Nylon
+
+- [Kite Builder](http://www.kitebuilder.com/kitestudio.html)
+- [Denver Fabrics](http://www.denverfabrics.com/search/search.aspx?source=searchbox&keywords=ripstop)
+- [Quest Outfitters Seattle Fabrics](http://www.questoutfitters.com/uncoated_fabrics.htm#1.9%20UNCOATED%20RIPSTOP)
+- [Seattle Fabrics](http://www.seattlefabrics.com/nylons.html#1.9%20oz%20unctd%20RS)
+- [JoAnn Fabrics](http://www.joann.com/rip-stop-nylon/xprd560961.html#q=ripstop%2Bnylon&start=1)
+
+Vinyl
+
+- [Fabric.com](https://www.fabric.com/ProductDetail.aspx?ProductID=330606b7-abe7-41ea-b067-2015a0b219f7)
+- [JoAnn Fabrics](http://www.joann.com/search?q=clear%20vinyl)
+- Colorful vinyl – online sources or stores on Canal Street in NYC
+
+Colorful Tapes
+
+- [Colorful Plastic Packing Tape](https://www.amazon.com/Carton-Sealing-Tape-several-8-Rainbow/dp/B01GFJN3C6/ref=sr_1_14?ie=UTF8&qid=1515283030&sr=8-14&keywords=CARTON%2BSEALING%2BTAPE&th=1)
+- [Thin Washi Tape](https://www.amazon.com/Decorative-Masking-Children-Warpping-Christmas/dp/B076CKSD7N/ref=pd_sim_201_9?_encoding=UTF8&pd_rd_i=B076CKSD7N&pd_rd_r=8HZYPZ1PV5TJVRV97XQF&pd_rd_w=ozryh&pd_rd_wg=A8ngR&psc=1&refRID=8HZYPZ1PV5TJVRV97XQF)
+- [Washi Tape (1/2″ wide)](https://www.amazon.com/dp/B0713W4P9Y/ref=sspa_dk_detail_1?psc=1)
+- [Sparkle Tape](https://www.amazon.com/Piokio-Masking-Decorative-Scrapbooking-Projects/dp/B074Q6TC9L/ref=pd_sim_201_6?_encoding=UTF8&pd_rd_i=B071HHZL82&pd_rd_r=8HZYPZ1PV5TJVRV97XQF&pd_rd_w=ozryh&pd_rd_wg=A8ngR&refRID=8HZYPZ1PV5TJVRV97XQF&th=1)
+
+Colorful Plastic Bags
+
+[Uline Assorted Color Bags](https://www.uline.com/Product/Detail/S-13157/Shopping-Bags-Plastic/Die-Cut-Handle-Bags-12-x-15-Assorted)
+
+Sewing Tutorials
+
+- [Sewing.com](https://sewing.com/)
+- [Craftsy Blog](https://www.craftsy.com/sewing/articles/)
+- [Made to Sew – Blog](http://www.madetosew.com/blog/)
+
+Tutorials on Surface Manipulation of Fabric
+
+- Gathering Fabric
+(one row is called gathering and if you do many rows it is called shirring)
+
+	- [How to Properly Gather Fabric | Sewing Machine Tutorial](https://youtu.be/_AnIpW_CDYw)
+	- [How To Gather Fabric The Easiest Way | Sew Anastasia](https://youtu.be/bIeZi4aQ_0w)
+	- [Shirring with Beads](https://youtu.be/FoUNRh2-Q5o)
+
+
+
+
+
+
+
+

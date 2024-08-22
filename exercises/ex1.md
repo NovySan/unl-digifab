@@ -5,16 +5,18 @@ Use the 2D drawing commands in Rhinoceros (lines, curves, etc.), design a stenci
 # Requirements
 - Inclue your name and some text. 
 - Develop a personal logo or some graphics. 
-- Include an outline (approximately 3 x 5")
-- Use **red** lines for anywhere you want the laser to cut. 
-- Use **blue** lines for anywhere you want it to etch.
+- Include an outline (approximately 3 x 5").
+- Export your image as an SVG.
+- Import into Illustrator at Innovation Studio.
+- Use **thin** lines for anywhere you want the laser to cut. 
+- Use **thicker** lines for anywhere you want it to etch.
 
 # Submission
 
 - Export your image as an SVG. 
 - Submit your Rhino file and SVG file to Canvas
   - use the naming convention _ex1_Lastname.svg_ and _ex1_Lastname.3dm_ for the files.
-- DUE by 15:00 (3pm), 8/28 (Monday) to Canvas [https://canvas.unl.edu/courses/158902/assignments/1521868](https://canvas.unl.edu/courses/158902/assignments/1521868)
+- DUE by 15:00 (3pm), 9/4 (Wednesday) to Canvas [https://canvas.unl.edu/courses/185978/assignments/1807026](https://canvas.unl.edu/courses/185978/assignments/1807026)
 
 # References
 - Rhino has some great video tutorials to help you getting started. 

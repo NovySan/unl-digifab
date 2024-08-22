@@ -2,7 +2,7 @@
 
 # Flat Pack Future
 
-This exercise is about building 3d form using 2D materials. On the laser cutter we can cut flat stock (corrugated cardboard, matte board, architectural plywood, acrylic). The trick is desinging flat parts that can be assembled to make a 3D structure. This technique is probably most familiar to you from wooden models (see the dinosaur above). In terms of form, this exercise is very open ended -- you do not need to make a dinosaur.
+This project is about building 3d form using 2D materials. On the laser cutter we can cut flat stock (corrugated cardboard, matte board, architectural plywood, acrylic). The trick is desinging flat parts that can be assembled to make a 3D structure. This technique is probably most familiar to you from wooden models (see the dinosaur above). In terms of form, this exercise is very open ended -- you do not need to make a dinosaur.
 
 <br>
 
@@ -12,7 +12,7 @@ For this assignment you can predominantly do 2D free-form drawing in Rhino, so l
 
 Learning Goals:
  
-- Gain experience with laser cutting flat materials. 
+- Gain experience with laser cutting or shopbotting flat materials. 
 - Experience using calipers to measure the thickness of materials. 
 - Experience iterating on designs with Rhino and the Laser Cutter, until the parts fit.
 - Thinking in two and three dimensions. 
@@ -22,12 +22,12 @@ Learning Goals:
 1. Ideation
    - What kind of a form do you want to make? (Discuss)
 2. Design
-   - Refer to our week 1 - 3 tutorials.
+   - Refer to our week 1 - 4 tutorials.
    - You will create a complete 2D layout for your part in Rhino. 
    - You do not necessarily need to assemble it in 3D in Rhino. (Though if it helps you to think through how the piece will go together, then extrude your outlines as 2D parts, and rotate/translate/assemble them in 3D)
 3. Fabrication
    - You need to actually fabricate this assignment from some flat material. 
-     -  Acrylic, Cardboard, Matt Board, Paper.
+     -  Acrylic, Cardboard, Matt Board, Paper, plywood, foam, etc.
    - Learn to schedule time on Innovation Studio machinery.
 
 # Submission
@@ -45,7 +45,7 @@ Learning Goals:
    - Upload all of these files to Canvas
      - (use the naming convention _p1_Lastname_1.jpg_ and _p1_Lastname.svg_ _p1_Lastname.3dm_ for the files.)
 
-DUE 09/27/2023, 15:00 (Wednesday) to [Canvas](https://canvas.unl.edu/courses/158902/assignments/1521881)
+DUE 09/25/2024, 15:00 (Wednesday) to [Canvas](https://canvas.unl.edu/courses/158902/assignments/1521881)
 
 # References
 - No references at the moment.

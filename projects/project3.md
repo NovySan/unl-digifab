@@ -15,11 +15,11 @@ For this project you will use the 3d design and fabrication techniques that we h
 - Inflatables
 - ETC...
 
-You will also meed to use your Arduino (or other) and some combination of sensors (photoresistor, rangefinder, potentiometer, etc.) and actuators (lights, buzzer, servo, etc.)
+You will also need to use your Arduino (or other) and some combination of sensors (photoresistor, rangefinder, potentiometer, etc.) and actuators (lights, buzzer, servo, etc.)
 
 Your project needs to have some meaningful behavior, whether preprogrammed, or in response to sensor/user input or interaction. 
 
-We will critique these projects the last week of class on 12/04 and 12/06. 
+We will critique these projects the last week of class on 12/02 and 12/04. 
 
 We will present all your work at Open Studios.
 
@@ -39,7 +39,7 @@ You will submit a two paragraph proposal for your idea addressing the following 
   - What elements will be fabricated?
   - How will you document your project? Consider where you will photograph the resulting object? What supporting images wil Where will you document your object?
 
-This written description will be [submitted online to Canvas](https://canvas.unl.edu/courses/158902/assignments/1521886) by Monday, November 27 at 15:00.
+This written description will be [submitted online to Canvas](https://canvas.unl.edu/courses/185978/assignments/1807042) by Monday, 12/02/24 at 15:00.
 
 ## Deliverables
 
