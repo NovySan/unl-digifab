@@ -16,7 +16,7 @@ Install [Rhinoceros](https://www.rhino3d.com/). We have a license for Rhino 8. I
 
 - follow these steps (for Windows): https://www.rhino3d.com/en/features/administration/zoo/#setting-up-rhino-for-windows
 - or these steps (for Mac): https://www.rhino3d.com/en/features/administration/zoo/#setting-up-rhino-for-mac
-- and enter this information for the zoo server: **its-cemalicense.unl.edu**  
+- and enter this information for the zoo server: **lcaem-license.unl.edu**  
 	- <img src="https://user-images.githubusercontent.com/1598545/186644741-11696636-c79e-4d3c-8044-84b81838b571.png" width=300>
 
 ### Rhino Basics
