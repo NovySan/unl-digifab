@@ -1,13 +1,13 @@
 # Week 3a - Monday - Laser to 3D: Stacked Contours
 
 ## Monday
-- [Vinyl Cutter training at top of class](#vinyl-cutter-training)
+- [Embroidery Machine & Drill Press training at 16:00](#embroidery-machine-training)
 - [Artist of the Day](#artist-of-the-day)
 - [Extruding Curves](#extruding-curves)
   - [Extruding Example](#extruding-example)
 - **Homework**: [Stacked Contours](#homework)
 
-## Vinyl Cutter Training
+## Embroidery Machine Training
 - Take notes!
 - Make cool stuff!
 
