@@ -6,4 +6,4 @@ Work Day -- Use your time wisely.
 
 Get caught up MORE!
 
-Work on your Project 2.
+Work on your Project 2! Halloween is coming!

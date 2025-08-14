@@ -1,13 +1,13 @@
 # Week 3a - Monday - Laser to 3D: Stacked Contours
 
 ## Monday
-- [Embroidery Machine & Drill Press training at 16:00](#embroidery-machine-training)
+- [Embroidery Machine & Drill Press training at top of class](#embroidery-machine-and-drill-press-training)
 - [Artist of the Day](#artist-of-the-day)
 - [Extruding Curves](#extruding-curves)
   - [Extruding Example](#extruding-example)
 - **Homework**: [Stacked Contours](#homework)
 
-## Embroidery Machine Training
+## Embroidery Machine and Drill Press Training
 - Take notes!
 - Make cool stuff!
 
@@ -22,7 +22,7 @@ Ekene Ijeoma ([https://studioijeoma.com/Wage-Islands](https://studioijeoma.com/W
 
 ## Extruding Curves
 - We can **extrude** a 2d curve into 3 dimensions to see what it would look like as a flat object. 
-  - [_ExtrudeCrv_](https://docs.mcneel.com/rhino/7/help/en-us/index.htm#commands/extrudecrv.htm) **<--- THIS IS OUR GOTO**
+  - [_ExtrudeCrv_](https://docs.mcneel.com/rhino/7/help/en-us/index.htm#commands/extrudecrv.htm) **<--- THIS IS OUR GOTO!!**
 - Load up your tab and slot construction from last week (or make a new one).
 - If you have not already, join the perimeters for each of the pieces so that you have continuous outlines. 
 - Extrude the curves into three dimensions using Extrude Curve.
@@ -55,6 +55,6 @@ Workflow:
 - Draw a series of contours (curves, lines–line art) which you will then stack into 3 dimensions. 
 - Assemble these in 3d. 
 - Document your resultant assemblage with a number of screenshots (3 minimum). 
-- Upload your Rhino File and screen shots to Canvas: [https://canvas.unl.edu/courses/185978/assignments/1807029](https://canvas.unl.edu/courses/185978/assignments/1807029).
-- DUE 09/16/2024 (Monday 15:00)
+- Upload your Rhino File and screen shots to Canvas: [https://canvas.unl.edu/courses/201726/assignments/2086722](https://canvas.unl.edu/courses/201726/assignments/2086722).
+- DUE 09/15/2024 (Monday 17:30)
 

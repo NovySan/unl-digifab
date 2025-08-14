@@ -5,18 +5,19 @@
 
 ## Description
 
-For this project you will make all or a significant portion of your (or somebody else's) Halloween costume. A prop of significant size or effort would also be acceptable. The concept is open-ended, but you will need to submit a written proposal for your project. (see [proposal](#proposal) below)
+For this project you will make all or a significant portion of your (or somebody else's) Halloween costume. A prop of **significant** size, complexity, or effort would also be acceptable. The concept is open-ended, but you will need to submit a written proposal for your project. (see [proposal](#proposal) below)
 
 For this project you should use as many of the 3d design and fabrication techniques that we have covered in class so far, as appropriate to your concept:
 - 3d modeling (Rhino, as well any other software you have experience with)
 - 3d scanning (with ipad/iphone)
-- laser cutting
+- Laser Cutting
 - ShopBot
 - 3d printing
-- vacuu-forming
-- inflatables/sewing
+- Vacuuforming/Kitbashing/Trashbashing
+- Inflatables/Sewing
+- Molding and Casting
 
-We will critique these projects on 10/30/2024 (**the day before Halloween!**)
+We will critique these projects on 10/29/2025 (**two days before Halloween!**)
 
 ![helmets](https://github.com/NovySan/unl-digifab/assets/5796142/83378030-5e36-4759-8504-0f9fdef084e3)
 
@@ -35,7 +36,7 @@ You will submit a two paragraph proposal for your idea addressing the following 
   - What materials will you fabricate your object from? What (if any) surface treatments will you use? What non-digital material/craft processes will you use?
   - How will you document your project? Consider where you will photograph the resulting object? What supporting images wil Where will you document your object?
 
-This written description will be [submitted online to Canvas](https://canvas.unl.edu/courses/185978/assignments/1807040) by Wednesday, October 09, 2024 at 15:00.
+This written description will be [submitted online to Canvas](https://canvas.unl.edu/courses/201726/assignments/2086732) by Wednesday, October 06, 2025 at 15:00.
 
 ## Deliverables
 
@@ -51,7 +52,7 @@ This written description will be [submitted online to Canvas](https://canvas.unl
    - any printable files (.stl) 
 
 3. Critique: 
-   - Present both your Object and your documentation for Critique on 10/30.
+   - Present both your Object and your documentation for Critique on 10/29.
 
 ## Helpful References
 [Foamsmith Trilogy](https://www.dropbox.com/sh/2cmurztqzms3s46/AAAARoeCIs4WzxBE_kpWY5CGa?dl=0)

@@ -12,12 +12,13 @@
 
 ### Set up Rhino 3d
 
-Install [Rhinoceros](https://www.rhino3d.com/). We have a license for Rhino 8. It uses the Zoo server.
+Install [Rhinoceros](https://www.rhino3d.com/). We have a license for Rhino 8. It uses the Zoo server licensing.
 
-- follow these steps (for Windows): https://www.rhino3d.com/en/features/administration/zoo/#setting-up-rhino-for-windows
-- or these steps (for Mac): https://www.rhino3d.com/en/features/administration/zoo/#setting-up-rhino-for-mac
-- and enter this information for the zoo server: **lcaem-license.unl.edu**  
-	- <img src="https://user-images.githubusercontent.com/1598545/186644741-11696636-c79e-4d3c-8044-84b81838b571.png" width=300>
+- follow these steps (for Windows): [https://www.rhino3d.com/en/features/administration/zoo/#setting-up-rhino-for-windows](https://www.rhino3d.com/en/features/administration/zoo/#setting-up-rhino-for-windows)
+- or these steps (for Mac): [https://www.rhino3d.com/en/features/administration/zoo/#setting-up-rhino-for-mac](https://www.rhino3d.com/en/features/administration/zoo/#setting-up-rhino-for-mac)
+- and enter this information for the zoo server: **lcaem-license.unl.edu**
+- <img src="../assets/zoo.png" width="300">
+- 
 
 ### Rhino Basics
 
@@ -49,9 +50,9 @@ Rhino example: [lines_curves.3dm](../examples/lines_curves.3dm)
 Hands on with the Epilog at Innovation Studio
 
 - Epilog Dashboard for laser operation (TAKE NOTES!!)
-- TAKE NOTES.
+- Seriously,TAKE NOTES.
 - Video record with your phone if needed
-- Check out the SOP manual.
+- Check out the Standard Operating Procedures (SOP) manual.
 
 ### Rhino 2D Basics
 1. Create new file from template. Small objects inches.
@@ -177,10 +178,11 @@ Please share your discord handle here (so I can add you to our digifab group): [
 
 ## Homework
 - [Exercise 1 - Laser Cut Stencil](../exercises/ex1.md)
-  - DUE Wednesday 9/4. 
-- Create a [Digital Sketchbook](https://canvas.unl.edu/courses/185978/assignments/1807023) and add images/description of this project.
-  - DUE Wednesday 9/4. Submit your link on [Canvas](https://canvas.unl.edu/courses/185978/assignments/1807023).
+  - DUE Wednesday 9/3. 
+- Create a [Digital Sketchbook](https://canvas.unl.edu/courses/201726/assignments/2086716) and add images/description of this project.
+  - DUE Wednesday 9/3. Submit your link on [Canvas](https://canvas.unl.edu/courses/201726/assignments/2086716).
 
 ## References
 - [Rhino Learn](https://www.rhino3d.com/learn/?keyword=kind:%20rhino_win) video tutorials
 - [More Rhino Youtube tutorials](https://www.youtube.com/@TheRhinoEssentials)
+

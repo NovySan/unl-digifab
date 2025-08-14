@@ -76,8 +76,13 @@ https://www.arduino.cc/en/Tutorial/LibraryExamples/Sweep
 - Reading the schematic.
 - Use the servo to control two knobs. 
 
-### Homework
-Finish _Making Things Move_. (Due 11/25/24). Be ready to demo.
+## Homework
+
+[Project 3 Proposal](https://canvas.unl.edu/courses/201726/assignments/2086735) - DUE 11/17/2025
+
+Finish _Making Things Move_. (Due 11/24/25). Be ready to demo.
+
+
 
 ## Reference
 - [TK]

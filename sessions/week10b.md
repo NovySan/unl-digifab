@@ -5,3 +5,4 @@
 ## Wednesday
 
 - **Critique Project 2!**
+- Make sure you've uploaded to Canvas!

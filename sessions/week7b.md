@@ -1,20 +1,19 @@
-# Week 7b - Vacuu and Thermoforming
+# Week 7b - How to Build a Stage Flat
 
 [Wednesday](#wednesday)
 
 ## Wednesday
 
-- Vacuuformer Training at top of class.
-- How to Make Spaceships the ILM Way. (Stormtroopers too!)
- - Kitbashing Demo
+- Miter Saw, Band Saw, and Scroll Saw at top of class.
+- How to Build a hardwall (TV style) scenery flat. Great for Esapce Rooms, Immersive Installations, etc.
 
-<!--
-## Homework
-## **[Project 2 Proposal](../projects/project2.md#proposal)**
--->
 
 ## Reference
-- [Adam Savage Ecto-goggles](https://www.youtube.com/watch?v=lsXLGT5N2uo)
-- [ACES Astronaut Helmet Visor for Adam Savage – Vacuum Forming Tutorial](https://www.punishedprops.com/2018/10/11/adam-savage-visor/)
-- [Adam Savage's One Day Builds: Scratch-Built Spaceship!](https://www.youtube.com/watch?v=7uS7A4x31PY)
+
+- [https://www.youtube.com/watch?v=9-qpATHHBIM](https://www.youtube.com/watch?v=9-qpATHHBIM)
+- [https://www.youtube.com/watch?v=hPgr5TutGTQ](https://www.youtube.com/watch?v=hPgr5TutGTQ)
+- [Building Hollywood Flats](https://7a3af0eddf7a8ca80419-a4b3f6521c7786b5204179499a47bfc0.ssl.cf2.rackcdn.com/edta_003d93fa44b99193dba14ae2d5bb9185.pdf)
+
+
+
 

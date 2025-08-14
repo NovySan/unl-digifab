@@ -1,4 +1,4 @@
-# EMAR 446: Digital Fabrication and Physical Computing - Fall 2024
+# EMAR 246: Digital Fabrication and Physical Computing - Fall 2025
 
 [Description](#description) | [Resources](#resources) | [Schedule](#schedule) | [Grading](#grading) | [Policies](#policies) | [References](#references)
 
@@ -7,14 +7,15 @@
 
 # Description
 
-This course introduces physical computing and digital fabrication for emerging media arts. We cover 3d scanning and photogrammetry; 3d modeling and computer aided design; rapid prototyping and digital fabrication; sensors, actuators, and embedded microcontrollers; creating workflows that move from analog to digital to analog. We explore these techniques through arts topics including wearable technologies, mechatronic automation, and approaches including Systems Art, Generative Art, Cybernetic Art and more. Class activities are contextualized through the history of emerging technology and media arts practice.
+This course introduces digital fabrication and physical computing for emerging media arts. We cover 3d modeling and computer aided design; 3d scanning and photogrammetry; rapid prototyping and digital fabrication; sensors, actuators, and embedded microcontrollers; creating workflows that move from analog to digital to analog. We explore these techniques through arts topics including wearable technologies, mechatronic automation, and approaches including Systems Art, Generative Art, Cybernetic Art and more. Class activities are contextualized through the history of emerging technology and media arts practice.
 
 ## Details
 
 - **Instructor:** Dr. Dan "NovySan" Novy
+- **TA:** Mac O'Brien
 - **Class:** M/W 15:00-17:20 (3:00PM-5:20PM) CT
 - **Location:** Nebraska Innovation Studio
-- **Office Hours:** By appointment, Discord, and in person (CEMA 207)
+- **Office Hours:** By appointment, Discord, and in person (CEMA 251)
 
 ## Course objectives
 -	Experiential learning.
@@ -35,14 +36,17 @@ A student who successfully completes this course will:
 **Prequisites:** Major in Emerging Media Arts and successful completion of EMAR161 Computational Media Studio II, or permission of instructor.
 
 # Resources
-- **Discord:** [https://discord.com/channels/688079641738608705/1271213702497959956](https://discord.com/channels/688079641738608705/1271213702497959956)
-- **Canvas:** [https://canvas.unl.edu/courses/185978](https://canvas.unl.edu/courses/185978)
+- **Discord:[https://discord.com/channels/688079641738608705/1404279272306118687](https://discord.com/channels/688079641738608705/1404279272306118687)**
+- **Canvas:[https://canvas.unl.edu/courses/201726](https://canvas.unl.edu/courses/201726)**
 - **[Rhino 3d](https://www.rhino3d.com/)**
 - **[Grasshopper (included in Rhino 7 & 8)](https://www.grasshopper3d.com/)**
-- **[Ultimaker](https://ultimaker.com/software/ultimaker-cura/)**
-- **[Prusa MK3S+](https://www.prusa3d.com/category/original-prusa-i3-mk3s/)**
+- **[Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura/)**
+- **[Prusa Slicer](https://help.prusa3d.com/downloads)**
 - **[Muse laser cutter in student lounge](https://fslaser.com/laser-101/)**
 - **[Innovation Studio](https://make.unl.edu/)**
+- **[Adafruit](https://www.adafruit.com/)**
+- **[DFRobot](https://www.dfrobot.com/)**
+- **[Arduino Store](https://store.arduino.cc/)**
 - **[UNL EE Shop](http://eeshop.unl.edu/ee_shop_store.html)** a good (local) source for all things electronic. mingle with engineers! you can just walk over there and buy stuff. 
 
 
@@ -54,25 +58,25 @@ A student who successfully completes this course will:
 | 1a | **[Intro and Overview](sessions/week1.md#monday)** Course Policies; Install Rhino; Rhino basics; Sign up for Discord |
 | 1b | **[Laser Cutter](sessions/week1.md#wednesday)** More Rhino basics; 2D Drawing; Exercise: Stencil and Digital Notebook |
 | 2a | **[Labour Day - No In-Person Classes]**
-| 2b | **[Tab and slot](sessions/week2.md#wednesday)**|
+| 2b | **[Tab and Slot](sessions/week2.md#wednesday)**|
 | 3a | **[Laser to 3D: Stacked Contours](sessions/week3a.md)** 
-| 3b | **[Mesh Creation and Contour Extraction](sessions/week3b.md)** |
-| 4a | **[Shopbot and Large CNC](sessions/week4a.md)** |
-| 4b | **[3D Basics and Unrolling Surfaces](sessions/week4b.md)** |
-| 5a | **[Work Day. Material Testing Methods](sessions/week5a.md)** |
-| 5b | **[Critique Project 1](sessions/week5b.md)**
-| 6a | **[Inflatables](sessions/week6a.md)**   
+| 3b | **[Meshs and Contour Extraction](sessions/week3b.md)** |
+| 4a | **[Molding and Casting](sessions/week4a.md)** |
+| 4b | **[Vacuu-Forming and Kitbashing](sessions/week4b.md)** |
+| 5a | **[Inflatables](sessions/week5a.md)** |
+| 5b | **[Work Day](sessions/week5b.md)**
+| 6a | **[Critique Project 1](sessions/week6a.md)**   
 | 6b | **[Intro to 3D Printing](sessions/week6b.md)** | 
-| 7a | **[Formlabs and Stratasys Hands-On](sessions/week7a.md)** |
-| 7b | **[Vacuu-Forming](sessions/week7b.md)** |
-| 8a | **[Novy Out - Work Day](sessions/week8a.md)** |
-| 8b | **[Novy Out - Work Day](sessions/week8b.md)** | 
-| 9a | **[Fall Break](sessions/week9a.md)**
-| 9b | **[Digitizing Objects, 3d Scanning, and Photogrammetry ](sessions/week9b.md)**
-| 10a | **[Scanning Spaces](sessions/week10a.md)** |
+| 7a | **[Desktop Injection Molding](sessions/week7a.md)** |
+| 7b | **[How to Build a Hardwall Flat](sessions/week7b.md)** |
+| 8a | **[Novy At Mission Control - Work Day](sessions/week8a.md)** |
+| 8b | **[Novy At Mission Control - Work Day](sessions/week8b.md)** | 
+| 9a | **[Fall Semester Break](sessions/week9a.md)**
+| 9b | **[Novy At Mission Control - Work Day](sessions/week9b.md)**
+| 10a | **[Novy At Mission Control - Work Day](sessions/week10a.md)** |
 | 10b | **[Critique Project 2](sessions/week10b.md)** | 
-| 11a | **[Making Things Move](sessions/week11a.md)** | 
-| 11b | **[Making Things Move II](sessions/week11b.md)** | 
+| 11a | **[Making Things Move 1](sessions/week11a.md)** | 
+| 11b | **[Making Things Move 2](sessions/week11b.md)** | 
 | 12a | **[Arduino Analog](sessions/week12a.md)** | 
 | 12b | **[Sensors and Inputs](sessions/week12b.md)** | 
 | 13a | **[Actuators and Outputs](sessions/week13a.md)** |
@@ -81,56 +85,10 @@ A student who successfully completes this course will:
 | 14b | **[Thanksgiving](sessions/week14b.md)** |
 | 15a | **[Final Project Work](sessions/week15.md#monday)** | 
 | 15b | **[Final Project Work](sessions/week15.md#wednesday)**|
-| 16a | **[Final Critiques](sessions/week16.md#monday)** | 
-| 16b | **[Final Critiques](sessions/week16.md#wednesday)** |
-| 16c | **[Open Studios - 12/13/24]()** |
-| Finals Week| Submit Final Documentation |
-
-<!--
-| Week | Topic |
-|------|-------|
-| 1a | **Hello, Syllabus, Policies**<br>- Activities: Install Rhino<br>- Exercise: [TK] |
-| 1b | **[Overview - Digital Fabrication and Physical Computing]()**<br>- [Introductory Exercise / Stencil (ex1)]() |
-| 2a | **[Week 2 - CAD, 3D Modeling; Designing 2D and 3D Form]()<br>- [Digital Double / Virtual Replica (ex2)](), Introduce Sketchbook |
-| 9/9 | [Week 3 - Laser Cutter; 2D Digifab]() |
-| | - [Flatpack Future (ex3)]()|
-| 9/16 | [Week 4 - Stacked Contours; Slices; 3D Forms; Mesh Editing](sessions/week4.md) |
-| | - ~Stacked Construction (ex4)~ |
-| 9/23 | [Week 5 -  Capture Digital Form: Photogrammetry and 3d Scanning](sessions/week5.md) |
-| | - [Real World to Digital and Back (ex5)](exercises/ex5.md) |
-| 9/30 | [Week 6 - 3DP session at Innovation Studio](sessions/week6.md) |
-| | - Assign [Project 1](projects/project1.md)|
-| 10/7 | [Week 7 - Prusa; 3D Printing Time; Project 1 Discussion](sessions/week7.md) |
-| | - DUE Project 1 Proposal |
-| 10/14 | [Week 8 - Microcontrollers and Digital I/O](sessions/week8.md) |
-| | [Meaningful Signal (ex8)](exercises/ex8.md) |
-| 10/21 | Week 9 - == FLYOVER COUNTRY==  |
-| |  - In class work, FLYOVER COUNTRY AI Writers Room|
-| 10/28 | [Week 10 - Digital Input; Analog Input and Output](sessions/week9.md)  |
-| | - Project 1 Critique |
-| 11/4 | [Week 11 -  Analog Input, Making Things Move: Servos and Actuators](sessions/week11.md) |
-| | - [Biomimicry exercise (ex11)](exercises/ex11.md) |
-| 11/11 | [Week 12 - Sensors: Light, Temperature, Distance](sessions/week12.md) |
-| | - Catch up time |
-| 11/18 | [Week 13 - Sensors and Serial Communication](sessions/week13.md) |
-| | - “Even Thermostats Can Be Said to Have Feelings” (ex12), Assign Project 2 |
-| 11/25 | Week 14 - THANKSGIVING HOLIDAY |
-| | - HOLIDAY  |
-| 12/2 | Week 15 -  Actuators: DC Motors, Solenoids; Linkages and Mounts; Workshopping Final Presentations|
-| | - Final Project Work Time |
-| 12/9 | Week 16 - Final Critiques |
-| | - Exhibition/Showcase Open Studios |
-| Finals Week | NO FINAL EXAM |
-| | - All work due to Canvas for Grading (12/17)
-
-Leftovers 
-- Smart Textiles; Digital Craft 
-- High/Low Tech (ex13)
-- Wearables, Embodiment, Somatic Interface, Augmentation/Prosthesis
-- “The Pleasure of Being the Cause” or Somatic Interface (ex14)
-- Internet of Things: Networked Objects, Spimes 
-- Objects with Memories (ex15)
--->
+| 16a | **[Final Project Work](sessions/week16.md#monday)** | 
+| 16b | **[Final Project Work](sessions/week16.md#wednesday)** |
+| 16c | **[Obligatory Open Studios - 12/12/25]()** |
+| Finals Week| Submit Final Documentation to Canvas and Sketchbook |
 
 # Grading
 
@@ -144,7 +102,7 @@ Work will be evaluated on the quality of concept, the degree of experimentation 
 ## Description of Assignments and Exams
 
 __*Exercises*__
-We will have regular, weekly assignments employing the tools and techniques covered in class. These will be short activities with clearly stated creative prompts and technical requirements. Projects will be graded on satisfactory completion with additional credit for creative, technical, expressive extension beyond requirements. 
+We will have regular, semi-regular assignments employing the tools and techniques covered in class. These will be short activities with clearly stated creative prompts and technical requirements. Projects will be graded on satisfactory completion with additional credit for creative, technical, expressive extension beyond requirements. 
 
 __*Projects*__
 We will have three projects over the semester due approximately every 5 weeks. Project 1 covers digital fabrication and analog and computer mediated processes. Project 2 covers physical computing, interactivity, and mechatronic/automated systems. Project 3 covers wearables and embodied technologies. For each project students will submit a project archive containing a statement of concept, source code, links to data resources, documentation of the work, discussion of results, and future directions. When assigned, students will submit a proposal/concept for their project to receive instructor feedback, and then work to complete the project. Projects will be presented and critiqued in class and project archives will be submitted for grading.
@@ -153,7 +111,7 @@ __*Participation*__
 Contributions to class discussions and active participation in small group work are essential to both the momentum of the course and the development of your ideas. This requires that you come to class prepared (having completed assigned reading and writing) and ready to participate in class activities. This course is based on collaborative, project-based learning and you are also expected to contribute as a responsible member of a group. See the participation evaluation in the Grading Scale below for more information.
 
 ## Late work policy
-An assignment may receive an F if a student does not participate in every phase of the development of the project and meet all deadlines for preliminary materials (proposals, drafts, etc.). Failure to submit any of the graded course assignments is grounds for failure in the course. If a final draft or project, plus required addenda, is not submitted in class on the date due, it will be considered late and will lose one letter grade for each day or part of a day past due (A to B, etc.). Assignments are due in hard copy and or via email/link (online assignment). You must submit your assignments directly to the instructor. Any late submissions must be approved by your faculty instructor well in advance of the due date.
+An assignment may receive an F if a student does not participate in every phase of the development of the project and meet all deadlines for preliminary materials (proposals, drafts, etc.). Failure to submit any of the graded course assignments is grounds for failure in the course. If a final draft or project, plus required addenda, is not submitted in class on the date due, it will be considered late and will lose one letter grade (at my discretion) for each day or part of a day past due (A to B, etc.). Assignments are due via Canvas (online assignment) as well as bringing your prototype to class. Any late submissions must be approved by your faculty instructor well in advance of the due date.
 
 ## Grading Scale
 
@@ -201,7 +159,7 @@ __UNL Course Policies and Resources__. Students are responsible for knowing the 
 While we will adhere to the UNL Academic Honesty Policy linked above, we will use many open source projects to make our work. It is ok to use others' code. However, **you need to cite your sources**, and **you need to do transformative work/make it your own**.
 
 ## Attendance
-On-time attendance is required as well as work inside and outside of section. Please notify your instructor in advance if you must be absent for illness or family emergency. Any absences must be cleared with the instructor, or justified with written documentation (e.g. letter from team, etc.). We do not differentiate between mental and physical health and in either case please be in communication for when you need to take a day off. After a student misses a week’s worth of classes each subsequent missed class will result in the reduction of the final grade by a full letter grade (i.e., A to B, B- to C-) Excessive tardiness or leaving early will also impact your grade and will follow the same rubric.
+On-time attendance is required as well as work inside and outside of section. Please notify your instructor in advance if you must be absent for illness or family emergency. Any absences must be cleared with the instructor, or justified with written documentation (e.g. letter from team, etc.). After a student misses a week’s worth of classes each subsequent missed class will result in the reduction of the final grade by a full letter grade (i.e., A to B, B- to C-) Three Unexcused Absences will be grounds for failure of the course. Excessive tardiness or leaving early will also impact your grade and will follow the same rubric.
 
 Please also note the JCSTF attendance policy:
 - 4.7 Attendance Policy

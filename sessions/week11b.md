@@ -4,6 +4,8 @@
 
 ## Wednesday
 
+Bring you Make Something Big to class!
+
 Agenda - Making Things Move II
 - [Artist of the Day](#artist-of-the-day)
 - [Motor Mounts](#motor-mounts)

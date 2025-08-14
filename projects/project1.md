@@ -45,7 +45,7 @@ Learning Goals:
    - Upload all of these files to Canvas
      - (use the naming convention _p1_Lastname_1.jpg_ and _p1_Lastname.svg_ _p1_Lastname.3dm_ for the files.)
 
-DUE 09/25/2024, 15:00 (Wednesday) to [Canvas](https://canvas.unl.edu/courses/158902/assignments/1521881)
+DUE 09/29/2025, 15:00 (Wednesday) to [Canvas](https://canvas.unl.edu/courses/201726/assignments/2086731)
 
 # References
 - No references at the moment.

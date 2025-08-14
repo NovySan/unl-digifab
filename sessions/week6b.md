@@ -5,13 +5,29 @@
 
 ## Wednesday
 
-- Ultimaker Training at top of class
+- Bamboo (and Ultimaker?) and FormLabs Training at top of class
 - Introduction to 3D Printing
   - [Importing Models](#importing-models)
   - [Prepping for 3DP](#prepping-for-3dp)
   - [Slicing for 3DP](#slicing-for-3dp)
 - Intro to the 3d Printer
 - [Homework](#homework)
+
+## Artist of the Day 
+
+<img src="https://user-images.githubusercontent.com/1598545/193049455-8f5a7e69-7534-4ca8-9eb5-44157fa4aa76.png" width=400>
+
+**Urs Fischer** ([website](https://ursfischer.com/))
+
+```
+Untitled (Lamp / Bear)
+2005-2006
+Cast bronze, epoxy primer, urethane paint, acrylic polyurethane topcoat, acrylic glass, gas discharge lamp, stainless-steel framework
+275 5/8 x 255 7/8 x 295 1/4 inches
+(700 x 650 x 750 cm)
+```
+([link](https://ursfischer.com/searches/bear))
+
 
 ### Importing Models
 
@@ -36,6 +52,8 @@ Rhino file: [../examples/venus_sculpture.3dm](../examples/venus_sculpture.3dm)
 
 ### Slicing for 3DP
 - Use Cura on the Innovation Studio computers for Ultimaker.
+- Use Bambu Studio at the Innovation Studio for Bambu
+- Use Prusa Slicer at the Carson Center for Prusa
 - [Download Prusa Slicer]([https://www.prusa3d.com/drivers/](https://www.prusa3d.com/page/prusaslicer_424/))
   - We have the [Prusa MK3S+](https://help.prusa3d.com/tag/mk3s-2)
 - Load your STL file from the previous steps. 
@@ -62,8 +80,8 @@ You are going to combine a 3d scanned object with a base and text to make a smal
 
 ### Submission
 - Add documentation of this (screenshots of rhino, screenshot of the slicer, and photo of your printed object) to your digital sketchbook. 
-- Submit a pdf of these pages from the digital sketchbook to [Canvas](https://canvas.unl.edu/courses/185978/assignments/1807033). 
-- DUE: Wednesday 10/16/24 at 15:00.
+- Submit a pdf of these pages from the digital sketchbook to [Canvas](https://canvas.unl.edu/courses/201726/assignments/2086725). 
+- DUE: Wednesday 10/08/25 at 17:30.
 
 
 ## Office Hours 
@@ -72,6 +90,7 @@ Discord or by appointment.
 ## Reference
 - Prusa has great Tutorials.
 - First Print with Prusa Slicer [https://help.prusa3d.com/article/first-print-with-prusaslicer_1753](https://help.prusa3d.com/article/first-print-with-prusaslicer_1753)
+- - Prusa Cheat Sheats: [UNL 3D Printer Guides](https://docs.google.com/document/d/1vCnLAMQ0IFE0_WeRT_rv4E3FyUzv3gbLFVJa0F7clCM/edit?usp=sharing)
 
 
 ### Places to get 3d models

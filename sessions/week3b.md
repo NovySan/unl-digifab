@@ -1,10 +1,10 @@
-# Week 3b - Wednesday - Mesh Creation and Contour Extraction
+# Week 3b - Wednesday - Meshes and Contour Extraction
 
 | [Wednesday](#wednesday) |
 
 ## Wednesday
 
-- [Belt and Wheel Sander training at top of class](#belt-and-wheel-sander)
+- [ShopBot and Table Saw training at top of class](#shopbot-and-table-saw)
 - [Artist of the Day](#artist-of-the-day)
 - [Working with Meshes](#working-with-meshes)
   - [Mesh Example](#mesh-example)
@@ -13,13 +13,18 @@
   - [Example Buffalo Contours](#example-buffalo-contours)
   - [Example Sliced Pikachu](#example-sliced-pikachu)
 
-## Belt and Wheel Sander
+## ShopBot and Table Saw
 - Count your fingers AGAIN.
-- This machine can hurt you.
+- **These machine can HURT you.**
+- Ask for help no matter what.
+- There are no stupid questions.
+- Borrow endmills from NovySan.
+- [VCarve Pro free trial](https://www.vectric.com/free-trial/vcarve-pro)
+- [Rhino to VCarve Pro](https://www.youtube.com/watch?v=Hb8g6G6hE4k)
 
 ## Artist of the Day
 
-<img src="https://user-images.githubusercontent.com/1598545/189894549-fe5a944d-3d61-4143-8abd-ad4856d9bbac.png" width=600>
+<img src="https://www.inmilee.com/img/Un_001.jpg" width=600>
 
 Inmi Lee. [_I will not dance_](https://www.inmilee.com/un.html). 2016.
 
@@ -90,5 +95,19 @@ Rhino file: [buffalo_contours.3dm](../examples/buffalo_contours.3dm)
 
 Rhino file: [sliced_pikachu.3dm](../examples/sliced_pikachu.3dm)
 
+## Reference
+
+[Nomadic Furniture](https://www.core77.com/posts/42562/Nomadic-Furniture-DIY-Designs-from-the-1970s#)
+
+[Book 1](https://www.amazon.com/Nomadic-Furniture-Victor-Papanek/dp/039470228X)
+
+[Book 2](https://www.amazon.com/Nomadic-Furniture-2-James-Hennessey/dp/0394706382)
+
+I have these in my office if you'd like to look for project ideas.
+
+
 ## Homework
-Work on Project 1 (Due Wednesday 9/25)
+- Make something BIG.
+- Document your work and upload to [Canvas](https://canvas.unl.edu/courses/201726/assignments/2086723)
+- DUE 11/05/2025 (Wednesday 17:30)
+- Work on Project 1 (Due Wednesday 9/29)

@@ -1,4 +1,4 @@
-# Week 3b - Wednesday - Work Day
+# Week 8b - Wednesday - Work Day
 
 ## Wednesday
 

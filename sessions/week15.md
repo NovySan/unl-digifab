@@ -5,6 +5,7 @@
 ## Monday
 
 - Final Project Work
+- Please do the Course Evaluations!
 
 ## Wednesday
 

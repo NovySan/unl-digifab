@@ -1,4 +1,4 @@
-# Week 2 - Laser Cutter
+# Week 2 - Laser to 3D:Tab and Slot
 
 ## Monday
 
@@ -6,7 +6,7 @@
 
 ## Wednesday
 
-- Fiber Laser Training
+- Fiber Laser and Belt, Spindle, and Wheel Sander Training
 - Artist of the Day
 - Tutorial
   - [Tab and Slot Construction](#tab-and-slot-construction)
@@ -14,19 +14,24 @@
   - [Matching Parts](#matching-parts)
   - [Living Hinge](#living-hinge)
 
-### Training on Fiber Laser at top of class
+### Training on Fiber Laser and Belt, Spindle, and Wheel Sander at top of class
 
 - Take notes!
 
 ### Artist of the Day 
+Russian Constructivist Naum Gabo (1890- 1997)
 
-![image](https://user-images.githubusercontent.com/1598545/187927860-5f8562d7-a570-4f86-ad8a-f2e61c886b3b.png)
-![](https://images.squarespace-cdn.com/content/v1/5bb29500b2cf79506caca11a/1541099211793-8FZ0ZVLHWFS3MZHK7UXI/Butler_5_Wanderers+%281%29.jpg?format=2500w)
+![](https://www.theartstory.org/images20/works/gabo_naum_1.jpg)
+<!-- ![image](https://user-images.githubusercontent.com/1598545/187927860-5f8562d7-a570-4f86-ad8a-f2e61c886b3b.png)
+![](https://images.squarespace-cdn.com/content/v1/5bb29500b2cf79506caca11a/1541099211793-8FZ0ZVLHWFS3MZHK7UXI/Butler_5_Wanderers+%281%29.jpg?format=2500w) -->
 
-Ben Butler
+Homemade Construction Toy
+![](https://fab.cba.mit.edu/classes/863.11/people/dan.novy/images/week02_pressFit.jpg)
+
+<!--Ben Butler
 
 - [https://mymodernmet.com/ben-butler-organic-sculptures/](https://mymodernmet.com/ben-butler-organic-sculptures/)
-- [https://www.benbutlerart.com](https://www.benbutlerart.com/)
+- [https://www.benbutlerart.com](https://www.benbutlerart.com/) -->
 
 ### Tab and Slot Construction
 
@@ -74,7 +79,7 @@ Rhino file: [two_slots.3dm](../examples/two_slots.3dm)
 - ![image](https://user-images.githubusercontent.com/1598545/131845474-7ce17921-1ce1-4601-b6ef-96ec6d62a6cc.png)
 
 ### Laser Cutter Reference
-- Epilog:
+- Epilog: Check the SOP
 - RetinaEngrave Software on MUSE at CEMA:
   - [quick reference guide](https://info.fslaser.com/hubfs/Public_Documents/RetinaEngrave%20v3.0%20RefGuide.pdf)  
   - [Video Tutorials](https://www.youtube.com/playlist?list=PL_1I1UNQ4oGa0w55C772Y1mC6F4f3ZcG6)
@@ -98,10 +103,9 @@ Rhino file: [two_slots.3dm](../examples/two_slots.3dm)
 
 
 ### Artist of the Day
-
-<img src="https://images.squarespace-cdn.com/content/v1/56d5c341c6fc0815c1e73ee6/1500147928833-2YFUM1ZPJHUTHDOWKBYL/Crossing+Boundaries+%28Black%29+-+Asia+Society+Shot+6_hr.jpg?format=2500w" width=400>
-
 [Anila Quayyum Agha](http://www.anilaagha.com/crossing-boundaries-black)
+
+<img src="https://images.squarespace-cdn.com/content/v1/56d5c341c6fc0815c1e73ee6/1500147928833-2YFUM1ZPJHUTHDOWKBYL/Crossing+Boundaries+%28Black%29+-+Asia+Society+Shot+6_hr.jpg?format=2500w" width=600>
 
 
 

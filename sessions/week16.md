@@ -1,16 +1,16 @@
-# Week 16 - Final Critiques; Open Studios
+# Week 16 - Final Critique at Open Studios
 
 | [Monday](#monday) | [Wednesday](#wednesday) | [Friday](#friday) |
 
 ## Monday
 
-- Final Critiques
+- Final Project Work
 
 ## Wednesday
 
-- Final Critiques
+- Final Project Work
 
 ## Friday
 
-- Open Studios
+- Final Critique at Open Studios
 

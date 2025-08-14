@@ -51,7 +51,7 @@ See this file from the ELEGOO examples: [l10 ultrasonic sensor.pdf](https://gith
 
 And this code: [Lesson 10 Ultrasonic Sensor Module.zip](https://github.com/roberttwomey/unl-digifab/files/10013847/Lesson.10.Ultrasonic.Sensor.Module.zip)
 
-### Bonus Artist: Garnet Hertz
+
 
 
 
@@ -87,8 +87,7 @@ And this code: [Lesson 21 DC Motors.zip](https://github.com/roberttwomey/unl-dig
 Discord or by appointment
 
 
-
-### Artist of the Day 2
+### Bonus Artist: Garnet Hertz
 
 ![image](https://user-images.githubusercontent.com/1598545/202450393-95dcd465-afec-471d-b35c-89b1e6bf95fa.png)
 

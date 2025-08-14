@@ -4,9 +4,9 @@
 
 ## Wednesday
 
-- One on One meetings
 - Be ready to discuss ideas for a final project
-- Write a proposal for the final project. Due Monday morning 12/02 for one-on-one meetings. [https://canvas.unl.edu/courses/185978/assignments/1807042](https://canvas.unl.edu/courses/185978/assignments/1807042)
+- Project 3 Proposal Due. [https://canvas.unl.edu/courses/201726/assignments/2086735](https://canvas.unl.edu/courses/201726/assignments/2086735)
+- Individual consultations during class
 - Use the time to CATCH UP!
 
 ## Reference
