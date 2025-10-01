@@ -65,10 +65,10 @@ A student who successfully completes this course will:
 | 4b | **[Vacuu-Forming and Kitbashing](sessions/week4b.md)** |
 | 5a | **[Inflatables](sessions/week5a.md)** |
 | 5b | **[Work Day](sessions/week5b.md)**
-| 6a | **[Critique Project 1](sessions/week6a.md)**   
-| 6b | **[Intro to 3D Printing](sessions/week6b.md)** | 
-| 7a | **[Desktop Injection Molding](sessions/week7a.md)** |
-| 7b | **[How to Build a Hardwall Flat](sessions/week7b.md)** |
+| 6a | **[Intro to 3D Printing](sessions/week6b.md)**   
+| 6b | **[Desktop Injection Molding;Critique Project 1](sessions/week7a.md)** | 
+| 7a | **[Open Studios Closed; NO CLASS]()** |
+| 7b | **[Novy At Mission Control - Work Day](sessions/week7b.md)** |
 | 8a | **[Novy At Mission Control - Work Day](sessions/week8a.md)** |
 | 8b | **[Novy At Mission Control - Work Day](sessions/week8b.md)** | 
 | 9a | **[Fall Semester Break](sessions/week9a.md)**
@@ -80,7 +80,7 @@ A student who successfully completes this course will:
 | 12a | **[Arduino Analog](sessions/week12a.md)** | 
 | 12b | **[Sensors and Inputs](sessions/week12b.md)** | 
 | 13a | **[Actuators and Outputs](sessions/week13a.md)** |
-| 13b | **[One on One meetings](sessions/week13b.md)** |
+| 13b | **[How to Build a Hardwall Flat](sessions/week7b.md)** |
 | 14a | **[SANITY CHECK](sessions/week14a.md)** |
 | 14b | **[Thanksgiving](sessions/week14b.md)** |
 | 15a | **[Final Project Work](sessions/week15.md#monday)** | 
