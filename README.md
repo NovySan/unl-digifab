@@ -88,6 +88,12 @@ A student who successfully completes this course will:
 | 16c | **[Open Studios at the Carson Center – Final Critique](sessions/week16.md#friday)** |
 | Finals Week| Submit Final Documentation to Canvas and Sketchbook by Friday, December 18, 2026 |
 
+## Live Schedule (Production2026)
+
+*Live view of the full schedule — including machine training and assignments. This embed renders on the course website; it may not display on the github.com repo page.*
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT3JH2et6ZT8Dd3aRJDq9hZCdI_eu3syb7DNP-79VkAsDEX8glswYN6VCyziIpZrGCoZs7G4dGQKhlx/pubhtml?gid=1155642700&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="800" style="border:0;"></iframe>
+
 # Grading
 
 ## Graded activities
