@@ -1,0 +1,13 @@
+# Local MCP server config (may contain project IDs / local credential paths)
+.mcp.json
+
+# Google service-account keys / other secrets — never commit these
+*service-account*.json
+*-key.json
+gcp-*.json
+credentials*.json
+secrets/
+.gcp/
+
+# macOS
+.DS_Store
