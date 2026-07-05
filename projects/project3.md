@@ -38,7 +38,7 @@ You will submit a two paragraph proposal for your idea addressing the following 
   - What elements will be fabricated?
   - How will you document your project? Consider where you will photograph the resulting object? What supporting images wil Where will you document your object?
 
-This written description will be [submitted online to Canvas](https://canvas.unl.edu/courses/201726/assignments/2086734) by Monday, 11/16/26 at 17:30. <!-- UPDATE CANVAS LINK -->
+This written description will be [submitted online to Canvas](https://mynu.instructure.com/courses/14084/assignments/2086734) by Monday, 11/16/26 at 17:30. <!-- UPDATE CANVAS LINK -->
 
 ## Deliverables
 

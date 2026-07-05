@@ -57,7 +57,7 @@ Using the ipad pro with Polycam or Scaniverse or your own device, digitize a rea
 1. Document the scan with screenshots in Rhino.
 2. Document the printed object with photographs. 
 3. Add these materials to your digital sketchbook and upload the new pages as a pdf.
-   - [Canvas Link](https://canvas.unl.edu/courses/185978/assignments/1807035) <!-- UPDATE CANVAS LINK -->
+   - [Canvas Link](https://mynu.instructure.com/courses/14084/assignments/1807035) <!-- UPDATE CANVAS LINK -->
 
 ## Office Hours
 Discord or by appointment

@@ -37,7 +37,7 @@ A student who successfully completes this course will:
 
 # Resources
 - **Discord:[https://discord.com/channels/688079641738608705/1523135576658804866](https://discord.com/channels/688079641738608705/1523135576658804866)**
-- **Canvas:[https://canvas.unl.edu/courses/201726](https://canvas.unl.edu/courses/201726)** <!-- UPDATE FOR NEW SEMESTER: needs Fall 2026 Canvas course link -->
+- **Canvas:[https://mynu.instructure.com/courses/14084](https://mynu.instructure.com/courses/14084)**
 - **[Rhino 3d](https://www.rhino3d.com/)**
 - **[Grasshopper (included in Rhino 7 & 8)](https://www.grasshopper3d.com/)**
 - **[Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura/)**
