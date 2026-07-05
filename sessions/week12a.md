@@ -80,6 +80,8 @@ https://www.arduino.cc/en/Tutorial/LibraryExamples/Sweep
 
 [Project 3 Proposal](https://mynu.instructure.com/courses/14084/assignments/1046864) - DUE 11/16/2026
 
+[Digital Sketchbook - Midterm Check In](https://mynu.instructure.com/courses/14084/assignments/1046845) - DUE 11/09/2026
+
 Finish _Making Things Move_. (Due 11/23/26). Be ready to demo.
 
 
