@@ -12,10 +12,10 @@ This course introduces digital fabrication and physical computing for emerging m
 ## Details
 
 - **Instructor:** Dr. Dan "NovySan" Novy
-- **TA:** Mac O'Brien
+- **TA:**
 - **Class:** M/W 15:00-17:20 (3:00PM-5:20PM) CT
 - **Location:** Nebraska Innovation Studio
-- **Office Hours:** By appointment, Discord, and in person (CEMA 251)
+- **Office Hours:** By appointment, Discord, and in person (CEMA 253)
 
 ## Course objectives
 -	Experiential learning.
@@ -39,15 +39,13 @@ A student who successfully completes this course will:
 - **Discord:[https://discord.com/channels/688079641738608705/1523135576658804866](https://discord.com/channels/688079641738608705/1523135576658804866)**
 - **Canvas:[https://mynu.instructure.com/courses/14084](https://mynu.instructure.com/courses/14084)**
 - **[Rhino 3d](https://www.rhino3d.com/)**
-- **[Grasshopper (included in Rhino 7 & 8)](https://www.grasshopper3d.com/)**
-- **[Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura/)**
+- **[Grasshopper (included in Rhino 8)](https://www.grasshopper3d.com/)**
 - **[Prusa Slicer](https://help.prusa3d.com/downloads)**
-- **[Muse laser cutter in student lounge](https://fslaser.com/laser-101/)**
+- **[Muse laser cutter in student makerspace](https://fslaser.com/laser-101/)**
 - **[Innovation Studio](https://make.unl.edu/)**
 - **[Adafruit](https://www.adafruit.com/)**
 - **[DFRobot](https://www.dfrobot.com/)**
-- **[Arduino Store](https://store.arduino.cc/)**
-- **[UNL EE Shop](http://eeshop.unl.edu/ee_shop_store.html)** a good (local) source for all things electronic. mingle with engineers! you can just walk over there and buy stuff. 
+- **[Arduino Store](https://store.arduino.cc/)** 
 
 
 # Schedule
