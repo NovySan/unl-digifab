@@ -108,6 +108,6 @@ I have these in my office if you'd like to look for project ideas.
 
 ## Homework
 - Make something BIG.
-- Document your work and upload to [Canvas](https://canvas.unl.edu/courses/201726/assignments/2086723)
-- DUE 11/05/2025 (Wednesday 17:30)
-- Work on Project 1 (Due Wednesday 9/29)
+- Document your work and upload to [Canvas](https://canvas.unl.edu/courses/201726/assignments/2086723) <!-- UPDATE CANVAS LINK -->
+- DUE 11/09/2026 (Monday 17:30)
+- Work on Project 1 (Due Monday 9/28)

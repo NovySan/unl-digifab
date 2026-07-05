@@ -12,5 +12,5 @@
 
 ## Friday
 
-- Final Critique at Open Studios
+- Open Studios at the Carson Center – Final Critique (Friday, December 11, 2026)
 

@@ -17,7 +17,7 @@ For this project you should use as many of the 3d design and fabrication techniq
 - Inflatables/Sewing
 - Molding and Casting
 
-We will critique these projects on 10/29/2025 (**two days before Halloween!**)
+We will critique these projects on 10/28/2026 (**three days before Halloween!**)
 
 ![helmets](https://github.com/NovySan/unl-digifab/assets/5796142/83378030-5e36-4759-8504-0f9fdef084e3)
 
@@ -36,7 +36,7 @@ You will submit a two paragraph proposal for your idea addressing the following 
   - What materials will you fabricate your object from? What (if any) surface treatments will you use? What non-digital material/craft processes will you use?
   - How will you document your project? Consider where you will photograph the resulting object? What supporting images wil Where will you document your object?
 
-This written description will be [submitted online to Canvas](https://canvas.unl.edu/courses/201726/assignments/2086732) by Wednesday, October 06, 2025 at 15:00.
+This written description will be [submitted online to Canvas](https://canvas.unl.edu/courses/201726/assignments/2086732) by Monday, October 05, 2026 at 17:30. <!-- UPDATE CANVAS LINK -->
 
 ## Deliverables
 
@@ -52,7 +52,7 @@ This written description will be [submitted online to Canvas](https://canvas.unl
    - any printable files (.stl) 
 
 3. Critique: 
-   - Present both your Object and your documentation for Critique on 10/29.
+   - Present both your Object and your documentation for Critique on 10/28.
 
 ## Helpful References
 [Foamsmith Trilogy](https://www.dropbox.com/sh/2cmurztqzms3s46/AAAARoeCIs4WzxBE_kpWY5CGa?dl=0)

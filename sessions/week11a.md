@@ -50,15 +50,15 @@ You will create a simple servo plus arduino construction with a stationary base 
    - again, do test prints as necessary to check the fit.
 4. Print your designs. 
    - Iterate, if you need to. 
-5. Program a behavior for your design (we will start this next Monday, so bring an ardino, power supply, and potentiometer)
+5. Program a behavior for your design (we will start this next Monday, so bring an Arduino, power supply, and potentiometer)
 6. Document and demonstrate.
 
 **Submission**
 
-1. Document your Rhino design with screenshots. Show perspective views of the object and it's motion. 
+1. Document your Rhino design with screenshots. Show perspective views of the object and its motion. 
 2. Photograph your printed objects and final assembly.
 3. Add this documentation 
-2. Upload to Canvas (due 11/24/25): [https://canvas.unl.edu/courses/201726/assignments/2086729](https://canvas.unl.edu/courses/201726/assignments/2086729)
+2. Upload to Canvas (due 11/23/26): [https://canvas.unl.edu/courses/201726/assignments/2086729](https://canvas.unl.edu/courses/201726/assignments/2086729) <!-- UPDATE CANVAS LINK -->
 
 ## Office Hours
 

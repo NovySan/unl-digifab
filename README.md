@@ -1,4 +1,4 @@
-# EMAR 246: Digital Fabrication and Physical Computing - Fall 2025
+# EMAR 246: Digital Fabrication and Physical Computing - Fall 2026
 
 [Description](#description) | [Resources](#resources) | [Schedule](#schedule) | [Grading](#grading) | [Policies](#policies) | [References](#references)
 
@@ -7,7 +7,7 @@
 
 # Description
 
-This course introduces digital fabrication and physical computing for emerging media arts. We cover 3d modeling and computer aided design; 3d scanning and photogrammetry; rapid prototyping and digital fabrication; sensors, actuators, and embedded microcontrollers; creating workflows that move from analog to digital to analog. We explore these techniques through arts topics including wearable technologies, mechatronic automation, and approaches including Systems Art, Generative Art, Cybernetic Art and more. Class activities are contextualized through the history of emerging technology and media arts practice.
+This course introduces digital fabrication and physical computing for emerging media arts. We cover 3d modeling and computer aided design; 3d scanning and photogrammetry; rapid prototyping and digital fabrication; sensors, actuators, and embedded microcontrollers; creating workflows that move from analog to digital to analog. We explore these techniques through arts topics including wearable technologies, mechatronic automation, and approaches including Systems Art, Generative Art, Cybernetic Art and more. Class activities are contextualized through the history of emerging technology and media arts practice. Each session begins with hands-on equipment training at Nebraska Innovation Studio, followed by lecture and demonstration.
 
 ## Details
 
@@ -33,11 +33,11 @@ A student who successfully completes this course will:
 -	Demonstrate a satisfactory ability to critique and engage in a discussion about creative work employing digital fabrication and hardware-based interaction.
 -	Be able to think critically about computer-aided design and fabrication methods and relate them to historical art methods.
 
-**Prequisites:** Major in Emerging Media Arts and successful completion of EMAR161 Computational Media Studio II, or permission of instructor.
+**Prerequisites:** Major in Emerging Media Arts and successful completion of EMAR161 Computational Media Studio II, or permission of instructor.
 
 # Resources
-- **Discord:[https://discord.com/channels/688079641738608705/1404279272306118687](https://discord.com/channels/688079641738608705/1404279272306118687)**
-- **Canvas:[https://canvas.unl.edu/courses/201726](https://canvas.unl.edu/courses/201726)**
+- **Discord:[https://discord.com/channels/688079641738608705/1404279272306118687](https://discord.com/channels/688079641738608705/1404279272306118687)** <!-- UPDATE FOR NEW SEMESTER: needs Fall 2026 Discord channel link -->
+- **Canvas:[https://canvas.unl.edu/courses/201726](https://canvas.unl.edu/courses/201726)** <!-- UPDATE FOR NEW SEMESTER: needs Fall 2026 Canvas course link -->
 - **[Rhino 3d](https://www.rhino3d.com/)**
 - **[Grasshopper (included in Rhino 7 & 8)](https://www.grasshopper3d.com/)**
 - **[Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura/)**
@@ -57,38 +57,38 @@ A student who successfully completes this course will:
 |------|-------|
 | 1a | **[Intro and Overview](sessions/week1.md#monday)** Course Policies; Install Rhino; Rhino basics; Sign up for Discord |
 | 1b | **[Laser Cutter](sessions/week1.md#wednesday)** More Rhino basics; 2D Drawing; Exercise: Stencil and Digital Notebook |
-| 2a | **[Labour Day - No In-Person Classes]**
-| 2b | **[Tab and Slot](sessions/week2.md#wednesday)**|
-| 3a | **[Laser to 3D: Stacked Contours](sessions/week3a.md)** 
-| 3b | **[Meshs and Contour Extraction](sessions/week3b.md)** |
-| 4a | **[Molding and Casting](sessions/week4a.md)** |
-| 4b | **[Vacuu-Forming and Kitbashing](sessions/week4b.md)** |
-| 5a | **[Inflatables](sessions/week5a.md)** |
-| 5b | **[Work Day](sessions/week5b.md)**
-| 6a | **[Intro to 3D Printing](sessions/week6b.md)**   
-| 6b | **[Desktop Injection Molding;Critique Project 1](sessions/week7a.md)** | 
-| 7a | **[Open Studios Closed; NO CLASS]()** |
-| 7b | **[Novy At Mission Control - Work Day](sessions/week7b.md)** |
-| 8a | **[Novy At Mission Control - Work Day](sessions/week8a.md)** |
-| 8b | **[Novy At Mission Control - Work Day](sessions/week8b.md)** | 
-| 9a | **[Fall Semester Break](sessions/week9a.md)**
-| 9b | **[Novy At Mission Control - Work Day](sessions/week9b.md)**
-| 10a | **[Novy At Mission Control - Work Day](sessions/week10a.md)** |
-| 10b | **[Critique Project 2](sessions/week10b.md)** | 
-| 11a | **[Making Things Move 1](sessions/week11a.md)** | 
-| 11b | **[Making Things Move 2](sessions/week11b.md)** | 
-| 12a | **[Arduino Analog](sessions/week12a.md)** | 
-| 12b | **[Sensors and Inputs](sessions/week12b.md)** | 
+| 2a | **[Tab and Slot](sessions/week2a.md)** |
+| 2b | **[Laser to 3D: Stacked Contours](sessions/week2b.md)** |
+| 3a | **[Labor Day - No Class](sessions/week3a.md)** |
+| 3b | **[Mesh Creation and Contour Extraction](sessions/week3b.md)** |
+| 4a | **[Shopbot and Large CNC](sessions/week4a.md)** |
+| 4b | **[Molding and Casting](sessions/week4b.md)** |
+| 5a | **[Vacuum-Forming and Kitbashing](sessions/week5a.md)** |
+| 5b | **[Work Day](sessions/week5b.md)** |
+| 6a | **[Intro to 3D Printing](sessions/week6a.md)** |
+| 6b | **[Desktop Injection Molding; Critique Project 1](sessions/week6b.md)** |
+| 7a | **[Formlabs & Stratasys Hands-On](sessions/week7a.md)** |
+| 7b | **[Inflatables](sessions/week7b.md)** |
+| 8a | **[Digitizing Objects: 3D Scanning and Photogrammetry](sessions/week8a.md)** |
+| 8b | **[Scanning Spaces](sessions/week8b.md)** |
+| 9a | **[Fall Break - No Class](sessions/week9a.md)** |
+| 9b | **[Work Day - Halloween project build](sessions/week9b.md)** |
+| 10a | **[Work Day - final build push](sessions/week10a.md)** |
+| 10b | **[Critique Project 2](sessions/week10b.md)** |
+| 11a | **[Making Things Move](sessions/week11a.md)** |
+| 11b | **[Making Things Move II](sessions/week11b.md)** |
+| 12a | **[Arduino Analog](sessions/week12a.md)** |
+| 12b | **[Sensors and Inputs](sessions/week12b.md)** |
 | 13a | **[Actuators and Outputs](sessions/week13a.md)** |
-| 13b | **[How to Build a Hardwall Flat](sessions/week7b.md)** |
+| 13b | **[How to Build a Hardwall Flat](sessions/week13b.md)** |
 | 14a | **[SANITY CHECK](sessions/week14a.md)** |
-| 14b | **[Thanksgiving](sessions/week14b.md)** |
-| 15a | **[Final Project Work](sessions/week15.md#monday)** | 
-| 15b | **[Final Project Work](sessions/week15.md#wednesday)**|
-| 16a | **[Final Project Work](sessions/week16.md#monday)** | 
+| 14b | **[Thanksgiving - No Class](sessions/week14b.md)** |
+| 15a | **[Final Project Work](sessions/week15.md#monday)** |
+| 15b | **[Final Project Work](sessions/week15.md#wednesday)** |
+| 16a | **[Final Project Work](sessions/week16.md#monday)** |
 | 16b | **[Final Project Work](sessions/week16.md#wednesday)** |
-| 16c | **[Obligatory Open Studios - 12/12/25]()** |
-| Finals Week| Submit Final Documentation to Canvas and Sketchbook |
+| 16c | **[Open Studios at the Carson Center – Final Critique](sessions/week16.md#friday)** |
+| Finals Week| Submit Final Documentation to Canvas and Sketchbook by Friday, December 18, 2026 |
 
 # Grading
 

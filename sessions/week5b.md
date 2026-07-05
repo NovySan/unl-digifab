@@ -20,12 +20,12 @@ Lawrence Malstaf
 - [Portfolio website](https://www.lawrencemalstaf.com/work/)
 
 ## Work Day
-Keep working on Project 1 (due Monday, 9/29)
+Keep working on Project 1 (due Monday, 9/28)
 
 ## Material Testing Methods
 
 - When you first work with a new material, you want to determine what settings work best for cutting and engraving. 
-- As a starting point, you can begin with [the suggested settings for common materials](week2.html#power-settings).
+- As a starting point, you can begin with [the suggested settings for common materials](week2a.html#power-settings).
 - Typically you might produce a small shape (square, or text) which you can run multiple times with different settings for the 
 - Full Spectrum Laser (who manufactures our laser) has some material test files we can try: [https://fslaser.com/material-test/](https://fslaser.com/material-test/)
 
@@ -33,7 +33,7 @@ Keep working on Project 1 (due Monday, 9/29)
 
 Acrylic is the most common plastic sheet good that we might cut with the laser cutter. 
 - We can vector cut, vector engrave, or raster engrave acrylic very successfully.
-- When you first get a new sheet of acrylic, determine what thickness it is (calipers): [measuring thickness](week2.html#measuring-thickness)
+- When you first get a new sheet of acrylic, determine what thickness it is (calipers): [measuring thickness](week2a.html#measuring-thickness)
 - Run some material tests to find speed, power, and current settings.
 
 ### Plastic Suppliers

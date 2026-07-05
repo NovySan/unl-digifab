@@ -78,9 +78,9 @@ https://www.arduino.cc/en/Tutorial/LibraryExamples/Sweep
 
 ## Homework
 
-[Project 3 Proposal](https://canvas.unl.edu/courses/201726/assignments/2086735) - DUE 11/17/2025
+[Project 3 Proposal](https://canvas.unl.edu/courses/201726/assignments/2086735) - DUE 11/16/2026 <!-- UPDATE CANVAS LINK -->
 
-Finish _Making Things Move_. (Due 11/24/25). Be ready to demo.
+Finish _Making Things Move_. (Due 11/23/26). Be ready to demo.
 
 
 

@@ -20,7 +20,7 @@ You will also need to use your Arduino (or other) and some combination of sensor
 
 Your project needs to have some meaningful behavior, whether preprogrammed, or in response to sensor/user input or interaction.  
 
-We will present all your work at Open Studios.
+We will present all your work at Open Studios at the Carson Center on **Friday, December 11, 2026**.
 
 ## Proposal
 
@@ -38,7 +38,7 @@ You will submit a two paragraph proposal for your idea addressing the following 
   - What elements will be fabricated?
   - How will you document your project? Consider where you will photograph the resulting object? What supporting images wil Where will you document your object?
 
-This written description will be [submitted online to Canvas](https://canvas.unl.edu/courses/201726/assignments/2086734) by Monday, 11/17/25 at 15:00.
+This written description will be [submitted online to Canvas](https://canvas.unl.edu/courses/201726/assignments/2086734) by Monday, 11/16/26 at 17:30. <!-- UPDATE CANVAS LINK -->
 
 ## Deliverables
 
@@ -48,5 +48,6 @@ This written description will be [submitted online to Canvas](https://canvas.unl
    - Rhino Models (.3dm)
    - Printable file (.stl) 
    - Documentation (photographs)
+   - **Final documentation due Friday, December 18, 2026 at 11:00pm (finals week) to Canvas.**
 2. Critique: 
-   - Present both your Object and your documentation for Critique.
+   - Present both your Object and your documentation for Critique at Open Studios, Carson Center, **Friday, December 11, 2026**.
