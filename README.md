@@ -36,7 +36,7 @@ A student who successfully completes this course will:
 **Prerequisites:** Major in Emerging Media Arts and successful completion of EMAR161 Computational Media Studio II, or permission of instructor.
 
 # Resources
-- **Discord:[https://discord.com/channels/688079641738608705/1404279272306118687](https://discord.com/channels/688079641738608705/1404279272306118687)** <!-- UPDATE FOR NEW SEMESTER: needs Fall 2026 Discord channel link -->
+- **Discord:[https://discord.com/channels/688079641738608705/1523135576658804866](https://discord.com/channels/688079641738608705/1523135576658804866)**
 - **Canvas:[https://canvas.unl.edu/courses/201726](https://canvas.unl.edu/courses/201726)** <!-- UPDATE FOR NEW SEMESTER: needs Fall 2026 Canvas course link -->
 - **[Rhino 3d](https://www.rhino3d.com/)**
 - **[Grasshopper (included in Rhino 7 & 8)](https://www.grasshopper3d.com/)**
