@@ -42,7 +42,7 @@ This written description will be [submitted online to Canvas](https://mynu.instr
 
 1. Proposal: 
    - Written proposal submitted to Canvas. 
-2. Final Project Submission:  
+2. Final Project Submission (due Monday, November 02, 2026 at 14:00 to Canvas):  
    - Add the following to your digital sketchbook and submit:
      - Written Project Description (update your written proposal once you are done with the project, this is your project description)
      - Documentation of 3d modeling (rhino captures)
