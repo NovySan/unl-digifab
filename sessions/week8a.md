@@ -10,7 +10,6 @@
 - [3D Scans in Rhino](#3d-scans-in-rhino)
   - Rhino for 3DP
   - Bonus: Meshmixer
-- [Homework](#homework)
 - [Office Hours this Week](#office-hours)
 
 ## Artec Eva Scaniverse Polycam Training
@@ -40,24 +39,6 @@ Paul McCarthy
 ### 3D Scans in Rhino
 - Really just working with Meshes. 
 
-
-### Homework
-
-**Scan Big Print Small**
-
-Using the ipad pro with Polycam or Scaniverse or your own device, digitize a real world object. Think big: the rear camera LIDAR is best body to room scale. Photogrammetry is ok for a range of sizes. Here we will play with scale:
-
-1. Scan something big
-2. Share the mesh with yourself (AirDrop, email, or some other means to get it off of the iPad)
-3. Clean up the mesh in Rhino. 
-4. Print it at (small) scale (< 3x3x3")
-
-**Submission**
-
-1. Document the scan with screenshots in Rhino.
-2. Document the printed object with photographs. 
-3. Add these materials to your digital sketchbook and upload the new pages as a pdf.
-   - [Canvas Link](https://mynu.instructure.com/courses/14084/assignments/1807035) <!-- UPDATE CANVAS LINK -->
 
 ## Office Hours
 Discord or by appointment

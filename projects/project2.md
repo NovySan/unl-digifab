@@ -36,7 +36,7 @@ You will submit a two paragraph proposal for your idea addressing the following 
   - What materials will you fabricate your object from? What (if any) surface treatments will you use? What non-digital material/craft processes will you use?
   - How will you document your project? Consider where you will photograph the resulting object? What supporting images wil Where will you document your object?
 
-This written description will be [submitted online to Canvas](https://mynu.instructure.com/courses/14084/assignments/2086732) by Monday, October 05, 2026 at 17:30. <!-- UPDATE CANVAS LINK -->
+This written description will be [submitted online to Canvas](https://mynu.instructure.com/courses/14084/assignments/1046862) by Monday, October 05, 2026 at 17:30.
 
 ## Deliverables
 

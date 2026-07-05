@@ -55,5 +55,5 @@ Workflow:
 - Draw a series of contours (curves, lines–line art) which you will then stack into 3 dimensions. 
 - Assemble these in 3d. 
 - Document your resultant assemblage with a number of screenshots (3 minimum). 
-- Upload your Rhino File and screen shots to Canvas: [https://mynu.instructure.com/courses/14084/assignments/2086722](https://mynu.instructure.com/courses/14084/assignments/2086722). <!-- UPDATE CANVAS LINK -->
+- Upload your Rhino File and screen shots to Canvas: [https://mynu.instructure.com/courses/14084/assignments/1046851](https://mynu.instructure.com/courses/14084/assignments/1046851).
 - DUE 09/14/2026 (Monday 17:30)

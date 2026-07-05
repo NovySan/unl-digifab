@@ -80,7 +80,7 @@ You are going to combine a 3d scanned object with a base and text to make a smal
 
 ### Submission
 - Add documentation of this (screenshots of rhino, screenshot of the slicer, and photo of your printed object) to your digital sketchbook. 
-- Submit a pdf of these pages from the digital sketchbook to [Canvas](https://mynu.instructure.com/courses/14084/assignments/2086725). <!-- UPDATE CANVAS LINK -->
+- Submit a pdf of these pages from the digital sketchbook to [Canvas](https://mynu.instructure.com/courses/14084/assignments/1046854).
 - DUE: Monday 10/12/26 at 17:30.
 
 

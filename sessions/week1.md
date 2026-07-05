@@ -179,8 +179,8 @@ Please share your discord handle here (so I can add you to our digifab group): [
 ## Homework
 - [Exercise 1 - Laser Cut Stencil](../exercises/ex1.md)
   - DUE Wednesday 9/2. 
-- Create a [Digital Sketchbook](https://mynu.instructure.com/courses/14084/assignments/2086716) and add images/description of this project. <!-- UPDATE CANVAS LINK -->
-  - DUE Wednesday 9/2. Submit your link on [Canvas](https://mynu.instructure.com/courses/14084/assignments/2086716). <!-- UPDATE CANVAS LINK -->
+- Create a [Digital Sketchbook](https://mynu.instructure.com/courses/14084/assignments/1046844) and add images/description of this project.
+  - DUE Wednesday 9/2. Submit your link on [Canvas](https://mynu.instructure.com/courses/14084/assignments/1046844).
 
 ## References
 - [Rhino Learn](https://www.rhino3d.com/learn/?keyword=kind:%20rhino_win) video tutorials
