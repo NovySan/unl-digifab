@@ -14,8 +14,9 @@ Use the 2D drawing commands in Rhinoceros (lines, curves, etc.), design a stenci
 # Submission
 
 - Export your image as an SVG. 
-- Submit your Rhino file and SVG file to Canvas
+- Submit your Rhino file **AND** SVG file to Canvas
   - use the naming convention _ex1_Lastname.svg_ and _ex1_Lastname.3dm_ for the files.
+- Submit an picture of the ACTUAL CARD YOU CUT on the lasercutter.
 - DUE by 17:30 (5:30pm), 9/2 (Wednesday) to Canvas [https://mynu.instructure.com/courses/14084/assignments/1046848](https://mynu.instructure.com/courses/14084/assignments/1046848)
 
 # References
