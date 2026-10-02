@@ -65,10 +65,10 @@ A student who successfully completes this course will:
 | 5b | **[Work Day](sessions/week5b.md)** |
 | 6a | **[Intro to 3D Printing](sessions/week6a.md)** |
 | 6b | **[Desktop Injection Molding; Critique Project 1](sessions/week6b.md)** |
-| 7a | **[Formlabs & Stratasys Hands-On](sessions/week7a.md)** |
-| 7b | **[Inflatables](sessions/week7b.md)** |
-| 8a | **[Digitizing Objects: 3D Scanning and Photogrammetry](sessions/week8a.md)** |
-| 8b | **[Scanning Spaces](sessions/week8b.md)** |
+| 7a | **[Inflatables](sessions/week7b.md)** |
+| 7b | **[Digitizing Objects: 3D Scanning and Photogrammetry](sessions/week8a.md)** |
+| 8a | **[Gaussian Splatting: 3D Scanning and Photogrammetry](sessions/week8b.md)** |
+| 8b | **[TBD]** |
 | 9a | **[Fall Break - No Class](sessions/week9a.md)** |
 | 9b | **[Work Day - Halloween project build](sessions/week9b.md)** |
 | 10a | **[Work Day - final build push](sessions/week10a.md)** |
