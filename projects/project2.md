@@ -17,7 +17,7 @@ For this project you should use as many of the 3d design and fabrication techniq
 - Inflatables/Sewing
 - Molding and Casting
 
-We will critique these projects on 10/28/2026 (**three days before Halloween!**)
+We will critique these projects on 11/02/2026 
 
 ![helmets](https://github.com/NovySan/unl-digifab/assets/5796142/83378030-5e36-4759-8504-0f9fdef084e3)
 
@@ -52,7 +52,7 @@ This written description will be [submitted online to Canvas](https://mynu.instr
    - any printable files (.stl) 
 
 3. Critique: 
-   - Present both your Object and your documentation for Critique on 10/28.
+   - Present both your Object and your documentation for Critique on 11/02.
 
 ## Helpful References
 [Foamsmith Trilogy](https://www.dropbox.com/sh/2cmurztqzms3s46/AAAARoeCIs4WzxBE_kpWY5CGa?dl=0)
